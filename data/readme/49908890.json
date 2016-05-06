@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552714, 
+  "description": "Implementations of an Annotation Graph API for linguistic annotations.", 
+  "README.md": "# nzilbb.ag\n\nImplementations of an Annotation Graph API for linguistic annotations.\n\nAnnotation Graphs are a data structure conceived by Steven Bird and Mark Liberman:\n(http://lanl.arxiv.org/abs/cs/9907003)\n(http://xxx.lanl.gov/PS_cache/cs/pdf/9903/9903003v1.pdf)\n\nThe structure is designed to be a tool-independent way of representing annotated linguistic data,\nand essentially defines an Annotation Graph as a directed acyclic graph where:\n * nodes are 'anchors' that represent a point in time (in seconds) or a point in a text (in characters) (although the time/character offset label is optional), and\n * edges are 'annotations' which have a 'label' (the content of the annotation) and a 'type' (the kind of annotation, analogous with an 'tier' or 'layer')\n\nThis particular implementation, which is used for [LaBB-CAT](https://labbcat.canterbury.ac.nz), \ndeveloped by the [NZILBB](http://www.nzilbb.canterbury.ac.nz),\nincludes extra features that allow tier hierarchies and parent/child constraints to be defined.\n\n", 
+  "id": 49908890
+}

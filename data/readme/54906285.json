@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555099, 
+  "description": "A parallel approach to the problem of answering shortest path queries.", 
+  "README.md": "# Parallel Pruned Landmark Labeling\nA parallel approach to the problem of answering shortest path queries in unit-weighted networks. \n\nThis approach expands the research done in:\nhttp://arxiv.org/pdf/1304.4661.pdf\n\nThe implementation of the paper:\nhttps://github.com/iwiwi/pruned-landmark-labeling\n\n", 
+  "id": 54906285
+}

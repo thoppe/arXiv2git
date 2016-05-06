@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552397, 
+  "description": "a implementation of spatial transformer network", 
+  "README.md": "# Spatial_Transformer_Network\n\na implementation of spatial transformer network.\n\n## spatial transformer network\nhttp://arxiv.org/abs/1506.02025v2\n\n### Localization net\n- A.3 Distorted MNIST Details on the paper.\n", 
+  "id": 50274175
+}

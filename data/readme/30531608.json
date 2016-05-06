@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551988, 
+  "description": "Master thesis", 
+  "README.md": "### Master thesis\n##### Title:\nPrincipal sensitivity analysis and its application to knowledge discovery in functional neuroimaging\n\n##### Author:\nSotetsu Koyamada\n\n##### Date:\nFeb, 2015\n\n##### Affiliation:\nGraduate School of Informatics, Kyoto University\n\n##### Special thanks to:\nProf. Shin Ishii, Dr. Masanori Koyama, Dr. Ken Nakae and Ms. Yumi Shikauchi\n\n##### Publication list\n1. S. Koyamada, Y. Shikauchi, K. Nakae, S. Ishii. \"Construction of subject-independent brain becoders for human fMRI with deep learning.\" The International Conference on Data Mining, Internet Computing, and Big Data, 60-68, 2014.\n2. S. Koyamada, M. Koyama, K. Nakae, S. Ishii. \"Principal sensitivity analysis.\" The Pacific-Asia Conference on Knowledge Discovery and Data Mining, 621-632, 2015.\n3. S. Koyamada, Y. Shikauchi, K. Nakae, M. Koyama, S. Ishii. \"Sensitivity analysis of neural network based subject-transfer decoder on fMRI big data.\" arXiv preprint arXiv:1502.00093 (submitted).\n", 
+  "id": 30531608
+}

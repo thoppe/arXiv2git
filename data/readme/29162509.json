@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551800, 
+  "description": "", 
+  "readme.md": "# About\nThis is an implementation of parts of the paper:  \nKinodynamic RRT*: Optimal Motion Planning for Systems with Linear Differential Constraints  \nby Dustin J. Webb and Jur van den Berg  \n[PDF](arxiv.org/pdf/1205.5088)\n\nIf you use the code then I'm sure the authors would appreciate a citation:\n```\n@article{DBLP:journals/corr/abs-1205-5088,\n    author    = {Dustin J. Webb and Jur van den Berg},\n    title     = {Kinodynamic RRT*: Optimal Motion Planning for Systems with Linear Differential Constraints},\n    journal   = {CoRR},\n    volume    = {abs/1205.5088},\n    year      = {2012},\n    url       = { http://arxiv.org/abs/1205.5088 },\n}\n```\n    \n# Limitations\n* This implementation does not (currently) solve systems where the matrix A is not nilpotent (see the paper for details).\n* The search radius is not decreased with each iteration (see section V) \n\n# Demos\n## A 2D double integrator\nrun it using `rrt_double_int_2d.m`\n## A quadcopter model with obstacles\nuse `rrt_quad_test.m` to run it  \nwaypoints are currently not used (only displayed)  \nobstacles are rows of 6 values:  \n`(center_x, center_y, center_z, width, length, height)`  \ne.g.\n```\nobstacles = [-1,20,-2,   0.5,4,4;\n             -3,15,-3.5, 0.5,6,1];\n```", 
+  "id": 29162509
+}

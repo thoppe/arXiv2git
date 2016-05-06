@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549829, 
+  "description": "A simple Java program to illustrate the Vortex order", 
+  "README.md": "SimpleVortex\n============\n\nA simple Java program to illustrate the Vortex order\n\nReference: \n\nDaniel Lemire, Owen Kaser, Eduardo Gutarra, Reordering Rows for Better Compression: Beyond the Lexicographic Order, ACM Transactions on Database Systems 37 (3), 2012. \nhttp://arxiv.org/abs/1207.2189\n", 
+  "id": 12931337
+}

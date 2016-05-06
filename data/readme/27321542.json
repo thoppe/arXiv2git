@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553789, 
+  "description": "Fitting of a line with errors in two dimensions", 
+  "README.md": "Bayesian linefitting code following Hogg, Bovy and Lang 2010.\n\nread it at http://arxiv.org/abs/1008.4686\n", 
+  "id": 27321542
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552548, 
+  "description": "VU Science 2.0 WS15/16", 
+  "README.md": "VU Science 2.0\n==============================\n\nThe course introduces in the idea of Open Science and Science 2.0 and requires an analysis with altmetrics and twitter data with a short paper at the end. \n\n- Lecturer(s): Elisabeth Lex\n- Semester: Wintersemester 2015/2016\n- Language: English\n- [Webpage](http://kti.tugraz.at/staff/elex/courses/science20/index.html) \n\n**Used Software**\n- iPython\n- R + RStudio\n\t- aRxiv\n\t- rAltmetric\n\n**Used Data**\nOpen Data from following data repositories were used:\n- [#altmetrics14 twitter collection](http://figshare.com/articles/An_altmetrics14_Twitter_Archive/1151577) (CC BY)\n\n## STRUCTURE\n- [README.md](README.md): Overview of repository\n", 
+  "id": 50025091
+}

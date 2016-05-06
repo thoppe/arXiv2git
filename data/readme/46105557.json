@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554535, 
+  "description": "Circle packing problem through ADMM optimization algorithm.", 
+  "README.md": "Circle Packing Problem through ADMM Algorithm\n=============================================\n\nWe provide a simple implementation of the Alternating Direction Method\nof Multipliers (ADMM) algorithm to solve convex optimization problems.\n\nWe apply this algorithm to the circle packing problem \n(https://en.wikipedia.org/wiki/Circle_packing). The goal is to\nfit equal radius circles, without overlap, into a box. \nThe ADMM algorithm can be easily parallelized. \nA distributed implementation was provided in \nhttp://arxiv.org/abs/1305.1961.\n\n\nDescription\n-----------\n\nWe solve\n\n    minimize 1\n    subject to (x_i - x_j)^2 + (y_i - y_j)^2 > 4R^2, R <= x_i, y_i <= L - R\n               for i, j = 1, 2, ..., N.\n\nHere R is the radius of the balls and L the size of a square box.\n\n\nSimulations\n-----------\n\nCheck the results of the simulation runned by this code in the following\nlinks:\n\nhttps://github.com/guisf/circle_packing/tree/master/videos/4balls.mp4\n\nhttps://github.com/guisf/circle_packing/tree/master/videos/15balls.mp4\n\nhttps://github.com/guisf/circle_packing/tree/master/videos/23balls.mp4\n\n", 
+  "id": 46105557
+}

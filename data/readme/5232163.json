@@ -1,0 +1,6 @@
+{
+  "id": 5232163, 
+  "read_at": 1462551186, 
+  "README.rst": "MBIS\n====\n\nAn open source multivariate statistical n-classes clustering tool including graph-cuts optimization with specialization to brain imaging\n\n.. image:: https://zenodo.org/badge/doi/10.5281/zenodo.14884.svg\n  :target: http://dx.doi.org/10.5281/zenodo.14884\n\n\nWorks using MBIS should cite [Esteban2014]_:\n\n.. [Esteban2014] Esteban et al., MBIS: Multivariate Bayesian Image Segmentation tool, \n  Comp Meth Prog Biomed 115(2):76-94, 2014. doi: `10.1016/j.cmpb.2014.03.003\n  <http://dx.doi.org/10.1016/j.cmpb.2014.03.003>`_\n\nA preprint of the paper is available here: http://arxiv.org/abs/1404.0600\n", 
+  "description": "An open source multivariate statistical n-classes clustering tool including graph-cuts optimization with specialization to brain imaging"
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552591, 
+  "description": "LIONESS function for R", 
+  "README.md": "# LIONESSR\nLIONESS function for R\n\nLIONESS, or Linear Interpolation to Obtain Network Estimates for Single Samples, can be used to reconstruct single-sample networks (http://arxiv.org/pdf/1505.06440.pdf). This code implements the LIONESS equation in the \"lioness\" function in R to reconstruct single-sample Pearson correlation networks. It can be easily adapted to work with other network reconstruction algorithms by changing the function \"netFun\". It works with both unipartite and bipartite networks. \"netFun_bipartite.R\" is a \"toy\" bipartite network reconstruction algorithm.\n", 
+  "id": 50695848
+}

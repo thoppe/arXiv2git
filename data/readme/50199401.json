@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552725, 
+  "description": "", 
+  "README.md": "# gMark\n\n**To generate graph instances and query workloads using a graph configuration:**\n\n    cd src\n    make\n    ./test -c ../use-cases/test.xml -g ../graph.txt -w ../xml/queries.xml -s\n\nwhere the parameters are:\n- -c : the configuration file\n- -q : the output file for the graph instance\n- -w : the output file for the queries generated on this instance\n- -s : to enforce selectivity estimation on binary queries\n\nThe provided configuration file *use-cases/test.xml* encodes the schema of a bibliographical graph database.\n\n**To translate the generated queries from the internal XML encoding to the concrete query languages:**\n(suppose we are currently in src)\n\n    cd querytranslate\n    make\n    ./test\n\nThis will read the file \n\n\t../../xml/queries.xml\n\nand translate the queries from there in four files: \n\n- a.sql \n- a.sparql\n- a.cypher\n- a.logicblox\n\nThe file *xml/queries-examples.xml* illustrates our XML encoding of UCRPQ.\n\n**For more details about the gMark project, please refer to our technical report:\nhttp://arxiv.org/abs/1511.08386**\n", 
+  "id": 50199401
+}

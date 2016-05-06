@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553881, 
+  "description": "Project developed during Data Mining Course at AGH University of Science And Technology", 
+  "README.md": "Data mining and Network Analysis: Arxiv\n======================================\n\nDescription\n-----------\n\nProject developed during Data Mining Course at AGH University of Science And Technology.\n\n- [data mining and graph formation](documentation/data_mining_and_graph_creation.md)\n- [entire coauthorship graph analysis](documentation/analysis_total_graph.md)\n- [grouped coauthorship graphs analysis](documentation/analysis_grouped_graphs.md)\n- [single coauthorship graphs analysis](documentation/analysis_single_graphs.md)\n\n\nProject members\n---------------\n\nMichal Drzal, BSc AGH University of Science and Technology\n\nMarcin Pasko, BSc AGH University of Science and Technology\n\n\nProject supervisor\n------------------\nAnna Zygmunt, PhD at AGH University of Science and Technology\n\n\n", 
+  "id": 26511104
+}

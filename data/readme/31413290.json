@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551973, 
+  "description": "Computation of line bundle cohomology for toric varieties using the \u010cech complex", 
+  "README.md": "Cohomology for line bundles on toric varieties\n==============================================\n\nCode used in [arXiv:1003:5337](http://arxiv.org/abs/1003.5337) for the\ncomputation of line bundle cohomology on toric varieties using Cech\ncohomology.\n\nFor more details and usage instructions see\n[here](https://www.mpp.mpg.de/~inaki/cech.html).\n\nNote that more efficient and sofisticated algorithms exist in the\ncontext of toric varieties, for an efficient implementation of these\nsee for instance\n[cohomCalg](http://wwwth.mpp.mpg.de/members/bjurke/cohomcalg/), or the\nimplementation in [SAGE](http://sagemath.org).\n", 
+  "id": 31413290
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555078, 
+  "description": "randomized algorithms for matrix factorization", 
+  "README.md": "# matrix-factorization-algorithms\nrandomized algorithms for matrix factorization\nIn data analysis problems, specifically image recognition problems, different low-rank approximation plays a huge part in computational speed and accuracy.\nThe following code tests randomized algorithms for matrix factorization based on http://arxiv.org/pdf/0909.4061v2.pdf\n", 
+  "id": 55119407
+}

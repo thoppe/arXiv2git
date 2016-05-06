@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551522, 
+  "description": "Source code for https://arxiv.org/abs/1405.7698", 
+  "README.md": "The paper can be compiled simply by running `make` in the top directory. This\nuses [revtex] [1] and [latexmk] [2]. All other LaTeX packages needed such as\n[cleveref] [3] and [tikz] [4] are listed in `preamble.tex`.\n\nEvery figure in the paper except for `stix.pdf` is produced by a corresponding\nPython script. The required Python libraries such as [numpy] [5], [cython] [6],\nand [matplotlib] [7] are listed in `python/requirements.txt`.\n\n[1]: https://journals.aps.org/revtex  \"REVTeX\"\n[2]: http://www.ctan.org/pkg/latexmk/ \"latexmk\"\n[3]: http://www.ctan.org/pkg/cleveref \"cleveref\"\n[4]: http://www.texample.net/tikz/    \"TikZ\"\n[5]: http://www.numpy.org/            \"NumPy\"\n[6]: http://cython.org/               \"Cython\"\n[7]: http://matplotlib.org/           \"matplotlib\"\n", 
+  "id": 28712702
+}

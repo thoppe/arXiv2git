@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553642, 
+  "description": null, 
+  "README.md": "##Knowledge diffusion effects of patents\n\n*Nathan Goldschlag*\n\n*August 26, 2014*\n\n*Version 1.0*\n\n\nThe python files in this repository are used to gather and analyze textual data on both academic abstracts and patents. \n\nThe order of execution is as follows:\n\n1. diffusion_gen_data.py \n  * Scrapes abstract data from Nature Biotechnology and arXiv, finds top patents by citations and extracts patent abstracts\n2. diffuion_run_sim.py\n  * Calculates longest common subsequence similarity of each patent to each abstract for biotech, ai, and the test case ai paper\n3. diffusion_analysis.py\n  * Runs regression analysis on similarity measures and preps csv files for plotting\n4. diffuion_plots.ipynnb\n  * Generates descriptive statistics and plots\n\n\nLicense: This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version. Included libraries are subject to their own licenses.\n", 
+  "id": 17964563
+}

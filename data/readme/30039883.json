@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551645, 
+  "description": "", 
+  "README.md": "Model-based Reinforcement Learning and the Eluder Dimension\n==========================\n*Ian Osband and Ben Van Roy*\n\nNIPS 2014 accepted for poster presentation.\n\n- [NIPS paper](http://papers.nips.cc/paper/5245-model-based-reinforcement-learning-and-the-eluder-dimension.pdf)\n- [arXiv link](http://arxiv.org/abs/1406.1853)\n\n\nA git repository to manage the paper submission/revision process.\n\n## Organization\n\n- `initial/` - the initial submissions for review.\n- `presentation/` - posters/slideshows for presentation.\n- `responses/` - notes on reviews/response for NIPS.\n- `submission/` - keep the final pdf formats for camera-ready.\n- `writeup/` - source .tex and place the write the paper\n\n", 
+  "id": 30039883
+}

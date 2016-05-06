@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553590, 
+  "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  gamlr\u00a0\u2014\u00a0Gamma\u00a0Lasso\u00a0Regression.\u00a0Homepage:\u00a0http://github.com/TaddyLab/gamlr,\u00a0http://faculty.chicagobooth.edu/matt.taddy/index.html  ", 
+  "README.md": "The Gamma Lasso    \n==\n\nThis package implements the gamma lasso algorithm for regularization paths corresponding to a range of non-convex cost functions between L0 and L1 norms.  As much as possible, usage is analogous to that for the glmnet package (which does the same thing for penalization between L1 and L2 norms).     \n\nThe CRAN page is at http://www.cran.r-project.org/web/packages/gamlr/index.html.    \n\nIf you use gamlr, please cite Taddy (2013), The Gamma Lasso. http://arxiv.org/abs/1308.5623    \n\n", 
+  "id": 17696253
+}

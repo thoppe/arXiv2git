@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550115, 
+  "description": "", 
+  "README.md": "#CNN_sentence_chainer\n---\n### Implementation of \"Convolutional Neural Network for Sentence Classification\"(http://arxiv.org/abs/1408.5882) [Kim, 2014] \n---\n\n\n## Require\n\n```\nnumpy\nchainer == 1.4.0\n```\n\n#### Install chainer\n\n```\npip install chainer==1.4.0\n```\n\n\n## Usage:\n\nIf you run the code on GPU machine, add ```--gpu 0``` at the last.\n\n#### initialize word vectors randomly\n```\npython main.py -W2V rand --non-static\n```\n\n#### initialize word vectors by pre-trained word2vec model\n\n- Download trained word vectors(GoogleNews-vectors-negative300.bin) from```https://code.google.com/p/word2vec/```\n\n- run\n\n```\npython main.py -W2V path/to/GoogleNews-vectors-negative300.bin --static --non-static\n```\n", 
+  "id": 48740440
+}

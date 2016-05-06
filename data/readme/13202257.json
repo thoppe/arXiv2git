@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549841, 
+  "description": "", 
+  "README.md": "Least-Absolute-Gradient-Selector\n================================\nLeast Absolute Gradient Selector (LAGS): http://arxiv.org/abs/1204.2353 <br />\nCVX: http://cvxr.com/cvx/ and Cplex: http://www-01.ibm.com/software/commerce/optimization/cplex-optimizer/ must be installed.\n", 
+  "id": 13202257
+}

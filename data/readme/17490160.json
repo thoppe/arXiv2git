@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553579, 
+  "description": "Annotations of SNPs identified in the 1000 Genomes Project", 
+  "README.md": "1000-genomes\n============\n\nAnnotation of 1000 Genomes variants\n\nJoe Pickrell\n\nEach file has all of the variants called from ALL.[chr].integrated_phase1_v3.20101123.snps_indels_svs.genotypes.vcf.gz. These files were downloaded from:\n\nftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20110521/\n\nFor each variant, we list the chromosome, position (hg19 coordinates), and rs number, followed by the annotations. \"1\" means the variant falls in the annotation, and \"0\" means it does not. All annotations are described in the Supplementary Material of Pickrell (2014) http://arxiv.org/abs/1311.4843. The \"tssdist\" annotation is the distance to the nearest transcription start site in the Ensembl gene databases as downloaded from the UCSC genome browser on 3/19/2013.\n\nThere are 451 annotations (450 presence/absence annotations and distance to the nearest transcription start site); see Pickrell (2014) for details.\n\nUPDATE (6/17/2014): The updated version fixes a small number of coding SNPs incorrectly marked as non-coding and changes the coordinates of the SNPs to be consistent with 1000 Genomes.\n", 
+  "id": 17490160
+}

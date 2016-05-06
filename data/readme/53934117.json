@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554898, 
+  "description": "This is the source code for the numerical calculation in manuscript http://arxiv.org/abs/1601.01402", 
+  "README.md": "# Read Me\nThis directory includes the source code for the numerical calculations in manuscript http://arxiv.org/abs/1601.01402.\nThe file \"Makefile\" is used to compile the main source file \"main.f90\" on the Linux platform.\n\nNote that two preprocessor directives appear in the Makefile:\n    \nMACRO+=-D__solve_topological_charge\n\nMACRO+=-D__solve_eigenstates\n\nThe first directive is used to calculate the topological charge of the QD chain with varying Zeeman\nenergy and chemical potential [e.g., as shown by Fig. 2(a) in the manuscript]. The second directive is used to solve \nthe eigenstates of the QD chain [e.g., as shown by Fig. 2(b) in the manuscript]. The directive does not take effect if \nit is commented by \"#\" at the left beginning.\n\nThe MKL Lapack library is required. \n", 
+  "id": 53934117
+}

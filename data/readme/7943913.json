@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551315, 
+  "description": "Tree-based arithmetic on Giant Numbers.", 
+  "README.md": "# clj-libgiantnum\n\nA straight-forward port of the Haskell code from [1] to Clojure.\nProvides a protocol which abstracts arithmetic over the natural numbers\nand an instance of this protocol based on a tree representation which\nlets one compute with really large numbers efficiently.\n\n[1] Tree-based Arithmetic and Compressed Representations of Giant Numbers  \nhttp://arxiv.org/abs/1301.0114\n\n## Usage\n\nPlease read the paper.\n\n## License\nOriginal code is copyright tarau@cs.unt.edu 2013\n\nClojure code is copyright jakob@primat.es 2013\n\nDistributed under the Creative Commons License.\n", 
+  "id": 7943913
+}

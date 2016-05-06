@@ -1,0 +1,6 @@
+{
+  "id": 13429433, 
+  "read_at": 1462550519, 
+  "README.rst": "Code Accompanying Paper XXXX\n============================\n\n.. todo:: Update paper title when it is finalized.\n\nThis repository contains the source code and source LaTeX for the paper XXXX\nsubmitted on DATE.\n\nmeasure_tau.py\n--------------\nUsing the measured optical depth ratio and Mach number from the Formaldehyde\nand CO lines, this module uses `pymc <pymc-devs.github.io>`_ to fit the values\nof sigma and the other controlling parameters of the distribution.\n\nturbulent_pdfs.py\n-----------------\nDefines a variety of probability distribution functions (lognormal and variants\nthereupon)\n\nhopkins_pdf.py\n--------------\nA python implementation of the `Hopkins 2013\n<http://adsabs.harvard.edu/abs/2013MNRAS.430.1880H>`_ PDF.  See `this blog post\n<http://keflavich.github.io/blog/hopkins-pdf-generalization.html>`__ for a\ndetailed description.  Note that this code generalizes the Hopkins distribution\nto :math:`\\rho_0 \\ne 1`.\n", 
+  "description": "Repository for the paper \"A measurement of the turbulence-driven density distribution in a non-star-forming molecular cloud\" available at http://arxiv.org/abs/1310.0809"
+}

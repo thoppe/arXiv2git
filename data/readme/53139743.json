@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555039, 
+  "description": "Keras implementation of Deep Convolutional Generative Adversarial Networks ", 
+  "README.md": "## KERAS-DCGAN ##\nImplementation of http://arxiv.org/abs/1511.06434 with the (awesome) [keras](https://github.com/fchollet/keras) library, for generating artificial images with deep learning.\n\nThis trains two adversarial deep learning models on real images, in order to produce artificial images that look real.\n\nThe generator model tries to produce images that look real and get a high score from the discriminator.\n\nThe discriminator model tries to tell apart between real images and artificial images from the generator.\n\nUsage\n-----\n**Training:**\n `python dcgan.py --mode train --path <path_to_images> --batch_size <batch_size>`\n    \n  python dcgan.py --mode train --path ~/images --batch_size 128\n\n**Image generation:**\n`python dcgan.py --mode generate --batch_size <batch_size>`\n\npython dcgan.py --mode generate --batch_size 128\n\n", 
+  "id": 53139743
+}

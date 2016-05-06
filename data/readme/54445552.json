@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555234, 
+  "description": "robust CNNs using symmetric activation functions", 
+  "README.md": "# robustCNN\nrobust CNNs using symmetric activation functions\n\n1. Make sure you have installed and set up MatConvnet correctly;\n3. Copy the folder 'robust' into '[MatConvnet_root]/examples';\n2. Enter the folder '[MatConvnet_root]/examples/robust' and run 'robust_setup.m';\n3. Run 'demo.m' for both training and evaluating.\n\nMoreover, there are pre-trained models in the folder 'pre-trained'. You can evaluate them without training by\n(1). Setting 'createImdbOnly = true' (the 1st parameter) for cnn_mnist_robust and cnn_cifar_robust in line 7 and 21;\n(2). Copy all folders in 'pre-trained' into 'data';\n(3). Run 'demo.m' for only evaluating.\n\nRelated Paper:\n\nSuppressing the unusual: towards robust CNNs using symmetric activation functions. You can donwnload it at http://arxiv.org/abs/1603.05145.\n\nPlease feel free to contact me: zhaoqy@buaa.edu.cn\n", 
+  "id": 54445552
+}

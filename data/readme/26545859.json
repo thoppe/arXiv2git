@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553709, 
+  "description": "Implementation of the fastPFP approximate subgraph matching algorithm, as described in http://arxiv.org/abs/1207.1114", 
+  "README.md": "fastPFP\n=======\n\nImplementation of the fastPFP approximate subgraph matching algorithm, as described in http://arxiv.org/abs/1207.1114\n", 
+  "id": 26545859
+}

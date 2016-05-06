@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552698, 
+  "description": "Python implementation of UNITY", 
+  "README.md": "# PyUNITY\nPython implementation of UNITY\n\n# About\nThe Unified Nonlinear Inference for Type-Ia cosmologY (UNITY) by David Rubin et al (http://arxiv.org/abs/1507.01602) is a Bayesian framework to account for statistical and systematic uncertainties in supernova cosmological analyses. \n\nUNITY is currently implemented in STAN which runs a Hamiltonian Monte Carlo (HMC) sampling method. Unfortunately, STAN is not compatible with Python and Python libraries (such as AstroPy or SNCosmo).\n\nThis is the effort to implement UNITY in Python using a range of Bayesian methods, such as importance sampling, and samplers, such as emcee and PyMC3.\n\n# Methods\nWe plan to create Probabilistic Graphical Models (PGMs) of increasing complexity to test the framework implementation and the systematic modeling put in place. \n\n\n# Dependencies:\n\n- astropy\n- sncosmo\n- emcee/emcee3\n- triangle\n- PyMC/PyMC3\n- daft\n\n... and the usual numpy/scipy/mpl business.\n\n", 
+  "id": 49749229
+}

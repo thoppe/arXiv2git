@@ -1,0 +1,6 @@
+{
+  "README": "this code efficiently approximately solves the quadratic assignment problem.\nsee our manuscript\nFast Inexact Graph Matching with Applications in Statistical Connectomics\nJoshua T. Vogelstein, John M. Conroy, Louis J. Podrazik, Steven G. Kratzer, Donniell E. Fishkind, R. Jacob Vogelstein, Carey E. Priebe\nfor details.  it is on the arxiv here:\nhttp://arxiv.org/abs/1112.5507\n\n", 
+  "read_at": 1462551191, 
+  "description": "fast matlab code for solving QAPs", 
+  "id": 5161019
+}

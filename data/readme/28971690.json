@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551760, 
+  "description": "", 
+  "README.md": "The SABC package is an R implementation of the Approximate Bayes Computations algorithm presented in [1].\n\nTo install, you need to take the following steps:\n\n1) Install devtools by following the instructions at http://cran.r-project.org/web/packages/devtools/README.html\nThis step is platform-dependent. If you are using Windows, make sure to pick the right version of Rtools depending\non which distribution of R you are using (which can be found via session_info() ). \n\n2) Start a new R session, load the package devtools with \n> library(devtools)\n\nand then install SABC with\n> install_github(\"carloalbert/sabc\",subdir=\"SABC\")\n\n3) Load SABC and read the help file\n> library(SABC)\n\n> ?SABC\n\n\n\n--- \n[1]  C. Albert, H. R. Kuensch and A. Scheidegger. A Simulated Annealing Approach to Approximate Bayes Computations.\n     Statistics and Computing 0960-3174 (2014).\n     http://dx.doi.org/10.1007/s11222-014-9507-8 \n     http://arxiv.org/abs/1208.2157\n\n", 
+  "id": 28971690
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550018, 
+  "description": "Generative Models with TensorFlow", 
+  "README.md": "# generative-tf\nGenerative Models with TensorFlow\n\n\n#### Variational Autoencoder\n\n> Kingma, D. P. & Welling, M. Auto-Encoding Variational Bayes\n\n```python\npython generative-tf/train_mnist_vae.py \\\n     --epochs 5000 \\\n     --print-every-N 100 \\\n     --latent-dim 10 \\\n     --hidden-dim 500 \\\n     --batch-size 100 \\\n     --optimizer rmsprop\n```\n\n> Burda, Y., Grosse, R. & Salakhutdinov, R. Importance Weighted Autoencoders. 1-12 (2015). at <http://arxiv.org/abs/1509.00519>\n\nAdd importance weighting with:\n\n```python\n--importance-weighting\n```", 
+  "id": 47999710
+}

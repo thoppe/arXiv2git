@@ -1,0 +1,6 @@
+{
+  "id": 5439535, 
+  "read_at": 1462552230, 
+  "README.rst": "=================================================\n\nGetInspire: Fill the bibliography of a LaTeX file\n\nin BibTeX format\n\n=================================================\n\nThis program get the \\\\cite texkeys in inspire.net format, e.g 'Author:2012aa', from your LaTeX file, download the corresponding BibTeX entry from inspire.net and update your BibTeX file. If the \\\\cite is in the arXiv fomat, e.g 1203.0978, the entry is first replaced by the texkey in inspire.net format inside your LaTeX file.\n\nINSTALL \n\n$ sudo python setup.py install\n\n(Requires the python-setuptools package: \n$ sudo apt-get install python-setuptools)\n\nBASIC USAGE: \n\n$ getinspire latexfile.tex\n\nsee: \n\n$ getinspire --help\n\nfor a detailed help\n", 
+  "description": "Automatically get inspirehep BibTeX or bibtems records to fill the bibliography of your LaTeX document"
+}

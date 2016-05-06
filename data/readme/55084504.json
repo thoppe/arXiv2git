@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555200, 
+  "description": "LaTeX document and PDF for Science Concierge Manuscript", 
+  "README.md": "# Science Concierge Manuscript\n\nThis is a repository for Science Concierge manuscript, an algorithm behind\n[www.scholarfy.net](http://www.scholarfy.net/) (also see scaling version of Scholarfy \nat [pubmed.scholarfy.net](http://pubmed.scholarfy.net/)). See the full repository at \n[titipata/science_concierge](https://github.com/titipata/science_concierge) and the \nArxiv article [here](http://arxiv.org/abs/1604.01070).\n\n\n## Build manuscript\n\nYou can simply use [Atom](https://atom.io/) text editor to compile `tex` file. You can install \n[LaTeX extension](https://atom.io/packages/latex). In editor, open `science_concierge.tex` \nand run `Packages > LaTeX > Build` to build pdf file or `Packages > LaTeX > Clean` to clean \nall created temporary files.\n", 
+  "id": 55084504
+}

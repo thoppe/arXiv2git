@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552588, 
+  "description": "", 
+  "README.md": "# Gamma SGVB code\n\nThis repo contains all the (Matlab) code required to recreate the results in \n\nStochastic gradient variational Bayes for gamma approximating distributions, \nDavid A. Knowles\nhttp://arxiv.org/abs/1509.01631\n\ncd to the main directory, run setup_paths.m and then take a look in scripts/. \n\nsetup_paths.m gives a summary of the contents of each directory. \n\nThe EPM MCMC code is from Mingyuan Zhou's repo: \nhttps://github.com/mingyuanzhou/EPM\n\nThe sparse PCA code is from:\nhttp://www2.imm.dtu.dk/projects/spasm/\n", 
+  "id": 49686938
+}

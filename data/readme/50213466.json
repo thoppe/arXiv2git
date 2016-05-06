@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552551, 
+  "description": "", 
+  "README.md": "Long Short Term Memory Units\n============================\nThis is self-contained package to train a language model on word level Penn Tree Bank dataset. \nIt achieves 115 perplexity for a small model in 1h, and 81 perplexity for a big model in \na day. Model ensemble of 38 big models gives 69 perplexity.\nThis code is derived from https://github.com/wojciechz/learning_to_execute (the same author, but \na different company).\n\n\nMore information: http://arxiv.org/pdf/1409.2329v4.pdf\n", 
+  "id": 50213466
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554204, 
+  "description": "Codes for dictionary learning for sparse representation", 
+  "README.md": "# Sparse-Dictionary-Learning\nCodes for dictionary learning for sparse representation\n\nThe codes are based on the paper here http://arxiv.org/abs/1511.01776\n", 
+  "id": 45661776
+}

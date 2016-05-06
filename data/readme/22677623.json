@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553325, 
+  "description": "A lightweight article management system based on random re-evaluation and cumulative note-taking.", 
+  "README.md": "articlechurner\n==============\n\nA lightweight article management system based on random re-evaluation and cumulative note-taking.\n\nIntended for keeping track of scientific publications, in particular using ArXiV and MathSciNet.\n\nImplemented as webservice in Python+HTML+CSS+JS with a single human-readable CSV file as \"database\".\n\nThere are several known bugs at the moment. It is not recommended to run the webservice with public access anywhere, as user input is not sanitized in any way.\n\nA \"better\" solution to article management using the approach developed here might be to take an existing article management software such as Mendeley, JabRef, etc. and add (via a plug-in) the ability to take cumulative notes and to get random re-evaluation. However, not building upon an existing software has the advantage of preventing vendor lock-in.\n\nIf anyone intends to use this, please don't hesitate to write the developer an email.\n", 
+  "id": 22677623
+}

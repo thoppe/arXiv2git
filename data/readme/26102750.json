@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553875, 
+  "description": "Monte Carlo error analyses of Spearman\u2019s rank test", 
+  "README.md": "MCSpearman\n==========\n\nA program to compute the Spearman's rank correlation coefficient, including a Monte Carlo error analysis. Method is detailed at http://arxiv.org/abs/1411.3816 and Astrophysics Source Code Library record is at http://ascl.net/1504.008. \n\nPrerequisites:\n\n1. C compiler (e.g., gcc)\n2. GNU Scientific Library (GSL) development & library packages\n\n\nNotes on GNU Scientific Library (GSL): GSL can be downloaded from\nwww.gnu.org/software/gsl/, or installed directly from the Ubuntu\nSoftware Centre.\n\n\nInstallation (assuming terminal): \n\n1. Modify compile.sh so it points to local GSL directory. Can find this via \n> gsl-config --libs\n\n2. Modify permissions of compile.sh\n> chmod a+x compile.sh \n\n3. Run compile.sh \n> ./compile.sh \n\n4. Run MCSpearman for help\n> ./mcspearman -h\n\n", 
+  "id": 26102750
+}

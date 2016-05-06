@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553479, 
+  "description": "", 
+  "README.md": "mcba\n====\n\nAn impurity injected into a 1D sea of TG bosons. \n\nMC sampling of Bethe Ansatz space. Oh no, there's no sampling. It's just enumeration. Stochastic enumeration, then. \n\nhttp://arXiv:1308.6147.\n\nPast history is @ https://bitbucket.org/burovski/mcba.\n\nPublic domain, in case it matters.\n", 
+  "id": 18156667
+}

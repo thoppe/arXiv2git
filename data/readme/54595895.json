@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555049, 
+  "description": "Neural Networks for QA tasks", 
+  "README.md": "# bAbi-tasks\nNeural Networks for QA tasks\n\nTensorflow implementation of End to End Memory Networks(http://arxiv.org/pdf/1503.08895v5.pdf).\nTested on Facebook QA bAbi-tasks dataset.\n", 
+  "id": 54595895
+}

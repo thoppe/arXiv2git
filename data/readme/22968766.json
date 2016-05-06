@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553218, 
+  "description": "Python implementation of the GPstruct model", 
+  "README.md": "# pygpstruct\n\nThis code implements the GPstruct learning algorithm:\n- in the chain case, as presented in our TPAMI paper, to appear (currently an [arXiv preprint](http://arxiv.org/abs/1307.3846)) by S Bratieres, N Quadrianto, Z Ghahramani\n- in the grid case, as presented in our [ICML 2014 paper](http://jmlr.org/proceedings/papers/v32/bratieres14.html) by S Bratieres, N Quadrianto, S Nowozin, Z Ghaharamani\n\nAn Ipython notebook showing how the source code works can be found [here on nbviewer.ipython.org](http://nbviewer.ipython.org/github/sebastien-bratieres/pygpstruct/blob/master/pygpstruct%20demo.ipynb).\n\n[Another notebook](http://nbviewer.ipython.org/github/sebastien-bratieres/pygpstruct/blob/master/NLP%20experiments.ipynb) demonstrates the NLP experiments reported in our TPAMI paper.\n\nNote that this code is research code: it will evolve and backwards compatibility is not expected.\n\nFeel free to contact the authors:\n- [Sebastien Bratieres](http://mlg.eng.cam.ac.uk/sebastien/): sb358 and then the at sign, then cam and also ac.uk\n- [Novi Quadrianto](http://smileclinic.alwaysdata.net/): letter n followed by dot then quadrianto and the at, and also sussex.ac.uk", 
+  "id": 22968766
+}

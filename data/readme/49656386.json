@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552559, 
+  "description": "Some Python/Shell programs", 
+  "README.md": "# Scripts\nSome python/shell programs and some config files which I use\n\n* **gbib** : Program to get .bib file given title of research paper from [DBLP](http://dblp.uni-trier.de). If there are multiple papers with the same name in DBLP\n  (this can be because of same title for conference and journal versions or due to copies in arxiv), a list of choice is provided.\n\n* **musb** : Mounts USB if automount fails. Also prints the mount location.\n\n", 
+  "id": 49656386
+}

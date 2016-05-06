@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554439, 
+  "description": "Determinisation and Completion of Finite Tree Automata", 
+  "README.md": "#DFTA\r\nDFTA implements an optimised algorithm for Determinisation and Completion of Finite Tree Automata.\r\n\r\n## Finite Tree Automata (FTA) determinisation\r\n### Implementation\r\nDFTA is written in Java and is developed using Netbeans IDE (8.0.1) and uses JRE 8.\r\n\r\n### Usage\r\njava -jar DFTA.jar \r\n\r\n### Input\r\nThe input is a file containing an FTA\r\n\r\nAn FTA is specified as:\r\n\r\n*Final States \\< states separated by space \\>.*\r\n*Transitions.*\r\n\r\n*functorName(\\< states separated by comma \\>) -> \\<state\\>.*\r\n\r\n\r\nFor example: \r\n\r\n*Final States q47 q5.*\r\n\r\n*Transitions.*\r\n\r\n*yblack(q1,q19) -> q22.*\r\n*yblack(q9,q9) -> q18.*\r\n\r\n##Reference\r\nAn Optimised Algorithm for Determinisation and Completion of Finite Tree Automata.\r\nby John P. Gallagher, Mai Ajspur and Bishoksan Kafle.\r\nhttp://arxiv.org/abs/1511.03595\r\n\r\n##Contact  \r\nJohn Gallagher (jpg@ruc.dk)\r\n", 
+  "id": 46551695
+}

@@ -1,0 +1,6 @@
+{
+  "README": "getpdf is a program I wrote in 2009 that is designed to find the pdf\nassociated with an article title and journal URL from arbitrary\njournals.\n\nThe way that it works is intended to be completely general and is not\nhard coded to any specific journal. You specify a maximum spider\ndepth, and it downloads all urls that it finds up to that depth and \nchecks if they are pdfs. It uses pdftotext to convert the pdf to text,\nremoves non ASCII characters and spaces, downcases all text and then \nchecks if a similarly formatted title exists in the file.\n\nIt contains unit tests. At the time of its writing it was able to\ndownload pdfs from Optics InfoBase, PNAS, Elsevier, Nature, Science,\nPhysiological Reviews, Oxford Journals, arXiv, PLoS, PubMed Central,\nSpringer, Wiley and Cell.\n\nNow, in 2013, it only passes three of those tests: arXiv, PLoS and\nSpringer.\n\n", 
+  "read_at": 1462551306, 
+  "description": "automatically get pdfs from journals", 
+  "id": 7729289
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550558, 
+  "description": "Printer script", 
+  "README.md": "Print\n=====\n\nUsage\n----\n\nTo print local files just give the name, for arXiv files link to the pdf\n\nExample:\n\n\t$ ./printfile foo.pdf http://arxiv.org/pdf/XXXX.XXXX.vX.pdf bar.pdf\n\nNote: Reads user@hostname from a file \"printer\", in same directory as printfile.\n\nAuthenitcation\n-------------\n\nIn order not to have to enter a password every time do as follows,\n\n1. Generate an ssh key if you don't already have one:\n\n\t$ ssh-keygen\n\n2. Copy the key to the server:\n\n\t$ ssh-copy-id user@hostname\n\nBam, the server will no longer ask you for the password for ssh.\n\nTODO\n----\n\n[x] Stop hardcoding the server and login\n\n[ ] Check multiple files work\n\n[ ] Make only one ssh connection per session\n\n[ ] Have the script read and summarise the paper in an understandable manner\n\n[x] At least print single things\n", 
+  "id": 13498719
+}

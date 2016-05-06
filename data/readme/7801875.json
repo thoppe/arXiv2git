@@ -1,0 +1,6 @@
+{
+  "README": "\t\t\tHeteroscedastic matrix factorisation (HMF) for python\n\nAuthor: Sergey Koposov koposov _AT_ cam _DOT_ ac _DOT_ uk  (2012-2013)\n\nThe code implements the HMF algorithm proposed by Tsalmantza & Hogg \nhttp://arxiv.org/abs/1201.3370\n\n", 
+  "read_at": 1462551297, 
+  "description": "Heteroscedastic Matrix Factorization ", 
+  "id": 7801875
+}

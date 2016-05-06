@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551784, 
+  "description": "Ruby implementation of readable, spellable, pronounceable identifiers", 
+  "README.md": "# Proquint\n\nA library for converting numbers to readable, pronounceable, spellable\nidentifiers.\n\nSee http://arxiv.org/html/0901.4016.\n\n## Installation\n\nAdd this line to your application's Gemfile:\n\n```ruby\ngem 'proquint'\n```\n\nAnd then execute:\n\n    $ bundle\n\nOr install it yourself as:\n\n    $ gem install proquint\n\n## Usage\n\n    require 'proquint'\n    Proquint.encode(1)                  #=> \"babad\"\n    Proquint.encode(1234567890123456)   #=> \"babah-karij-gufap-rorab\"\n    Proquint.encode(0x462d53c8abac0)    #=> \"babah-karij-gufap-rorab\"\n    Proquint.encode(0x1234567890abcdef) #=> \"damuh-jinum-nafor-suloz\"\n    Proquint.decode(\"nobol-gonad\")      #=> [38951, 14913]\n    Proquint.words2num([38951, 14913])  #=> 2552707649\n\n## Contributing\n\n1. Fork it ( https://github.com/[my-github-username]/proquint/fork )\n2. Create your feature branch (`git checkout -b my-new-feature`)\n3. Commit your changes (`git commit -am 'Add some feature'`)\n4. Push to the branch (`git push origin my-new-feature`)\n5. Create a new Pull Request\n\n[![Build\nStatus](https://travis-ci.org/bjjb/proquint.svg?branch=master)](https://travis-ci.org/bjjb/proquint)\n", 
+  "id": 29694950
+}

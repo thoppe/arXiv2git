@@ -1,0 +1,6 @@
+{
+  "README": "R to Python translation of: https://github.com/johnmyleswhite/bayesian_nonparametrics\nFound on: http://www.johnmyleswhite.com/notebook/2012/06/26/bayesian-nonparametrics-in-r/\nBased on: http://arxiv.org/pdf/1111.0352.pdf\n", 
+  "read_at": 1462551195, 
+  "description": "Python implementation of the DP-means clustering algo", 
+  "id": 5022437
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550757, 
+  "description": "Computes the geographic eccentricity and other measures on 2-dimensional networks.", 
+  "README.md": "geographic-eccentricity\n=======================\n\nComputes the geographic eccentricity and various other measures of 2-dimensional networks under various communication models. See http://arxiv.org/abs/1403.3007\n\nUsage: geo_ecc [repeat x] [L x] [error x] \\[truncate x\\] ([rand x] | [sinr x y] | [exp x]) [file x]\n\nThis program invokes \"voronoi\", which is Steven Fortune's C program for computing 2-dimensional Voronoi diagrams, available at his webpage http://ect.bell-labs.com/who/sjf/\nThe voronoi program is invoked with the command 'system(\"./voronoi -t <points.tmp >delaunay.tmp\");' The two files points.tmp and delaunay.tmp are thus created.\n \nThis program uses rand()/RAND_MAX to simulate a uniform random number distribution in [0,1]. It also uses the Box-Muller-Marsaglia transform to generate a Gaussian distribution from it. This may lead to the Neave anomaly depending on the C implementation (not tested).\n \nCompile this program with '-lm' to link in the math library.\n", 
+  "id": 18755507
+}

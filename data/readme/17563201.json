@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553476, 
+  "description": "iPad application: Probe based deformer using Dual Complex Numbers", 
+  "README.md": "ProbeDeformer for iOS\n=============\nA simple 2D image deforming system using Dual Complex Numbers.\n\nPlease look at the following paper for details:\n* \"Anti-commutative Dual Complex Numbers and 2D Rigid Transformation\" by G.Matsuda, S.Kaji, H.Ochiai.\nin Mathematical Progress in Expressive Image Synthesis, MI Lecture Note, Vol.50, pp.128-133, Kyushu University, 2013.\nhttp://arxiv.org/abs/1601.01754\n", 
+  "id": 17563201
+}

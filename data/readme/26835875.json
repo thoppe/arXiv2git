@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553728, 
+  "description": "Recurrent Neural Network for modeling sequential data implemented using Python and Theano.", 
+  "README.md": "Recurrent-Neural-Networks\n=========================\n\nHere's an RNN which is used for three kinds of output: real-valued, binary, and softmax.\nAnd for five kinds of activation function: sigmoid, tanh, relu, lstm, gru.\nTo run the code you need to have Theano libary in your PYTHONPATH:\n\nhttps://github.com/Theano/Theano\n\nThe results are then saved under *.png files: <test>_<activation function used>_<number of epochs>.png\nTo test the model with different hyper-parameters, you need to modify any of testing function.\n\nRunning code with default parameters takes around 5 minutes on CPU.\n\nRelated resources\n=================\nGraham Taylor's implementation:\n\nhttps://github.com/gwtaylor/theano-rnn\n\n\nRazvan Pascanu's implementation:\n\nhttps://github.com/pascanur/trainingRNNs\n\n\nAlex Grave's paper with a nice description of RNNs:\n\nhttp://arxiv.org/pdf/1308.0850v5.pdf\n\n\nYoshua Bengio, Aaron Courville, and Ian Goodfellow book:\n\nDeep Learning - Chapter 12\n\nNotice\n======\nThis code is distributed without any warranty, express or implied.\n", 
+  "id": 26835875
+}

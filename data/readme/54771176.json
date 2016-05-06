@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555122, 
+  "description": "First 50 000 000 Primes Last Digit Sequence Frequencies", 
+  "README.md": "# First 50 000 000 Primes Last Digit Sequence Frequencies\n\nInspired by this [article](https://www.quantamagazine.org/20160313-mathematicians-discover-prime-conspiracy/) and [paper on arxiv](http://arxiv.org/pdf/1603.03720v1.pdf).\nGet data from [primes.ut.edu](https://primes.utm.edu/lists/small/millions/) (~500 Mb unzipped!).\nI am curious whether paper's results are similar for those in 200 times smaller dataset or not. They are.\n\n[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/Amarchuk/primes-freq-50kk)\n\n[View notebook on Nbviewer](https://nbviewer.jupyter.org/github/Amarchuk/primes-freq-50kk/blob/master/Prime%20Frequencies.ipynb)\n\nObtained frequencies:\n\n![my stat](https://raw.githubusercontent.com/Amarchuk/primes-freq-50kk/master/stat_50kk.png \"My stats\")\n\nDifference with paper data:\n\n![diff](https://raw.githubusercontent.com/Amarchuk/primes-freq-50kk/master/diff.png \"Diff\")\n", 
+  "id": 54771176
+}

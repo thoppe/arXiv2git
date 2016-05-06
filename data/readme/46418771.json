@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554099, 
+  "description": "Low-rank convolutional neural networks", 
+  "README.md": "# lowrankcnn\nLow-rank convolutional neural networks\n\nSource code for the paper\n\n\"Convolutional neural networks with low-rank regularization\"\nhttp://arxiv.org/abs/1511.06067\n", 
+  "id": 46418771
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553214, 
+  "description": "Irving's stable matching", 
+  "README.md": "stableRoomateMatching\n=====================\n\nR implementation of the pseudo code by Stephan Mertens (2014) based on Irving's algorithm (1985).\n**Preliminary and incomplete**\n\n\nExample from Wikipedia \nhttp://en.wikipedia.org/wiki/Stable_roommates_problem\n\nReferences:\n\n* Robert W. Irving, An efficient algorithm for the \"stable roommates\" problem, Journal of Algorithms, Vol. 6, Issue 4,  1985\n\n* Stephan Mertens, Stable Roommates Problem with Random Preferences, arXiv, 2014\n\n", 
+  "id": 23049962
+}

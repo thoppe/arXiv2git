@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553115, 
+  "description": "Basic elements for a Phys. Rev. D lookalike LaTeX paper, with a script for submission to the arXiv.", 
+  "README.md": "PaperInfrastructure\n===================\n\nBasic elements for a LaTeX paper\n\nThis module can be used as a submodule for LaTeX papers, and can\nprovide the basic structure needed for a nice paper.  Basically, you\ncan start a new paper by just initializing the superproject's git\nrepo, add this infrastructure as a submodule, copy and link the\nrelevant files, and add/commit things to the superproject:\n```bash\nexport MyCoolPaperName=\"<MyCoolPaper>\"\nmkdir ${MyCoolPaperName}\ncd ${MyCoolPaperName}\ngit init\ngit submodule add https://github.com/moble/PaperInfrastructure.git\ngit submodule init\ngit submodule update\ncd PaperInfrastructure\ngit checkout master\ncd ..\npython PaperInfrastructure/InitializeNewPaper.py\ngit add *.tex Makefile README.md LICENSE .gitignore\ngit commit -m 'Set up paper infrastructure'\n```\nFinally, if relevant, [create a new repo](https://github.com/new), add\nthe remote, and push to it:\n```bash\ngit remote add origin https://github.com/moble/${MyCoolPaperName}.git\ngit push -u origin master\n```\n\nNote that the `colorbrewer` package for `TikZ`/`pgfplots` comes from\n[this github repo](https://github.com/vtraag/tikz-colorbrewer).\n", 
+  "id": 22901306
+}

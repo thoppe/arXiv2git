@@ -1,0 +1,7 @@
+{
+  "README.md~": "FoldYourOwnUniverse\n===================\nProject started at NASA's Space Apps hackathon event:\nhttps://2014.spaceappschallenge.org/project/fold-your-own-universe/\n\n\nUsage:\n\npython foldyourown.py\n\npython foldyourown.py densmesh2.txt\n", 
+  "read_at": 1462550649, 
+  "description": null, 
+  "README.md": "FoldYourOwnUniverse\n===================\nProject started at NASA's Space Apps hackathon event:\nhttps://2014.spaceappschallenge.org/project/fold-your-own-universe/\n\n#Usage:\n\nInitial data is as in cosmology:\npython foldyourown.py\n\nInitial data is the NASA logo:\npython foldyourown.py NASA_logo.png\n\nInitial data consists of (movie) stars\npython foldyourown.py Stars.png\n\nInput .png can be arbitrary; to specify approximate resolution, use the optional third argument, e.g.\n\npython foldyourown.py NASA_logo.png 96\n\n#Science:\n\nThe radio button 'Zeldovich' refers to the Zeldovich approximation (Zeldovich, 1970), which returns a qualitatively accruate description of the cosmic web.\n\n'NoCollapse' inhibits overcrossing, returning a 2D version of the spherical (circular, in 2D) collapse approximation (Neyrinck M., 2013, MNRAS, 428, 141, arXiv:1204.1326).\n", 
+  "id": 18711389
+}

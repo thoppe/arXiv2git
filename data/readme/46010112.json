@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554066, 
+  "description": "Tool for extracting a visual summary of new papers uploaded to ArXiv.", 
+  "readme.md": "# arxiv-visual-summary\n\nTool for extracting a visual summary of new papers uploaded to ArXiv.\n\nTo setup:\n\n```\n$ git clone https://github.com/kylemcdonald/arxiv-visual-summary.git\n$ cd arxiv-visual-summary\n$ pip install -U -r requirements.txt\n```\n\nThen to update the files, run:\n\n```\n$ python update.py\n```\n\nThis will take a long time the first time, because it's downloading a lot of papers and running ImageMagick using `convert`.\n\n`update.py` should be run once a day, and it will save a `.pkl` file to keep track of when the RSS changes.\n\nFinally, you need to host this directory from a webserver. I run this in the public directory on a node.js express server, but it should run anywhere that can host static files.\n", 
+  "id": 46010112
+}

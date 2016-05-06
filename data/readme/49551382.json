@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552428, 
+  "description": "yolo implementation using caffe", 
+  "README.md": "# caffe-yolo\nYOLO implementation using caffe\n\nYou Only Look Once: Unified, Real-Time Object Detection\n\nPaper:\nhttp://arxiv.org/abs/1506.02640\n\nProject homepage:\nhttp://pjreddie.com/darknet/yolo/\n", 
+  "id": 49551382
+}

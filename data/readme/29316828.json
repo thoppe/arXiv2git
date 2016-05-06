@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551525, 
+  "description": "Companion MATLAB scripts for http://arxiv.org/abs/1310.7954", 
+  "README.md": "# Semidefinite programs for quantum hedging framework:\n\nMATLAB scripts that implement the semidefinite program used in the papers:\n\n[MW12] A. Molina and J. Watrous, Hedging bets with correlated quantum strategies. [arxiv:1104.1140][1]\n\n[AMR13] S. Arunachalam, A. Molina, and V. Russo, Quantum hedging in the presence of protocol errors [arXiv:1310.7954v2][2]\n\nTested with MATLAB 7.10.0 (R2010a)\n\nRequires:\n\n- CVX -- [www.cvxr.com](http://cvxr.com/cvx/)\n- QETLAB -- [http://www.qetlab.com/Main_Page](http://www.qetlab.com/Main_Page)\n \n[1]: http://arxiv.org/abs/1104.1140\n[2]: http://arxiv.org/pdf/1310.7954v2.pdf\n\n## Usage\n\nIn `QuantumHedging.m` modify the parameter _n_ for the total number of repetitions played. \nFor _n_ greater than 5, the problem size becomes too large for the SDP solver to handle. \n\nThe characterization of the strategy and angles can be found for arbitrary _n_ and are \nstored in variables _bobStratLeft_, _bobStratRight_, and _angle1_, _angle2_ for the strategies \nand angles respectively.\n", 
+  "id": 29316828
+}

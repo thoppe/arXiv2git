@@ -1,0 +1,6 @@
+{
+  "README": "character-level LSTM RNN model based on LSTM model in http://arxiv.org/pdf/1308.0850.pdf\nand adapted from Vanilla RNN model written by Andrej Karpathy (@karpathy).\n\nRNNLSTM.py the new LSTM RNN model.\n\nRNNoriginal the simple RNN model written by Andrej Karpathy (@karpathy) with the addition of methods for producing various output statistics.\n\nHyperparameters including number of hidden units and input and output txt files can be changed in lines 20-27 in RNNLSTM and 19-24 in RNNoriginal.\n\nShowResults.py produces graphs of test vs training losses and test loss, average word length and number of N-grams all converted to the same scale.\n\nCoompareResults.py replaces ShowResultsOldvsNew.py and produces many different comparison graphs to compare a simple RNN model (old) to a LSTM RNN model (new) or two LSTM models. It can deal with stats in any of the output results formats which canged considerably over time as new stats were added. Not all output results files contain all the stats to produce all the possible graphs.\n\n\n", 
+  "read_at": 1462554540, 
+  "description": "", 
+  "id": 46826949
+}

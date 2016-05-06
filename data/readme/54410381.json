@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555071, 
+  "description": "This code is CTMRG algorithm for 2D classical models (Ising, Clock, Potts)", 
+  "README.md": "# CTMRG\n\nThis code is an implementation of the CTMRG algorithm introduced in the articles: \n\nCorner Transfer Matrix Renormalization Group Method\nJ. Phys. Soc. Jpn. 65, pp. 891-894 (1996)\nhttp://arxiv.org/abs/cond-mat/9507087v5\n\nCorner Transfer Matrix Algorithm for Classical Renormalization Group\nJ. Phys. Soc. Jpn. 66, pp. 3040-3047 (1997) \nhttp://arxiv.org/abs/cond-mat/9705072\n\nFor linear algebra (matrix diagonalization in particular), \nEigen library (3.2.7) is called. \n\nCompilation under Mac:\n\ng++ -m64 -O3 -I/.../Eigen main.cpp -o main.x\n", 
+  "id": 54410381
+}

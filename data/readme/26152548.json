@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553711, 
+  "description": "Swift implementation of NTM based on: http://arxiv.org/abs/1410.5401", 
+  "README.md": "ntm\n===\n\nNTM Swift implementation based on [ http://arxiv.org/abs/1410.5401 ]\n", 
+  "id": 26152548
+}

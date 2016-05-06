@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553188, 
+  "description": "materials for paper on statistical settlement vegetation composition product", 
+  "README.md": "composition_paper\n=================\n\nMaterials for PLoS ONE paper on the statistical settlement vegetation composition product.\n\nFinal PLoS ONE materials are in the root directory, with materials for the current ArXiv version (based on final PLoS ONE submission) in the arxiv directory. \n\nActual code for fitting the statistical data product is in the composition repository.\n", 
+  "id": 23503622
+}

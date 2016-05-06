@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552406, 
+  "description": "", 
+  "README.md": "# StochasticPoolingRegionSelection\n\nStochastic Pooling Region Selection is a varient on the standard pooling layer intended to be another option researchers can use in their neural network architectures.\n\nKind of like a mix of:\n  - Benjamin Graham's Fractional Max-Pooling: http://arxiv.org/abs/1412.6071\n  - Zeiler & Fergus's Stochastic Pooling: http://arxiv.org/abs/1301.3557\n\nAdd Details Here\n\nAdd Pictures and Such\n", 
+  "id": 49617493
+}

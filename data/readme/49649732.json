@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552378, 
+  "description": "Implementation of search-convolutional neural networks (SCNNs)", 
+  "README.md": "SCNN\n====\n\nAn implementation of search-convolutional neural networks [1], a new model for graph-structured data.\n\nInstallation\n------------\nUsing pip:\n\n    pip install scnn\n\nUsage\n-----\n\n\timport numpy as np\n    from scnn import SCNN, data\n    from sklearn.metrics import f1_score\n\n\t# Parse the cora dataset and return an adjacency matrix, a design matrix, and a 1-hot label matrix\n    A, X, Y = data.parse_cora()\n\n\t# Construct array indices for the training, validation, and test sets\n    n_nodes = A.shape[0]\n    indices = np.arange(n_nodes)\n    train_indices = indices[:n_nodes // 3]\n    valid_indices = indices[n_nodes // 3:(2* n_nodes) // 3]\n    test_indices  = indices[(2* n_nodes) // 3:]\n\n\t# Instantiate an SCNN and fit it to cora\n    scnn = SCNN()\n    scnn.fit(A, X, Y, train_indices=train_indices, valid_indices=valid_indices)\n\n\t# Predict labels for the test set \n    preds = scnn.predict(X, test_indices)\n    actuals = np.argmax(Y[test_indices,:], axis=1)\n\n\t# Display performance\n    print 'F score: %.4f' % (f1_score(actuals, preds))\n\nReferences\n----------\n\n[1] http://arxiv.org/abs/1511.02136\n", 
+  "id": 49649732
+}

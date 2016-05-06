@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554284, 
+  "description": "", 
+  "README.md": "# Latent-Dirichlet-Allocation\n\nThe repo consists of the files for the Topic Modeling implemenation using the Latent Dirichlet Allocation (LDA) to uncover hidden thematic structure in the [arXiv](http://www.arxiv.org) articles corpus.  \n\nThe Python code uses the [Gensim](https://radimrehurek.com/gensim/), [NLTK](http://www.nltk.org/), [Wordcloud](https://github.com/amueller/word_cloud), and [MatPlotLib](http://matplotlib.org/) packages. The program executes the following tasks:  \n\n**Pre-processing:**   \n*  Cleans the arXiv articles corpus data using Python *re* package   \n*  Tokenize, stemming, stopword removal, and lammetization (WordNet) \n\n**Processing:**  \n*  Converts the corpus into the 'bag-of-words'\n*  Converts the corpus to vector space model\n*  Implements TF-IDF (term frequency inverse document frequency)\n*  Implements Latent Dirichlet Allocation algorithm\n*  Conducts similarity index for a test document  \n\n**Post-Processing:**  \n*  Topic probabilities processing\n*  Generate wordcloud visualisation\n*  Advanced data visualization (to be added...)\n\n", 
+  "id": 46935140
+}

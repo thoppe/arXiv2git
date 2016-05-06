@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550453, 
+  "description": "Rank current arxiv articles by keywords and authors", 
+  "README.md": "# Arxiv filter and sorter\n\nThe goal of this program is to allow to filter and sort arxiv rss listings\nby keywords and authors. The only thing you need to do is to write down \ntwo files keywords_list and authors_list and the start the application\n\n python  app.py\n\nThen if you go to http://localhost:5000/ you'll see the list of arxiv\narticles sorted by the how many matched keywords and matched authors you get\n\n\n## Requirements:\n\nfeedparser nltk BeautifulSoup flask jinja2 numpy packages\n\nAll of them can be installed by doing \n\npip install \n", 
+  "id": 13651140
+}

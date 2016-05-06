@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550189, 
+  "description": "A proquint generator for .NET (Proquint is a PRO-nouncable QUINT-uplet of alternating unambiguous consonants and vowels, for example: \"lusab\")", 
+  "README.md": "# Proquint.NET\nProquint generator for .NET.\n\nPlease see the article on proquints: http://arXiv.org/html/0901.4016.\nOriginal C version: https://github.com/dsw/proquint.\n\nA Proquint is a PRO-nouncable QUINT-uplet of alternating unambiguous consonants and vowels.\n\nA 32-bit implementation is provided (so there are 2^32 different proquints), each of which is a string consisting on two quintuplet strings separated by the character '-'.\n\nSome examples:\n\n| index | Proquint |\n| ------- | ----------- |\n| 0 | *babab-babab* |\n| 1 | *babab-babad* |\n| ... | ... |\n| 2147483647 | *luzuz-zuzuz* |\n| ... | ... |\n| 4294967295 | *zuzuz-zuzuz* |\n\nTo generate a random quint use the `NewQuint()` method:\n\n```c#\nvar q = Quint32.NewQuint();\n```\n\nYou can get the string by using `ToString()` method or casting to `string`:\n```c#\nvar s1 = (string)q;\nvar s2 = q.ToString();\n```\n\nYou can get the underlying value casting to `uint`:\n```c#\nuint i = (uint)q;\n```\n\nYou can use the `>`, `<`, `>=`, `<=`, `==` and `!=` operators to compare the underlying value between two proquints.\n\n", 
+  "id": 47535053
+}

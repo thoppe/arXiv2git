@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553901, 
+  "description": "This repo will contain the scripts and programs I use to work with Fermi Data", 
+  "README.md": "GRBCodes\n========\n\nThis repo will contain the scripts and programs I use to work with Fermi Data\n\n\nUpdate: Since my last push, I have begun to use Fermi Tools, which can be found here:\n\nhttp://fermi.gsfc.nasa.gov/ssc/data/analysis/software/\n\nI am working toward replicating and extending certain analysis described in \n\nhttp://arxiv.org/pdf/1303.2908.pdf\n\nI apologize for a lack of useful tools made as of late. Most of my coding has been in the form of bash scripts lately. \n\nIf anyone is interested however, I will absolutely include them! Just email me!\n", 
+  "id": 26455849
+}

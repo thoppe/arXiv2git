@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551221, 
+  "description": "", 
+  "README.md": "# Jabref-plugins\n\nThis is a small collection of plugins for the BibTex editor [JabRef](http://jabref.sourceforge.net/).\nCurrently it contains plugins:\n\n* fetchArxiv\n* renamefile\n\nIn order to install any plugin one has to\n\n1. download the jar file for the plugin\n2. go to Plugins/Manage plugins/Install plugin in JabRef\n3. install the downloaded file\n\n\n### fetchArxiv\nThis plugin can be used to download a preprint information from arxiv.org by\nproviding its arXiv ID. The ID is saved in the BibTex entry field \"eprint\".\n\n### renamefile\nThis plugin can be used to rename/copy/delete files attached to BibTex entries.\nThe file information is stored in the entry field \"file\". Files can be renamed\naccording to their BibTeX entry. The rename pattern uses an extended syntax of\nthe [BibTeX key generator](http://jabref.sourceforge.net/help/LabelPatterns.php) of JabRef.\nFor more infromation and examples see the help page of the plugin.\n\nThe newest versions can be found [here](https://github.com/korv/Jabref-plugins/releases).\nThe older versions can be found [here](https://github.com/korv/Jabref-plugins/downloads).\n\n\n\n", 
+  "id": 2378009
+}

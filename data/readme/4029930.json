@@ -1,0 +1,6 @@
+{
+  "id": 4029930, 
+  "read_at": 1462549731, 
+  "README.rst": "========\nMo'Astro\n========\n\nA `MongoDB`_ framework for observational astronomy.\n`Mo'Astro`_ helps you setup a MongoDB collection of your survey's image set,\nkeeping FITS metadata readily available, and providing a place for your\nreduction pipeline to persist metadata. `Mo'Astro`_ also provides tools to\nwork with batches of image with the Astromatic reduction suite.\n\nDocumentation is available at http://moastro.jonathansick.ca\n\nInfo\n----\n\nCopyright 2010--2013 `Jonathan Sick <http://jonathansick.ca>`_, @jonathansick\n\nPlease cite arXiv:1303.6290 if this software is useful to you. I'd also\nlove to hear from you about how you're using it.\n\nBSD Licensed.\n\n.. _MongoDB: http://www.mongodb.org\n.. _MoAstro: http://moastro.jonathansick.ca\n", 
+  "description": "MongoDB framework for observational astronomy"
+}

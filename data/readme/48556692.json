@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550125, 
+  "description": "Simple implementation of a genetic algorithm using Python", 
+  "README.md": "# python-genetic-algorithm\nSimple implementation of a genetic algorithm using Python. Solves the following problem:\n\n\"Given the digits 0 through 9 and the operators +, -, * and /,  find a sequence that will represent a given target number. The operators will be applied sequentially from left to right as you read.\"\n\nUsed tutorial from http://www.ai-junkie.com/ga/intro/gat3.html\n\nFor the selection stage, a stochastic acceptance O(1) search is implemented rather than a linear search. Source: http://arxiv.org/pdf/1109.3627v2.pdf\n", 
+  "id": 48556692
+}

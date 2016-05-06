@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551925, 
+  "description": "Code from the paper \"Systematic Abstraction of Abstract Machines\"", 
+  "README.md": "# systematic-abstraction\nCode from the paper \"Systematic Abstraction of Abstract Machines\".\n\nSystematic Abstraction of Abstract Machines, David Van Horn and Matthew Might.\nJournal of Functional Programming, 22(4-5), September 2012.\n\n* [Cambridge University Press](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8669075)\n* [arXiv](http://arxiv.org/abs/1107.3539)\n\n", 
+  "id": 31230110
+}

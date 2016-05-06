@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552044, 
+  "description": "An implementation of the Carter & Winn (2009) formalism for fitting 1/f noise to an indexed series of measurements", 
+  "README.md": "# flicker-noise\n\nPython implementation of the Carter & Winn (2009) formalism for fitting 1/f noise to an indexed time-series with Python (using PyMC).\n\nAuthor: Nestor Espinoza (nespino@astro.puc.cl)\n\nAbout the code\n---------------\n\nIf you use this code for your research, please cite the work of \nCarter & Winn (2009, http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:0909.0747) \nand acknowledge the hardwork put into this implementation by the author.\n\nFor a tutorial on using this code, please go to: \n\n  http://randomastronomy.wordpress.com/2014/07/14/a-python-with-a-long-memory-fitting-1f-noise-with-pymc/\n\nThe codes used in the tutorial are under the \"examples\" folder; just run the \"runMCMC.py\" code to run the MCMC!\n\nDependencies \n-------------\n\nTo use this code you will need PyMC. To install it, go to:\n\n          http://pymc-devs.github.io/pymc/\n\nInstallation \n-------------\nRun the install.py file by doing\n\n    python install.py\n\nAnd you are done!\n\n\n\n", 
+  "id": 30371677
+}

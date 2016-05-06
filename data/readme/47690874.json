@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550133, 
+  "description": "Branch of caffe for weakly supervised learning.", 
+  "README.md": "# caffe-ccnn\n=============\n\nThis is the branch of caffe created for [CCNN](https://github.com/pathak22/ccnn) project.\nThis is a pre-release Caffe branch.\nThis includes several unmerged PRs and has no guarantees.\n\nEverything here is subject to change, including the history of this branch.\nSee `future.sh` for details.\n\nSome Key Functionalities:\n\n- Test Time DenseCRF Layer originally described in this [paper](http://graphics.stanford.edu/projects/densecrf/).\n- Atrous or 'hole' algorithm described in the [arxiv paper](http://arxiv.org/abs/1412.7062). **Disclaimer**: The Atrous code in this repository is obtained (and modified) from the original implementation, released [here](https://bitbucket.org/deeplab/deeplab-public/).\n- A rough version of MIL based Softmax Loss Layer for weakly supervised tasks.\n- Background Weighted SoftmaxLossLayer.\n- Some additional scripts in the folder ./my_script/\n", 
+  "id": 47690874
+}

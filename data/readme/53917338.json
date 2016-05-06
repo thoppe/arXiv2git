@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555011, 
+  "description": "", 
+  "README.md": "Computer simulation of bias in prime tuple from http://arxiv.org/pdf/1603.03720v1.pdf\n\nDependencies: primesieve (5.6.0) (http://primesieve.org)\n\nParameters:\n\n- N: limit value\n\n- q: modulo to be considered\n\n- k: tuple length", 
+  "id": 53917338
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553323, 
+  "description": "Hierarchical Bound-Tracing subhalo finder and merger-tree builder", 
+  "README.md": "The Hierarchical Bound-Tracing subhalo finder and merger tree builder, for numerical simulations in cosmology. HBT tracks haloes since their birth and continues to track them after mergers, finding self-bound structures as subhaloes and record their merger histories as merger trees.\n\nUsage:\n\n--If reading gadget simulation, and you have the FoF halos already output in gadget format as well:\n\n1.Create an parameter file under param/ directory, with name paramMyRun.h. You can find several examples there.\n\n2.set RunName=MyRun in Makefile.runs\n\n3.make\n\n4.modify HBTrun or HBTjob etc. to submit your job.\n\n--If reading other simulation format:\ncreate your own io directory\nchange IODIR to be your own io directory in Makefile.runs\nthen follow the steps above for gadget simulation.\n\n\nThe HBT paper is available at: \nhttp://arxiv.org/pdf/1103.2099\n\nCurrently, limited Documentation and examples can be found under utils/ and io_example/.\n\nContact:\nJiaxin Han\nICC, Durham University\nhanjiaxin #at# gmail.com", 
+  "id": 22785124
+}

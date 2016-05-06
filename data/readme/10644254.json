@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551095, 
+  "description": "knot contact homology computations", 
+  "README.md": "Computes the zeroth, first, and second knot contact homology given a braid word.\n\nhttp://arxiv.org/abs/math/0302099\nhttp://arxiv.org/pdf/math/0303343\nhttp://arxiv.org/pdf/math/0407071", 
+  "id": 10644254
+}

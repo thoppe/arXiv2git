@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552400, 
+  "description": "", 
+  "README.md": "# py-cbow\n\nA very simple implementation of the continuous-bag-of-words model from word2vec [1].\nNeither hierarchical softmax or negative sampling is used during training, meaning\nthat it does not scale to large vocabularies. It is not intended as an actual usable module,\nbut was written purely as an exercise.\n\nThe code is based on the explanations in [2] and with some inspiration from [3].\n\n\n## References\n\n[1] [Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. Efficient estimation of word representations in vector space. *arXiv preprint arXiv:1301.3781*, 2013](http://arxiv.org/abs/1301.3781)\n\n[2] [Xin Rong. word2vec parameter learning explained. *arXiv preprint arXiv:1411.2738*, 2014](http://arxiv.org/abs/1411.2738)\n\n[3] [http://www.folgertkarsdorp.nl/word2vec-an-introduction](http://www.folgertkarsdorp.nl/word2vec-an-introduction)", 
+  "id": 50098902
+}

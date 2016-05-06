@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555479, 
+  "description": "MWA EoR season 1 high band PS paper", 
+  "README.md": "# MWA_EoR_sem1_z7\nMWA EoR season 1 high band PS paper\n\nI'm putting the MWA EoR first season paper on github for collaboration.\n\nA couple things to note:\n- Let's keep everything at top level directory for easy submission.\n- I broke up the text to managable length lines for better version control. \nIf you make small changes, don't worry about maintaining exact line length. \nBut if you add significant text, please keep lines relatively short.\n- Push directly to this repo (no need to fork).\n- I will likely make branches for journal/arxiv submissions, otherwise\nbranches probably won't be necessary.\n- Don't add any of the log or aux files. Don't even add the pdf.\n- BUT! Make sure the code does compile and that you can produce the pdf\nbefore pushing.\n", 
+  "id": 55096471
+}

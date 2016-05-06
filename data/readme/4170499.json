@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549655, 
+  "description": "Arxiv crawler written in python", 
+  "README.md": "arxiv\n=====\n\narxiv crawler and some helpers written in python\n\nexample\n-------\n\n    ids = arxiv.crawl.fetch_ids('hep-th', range(1991, 2013))\n    arxiv.crawl.fetch_raw_abs(ids, outdir='raw_abs')\n    arxiv.crawl.fetch_raw_refs(ids, outdir='raw_ref',\n                               unfetched='unfetched.pickle')\n    refs = arxiv.parse.parse_refs(ids, 'raw_refs')\n    abs = arxiv.parse.parse_abs(ids, 'raw_abs')\n", 
+  "id": 4170499
+}

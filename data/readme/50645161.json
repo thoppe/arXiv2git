@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552542, 
+  "description": "", 
+  "README.md": "forecaster\n==========\n\nForecaster uses a probabilistic mass-radius relation as the underlying model.\n\nIt can forecast mass (radius) given radius (mass) measurements.\n\nThe conversion includes three sources of uncertainties, from measurement, model fitting (MCMC process), and intrinsic dispersion in radius.\n\nSee arXiv:1603.08614 for details. \n\nIf you use it, please cite it.\n\n\n\nUsage\n-----\n\nCheck demo.ipynb for more details.\n\n\nA simple example:\n\n\timport numpy as np\n\timport mr_forecast as mr\n\t\n\t# predict the mean and std of radius given mass measurements\n\n\tRmedian, Rplus, Rminus = mr.Mstat2R(mean=1.0, std=0.1, unit='Earth', sample_size=100)\n\nA simple interactive example:\n    \n    print '=== Forecaster ==='\n    print ' '\n    print 'Example: Radius-to-Mass Conversion (without posteriors)'\n    print ' '\n    print 'Radius = A +/- B [Earth units]'\n    mean = float(raw_input(\"Enter A: \"))\n    std = float(raw_input(\"Enter B: \"))\n\n    # predict the mean and std of radius given mass measurements\n    Mmedian, Mplus, Mminus = mr.Rstat2M(mean, std, unit='Earth', sample_size=1e3, grid_size=1e3)\n    print ' '\n    print 'Mass = ',Mmedian,'+',Mplus,'-',Mminus,' M_earth'\n\n\n\n", 
+  "id": 50645161
+}

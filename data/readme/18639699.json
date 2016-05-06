@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550651, 
+  "description": "", 
+  "README.md": "arxiv\n=====\n* apache2\n  $ APACHE_CONFDIR=/home/aragorn/arxiv/etc/apache2 apache2ctl start\n* starman\n  $ starman --error-log var/log/starman.log --access-log var/log/access.log --daemonize --port 3000 arxiv/www/mojo1\n* morbo\n  $ morbo arxiv/www/mojo1\n  $ morbo -m production -l http://*:3001 arxiv/www/mojo1\n\nTrouble Shooting\n================\n* Can't locate MyCGI.pm in @INC\n  - FindBin does not work under mod_perl with perl 5.18 ?\n \n\n", 
+  "id": 18639699
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555483, 
+  "description": "Find distributions of the final digits of consecutive primes", 
+  "README.md": "Prime last-digit-distribution count\n===================================\n\n\"Unexpected biases in the distribution of consecutive primes\" by Robert J.\nLemke Oliver and Kannan Soundararajan (http://arxiv.org/abs/1603.03720)\nsuggests that for primes ending in a particular digit n, the distribution of\nfinal digits of the next consecutive primes is biased away from n.\n\n## primes.py\nUse: python primes.py <number of primes>\nPrint nested dictionary- keys of the outer dictionary are the last digit of a\nprime, keys of the inner dictionaries are the last digit of the next\nconsecutive prime.\n\n## primes.cpp\nThe \"all\" make target compiles primes.cpp into the application \"primes\".\nUse: ./primes <number of primes>\nPrints a more readable distribution of the first number-of-primes primes.\n", 
+  "id": 54994573
+}

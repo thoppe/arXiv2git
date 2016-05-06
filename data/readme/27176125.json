@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553896, 
+  "description": "Interactive graph-based visualization of topic models", 
+  "README.md": "topicGraph - Interactive Graph-based Topic Model Visualization\n\nBy Samuel Ronnqvist (sronnqvi@abo.fi)\n\nLicense: Creative Commons, Attribution-ShareAlike 4.0 International \n\nFor more information, see: http://arxiv.org/abs/1409.5623\n\nFor academic purposes, please cite:\n\nSamuel Ronnqvist, Xiaolu Wang and Peter Sarlin. Interactive Visual Exploration of Topic Models using Graphs. In Proceedings of the Eurographics Conference on Visualization (EuroVis). 2014. \n\n--- --- ---\n\nThe code base consists of two parts:\n\n1. Python scripts for running topic modeling with LDA and generating graph representation.\n\n2. JavaScript-based visualization of results.\n\n\n", 
+  "id": 27176125
+}

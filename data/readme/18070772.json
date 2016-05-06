@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553485, 
+  "description": "Code related to calculatibility: The optimal scientist (aka Goedel machine), probabilistic lambda-calculus, computational cognitive neuroscience, QECCs (quantum error-correcting codes) etc.", 
+  "README.md": "calculability\n=============\n\nCode related to calculatibility: The optimal scientist (aka Goedel machine), probabilistic lambda-calculus, computational cognitive neuroscience, QECCs (quantum error-correcting codes), etc.\n\nDependencies\n============\nI try to keep the dependencies minimal. Please let me know if you think a dep is superficial. Viz:\n\n- numpy / scipy (of\n- cl-lib.el (get module from http://elpa.gnu.org/packages/cl-lib-0.4.el)\n\nUseful links\n============\n- Diptiman Sen, \"The Kitaev model\": http://theory.tifr.res.in/Research/Seminars/kitaev_talk.pdf\n- Tillich and Zemor, \"Quantum LDPC codes with positive rate and minimum distance proportional to sqrt(n)\":\n  http://arxiv.org/pdf/0903.0566v2.pdf\n- Kovalev and Pryadko, \"Fault-Tolerance of \"Bad\" Quantum Low-Density Parity Check Codes\":\n  http://arxiv.org/pdf/1208.2317v2.pdf\n- Write a Lisp interpreter in less than 90 lines of Python: http://norvig.com/lispy.html\n- Awesome Emacs Lisp animation: http://dantorop.info/project/emacs-animation/lisp4.html\n", 
+  "id": 18070772
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551774, 
+  "description": "Beast 2 plugin implementing the distingished pair Lie Markov models of DNA evolution", 
+  "README.md": "# BeastLieMarkov\nBeast 2 plugin implementing the distingished pair Lie Markov models of DNA evolution\n\nFor a description and discussion of the models see the paper (http://arxiv.org/abs/1412.1525) \n\"A new hierarchy of phylogenetic models consistent with heterogeneous substitution rates\"\nby Michael D. Woodhams, Jesus Fernandez-Sanchez, Jeremy G. Sumner. (At time of writing, this is \nsubmitted to a peer reviewed journal.)\n\nIf you just want to use the plugin, download LMM.addon.v<latest version>.zip (under 'releases') and unpack \nas normal for a Beast2 plugin.\n\nAs well as being a Beast2 plugin, this is intended as a reference implementation of the Lie Markov models. \nFeel free to cut and paste code (LGPL v2.1) or to use this as a guide/comparison to your own implementation.\n\nThank you to Remco Bouckaert for extensive help with the Beast2 integration.\n", 
+  "id": 29444084
+}

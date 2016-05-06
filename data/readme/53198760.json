@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555097, 
+  "description": "Mathematica notebooks for 'A double power series method for approximating cosmological perturbations'", 
+  "README.md": "# Double-power-series\nMathematica notebooks for 'A double power series method for approximating cosmological perturbations' by Andrew J. Wren and Karim A. Malik.  (Available at http://arxiv.org/abs/1603.07577 .)\n\nThe three files all use the same basic Mathematica notebook template.\n", 
+  "id": 53198760
+}

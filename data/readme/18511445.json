@@ -1,0 +1,7 @@
+{
+  "id": 18511445, 
+  "read_at": 1462550762, 
+  "README.txt": "\nNew version of xcrystal and its binary module diff_patt that\nintegrates now bent crystal models (ML multilamellar and PP Penning-Polder). \n\nNow xcrystal_bent becomes obsolete (waiting for the TT module...)\n\nIn addition, a new main proglam \"compliance\" is provided to calculate\ncompliance tensors. It is not interfaced to XOP right now.\n\nsrio@esrf.eu    2014-03-24\n", 
+  "README.md": "\nThis is the source code repository for the crystal code used in xop \n(http://www.esrf.eu/Instrumentation/software/data-analysis/xop2.4)\n\nAbstract:\nThe equations for calculating diffraction profiles for bent crystals are revisited for both meridional and sagittal bending. Two approximated methods for computing diffraction profiles are treated: multilamellar and Penning-Polder. A common treatment of crystal anisotropy is included in these models. The formulation presented is implemented into the XOP package, completing and updating the crystal module that simulates diffraction profiles for perfect, mosaic and now distorted crystals by elastic bending.\n\n\nReference:\nSanchez del Rio, M., Perez-Bocanegra, N., Shi, X., Honkimaki, V. & Zhang, L. (2015). J. Appl. Cryst. 48, 477-491.\nhttp://dx.doi.org/10.1107/S1600576715002782\n(free preprint: http://arxiv.org/abs/1502.03059 )\n\n", 
+  "description": "crystal diffraction (perfect, bent, mosaic crystals in Bragg and Laue geometries)"
+}

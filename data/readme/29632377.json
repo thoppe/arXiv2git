@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551513, 
+  "description": "A Python Implementation of the Deep Speech paper.", 
+  "README.md": "# Python Deep Speech\nA python implementation of the \"Deep Speech: Scaling up end-to-end speech recognition\" Hannun et. al. arXiv:1412.5567v2 [cs.CL]. 2014.\n", 
+  "id": 29632377
+}

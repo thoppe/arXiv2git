@@ -1,0 +1,6 @@
+{
+  "README": "This package of codes is released under GPL v3 license. If you find bug, please let me know via: xinguo2@alumni.cityu.edu.hk \nGuo Xin August 10, 2012\n\nThis package of codes generates Table 2 of the draft \"Towards a Mathematical Foundation of Immunology and Amino Acid Chains\" available at arXiv: http://arxiv.org/abs/1205.6031v2\n\nThe C dynamic library should be compiled in unix-like system (e.g. MacOS, Linux) since POSIX thread tool is used. To compile, just type\n\n$ make\n\nand the Makefile script will finish all the things.\n\nThe file \"reports.Rdata\" is just the output of the codes described at the previous post https://sites.google.com/site/guoxinmath/home/animplementationofthekearnelrlsalgorithmpredictingpeptideaffinities or at github: https://github.com/guoxin/fix.all.imp.git (commit ca26bb88837be1eecb7ea3de445f9982ef950515). However you if you run the codes on your machine you may get slightly different numerical results due to the implementation of your compiler, R version, or something else.\n\nTo generate the computing results, type \n\n$ Rscript generateLip.R\n\nThis package of codes is available and being updated on github https://github.com/guoxin/lip.gen.git.\n", 
+  "read_at": 1462552242, 
+  "description": "", 
+  "id": 5376750
+}

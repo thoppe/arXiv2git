@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554157, 
+  "description": "Winter Study of CVLAB@SNU in Preparation for ECCV 2016", 
+  "README.md": "# Winter Study\nWinter Study of Computer Vision Lab at Seoul National University. \n\nOrganizer: Myungsub Choi, Jiwon Kim\n\nMembers: Jiwon Kim, Myungsub Choi, Jung Kwon Lee, Janghoon Choi (Let Jiwon know if interested to join)\n\n# Plan \n## Conference track\n\n1. ICCV 2015 reading\n2. NIPS 2015 reading\n3. ICLR 2016 (submission) reading\n4. CVPR 2016 (submission) reading \n5. arXiv misc. \n\n\n## ML Study\n### Textbooks (tentatively, up to 16/1/31) \n1. Kevin Murphy, Machine Learning - A Probabilistic Perspective (https://mitpress.mit.edu/books/machine-learning-0)\n2. Ian Goodfellow, Aaron Courville, Yoshua Bengio, Deep Learning (https://goodfeli.github.io/dlbook/)\n\n## Lectures\n\n1. Deep Learning Summer School Videos\n2. CS231n, CS224d\n3. David Silver RL lectures\n4. Oxford Machine Learning Course\n\n\n## Code Practice\n\n### Framework Study\n1. Tensorflow\n2. Torch\n3. Theano\n4. Programming practice - making examples (cf. simple cnn/rnn examples, spatial transformer, etc.)\n\n### Paper Implementation\n\nTODO. What papers to implement?\n\n### Code Survey (Collect Training Examples)\n\nCollect open sources done with decent network training skills\n", 
+  "id": 46254939
+}

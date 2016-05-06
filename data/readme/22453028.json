@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550966, 
+  "description": "Computes weighted rich-club coefficient", 
+  "README.md": "==============================\nWeighted rich-club coefficient\n==============================\n\n\n-Computes a version of the rich-club coefficient, described in (1), that takes into account the weights of graph edges. It uses tools from the NetworkX graph theory package.\n\n-Instead of calculating the coefficient for different levels of k, the algorithm takes as an argument a priori list of \"rich-club\" nodes.\n\n-We normalize the value of the coefficient by comparing it to the average weighted rich-club coefficent of 100 randomly generated graphs of comparable size.\n\nCitations\n=========\n(1) Julian J. McAuley, Luciano da Fontoura Costa, and Tiberio S. Caetano, \"The rich-club phenomenon across complex network hierarchies\", Applied Physics Letters Vol 91 Issue 8, August 2007. http://arxiv.org/abs/physics/0701290\n", 
+  "id": 22453028
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551465, 
+  "description": "Python implementation of permutations based on dictionaries.", 
+  "README.md": "perms-dict\n==========\n\nPython implementation of permutations is presented. \nTwo classes are introduced: *Perm* for permutations, \n*Group* for permutation groups. \nThe class *Perm* is based on Python dictionaries and utilize cycle notation. \nThe methods of calculation for the perm order, parity, ranking and unranking \nare given. A random permutation generation is also shown. \nThe class *Group* is very simple and it is also based on dictionaries. \nIt is mainly the presentation of the permutation groups interface with \nmethods for the group order, subgroups (normalizer, centralizer, center, \nstabilizer), orbits, and several tests.\n\nThe project is moved from *Google Code*.\n\nReferences\n----------\n\n[1] A. Kapanowski, *Python for education: permutations*. \nhttp://arxiv.org/abs/1307.7042 [draft]\n\n[2] A. Kapanowski, The Python Papers 9, 3 (2014). \n*Python for education: permutations*. [final version]\nhttp://ojs.pythonpapers.org/index.php/tpp/article/view/258 \n", 
+  "id": 15111831
+}

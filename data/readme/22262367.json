@@ -1,0 +1,6 @@
+{
+  "README": "The functions in pstv_jcgs.R can be used to reproduce the figures in the article ``Statistical inference on errorfully observed graphs'' by Carey E. Priebe, Daniel L. Sussman, Minh Tang, Joshua T. Vogelstein to appear in the  Journal of Computational and Graphical Statistics.\n\n\nhttp://arxiv.org/abs/1211.3601", 
+  "read_at": 1462550940, 
+  "description": "Code to reproduce figures in \"Statistical inference for errorfully observed graphs\"", 
+  "id": 22262367
+}

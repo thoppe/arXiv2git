@@ -1,0 +1,6 @@
+{
+  "README": "This is a C library for performing calculations in one-dimensional quantum mechanics using the path integral formalism.\n\nFunctions to perform calculations for the quantum harmonic oscillator using first and second order finite difference approximations and two simple source+sink operators are included and errors are estimated using the standard lattice bootstrap method and are presented as \"+/- one standard deviation.\"\n\nTo implement a new action just add it to the metropolis.h/c files following the examples of the QHO with first and second order finite difference approximations. To add new operators do the same in operator.h/c following Gx1 and Gx3.\n\nThe latticereport pdf contains a short introduction to the underlying theory and presents some results obtained with this library.\n\nThis library is based on the outline given in (http://arxiv.org/abs/hep-lat/0506036). It makes use of Makoto Matsumoto's 64 bit implementation of the Mersenne Twister for generating random numbers (http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/emt64.html).\n", 
+  "read_at": 1462552087, 
+  "description": "", 
+  "id": 31069807
+}

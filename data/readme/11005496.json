@@ -1,0 +1,6 @@
+{
+  "README": "v0.9\n\nImplementation of a Python interface to the\ncomputer algebra system Form.\n\nform.py was started by Thomas Reiter and\ndeveloped by Gavin Cullen\n\nThis module contains a class for communication with a\nFORM process through its external channels.\n\nFor it to work you need the .txt file \n'template.frm' kicking around. This allows one to set up the form process.\nIn general how it works is that for every command a simple form process is setup.\nHowever, it can easily be extended to set up more complicated Form processes\nand run them in python.\n\n\nREFERENCES\n\tM. Tentyukov and J.A.M. Vermaseren,\n\t``Extension of the functionality of\n\t  the symbolic program FORM by external\n     software,''\n\tComput. Phys. Commun. 176, 385 (2007)\n\t[arXiv:cs/0604052].\n\n\n\n", 
+  "read_at": 1462551150, 
+  "description": "Python Interface For Form", 
+  "id": 11005496
+}

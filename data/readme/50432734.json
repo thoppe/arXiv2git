@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552562, 
+  "description": "Platforms participating in experiment crowdsourcing, and their features", 
+  "README.md": "Status\r\n======\r\nThis is a relatively stable repository.\r\n\r\nDescription\r\n===========\r\nThis repository contains descriptions of platforms participating\r\nin CK-based crowdsourcing of experiments such as multi-objective\r\nautotuning. Entries are first automatically created at cknowledge.org/repo ,\r\nthen moved here, updated manually by the community to add important\r\nfeatures (required to apply CK-based machine learning techniques\r\nand predict optimizations or gradually model behavior of all programs).\r\n\r\nConcepts described in the following publications\r\n================================================\r\n* http://arxiv.org/abs/1506.06256\r\n* http://bit.ly/ck-date16\r\n* http://arxiv.org/abs/1407.4075\r\n* http://hal.inria.fr/hal-01054763\r\n* https://hal.inria.fr/inria-00436029\r\n\r\nAuthors\r\n=======\r\n* Grigori Fursin, cTuning foundation (France) / dividiti (UK)\r\n\r\nLicense\r\n=======\r\n* BSD, 3-clause\r\n\r\nPrerequisites\r\n=============\r\n* Collective Knowledge Framework: http://github.com/ctuning/ck\r\n\r\nInstallation\r\n============\r\n\r\n> ck pull repo:ck-crowdtuning-platforms\r\n", 
+  "id": 50432734
+}

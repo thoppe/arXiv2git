@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550541, 
+  "description": "Analysis of twitter data from Leeds", 
+  "README.md": "This repository provides example code and data reproduce some\nof the key results in \"Geotagged tweets to inform a spatial interaction model: a case study of museums\",\na paper submitted to [Geo-spatial Information Science](http://www.tandfonline.com/loi/tgsi20).\n\nA\npreprint of this paper that describes the method in more\ndetail and provides context, is available on [arXiv](http://arxiv.org/):\nhttp://arxiv.org/abs/1403.5118\n\nTo run the reproducible code, open R in the directory of this\nrepository (downloaded via the\n[Download ZIP](https://github.com/Robinlovelace/twitter-leeds/archive/master.zip)\nbutton on the right) and run, preferably line by line, the\ncode contained in the \"si-museums.R\" script. \"tfc.R\" needs to\nbe run after this for the callibration code to work.\n", 
+  "id": 13453103
+}

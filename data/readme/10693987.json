@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551068, 
+  "description": "This is a fork of the arxiv-mobile android app from @jdeslip", 
+  "README.md": "arxiv-mobile\n============\n\nThis is a fork of the arxiv-mobile android app from @jdeslip\n\nI tried my best to cobble together the history from [1] and [2].\n\n  [1]: https://code.google.com/p/arxiv-mobile/\n  [2]: https://code.launchpad.net/~jdeslip/arxivdroid/trunk\n\n\nCopyright\n---------\n\nThis code is distributed under the GNU General Public License (GPL), Version 2.0. See COPYING.\n", 
+  "id": 10693987
+}

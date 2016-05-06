@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555473, 
+  "description": "Mapping one embedding space to another", 
+  "README.md": "# EmbeddingMapper\nMapping one embedding space to another\n\n--------------------------------------------\n\nfinished experiments:\n1. imdb -> shakespeare (512 -> 64)\n2. imdb -> imdb (512 -> 64)\n3. imdb -> imdb (512 -> 512)\n4. transfer learning (small vocab -> big vocab)\n\t- 5000 -> 6000 (by freq)\n\t- 5000 -> 6000 (by random sample)\n\t- 5000 -> 10000 (by freq)\n\t- 5000 -> 10000 (by random sample)\n\n\nto experiment:\n- different vocab during training\n\t- vocab right is subset of vocab left\n\t- vocab left is subset of vocab right\n\t- vocab left and right both have uniques\n\n--------------------------------------------\n\nexisting papers: \n- http://arxiv.org/pdf/1309.4168.pdf\n- https://www.reddit.com/r/MachineLearning/comments/3mkmdd/word2vec_in_gensim_how_to_generate_translation/\n\nto read:\n- http://www.aclweb.org/anthology/W14-4015\n- http://www.cs.tau.ac.il/~nachum/papers/jw2v.pdf\n- http://www.cs.ust.hk/~dekai/ssst8/slides/AlkouliGutaNey_Ssst2014_slides.pdf\n", 
+  "id": 53994704
+}

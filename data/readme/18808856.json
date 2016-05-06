@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550765, 
+  "description": "", 
+  "README.txt": "-----------\nDescription\n-----------\n\nThis project implements the decomposition algorithm for triangle-dense graphs\nproposed by Gupta, Roughgarden, and Seshadhri (see arxiv.org/abs/1309.7440) in\nC++. The code was written to read in SNAP datasets (snap.stanford.edu/data), and\noutputs the resulting graph partition. See below for exact input and output\nformats.\n\n-----\nFiles\n-----\n\ngraph.*\n- Handles reading in, storing graphs, and returning basic information about a\n  graph.\n\ndecomposition-graph.*\n- Graph subclass that stores the necessary data structures to run the\n  decomposition algorithm.\n\nclusters.*\n- Handles storage of a partition and printing the resulting partition out to a\n  file.\n\nset-util.*\n- Set intersection and union functions for comparing vertex neighborhoods.\n\ndecompose.cpp\n- Main function\n\n-----\nUsage\n-----\n\nmake\n./decompose graph_file output_file\n\n------------------\nInput Graph Format\n------------------\n\n# This is a comment line.\n# Note that all ids should be 32-bit integers.\nfrom_id1 to_id1\nfrom_id2 to_id2\n...\n\n-----------------------\nOutput Partition Format\n-----------------------\n\ncluster1_node1 cluster1_node2 cluster1_node3 ...\ncluster2_node1 cluster2_node2 cluster2_node3 ...\n...\n", 
+  "id": 18808856
+}

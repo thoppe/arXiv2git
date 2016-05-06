@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550748, 
+  "description": "Implements the algorithm described in \u201cComputing periods of rational integrals\u201d", 
+  "README.md": "Periods\n=======\n\n*Periods* is a package, for the computer algebra system Magma,\nproviding functions to compute periods of rational integrals.\nIt implements the algorithm described in:\nPierre Lairez, \"Computing periods of rational integrals\"\n(on the [arxiv](http://arxiv.org/abs/1404.5069))\n\nSee `misc/apery.m` for some documentation.\n\nWarning\n-------\n\n*This is a very preliminary implementation.*\nIt is clumsily coded, it very probably contains bugs. It is provided *as is*.\n\nDo not hesitate to submit bug report of pull requests.\n\nLicense\n-------\n\n*Periods* is released under the terms of CeCILL license.\nThis license is compatible with the GNU GPL license.\n\nSee the files LICENSE.en or LICENCE.fr for more information.\n\n\n\n\n", 
+  "id": 19202029
+}

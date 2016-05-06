@@ -1,0 +1,6 @@
+{
+  "README": "Fountain Crawler\n================\n\nGeneral Description:\nThis project is a Python crawler for Flickr website. I developed this project in order to mine Flickr website and search for a text query such as \"drinking fountains\" to find all photos with geo-locations which have mentioned the text query as meta-data. This idea is useful for crawling/indexing different hotspots in a city which regular search engines like Google and Yahoo fail to index. Check the following links for a few examples:\n\nhttp://arxiv.org/abs/1202.3504\nhttp://www.kazemjahanbakhsh.com/codes/fountain.html\nhttp://www.kazemjahanbakhsh.com/codes/geocrawler.html\n\nIf you have questions, contact me @ k.jahanbakhsh@gmil.com .\n", 
+  "read_at": 1462552239, 
+  "description": "A Python script to crawl Flickr website to discover and index new locations and places in a city.", 
+  "id": 5579885
+}

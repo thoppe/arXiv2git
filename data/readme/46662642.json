@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554301, 
+  "description": "", 
+  "README.md": "You can find the online demo of this predictor at https://predictors.ai/#/p/Image_Labeler_VGG_S .\n\nThis predictor is based on the example for the python library Lasagne available at https://github.com/Lasagne/Recipes/blob/master/examples/ImageNet%20Pretrained%20Network%20(VGG_S).ipynb\n\nThis example demonstrates using a network pretrained on ImageNet for classification. The model used was converted from the VGG_CNN_S model (http://arxiv.org/abs/1405.3531) in Caffe's Model Zoo.\n\nFor details of the conversion process, see the example notebook \"Usinga Caffe Pretrained Network - CIFAR10\"\n", 
+  "id": 46662642
+}

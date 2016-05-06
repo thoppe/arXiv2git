@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550070, 
+  "description": "Statistical Analysis of Network Data : Overlapping Communities Detection.", 
+  "README.md": "# Overlapping Communities Detection\n\n## Statistical Analysis of Network Data, ENSAE 2015.\n\nTo this project aims at studying algorithms for overlapping community detection, e.g. in social networks.\nDevelopments will be based on the following papers :\n\n_\"Overlapping Communities Detection via Measure Space Embedding\"_, Mark Kozdoba, Shie Mannor\n`http://arxiv.org/pdf/1504.06796v2.pdf`\n\n_\"Leveraging disjoint communities for detecting overlapping community structure\"_, Tanmoy Chakraborty\n`http://arxiv.org/pdf/1504.06608v1.pdf`\n", 
+  "id": 47711169
+}

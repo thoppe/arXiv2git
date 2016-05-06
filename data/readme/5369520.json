@@ -1,0 +1,6 @@
+{
+  "README": "This package of codes are released under GPL v3 license.\nIf you find bug, please let me know via: xinguo2@alumni.cityu.edu.hk\nGuo Xin August 10, 2012\n\nThis package of codes generates Table 3 in the draft\n\"Towards a Mathematical Foundation of Immunology and Amino Acid Chains\"\navailable at arXiv: http://arxiv.org/abs/1205.6031v2\n\nThe C dynamic library should be compiled in unix-like system\n(e.g. MacOS, Linux) since POSIX thread tool is used. To compile,\njust type\n\n$ make\n\nand the Makefile script will finish all the things.\n\nThe main program is the R file \"gen.Tab3.R\" which will output\nan R data package \"reportsPan\" from where the predicted\nbinding affinity can be found. These values are used to generate\nthe Table 1 mentioned above. To run it, try\n\n$ Rscipt gen.Tab3.R\n\nNote that the codes need very much memory (about 50GB) and may take days to finish.\n", 
+  "read_at": 1462552233, 
+  "description": "an implementation of the KearnelRLSPan algorithm predicting peptide affinities", 
+  "id": 5369520
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553428, 
+  "description": "Checks the entries of a bibtex file in the ADS database and updates arXiv preprints if they've been recently published.", 
+  "README.md": "Updates a bibtex file with the most recent info (e.g. if a preprint becomes published in a journal).  Checks the ADS database for most recent bibliographic information.  Currently, each entry must accurately specify the `adsurl`, so it's best if all (old) entries are already taken from the ADS.\n\nRequires:\n- python v2.7+\n- bibtexparser (tested using v0.5.4) [https://bibtexparser.readthedocs.org]\n\n\n# Usage\n\nFrom the command line:\n\n bibupdate.py references.bib\n\n\n# Notes\n\nThe script parses the *.bib file provided by the user and checks each bibtex entry individually.\n\nCurrently, only the `adsurl` field is used to retrieve the article's current bibtex entry.  If this field is not properly specified (does not exist or inaccurate), then the script will not work.\n", 
+  "id": 17795211
+}

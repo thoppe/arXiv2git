@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553855, 
+  "description": "Median Filter: JavaScript benchmarks", 
+  "README.md": "Median Filter\n=============\n\nThis is a JavaScript implementation of the sorting-based\nmedian filter algorithm. The algorithm is described here:\nhttp://arxiv.org/abs/1406.1717\n\nFor C++ and Python implementations, see:\nhttps://github.com/suomela/median-filter\n\n\nLicense\n-------\n\nCopyright (c) 2014, Jukka Suomela.\n\nYou can distribute and use this software under the MIT license:\nhttp://opensource.org/licenses/MIT\n\nTo contact the author, see http://users.ics.aalto.fi/suomela/\n", 
+  "id": 26335279
+}

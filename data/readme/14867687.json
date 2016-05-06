@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551405, 
+  "description": "Matlab toolbox for making audio denoising using several NMF techniques", 
+  "README.md": "NMFdenoiser\n===========\n\nMatlab toolbox for making audio denoising using several NMF techniques.\n\nUSAGE:\nNMFdenoiser(<filename.wav>)\n\nADVANCED USAGE:\nNMFdenoiser(<filename.wav>, params)\nsee params description in NMFdenoiser\n\nINSTALL:\nJust run DEMO, DEMO_SNR or NMFdenoiser root directory.\nThough unnecessary, installing VOICEBOX speech processing toolbox (http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html) is highly recommended!\n\nFor further details please refer to the following paper:\nN. Lyubimov, M. Kotov \"Non-negative Matrix Factorization with Linear\nConstraints for Single-Channel Speech Enhancement\"\n(http://arxiv.org/abs/1309.6047)\n", 
+  "id": 14867687
+}

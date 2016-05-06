@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550946, 
+  "description": "", 
+  "README.md": "SemanticZip\n===========\n\n\nA tool applying the ParagraphVectors construction from [1] to build an automatic summarizer.\nParagraphVectors can naturally be further abstracted to DocumentVectors. Applying some extra\nsupervised learning to a large collection of pre-summarized documents will ideally learn an\nautomatic summarization function. \n\nThere are probably lots of sources of pre-summarized material but I can think of at least \ntwo for which there is definitely public access. First, arxiv.org hosts an enormous\ncollection of academic articles, each of which is equipped with an abstract. Second, most\nmodern newspaper articles are writtin with an \"inverted pyramid\" structure so that the first\nparagraph is little more than a summary of the rest of the story. This isn't as perfect of a\ndata source as the arxiv but could work in a pinch.\n\nProject on hold for now.\n\n\n[1] [Distributed Representations of Sentences and Documents, Quoc V. Le, Tomas Mikolov](http://arxiv.org/abs/1405.4053)\n", 
+  "id": 21918714
+}

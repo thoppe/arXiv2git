@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549938, 
+  "description": "arxiv scraper", 
+  "README.md": "quick scripts to pull from titles, authors, abstracts arxiv and make some plots\n- change config.py\n- `python collect.py; python combine.py; python clean.py; python authors.py`\n- After running above, can do `python markov.py` to make some markov chain sentences\n- (Requires `pip install markovify`)\n", 
+  "id": 48822317
+}

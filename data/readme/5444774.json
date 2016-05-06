@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552224, 
+  "description": "Code for our MWU MKL library", 
+  "README.md": "mwu-mkl\n=======\n\nCode for our MWU MKL library\n\nSee paper at http://arxiv.org/abs/1206.5580\n\nTo compile, enter the mwu_native_cpp directory and run \"make library\".", 
+  "id": 5444774
+}

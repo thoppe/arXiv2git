@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550734, 
+  "description": "A simple, small toolbox for estimating parameters in ODE-based models.", 
+  "README.md": "SysBio_Modeling\n===============\n\nA simple, small toolbox for estimating parameters in ODE-based models.  The main usecase is to estimate parameters in models where parameters depend heavily on experiment-specific settings.\n\nFeatures:\n---------\n - Assimulo (http://www.jmodelica.org/assimulo, in progress) and SciPy for numerical integration of differential equations.\n\n - SymPy for automatic derivation of forward sensitivity equations, useful when doing gradient-based optimization.\n\n - SciPy (http://www.scipy.org/), nlopt (http://ab-initio.mit.edu/wiki/index.php/NLopt), and geo_lsqt (http://arxiv.org/abs/1201.5885) for optimization and parameter estimation.\n\n - matplotlib for plotting and visualization.\n\nHeavily inspired from sloppycell (Sethna group).\n", 
+  "id": 18407545
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550004, 
+  "description": "Theano implementation of the Neural GPU", 
+  "README.md": "# Neural GPU\n\nTheano implementation of Neural GPUs [1].\n\n#### References\n> [1] Lukasz Kaiser, Ilya Sutskever, *Neural GPUs Learn Algorithms* [[arXiv:1511.08228](http://arxiv.org/abs/1511.08228)]\n", 
+  "id": 48110916
+}

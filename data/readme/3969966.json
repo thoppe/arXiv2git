@@ -1,0 +1,6 @@
+{
+  "README": "Everything in this repository is (c) 2012 Brendon J. Brewer.\nIt is distrubuted under the terms of the GNU General Public Licence\nVersion 3 (see the LICENCE file).\n\nIf you find this useful, please cite the following paper:\n\nBrewer, B. J. 2008. Getting Your Eye In: A Bayesian Analysis of Early Dismissals in Cricket. ArXiv e-print, arXiv:0801.4408.\n\nNote that the model implemented in this code is not the same as the model in that paper, but it is similar in spirit.\n\nDependencies (and the version I used for development)\n\nPython\t\t2.7.2\nNumpy\t\t1.6.1\nMatplotlib\t1.1.0\nBeautifulSoup4 and Html5lib (optional - for fetching data from web)\n\nCONTRIBUTORS:\n\nJ. Berian James (UC Berkeley)\n\n", 
+  "read_at": 1462549726, 
+  "description": "Hazard function inference for batsmen", 
+  "id": 3969966
+}

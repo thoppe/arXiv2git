@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550058, 
+  "description": "Java Implementation for kmeans corest", 
+  "README.md": "# Java-KMeans-Coreset\nJava Implementation for kmeans corest\n\nIf you using this repository to run your own benchmarks, please consider to refer the paper:\n\n  ```title={$ k $-Means for Streaming and Distributed Big Sparse Data},\n  author={Barger, Artem and Feldman, Dan},\n  journal={arXiv preprint arXiv:1511.08990},\n  year={2015}}```\n", 
+  "id": 48300068
+}

@@ -1,0 +1,6 @@
+{
+  "README": "jsderiv is a parser generator written in server-side javascript\n\nthe parser uses parser derivatives described in:\nhttp://www.ccs.neu.edu/home/turon/re-deriv.pdf\nhttp://arxiv.org/PS_cache/arxiv/pdf/1010/1010.5023v1.pdf\n\njsderiv is work in progress\n\n", 
+  "read_at": 1462552173, 
+  "description": "Parser Generator in Server-Side JavaScript", 
+  "id": 2222924
+}

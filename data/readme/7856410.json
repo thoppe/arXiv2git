@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551290, 
+  "description": "Temporary repo for testing AMPL NL interface", 
+  "README.md": "NLTester\n========\n\nCode for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling.\n\nThese benchmarks were used in the paper \"Computing in Operations Research using Julia\", by M. Lubin and I. Dunning, [arXiv 1312.1431](http://arxiv.org/abs/1312.1431).\n\n", 
+  "id": 7856410
+}

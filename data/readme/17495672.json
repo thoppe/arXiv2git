@@ -1,0 +1,6 @@
+{
+  "README": "Python library to calculate the index of refraction of air in the near infrared.\n\nThis library offers two models to calculate the index of refraction. The first is a simple equation from Henry Roe's paper (http://arxiv.org/pdf/astro-ph/0201273v1.pdf). Its implementation is named nRoe. The next is a multivariable Taylor expansion from Richard Mather (http://arxiv.org/pdf/physics/0610256v2.pdf). Its implementation is named nMather. \n\nWhile I did not find an explicit range of valid wavelengths for Roe's equation, Mather's equation is only valid between 1.3 and 2.5 microns. \n\nAlso included is a python script that plots a comparison of these two equtions. They agree up to a precision of 1E-7.\n", 
+  "read_at": 1462553490, 
+  "description": "Index of refraction of air in the near IR", 
+  "id": 17495672
+}

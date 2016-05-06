@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553905, 
+  "description": "MuMag standard problem #4 in 70 lines of Python", 
+  "README.md": "70 lines of NumPy\n=================\n\nThis code solves the MuMag standard problem #4 in less than 70 lines of pure\nPython without counting empty lines and comments :). The code makes largely\nuse of the NumPy library and computes the exchange field by finite differences\nand the demagnetization field with a fast convolution algorithm. Since the\nmagnetization in finite-difference micromagnetics is represented by a\nmulti-dimensional array and the NumPy library features a rich interface for\nthis data structure, the presented code is a good starting point for the\ndevelopment of novel algorithms.\n\nA detailed description of the code can be found here: http://arxiv.org/abs/1411.7188\n", 
+  "id": 27165841
+}

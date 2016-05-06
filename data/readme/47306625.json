@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550194, 
+  "description": "Torch implementation of spatial max feature map", 
+  "README.md": "# SpatialMaxFeatureMap\n\nTorch implementation of the spatial max feature map layer described in Xiang Wu, Ran He, Zhenan Sun **A Lightened CNN for Deep Face Representation**\nhttp://arxiv.org/abs/1511.02683 \n\nInstall:\n\n```shell\n$ luarocks install https://github.com/richardhahahaha/SpatialMaxFeatureMap/raw/master/spatialmaxfeaturemap-scm-1.rockspec\n```\n\nExamples:\n\n```lua\n\nrequire\"nn\" \nrequire\"spatialmaxfeaturemap\"\n\nm=nn.SpatialMaxFeatureMap(2)\n\nX=torch.randn(3,4,3,2)\nprint(X[3], m(X)[3])\n\n```\nThe output is:\n```\n(1,.,.) = \n -0.6997 -1.9338\n -1.4314 -1.4688\n -0.0060  0.1059\n\n(2,.,.) = \n  0.1561  0.7453\n  1.5406 -1.4663\n  0.1656  0.4614\n\n(3,.,.) = \n  0.8322  1.2153\n  1.7452  1.4126\n  1.0120  0.1972\n\n(4,.,.) = \n  0.9815  0.2779\n  1.8398 -2.0486\n -0.5690  0.9355\n[torch.FloatTensor of size 4x3x2]\n\n(1,.,.) = \n  0.8322  1.2153\n  1.7452  1.4126\n  1.0120  0.1972\n\n(2,.,.) = \n  0.9815  0.7453\n  1.8398 -1.4663\n  0.1656  0.9355\n[torch.FloatTensor of size 2x3x2]\n```\n", 
+  "id": 47306625
+}

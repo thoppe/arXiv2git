@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551778, 
+  "description": "Approximate Computation of Joint Stationary Probability for Exponentially Delayed Arrivals (EDA)", 
+  "README.md": "# EDA\nApproximate Computation of Joint Stationary Probability for Exponentially Delayed Arrivals (EDA)\n\n## Overview\nThe code in this repository generates the figures appearing on [1].\n\n* **plotBound.py** Figure 2 and Table 1 \n* **condno_rhoq.py** Figure 3\n* **condno_alpha.py** Figure 4\n* **mtxspy.py** Figure 5\n\n## Dependencies\n1. numpy 1.9.1\n2. scipy 0.15.1\n3. matplotlib 1.4.2\n4. mpmath 0.19\n\n## Caveat\nThe parameter **ALPHA** is set to **100** in many of the scripts. This value guarantees that the a priori error on the approximate stationary distribution is small for **rho** and **q** smaller than **0.98**.\n\nThe computational time for **ALPHA = 100** (and especially the amount of memory required) is quite large, so increasing **ALPHA** is not recommended.\n\n## References\n[1] C. Lancia, G. Guadagni, S. Ndreca, and B. Scoppola. Advances on the Late Arrivals Problem. *arXiv preprint [1302.1999](http://arxiv.org/abs/1302.1999)*, 2015.", 
+  "id": 29473907
+}

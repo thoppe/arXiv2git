@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555009, 
+  "description": "adaptation/extension of Dustin Lang's unWISE coadd code", 
+  "README.md": "# unwise-coadds\nUnofficial coadds of the WISE mid-infrared satellite imaging\n\nDescribed in http://arxiv.org/abs/1405.0308 (source at https://github.com/dstndstn/unwise-paper)\nand results available from http://unwise.me\n\n", 
+  "id": 53089833
+}

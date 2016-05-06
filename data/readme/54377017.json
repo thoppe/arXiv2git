@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554924, 
+  "description": "", 
+  "README.md": "# Inception_v3_GoogLeNet\nImplementation of Inception v3 in Caffe\n\nTraining and testing prototxt for Google Inception_v3 New Model\n\nNetwork architecture was presented in :\nChristian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, Zbigniew Wojna, \"Rethinking the Inception Architecture for Computer Vision\", http://arxiv.org/abs/1512.00567\n\nImplemented using Batch Normalization and Parametric rectified linear Unit (PReLU)\n", 
+  "id": 54377017
+}

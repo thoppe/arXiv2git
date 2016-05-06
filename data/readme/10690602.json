@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551070, 
+  "description": "LPeg version 1.0 Parser in pure LuaJIT", 
+  "README.md": "LPegLJ v1.0\n=============\n\nLPeg Parser in pure LuaJIT  \n(straight Lua + FFI translation of LPeg C code)   \nbased on LPeg v1.0 - PEG pattern matching for Lua  \nLua.org & PUC-Rio  written by Roberto Ierusalimschy  \nhttp://www.inf.puc-rio.br/~roberto/lpeg/\n\nleft recursion support is based on Sergio Medeiros algorithm\nhttp://arxiv.org/abs/1207.0443\n\n### Usage:  \n```Lua\nlocal lpeglj = require\"lpeglj\"  \nlocal pattern = lpeglj.P(\"a\") \n-- then:\nlpeglj.match(pattern, \"a\") \n-- or, equivalently:  \npattern:match(\"a\")  \n```\n\n### Compatibility:\n\n- full syntactical and functional backward compatibility with LPeg v1.0\n- works only with LuaJIT 2.x  \n\n### Differences from LPeg v1.0:\n\nDescription in doc/USAGE.md\n\n- LPegLJ supports direct and indirect left recursion based on Sergio Medeiros algorithm (http://arxiv.org/abs/1207.0443)\n- patterns can be saved and loaded\n- supports memoization (restricted) - useful for complex grammars\n- can be used in stream mode (infinite parsing)\n- VM action runtime listing (tracing) for debugging purposes\n", 
+  "id": 10690602
+}

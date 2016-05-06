@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549993, 
+  "description": "Modeling the Skip Thoughts Paper http://arxiv.org/pdf/1506.06726v1.pdf in Keras", 
+  "README.md": "# Sequence-To-Sequence-Generation-Skip-Thoughts-\n\n\nWarning: This Code is not perfect in any regards. This is posted as it needs considerable help. \n\nSome code is borrowed from Keras Examples and wildml.com. \n\nhttps://github.com/fchollet/keras/tree/master/examples\n\nhttp://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/\n", 
+  "id": 47168049
+}

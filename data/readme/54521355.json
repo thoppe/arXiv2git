@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555129, 
+  "description": "Implementation of deep residual networks with inception bottleneck in Lasagne", 
+  "README.md": "# Deep-Residual-Network\nImplementation of deep residual networks with inception bottleneck in Lasagne\n\nKaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, \"Identity Mappings in Deep Residual Networks\", http://arxiv.org/abs/1603.05027\n\nImplemented various bottleneck architecture, dropout bottleneck etc\nProposed new bootleneck architecture using modified Inception module\n\n## Usage\n \n `THEANO_FLAGS=device=gpu0,floatX=float32 python resnetcifar.py [options]`\n", 
+  "id": 54521355
+}

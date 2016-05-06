@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551448, 
+  "description": "Patent collaboration network visualizer", 
+  "README.md": "PatViz\n======\n\nPatent collaboration network visualizer. \n\nSee <http://arxiv.org/abs/1401.2778> for a draft of the paper describing this work.\n\n#### Installation instructions\n\n* Go to [the releases page](http://github.com/Data2Semantics/PatViz/releases) and have a look at the latest release.\n* Click on the \"Source code (zip)\" or \"Source code (tar.gz)\" button to download PatViz.\n* Unzip the downloaded file to a location of your choice.\n* Double click \"index.html\" to open PatViz in your browser\n\n#### Live version\n\nA live version of PatViz is running on <http://data2semantics.github.io/PatViz>.\n", 
+  "id": 15285354
+}

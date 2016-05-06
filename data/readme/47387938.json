@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550067, 
+  "description": "A python implementation of Notakto", 
+  "README.md": "# notakto\nA python implementation of Notakto\n\nBased on the game explained in this Numberphile episode: https://www.youtube.com/watch?v=h09XU8t8eUM\n\nImplementing the algorithm explained in this paper: http://arxiv.org/pdf/1301.1672v1.pdf\n", 
+  "id": 47387938
+}

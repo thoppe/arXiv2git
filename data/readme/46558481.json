@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554270, 
+  "description": "Enumerative combinatoric methods to compute constrained k-resolutions of n", 
+  "README.md": "Python 2.7.5. Lib: scipy, itertools, nose, numpy, time.\n\n==========================================\nCounting sub-multisets of fixed cardinality\n==========================================\n\nCode related to http://arxiv.org/abs/1511.06142 .\n\n'utils' folder contains methods to compute k-resolutions.\n\n'see' folder contain some examples of computations of k-resolutions.\n\n'test' folder contains tests (nosetest).\n\n\n Any collaboration, improvement or suggestion is welcome.", 
+  "id": 46558481
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552028, 
+  "description": "General implementation of diagram semigroups based on partitioned binary relations.", 
+  "README.md": "# kigen\nGeneral implementation of diagram semigroups based on partitioned binary relations (as defined in http://arxiv.org/abs/1102.0862).\n\nGoals:\n\n1. To serve as a recomputation tool for existing diagram semigroup packages, e.g. Semigroups, SgpDec, SubSemi of GAP.\n2. To be minimalistic by implementing only the most general diagram representation, the partitioned binary relations.\n3. Establish more transparent correctness of semigroup algorithms.\n4. Have fun with a great programming language: Clojure.\n5. Incidentally, once in Clojure, we can use parallelism tools.\n\nNon-Goals:\n\n1. Speed - by definition no optimized representations for transformations, permutations. \n2. Replacing existing  semigroup packages.\n\nkigen - origin in Japanese\n", 
+  "id": 30452190
+}

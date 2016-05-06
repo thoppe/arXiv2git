@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552075, 
+  "description": "Recovery of Sparse Matrix in O(N) via Compressed Sensing Techniques", 
+  "README.md": "# CompressedSensing\nRecovery of Sparse Matrix in O(N) via Compressed Sensing Techniques\n\n# Background\nhttp://arxiv.org/pdf/1410.4848v1.pdf\n\n\n![alt tag](https://raw.githubusercontent.com/twhughes/CompressedSensing/master/example.png)\n\n# Brief Explanation:\n\nYou have a sparse matrix (top left picture) that you are trying to measure\n\nInstead of sampling the matrix directly (O(N^2) running time), instead sample the same matrix in a basis that is more dense, then transform back into sparse basis (top right picture).  This takes O(N) to sample to arbitrary precision\n\nCode plots number of iterations needed to get to arbitrary accuracy vs. sparsity of matrix (bottom left pictire)\n\nAverage of N runs (bottom right)\n\nRed dotted line is amount of iterations needed if you were sampling the sparse matrix directly (sampling all elements)\n\nGreen line is the amount of sampling you would need to do if you knew, a priori, which elements were non-zero.\n\n(Improvement with this method can be quantified by difference between blue line and red dotted line)\n\nAs seen, it works best for very sparse matrices.\n\n", 
+  "id": 30730678
+}

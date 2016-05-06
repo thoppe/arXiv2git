@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554213, 
+  "description": "Sources + Input of the benchmarks used for the Adapt16 paper.", 
+  "Readme.md": "# Adapt2016\n\n\nBenchmarks and input used for the adapt submission.\nHotFunctions are extracted so they can separately compiled.\n\nFor more information,  please refer to the experimental setup.\n\nhttp://arxiv.org/abs/1511.02603\n", 
+  "id": 46531888
+}

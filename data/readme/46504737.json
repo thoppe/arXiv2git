@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554064, 
+  "description": "Implementation of http://arxiv.org/abs/1511.05641 that lets one build a larger net starting from a smaller one.", 
+  "README.md": "# Torch implementation of [Net2Net: Accelerating Learning via Knowledge Transfer by Chen, Goodfellow, Shlens](http://arxiv.org/abs/1511.05641)\n\n- Proof of concept with unit tests\n- Does not handle batchnorm cases yet\n\n```lua\nn2n = require 'net2net'\n\n-- net  = network\n-- pos1 = position at which one has to widen the output\n-- pos2 = position at which the next weight layer is present\n-- newWidth   = new width of the layer\nn2n.wider(net, pos1, pos2, newWidth)\n\n-- pos = position at which the layer has to be deepened\n-- nonlin = type of non-linearity to insert\nn2n.deeper(net, pos, nonlin)\n```\n\nExample usage in test.lua\n\n\n\n", 
+  "id": 46504737
+}

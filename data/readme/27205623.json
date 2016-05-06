@@ -1,0 +1,6 @@
+{
+  "README": "Training the K-Sparse Autoencoder [1]:\nhttp://nbviewer.ipython.org/github/makhzani/convnet/blob/master/K-Sparse%20Autoencoder.ipynb\n\nTraining the Winner-Take-All Autoencoder [2]:\nhttp://nbviewer.ipython.org/github/makhzani/convnet/blob/master/Winner-Take-All%20Autoencoder.ipynb\n\n\n[1] http://arxiv.org/abs/1312.5663\n[2] http://arxiv.org/abs/1409.2752\n\n", 
+  "read_at": 1462553717, 
+  "description": "", 
+  "id": 27205623
+}

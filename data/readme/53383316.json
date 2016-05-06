@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554926, 
+  "description": "code for Stacked attention networks for image question answering", 
+  "README.md": "# imageqa-san\nSource code for\n[Stacked attention networks for image question answering](http://arxiv.org/abs/1511.02274).\n\nJoint collaboration between CMU and MSR.\n\n## Dependencies\nThe code is in python and uses Theano package.\n- Python 2.7\n- Theano\n- Numpy\n- h5py\n\n\n## Usage\nDownload the data from [here](https://drive.google.com/file/d/0BxWe_IuTnMFcUHBhTnFHbzEzaDA/view?usp=sharing) and extract them at ```data_vqa``` folder.\n```\ncd src; python san_att_conv_twolayer.py\n```\nto start training.\n\n## Reference\nIf you use this code as part of your research, please cite our paper\n\n**''Stacked Attention Netowrks for Image Question Answering''**,\nZichao Yang, Xiaodong He, Jianfeng Gao, Li Deng and Alex Smola.\nTo appear in CVPR 2016.\n\n```\n@article{YangHGDS15,\nauthor    = {Zichao Yang and\nXiaodong He and\nJianfeng Gao and\nLi Deng and\nAlexander J. Smola},\ntitle     = {Stacked Attention Networks for Image Question Answering},\njournal   = {CoRR},\nvolume    = {abs/1511.02274},\nyear      = {2015},\nurl       = {http://arxiv.org/abs/1511.02274},\n}\n```\n", 
+  "id": 53383316
+}

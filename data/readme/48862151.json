@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550118, 
+  "description": "", 
+  "README.md": "\nRight Whale Recognition\n=======================\n\nCode for Kaggle whale recognition challenge.\n\n- `Lasagne Classifier.ipynb`\n\n  Conversion of Anil's code to Lasagne, adds zoom and gamma data augmentation. Requires merging https://github.com/f0k/Lasagne/tree/batchnorm\n\n- `Lasagne Classifier - Tweaked.ipynb`\n\n  Lasagne classifier with some network architecture changes. Seems to train faster and possibly a little better.\n\n- `Lasagne Localizer.ipynb`\n  \n  Lasagne localizer based on recombinator network (http://arxiv.org/abs/1511.07356). Very experimental, needs validation and tuning.\n\n- `testpoints` \n  \n   Bonnet/Blowhole annotation files for the test images\n", 
+  "id": 48862151
+}

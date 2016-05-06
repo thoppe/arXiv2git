@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552526, 
+  "description": "Roaring bitmaps for OCaml", 
+  "README.md": "# ocaml-roaring\nRoaring bitmaps for OCaml\n\n### Description\nocaml-roaring provides bindings (via ctypes) to [CRoaring](https://github.com/RoaringBitmap/CRoaring).\nRoaring bitmaps are a compressed bitmap data structure not unlike WAH or EWAH bitmaps.\n\n### References:\n- http://roaringbitmap.org/\n- http://arxiv.org/abs/1402.6407\n\n#### License: Apache 2.0\n", 
+  "id": 49546956
+}

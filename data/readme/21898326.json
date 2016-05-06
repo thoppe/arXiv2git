@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550931, 
+  "description": "Torch NN module for Class Model Visualisations", 
+  "README.md": "ClassModel\n==========\n\nImplementation of Class Model Visualisation as described in:\nSimonyan, K., Vedaldi, A., & Zisserman, A. (2013). Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps. arXiv Preprint arXiv:1312.6034, 1-8. Computer Vision and Pattern Recognition.\n\nCode partially based on https://github.com/torch/nn/blob/master/Sequential.lua\n\nExamples\n--------\n\nMnist example requires files from: https://github.com/e-lab/torch7-demos/tree/master/train-a-digit-classifier\n\nTrain the digit classifier and run the 'learnclassmodel.lua' with '-network logs/mnist.net'.\n", 
+  "id": 21898326
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549833, 
+  "description": "(Endpoint+Query) analysis code for YASGUI journal paper", 
+  "README.md": "YasguiAnalysis\n==============\n\n(Endpoint+Query) analysis code for YASGUI journal paper\n\nThe query analysis part is based on code from [1], and not included in this repo: I promised to keep this part of my analysis private\n\n[1]: Arias, M., Fernandez, J. D., Martinez-Prieto, M. A., & de la Fuente, P. (2011). An empirical study of real-world SPARQL queries. arXiv preprint arXiv:1103.5043.\n", 
+  "id": 13059917
+}

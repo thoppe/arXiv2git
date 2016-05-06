@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551944, 
+  "description": "A simple c++ implementation of the (anti)kt jet clustering algorithm", 
+  "README.md": "A simple C++ implementation of (anti)kt jet clustering algorithm as published in http://arxiv.org/abs/hep-ph/0210022\n\n", 
+  "id": 30891706
+}

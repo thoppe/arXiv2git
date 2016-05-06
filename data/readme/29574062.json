@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551604, 
+  "description": "PCANet_Classification_added", 
+  "README.md": "PCANet\n======\n\nrewrite the matlab code of pcanet into c++ and using openmp to reduce the run time.\n\n\nPCANet: A Simple Deep Learning Baseline for Image Classification?\n\npaper pdf download: http://arxiv.org/pdf/1404.3606v1.pdf\n", 
+  "id": 29574062
+}

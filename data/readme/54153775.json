@@ -1,0 +1,7 @@
+{
+  "id": 54153775, 
+  "read_at": 1462555117, 
+  "readme.md": "# Fisher Matrix Suite#\n### What is this repository for? ###\n\n* Compute fisher matrix estimation using CMB E,T,Lensing\n* 2.0 Used to produce data for http://arxiv.org/abs/1512.02654\n\n### How do I get set up? ###\n\n* Configuration\n* Dependencies: the usual numPy SciPy etc. And you need a working CAMB installed.\n* How to run tests\n\n### Contact ###\n\n* A. Manzotti", 
+  "README.md": "# Fisher Matrix Suite#\n### What is this repository for? ###\n\n* Compute fisher matrix estimation using CMB E,T,Lensing\n* 2.0 Used to produce data for http://arxiv.org/abs/1512.02654\n\n### How do I get set up? ###\n\n* Configuration\n* Dependencies: the usual numPy SciPy etc. And you need a working CAMB installed.\n* How to run tests\n\n### Contact ###\n\n* A. Manzotti", 
+  "description": ""
+}

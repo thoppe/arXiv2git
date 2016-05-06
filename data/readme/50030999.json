@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552553, 
+  "description": "Higher-order tensor renormalization group algorithm in C++ ", 
+  "README.md": "# HoTRG\n\nThis code is a C++ implementation of the HOTRG algorithm based on the article: \n\nCoarse-graining renormalization by higher-order singular value decomposition\nPhys. Rev. B 86, 045139 (2012), http://arxiv.org/abs/1201.1144v4 \n\nFor linear algebra (Singular Value Decomposition (SVD) in particular), \nEigen library (3.2.7) is called. \n\nThis code is parallelized by OpenMP. \n\nCompilation under Mac: \n\ng++ -m64 -O3 -fopenmp -I/.../Eigen main.cpp -o main.x\n", 
+  "id": 50030999
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555002, 
+  "description": "", 
+  "README.md": "# Memory Networks\n\nThis project aims to reproduce the results of :\n\nWeston, Jason, Sumit Chopra, and Antoine Bordes. \"Memory networks.\" arXiv preprint arXiv:1410.3916 (2014).\n\nlink: http://arxiv.org/pdf/1410.3916v11.pdf\n\n\n![Memory Network general structure graph](https://www.dropbox.com/s/nrurp33pzkvy8eu/memn_structure.svg?dl=1)\n\n\nYou can download the data here: https://www.dropbox.com/s/q1u846xlit7w7ty/answers.wikia.p?dl=1\n\n* put the corpusfile in a new folder\n* run main.load_configuration() once, this will create a configration file: memory-networks.cfg\n* fit the corpus path in the configuration file\n* see: main.example() or run: \"python create_corpus.py load loop\"\n", 
+  "id": 54406082
+}

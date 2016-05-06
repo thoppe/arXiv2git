@@ -1,0 +1,5 @@
+{
+  "read_at": 1462551403, 
+  "description": "reproduction of mnist experiments from http://arxiv.org/abs/1301.3342 using the bh_tsne code from http://homepage.tudelft.nl/19j49/t-SNE.html. i use common lisp to import the mnist data", 
+  "id": 15048169
+}

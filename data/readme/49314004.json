@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552436, 
+  "description": "scikit-learn spam filter ", 
+  "readme.md": "## Scikit-learn Spam Filter\n\nhttp://ats.cs.ut.ee/u/kt/hw/spam/spam.pdf\nhttp://arxiv.org/pdf/cs/0008019.pdf\n\ndataset:\nhttp://www.csmining.org/index.php/pu1-and-pu123a-datasets.html\n\n", 
+  "id": 49314004
+}

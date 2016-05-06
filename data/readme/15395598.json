@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551427, 
+  "description": "a library for manipulating tensor network's for quantum spin systems", 
+  "README.md": "TnetLibs\n====\n## Usage and Code structure\n\nCurrently there are two libraries for performing the calculation of\nternary MERA (according to\n[arXiv:0707.1454](http://arxiv.org/abs/0707.1454)) and iDMRG\n(according to [arXiv:0804.2509](http://arxiv.org/abs/0804.2509)). For\na simple example for both of them, take a look at `example.cpp`.\n\n## compiling\n\nfor compiling just run:\n\n```bash\n$ make\n```\n\nThis will make a `ex` *executable* file and two shared libraries,\n`libtmera.so` and `libidmrg.so`.\n\n### dependencies\n\n1. [armadillo](http://arma.sourceforge.net/) must be in LIBRARY_PATH. Note that the libraries only compile with armadillo 4 up.\n", 
+  "id": 15395598
+}

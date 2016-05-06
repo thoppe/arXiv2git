@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553102, 
+  "description": "Code for http://saliency.mit.edu/", 
+  "README.md": "Various code related to the MIT saliency benchmark website http://saliency.mit.edu will be found here. \nPlease contact saliency@mit.edu with any questions.\nIf you use any of this code, please cite: \n<pre>\n@misc{mit-saliency-benchmark,\n  author       = {Zoya Bylinskii and Tilke Judd and Fr{\\'e}do Durand and Aude Oliva and Antonio Torralba},\n  title        = {MIT Saliency Benchmark},\n  howpublished = {http://saliency.mit.edu/}\n}\n</pre>\n\n<pre>\n@article{salMetrics_Bylinskii,\n    title    = {What do different evaluation metrics tell us about saliency models?},\n    author   = {Zoya Bylinskii and Tilke Judd and Aude Oliva and Antonio Torralba and Fr{\\'e}do Durand},\n    journal  = {arXiv preprint arXiv:1604.03605},\n    year     = {2016}\n}\n</pre>\n \n", 
+  "id": 22878404
+}

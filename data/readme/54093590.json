@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554910, 
+  "description": "BLEU score for the evaluation of Response Generation", 
+  "README.md": "# BLEU\n\nBLEU score for the evaluation of MT\nCalculate BLEU score:\nPapineni, Kishore, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002.\n\"BLEU: a method for automatic evaluation of machine translation.\" \nIn Proceedings of ACL. http://www.aclweb.org/anthology/P02-1040.pdf\n\n\ndeltaBLEU score for the evaluation of Response Generation\nCalculate BLEU score:\nGalley M, Brockett C, Sordoni A, et al. \n\"deltaBLEU: A Discriminative Metric for Generation Tasks with Intrinsically Diverse Targets\". \narXiv preprint arXiv:1506.06863, 2015.\nhttp://arxiv.org/abs/1506.06863\n", 
+  "id": 54093590
+}

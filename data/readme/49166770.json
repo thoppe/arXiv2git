@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552300, 
+  "description": "A Faster Pseudopolynomial Time Algorithm for Subset Sum http://arxiv.org/pdf/1507.02318v1.pdf", 
+  "README.md": "### A Faster Pseudopolynomial Time Algorithm for Subset Sum\n\nJava implementation of SubsetSum algorithm described here: http://arxiv.org/pdf/1507.02318v1.pdf\n\nSome experiments can be found [here](https://docs.google.com/spreadsheets/d/1lamswVUOoZZo4v-frodPNhA3Y5I8Ke5IyOy-EkytNLw/edit?usp=sharing)\n", 
+  "id": 49166770
+}

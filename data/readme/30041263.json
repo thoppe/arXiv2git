@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551670, 
+  "description": "", 
+  "README.md": "(More) Efficient Reinforcement Learning via Posterior Sampling\n==========================\n*Ian Osband, Dan Russo and Ben Van Roy*\n\n- NIPS 2013 - accepted for poster presentation\n- [arXiv link](http://arxiv.org/abs/1306.0940)\n\n\nA git repository to manage the paper submission/revision process.\n\n## Organization\n\n- `code/` - contains all the MATLAB code used in simulation for the paper.\n- `presentation/` - posters/slideshows for presentation.\n- `submission/` - keep the final pdf formats for camera-ready.\n- `writeup/` - source .tex and place the write the paper\n", 
+  "id": 30041263
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552331, 
+  "description": "Simple implementation of CoveringLSH", 
+  "README.md": "# coveringLSH\nSimple implementation of CoveringLSH.\n\nThe theory behind the implementation is described in http://arxiv.org/abs/1507.03225\n", 
+  "id": 49215130
+}

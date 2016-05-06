@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551365, 
+  "description": "Auto arXiv scans", 
+  "README.txt": "This program is to automatically check the arXiv for papers that may be of interest.\n\nIt reads in two files: \n    (1) keywords.txt which contains a list of all words or phrases \n        you want to search for, and\n    (2) arxivPages.txt which contains the list of arXiv pages you \n        wish to search in.\n        \nThe keywords will be searched for within the title, author and abstract fields\nof every paper on each arxiv page on the *present day*.\nThis code can be called from a script which automatically runs it every morning\nand creates a file on your desktop.\n\n\n\nThe java files are:\n    (1) Paper.java just holds a \"Paper\" object which consists of the fields title,\n        authors, link and abstract\n    (2) CheckPage.java which holds one large and ugly method to take an URL for an\n        arxiv page and the list of keywords and check all papers on that page to see\n        if any contain any of the keywords in their title, authors or abstract field\n    (3) Arxiv.java, the main program which reads in the two files at the top, calls\n        the check method and prints out the papers of interest to a file.\n     \n\nProgram relies on the standard arXiv page format, true as of Dec 14th 2013.\n", 
+  "id": 15189312
+}

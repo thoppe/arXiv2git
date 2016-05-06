@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555191, 
+  "description": "Sagemath code for the computation of the truncated Alexander invariant of Galois-conjugated line arrangements which allow to prove that their fundamental groups are not isomorphic.", 
+  "README.md": "# ZariskiPair12Lines\nSagemath code for the computation of the truncated Alexander invariant of Galois-conjugated line arrangements which allow to prove that their fundamental groups are not isomorphic.\n\nThis repository contais the Sagemath code for the problem stated in the above lines. It contains two files:\n\t\n\tCodeLines.sws: Notebook file with the code\n\t\n\tCodeLines.txt: text file to be used in a personal installation of Sagemath or in CloudSagemath\n\t\nSee http://arxiv.org/abs/1507.00190 for the full paper.\n", 
+  "id": 54010903
+}

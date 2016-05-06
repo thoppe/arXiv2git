@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554297, 
+  "description": "C++ Implementation of entropy measures", 
+  "README.md": "# Entropy++\nC++ Implementation of entropy measures\n\nSparse matrix implementations are available.\n\nMore information will follow soon.\n\n\n## Morphological computation\n\nMC_W and MC_MI are available and more information about these measures can be found in\n\n<b>Evaluating Morphological Computation in Muscle and DC-motor Driven Models of Human Hopping</b>, by <i> Keyan Ghazi-Zahedi, Daniel F.B. Haeufle, Guido Montufar, Syn Schmitt, and Nihat Ay,</i> [Arxiv 1512.00250](http://arxiv.org/abs/1512.00250)\n\nThe file examples/hopping/mc.cpp contains the calculations that lead to the results discussed in the paper above. A MATLAB implementation can be found at [https://github.com/kzahedi/MC.](https://github.com/kzahedi/MC)", 
+  "id": 45792539
+}

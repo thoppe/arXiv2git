@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553778, 
+  "description": "Numerical evaluation of the left passage probability", 
+  "README.md": "Gauss LPP\n=========\n\nNumerical evaluation of the left passage probability.\n\nReference: http://arxiv.org/abs/1502.05624\n\n![](https://github.com/kjs73/gauss_lpp/blob/master/images/schramm_formual_eval_mathematica.jpg)\n", 
+  "id": 26728448
+}

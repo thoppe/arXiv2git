@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555185, 
+  "description": "Matlab code for the network generation algorithms as submitted to, The Journal of Complex Networks. ", 
+  "readme.txt": "README: Network-generation algorithms\n\nThis repository contains the Matlab code and files for the two proposed network generation algorithms as described in: http://arxiv.org/abs/1512.01435\n\nIncluded files: CMA.m, UDA.m, Connect_repeated.m, Connect_refused.m, Connect_erased.m, clustering.m\n\nPlease refer to the quick start files, that are matlab scripts, which provide example of thier use.\n\nWritten by Martin Ritchie, University of Sussex, 2016.\n", 
+  "id": 54021095
+}

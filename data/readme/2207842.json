@@ -1,0 +1,6 @@
+{
+  "read_at": 1462552170, 
+  "description": "arXiv-RSS is a plugin that extends the popular reference manager JabRef. It provides a browser for new preprints on the arXiv and direct import of any article.", 
+  "readme.txt": "\r\narxivrss - Plugin\r\n---------------------------------------\r\n\r\nBrowse new articles on the preprint server arXiv and import them to\r\nyour bibliography.\r\n\r\nAuthor\r\n  * Christoph Lehner (clehner // users.sourceforge.net)\r\n\r\nBuild instructions:\r\n  * Run build.xml with target jars (default)\r\n  \r\nChangelog:\r\n  * 2009-03-31 - V0.1 - Initial release.\r\n\r\n  * 2009-04-01 - V0.2 - Added search function.\r\n\r\n  * 2009-04-05 - V0.3 - Implemented cache, minor bugfixes.\r\n\r\n  * 2009-04-25 - V0.4 - Implemented preview of article PDFs.\r\n\r\n  * 2009-09-21 - V0.5 - Highlight article if previous version in\r\n    \t       \t      \tdatabase.\r\n", 
+  "id": 2207842
+}

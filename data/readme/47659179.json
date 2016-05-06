@@ -1,0 +1,6 @@
+{
+  "read_at": 1462550072, 
+  "description": "Code for video frame embeddings:  Learning Temporal Embeddings for Complex Video Analysis, ICCV 2015", 
+  "README.md": "# Temporal embeddings for videos\n\nThis is an implementation which allows training and testing of temporal embedding\nmodels described in:\n Learning Temporal Embeddings for Complex Video Analysis\n Vignesh Ramanathan, Kevin Tang, Greg Mori and Li Fei-Fei\n arXiv:1505.00315 (http://arxiv.org/pdf/1505.00315v1.pdf)\n\n- We provide sample scripts to extract features from a list of image-frames in \"projects/videovec_embedding/feature_extraction_pretrained_mednet.sh\"\n\nFor general questions about Caffe, please refer to the [BVLC project website](http://caffe.berkeleyvision.org) for all documentation.\n", 
+  "id": 47659179
+}

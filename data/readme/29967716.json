@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551802, 
+  "description": "Some scripts for sage", 
+  "README.md": "# a collection of sage scripts\n\n## frames.sage -- calculations with frames and eigensteps\n\n`frames.sage` can do the following things:\n\n - `Eigensteps(F)` calculates the eigensteps of a frame F\n - `EigenstepsGram(F)` calculate outer eigensteps\n - `FrameFromEigensteps(lam)` constructs a frame from a given\n   sequence of eigensteps\n - `PolytopeOfEigensteps(mu, lam)` constructs the polytope of\n   eigensteps for given sequences of norm squares and eigenvalues\n - `PolytopeOfEigenstepsENT(N, d, mu)` does the same for equal\n   norm tight frames\n - `anInteriorPointENT(N, d, mu)` calculates an interior point\n   of a polytope of eigensteps of equal norm tight frames\n - `Psi(lam)` and `Phi(lam)` apply affine isomorphisms mentioned\n   in our paper \"Polytopes of Eigensteps of Finite Equal Norm\n   Tight Frames\" (http://arxiv.org/abs/1507.04197)\n - `v_to_matrix(v, N)` and `matrix_to_v(lam)` convert between\n   different formats of sequences of eigensteps (matrices can't\n   be points of polytopes in sage)\n - `NaimarkComplement(F)` calculates a Naimark complement of\n   a Bessel sequence\n - `CanonicalCompletion(F)` calculates the canonical completion\n   of a Bessel sequence to a tight frame\n", 
+  "id": 29967716
+}

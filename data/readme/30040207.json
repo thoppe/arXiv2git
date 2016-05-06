@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551718, 
+  "description": "", 
+  "README.md": "Near-optimal Reinforcement Learning in Factored MDPs\n==========================\n*Ian Osband and Ben Van Roy*\n\n- NIPS 2014 - accepted for spotlight presentation\n- INFORMS 2014 - invited talk\n- [arXiv link](http://arxiv.org/abs/1403.3741)\n\n\nA git repository to manage the paper submission/revision process.\n\n## Organization\n\n- `initial/` - the initial submissions for review.\n- `presentation/` - posters/slideshows for presentation.\n- `responses/` - notes on reviews/response for NIPS.\n- `submission/` - keep the final pdf formats for camera-ready.\n- `writeup/` - source .tex and place the write the paper\n", 
+  "id": 30040207
+}

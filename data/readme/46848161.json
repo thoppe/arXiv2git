@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554252, 
+  "description": "Data and programs for the paper by EGJK (2015)", 
+  "README.md": "# murphydiagram\n\nR package with data and programs for the paper by Ehm, Gneiting, Jordan and Kruger (`Of Quantiles and Expectiles: Consistent Scoring Functions, Choquet Representations, and Forecast Rankings', 2015,\npreprint available at <http://arxiv.org/abs/1503.08195>). \n\nThe package source file and supporting documents can be found at <https://sites.google.com/site/fk83research/code>. \n", 
+  "id": 46848161
+}

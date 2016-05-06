@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553822, 
+  "description": "Gaussian process regression demo in Javascript", 
+  "README.md": "Gaussian process regression demo in Javascript\n==============================================\n\nThis repository contains code for a Gaussian process regression demonstration in Javascript. See http://www.tmpl.fi/gp/ for the live version.\n\nThe code depends on the following javascript libraries, which are not included in this repository:\n\n * [React](http://facebook.github.io/react/)\n * [D3.js](http://d3js.org)\n * [Numeric.js](http://www.numericjs.com/)\n\n\nSimulation of continuous trajectories\n-------------------------------------\n\nContinuous trajectories are simulated using Hamiltonian Monte Carlo (HMC) with partial momentum refreshment and analytically solved dynamics for the Gaussian posterior distribution.\n\nFor an excellent HMC reference, see: Radford M. Neal, _MCMC using Hamiltonian dynamics_. [arXiv:1206.1901](http://arxiv.org/abs/1206.1901), 2012.\n\n", 
+  "id": 26684248
+}

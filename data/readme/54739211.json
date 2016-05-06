@@ -1,0 +1,6 @@
+{
+  "read_at": 1462555242, 
+  "description": "Code implementing the QR by columns algorithm and the singular value decomposition by QR algorithm in various real algebras", 
+  "README.md": "# AlgebraSVD\nAuthor: Paul Ginzberg (Imperial College London)\n\nThis R script contains code implementing the QR by columns algorithm and the singular value decomposition by QR algorithm in various real algebras (Namely real, complex, splitcomplex, quaternion, cyclicpolynomial, and the conformal geometric Clifford algebra cl(4,1)). The code can be easily extended to new algebras. For more details, please consult the following paper:\n\nPaul Ginzberg and Christiana Mavroyiakoumou \"The QRD and SVD of matrices over a real algebra\", Linear Algebra and its Applications, 2016.\nPreprint: http://arxiv.org/abs/1512.02121\n", 
+  "id": 54739211
+}

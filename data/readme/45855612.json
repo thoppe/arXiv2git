@@ -1,0 +1,6 @@
+{
+  "read_at": 1462554211, 
+  "description": "Evolutionary algorithms with mathematical justication", 
+  "README.md": "# infoGA\nEvolutionary algorithms with mathematical justication\n\nSee here for the theory: \n\nhttp://arxiv.org/abs/1106.3708\n\nTwo algorithms are in here: \n\nPBIL (for discrete distributions kind)\nSNES (for continous distributions of any kind)\n", 
+  "id": 45855612
+}

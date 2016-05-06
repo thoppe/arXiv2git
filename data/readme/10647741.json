@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551140, 
+  "description": "An instructive model for a polyvariant, pushdown(!), higher-order flow analysis for delimited, composable control.", 
+  "README.md": "# Concrete semantics for summarization applied to shift/reset\n\nThe semantics is shaped in such a way to make widening easier (and indeed, widening is included).\nThis follows the semantics written in http://arxiv.org/abs/1305.3163 but includes niceties such as\nn-ary functions, numbers, let expressions and if expressions.\n\nTo switch between the infinite (concrete) allocation strategy along with its concrete d-axioms, move\nthe #;#; above either metafunction definition of d-axioms (concrete is default).\n\nAn example program along with how to run it in the normal / widened semantics is at the end of model.rkt", 
+  "id": 10647741
+}

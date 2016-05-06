@@ -1,0 +1,6 @@
+{
+  "read_at": 1462553494, 
+  "description": null, 
+  "readme.md": "# hiddenMarkovModel\n\nLiterature list: \n- J. D. Chodera et al. \"Bayesian hidden Markov model analysis of single-molecule force spectroscopy: Characterizing kinetics under measurement uncertainty\" http://arxiv.org/abs/1108.1430 (2011)\n- L. R. Rabiner and B. H. Juang \"An introduction to hidden Markov models\", IEEE ASSp Magazine (1986)\n\n## Usage with MATLAB\n\nDownload the content of the \"MATLAB\" folder to a folder were MATLAB can find it and run\n```\nhelp GMM_cpp\nhelp HMM_cpp\n```\n    ", 
+  "id": 17597802
+}

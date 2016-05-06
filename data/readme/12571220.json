@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549848, 
+  "description": "Python library for extracting and clustering signatures from pdfs", 
+  "README.md": "who-signed\n==========\n\nPython library for extracting and clustering signatures from pdfs\n\n1. define region or boilerplate text of pdf\n2. extract signature image\n3. extract features from image, SIFT, Histogram of Oriented Gradients, Linear Binary Patterns https://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_tutorials.html\n4. cluster signatures for human labeling and checking\n5. assing human labeled labels to pdfs\n\n\n\nAlso \n\n* http://stackoverflow.com/questions/8907267/is-there-any-code-or-algorithm-for-signature-recognition\n* http://arxiv.org/ftp/arxiv/papers/1103/1103.3420.pdf\n* http://infoscience.epfl.ch/record/158760/files/Andrea%20Mazzei%20-%20Extraction%20and%20Classification%20of%20Handwritten%20Annotations.pdf\n\n", 
+  "id": 12571220
+}

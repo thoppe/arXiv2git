@@ -1,0 +1,6 @@
+{
+  "read_at": 1462551369, 
+  "description": "Describes the influences across academic papers on arXiv.com", 
+  "README.md": "arXiv-Gene\n=========\n\nDescribes the relations between academic papers on ArXiv.com as written in this paper http://www.benyah.net/publications/InformationGenealogy_KDD07.pdf.\n\nThis method gives a way to find relations between documents in a corpus which are shown to generate better similarity data than the naive feature vector distance measures.\n\n\nThe goal of this project is first to develop the necessary infrastructure to recreate the results on the data sets used in the paper and then afterward expand the code base to make it easy to run similar experiments on corpuses of different format and content.\n\nThe entry point for running the code is interface.py\n\n# Components\n- [x] Load local arXiv corpus and calculate tf vectors\n- [ ] fast knn from scikit-learn\n- [ ] convex optimization function ontop of mosek\n- [ ] Relational graph construction\n", 
+  "id": 15229779
+}
