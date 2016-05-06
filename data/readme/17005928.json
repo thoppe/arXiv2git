@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543156, 
+  "description": "Analysis on U.S. airport network", 
+  "README.md": "#Disruptions in the U.S. Airport Network\n\nhttp://arxiv.org/pdf/1301.2223.pdf\n\nNetwork theory analysis conducted to suggest improvements to the U.S. Airport Network by simulating disruptions and examining the resulting impact. Created algorithm to reroute flight traffic.\n", 
+  "id": 17005928
+}

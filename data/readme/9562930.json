@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543067, 
+  "description": "Citation parsing to quickly access publications", 
+  "README.md": "Paper locator\n=============\n\nPaper locator is an easy and universal interface to get immediate access to scientific papers.\n\nPaste a text sample that contains a reference or citation and Paper locator will try to redirect you immediately to the abstract (click journal website) or the document (press enter).\n\nThis automates the whole process of extracting *journal*, *issue* and *page number* from a given reference and searching the publisher websites manually.\n\n__Try one of the following on__ [paperlocator.com](http://paperlocator.com):\n```\n[1] Peter W. Higgs, Phys. Rev. Lett. 13, 508 (1964).\nprl 13 508\narXiv:quant-ph/9707021\nlained in Nature Physics 1, 23 by Imm\n```\n", 
+  "id": 9562930
+}

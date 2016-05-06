@@ -4,6 +4,7 @@ import time
 import glob
 import codecs
 import unidecode
+import tqdm
 from calendar import monthrange
 from datetime import date
 
@@ -66,14 +67,17 @@ def gather_readme(item):
     os.system('rm -rf tmp')
     
     return data
-    
 
-for r in repo_iter():
+
+print "Reading repo list"
+REPOS = [r for r in repo_iter() if update_needed(r["id"])]
+    
+for r in tqdm.tqdm(REPOS):
 
     id = r['id']
-    if not update_needed(id):
-        print "Skipping", id
-        continue
+    #if not update_needed(id):
+    #    print "Skipping", id
+    #    continue
 
     print "Cloning", id
        

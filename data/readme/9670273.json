@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543045, 
+  "description": "A Chrome/Firefox extension that inserts links to arXiv preprints on MathScinet pages, where possible.", 
+  "README.md": "mathscinet-arxiv-links\n======================\n\nA Chrome/Firefox extension that inserts links to arXiv preprints on MathScinet pages, where possible.\n\nYou may also be interseted in the [mathscinet-direct-links](https://github.com/semorrison/mathscinet-direct-links/) repository.\n", 
+  "id": 9670273
+}

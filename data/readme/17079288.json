@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543176, 
+  "description": "Towards More Deterministic Gossip Protocol and Rumor Spreading", 
+  "README.md": "TMDGPRS\n=======\n\nTowards More Deterministic Gossip Protocol and Rumor Spreading. Improved on deterministic gossip protocol proposed by Hauepler (SODA 2012) by 50% of rounds. The original work is located at http://arxiv.org/pdf/1210.1193.pdf.\n\nNote that the code is the collective effort of a group of 3 people (2 relatively more active).\n", 
+  "id": 17079288
+}

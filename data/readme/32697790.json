@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543968, 
+  "description": "Robust precision matrix estimation", 
+  "README.md": "# Robust precision matrix estimation\n\nThis is a shiny app that facilitates the estimation of robust regularised precicion matrices.\n\n## Dependencies\n\n```\ninstall.packages(\"shiny\")\ninstall.packages(\"huge\")\ninstall.packages(\"rococo\")\ninstall.packages(\"ICSNP\")\ninstall.packages(\"networkD3\")\ninstall.packages(\"htmlwidgets\")\ninstall.packages(\"pairsD3\")\n```\n\n## Usage\n\nYou can download and run `robnetwork` using:\n\n```\nshiny::runGitHub(\"garthtarr/robnetwork\")\n```\n\n## References\n\n- Tarr G, Muller S and Weber NC, (2015). Robust estimation of precision matrices under cellwise contamination. *Computational Statistics & Data Analysis*, to appear. DOI: [10.1016/j.csda.2015.02.005](http://dx.doi.org/10.1016/j.csda.2015.02.005)\n- Ollerer V and Croux C, (2015). Robust high-dimensional precision matrix estimation. [arXiv:1501.01219](http://arxiv.org/abs/1501.01219v1)\n\n\n", 
+  "id": 32697790
+}

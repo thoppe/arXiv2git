@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543924, 
+  "description": "", 
+  "README.md": "# A Hybrid Ensemble Learning Approach to Star-galaxy Classification\n\n- Edward J. Kim\n- Robert J. Brunner\n- Matias Carrasco Kind\n\n## Paper\n\n[MNRAS (2015) 453 (1): 507-521](http://mnras.oxfordjournals.org/content/453/1/507)\n\n[arXiv:1505.02200](http://arxiv.org/abs/1505.02200)\n\n## IPython/Jupyter Notebook\n\nThe entire paper in a notebook: [bmc.ipynb](bmc.ipynb)\n\n## Dockerfile\n\nThe Dockerfile for the IPython notebook server that has been used to generate the\n[figures](https://github.com/EdwardJKim/astroclass/tree/master/paper/notebooks)\nis provided in the\n[docker](https://github.com/EdwardJKim/astroclass/tree/master/docker)\nsub-directory.\n", 
+  "id": 31832013
+}

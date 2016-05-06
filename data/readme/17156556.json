@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543204, 
+  "description": "glmnet SELECT", 
+  "README.md": "glmnet SELECT\n\nA simple function for stable selection of the parameter lambda in\nthe LASSO problem.\n\nOptimal selection of the regularization parameter lambda is not straight forward. Meinshausen and Buhlmann (2010), Liu, Roeder, Wasserman (2010), and other authors have contributed to this issue. I wrote a simple function that averages n K-fold cross validation estimates for stable selection of the parameter lambda. \n\nSimulation parameters for the classic problem Ax = b are as follows: The random matrix is A \\in \\mathbb{R}^{m x n} gaussian iid. The support x is a vector of integers that is at most n \\cdot 0.5. m is at most n \\cdot 0.5. Details of the parameters are in the code. I encourage you to try it and give feedback. \n\n![Figure 1](https://raw.githubusercontent.com/kipkeston/LASSO_Functions/master/star_lasso_results_perf_20000.png) \n![Figure 2](https://raw.githubusercontent.com/kipkeston/LASSO_Functions/master/star_lasso_results_time_20000.png)\n\nReferences:\n\nhttp://arxiv.org/abs/1006.3316\n\nhttp://onlinelibrary.wiley.com/doi/10.1111/j.1467-9868.2010.00740.x/abstract\n\n\n", 
+  "id": 17156556
+}

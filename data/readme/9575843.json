@@ -1,0 +1,6 @@
+{
+  "README": "To import a folder full of .pdfs into arXiv-fetcher, run the command\n  for i in *.pdf; do echo -n \"$i: \"; pdftotext \"$i\" - | grep -m 1 ^arXiv:; done\nto extract the (likely) arxiv identifiers, then copy the output and click the\n'Paste' button.\n", 
+  "read_at": 1462543054, 
+  "description": "", 
+  "id": 9575843
+}

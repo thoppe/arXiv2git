@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543145, 
+  "description": "Implements the Simple Learner algorithm in R", 
+  "README.md": "SimpleLearner\n=============\n\nImplements the Simple Learner algorithm from [1] in R.\n\n\nInstallation\n-------------\n```{r}\nlibrary(devtools)  \ninstall_github(\"SimpleLearner\", \"johnros\", subdir='R/Package')\nlibrary(SimpleLearner)  \n```\n\n\n\nReferences\n========\n[1] Livni, Roi, Shai Shalev-Shwartz, and Ohad Shamir. \"A Provably Efficient Algorithm for Training Deep Networks.\" \narXiv:1304.7045 [cs, Stat] \n", 
+  "id": 16558534
+}

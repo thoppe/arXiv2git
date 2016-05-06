@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543185, 
+  "description": "Upper body joint tracking for the RWTH-Phoenix signer database using a Mixture Kalman filter", 
+  "README.md": "SignerBodyPose\n==============\n\nUpper body joint tracking for the RWTH-Phoenix signer database using a Mixture Kalman filter\n\nPerforms 3D upper body pose estimation on the RWTH+Phoenix sign language corpus available at ftp://wasserstoff.informatik.rwth-aachen.de/pub/rwth-phoenix/tracking-groundtruth-sequences.tgz\n\nTo use, download and extract the corpus into the root folder of the repository, then run demo.m\n\nMore details can be obtained at http://arxiv.org/abs/1405.5047\n", 
+  "id": 17210550
+}

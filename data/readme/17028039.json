@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543196, 
+  "description": "Genetic algorithms (hereafter GAs)", 
+  "README.md": "Pikaia.jl\n======\n\n[https://gitter.im/tmeits/pikaia.jl]\n\nWelcome to the Pikaia.jl homepage. [http://tmeits.github.io/pikaia.jl] Pikaia (pronounced \"Pee-kah-yah\") is a general purpose function optimization Julia Lang module based on a genetic algorithm.\n\nSource\n======\n\nAn Pikaia.jl transliteration of the original FORTRAN-77 has been produced by Sarah Gibson, and is available directly by http://download.hao.ucar.edu/archive/pikaia/pikaia.f.\n\nLinks\n======\n\nhttp://www.ecy.wa.gov/programs/eap/models.html\n\nhttp://lavag.org/topic/10984-cr-waptia-genetic-optimization-algorithm/\n\nhttp://arxiv.org/pdf/0711.2478.pdf\n\nhttp://www.ast.cam.ac.uk/~vasily/solber/\n\nhttps://www.dropbox.com/s/zp7hpb52h3dqsh9/userguide.pdf\n\n", 
+  "id": 17028039
+}

@@ -1,0 +1,6 @@
+{
+  "README": "Scirate Reloaded: re-write of Dave Bacon's original www.scirate.com\ncrowd-sourcing the daily routine of selecting the interesting arXiv-papers\n\nusing the Django/Python web-framework\nstarted in January 2012 by Christian Schaffner (huebli@gmail.com)\n(let me know if you wanna help!)\n\n\nInstall instructions:\n* install https://bitbucket.org/ubernostrum/django-registration/\n\n* rename settings.py.template to settings.py\n* adjust database and template paths in settings.py\n* adjust mail settings in settings.py\n\n* run \"python manage.py syncdb\" to create the database and load the fixtures\n\n", 
+  "read_at": 1462543264, 
+  "description": "", 
+  "id": 3197614
+}

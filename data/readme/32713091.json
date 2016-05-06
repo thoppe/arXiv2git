@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543908, 
+  "description": "Theano implementation of Logistic Disjunctive Normal Networks.", 
+  "README.md": "# LDNN\nTheano implementation of Logistic Disjunctive Normal Networks.\n\nChoose between two datasets of ```noisy_moons``` or ```noisy_circles``` by choosing ```data, labels = create_data(dataset='moons')``` or ```create_data(dataset='circles')```.\n\nChoose between product approximation or min_max approximation of logical gates by choosing ```ldnn.classify(X, approx='product')``` or ```approx='min_max'```\n\nReference\n=========\nSajjadi, Mehdi, Mojtaba Seyedhosseini, and Tolga Tasdizen. \"Disjunctive Normal Networks.\" arXiv preprint arXiv:1412.8534 (2014).\n\nhttp://arxiv.org/abs/1412.8534\n\nNotice\n======\nThis code is distributed without any warranty, express or implied.", 
+  "id": 32713091
+}

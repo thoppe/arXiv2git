@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543889, 
+  "description": "A collection of python tools to crawl, store, transform open-access scholar material.", 
+  "README.md": "# Papper\n\nAn open-source python collection of tools to\n\n* crawl\n* parse\n* store\n* request\n\nopen-access scholarly documents.\n\n## arXiv\n\nThe initial purpose of this project is to make arXiv more \"modern\" and offer\n\n* a json API without throttling\n* HTML version for articles available under CC licences\n* more metadata parsing (most arXiv articles come with their LaTeX source which is way easier to\n  parse than PDF documents) e.g. bibliography or forumlas.\n", 
+  "id": 32697825
+}

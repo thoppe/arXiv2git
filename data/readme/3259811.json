@@ -1,0 +1,6 @@
+{
+  "README": "\nnearnet\n\n- A Matlab implementation of local coordinate coding.\n- A C++ implementation of locality constrained linear coding.\n- Not sure what the state of either is.\n\nRefs:\n\nhttp://arxiv.org/abs/0906.5190\nhttp://www.ifp.illinois.edu/~jyang29/LLC.htm\n\nThings you might need:\n\nIMAGES.mat\n\nhttp://redwood.berkeley.edu/bruno/sparsenet/IMAGES.mat\n\nlbfgsb\n\nhttps://github.com/jackculpepper/lbfgsb-stewart\n\n", 
+  "read_at": 1462543272, 
+  "description": "", 
+  "id": 3259811
+}

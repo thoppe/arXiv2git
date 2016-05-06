@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543851, 
+  "description": "Next Utterance Classification", 
+  "README.md": "### Ubottu\nThis repository contains the source code for the models used in the following paper:\n\nThe Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems [arXiv:1506.08909](http://arxiv.org/abs/1506.08909). \n\n#### Dependencies\n* Python 2.7\n* Theano bleeding-edge\n* Lasagne\n* Pyprind\n\n#### Usage\nFetch the pickled data:\n```\ncd src\nwget http://cs.mcgill.ca/~npow1/data/ubuntu_blobs.tgz\ntar zxvf blobs.tgz\n```\n\nTo reproduce the results in the original paper, use the following incantations.\n\nRNN:\n```\npython main.py --encoder rnn --batch_size=512 --hidden_size=50 --optimizer adam --lr 0.001 --fine_tune_W=True --fine_tune_M=True --input_dir dataset_1MM\n```\n\nLSTM:\n```\npython main.py --encoder lstm --batch_size=256 --hidden_size=300 --optimizer adam --lr 0.001 --fine_tune_W=True --fine_tune_M=True --input_dir dataset_1MM\n```\n\nTFIDF:\n```\npython tfidf.py\n```\n", 
+  "id": 32495790
+}

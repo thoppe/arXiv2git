@@ -1,0 +1,6 @@
+{
+  "id": 1029065, 
+  "read_at": 1462543106, 
+  "README.rst": "\nastrodatacite\n======================\nprojects relating data citation in astronomy\n\nprojects include:\n\n* `arxivsource`: search arxiv source files for data citations\n* `adsdatalinks`: looking into data links in ads and journals\n\n:Copyright: Smithsonian Astrophysical Observatory (2010) \n:Author: August Muench (august.fly@gmail.com)\n\n", 
+  "description": "tooling around with data citation in astronomy"
+}

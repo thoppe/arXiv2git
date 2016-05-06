@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543142, 
+  "description": "A Python package for Approximate Bayesian Computation ", 
+  "README.md": "SimpleABC\n======\n\nA Python package for Approximate Bayesian Computation\nVersion 0.2.0\n\n\nTODO\n----\n\n* Example scripts\n* Support alternate importance sampling kernel support in Model class\n* Set default importance sampling kernel\n* More ABC algorithms \n* Parallelize PMC  \n* Better parallelization all around \n\n\nInstall\n-------\nClone this [repo](http://rcmorehead.github.io/SIMPLE-ABC/) with git.\n\nSSH\n\n`git clone git@github.com:rcmorehead/SIMPLE-ABC.git`\n\nHTTPS \n\n`git clone https://github.com/rcmorehead/SIMPLE-ABC.git`\n\nMaybe one day I'll set up pip, if you are lucky\n\nOverview\n--------\n\n![abc_overview.jpg](https://github.com/rcmorehead/simpleabc/blob/master/ABC_overview.jpg)\n\n\n\nReferences\n----------\n\n###ABC\nSunnaker et al. - [Approximate Bayesian Computation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3547661/)\n\n\n###Population Monte Carlo for ABC\nBeaumont et al. -[Adaptive approximate Bayesian computation](http://biomet.oxfordjournals.org/content/96/4/983.abstract)  \n[arxiv version](http://arxiv.org/abs/0805.2256)", 
+  "id": 16708673
+}

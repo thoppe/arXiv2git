@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543027, 
+  "description": "Matlab code implementing Minimum Probability Flow Learning.", 
+  "README.md": "Minimum Probability Flow learning (MPF)\n================================\n\nMPF is a technique for parameter estimation in un-normalized probabilistic models. It is described in the paper:\n> J Sohl-Dickstein, P Battaglino, MR DeWeese<br>\n> Minimum probability flow learning<br>\n> International Conference on Machine Learning (2011)<br>\n> http://arxiv.org/abs/0906.4779\n\nThis repository contains Matlab code implementing MPF for the Ising model and the RBM.  The directory structure is as follows:\n- **MPF_ising/** - parameter estimation in the Ising model\n- **MPF_RBM_compare_log_likelihood/** - parameter estimation in\n        Restricted Boltzmann Machines. This directory also includes\n        code comparing the log likelihood of small RBMs trained via\n        pseudolikelihood and Contrastive Divergence to ones trained\n        via MPF.\n\nIf you're interesting in using MPF to build an Ising model of neural spike data, you should also check out Liberty Hamilton's repository at https://github.com/libertyh/ising-model.\n", 
+  "id": 1115996
+}

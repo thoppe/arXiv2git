@@ -1,0 +1,6 @@
+{
+  "README": "Code copyright (c) 2011 David Klein and Simon Weber\n\nLicensed under the MIT license: http://www.opensource.org/licenses/mit-license.php\n\n\n\nTo add a folder source code to the database:\n./addToDatabase.sh\n\nNote that you have to edit the shell script if you want to add code from a language that's not already in the shell script.\n\nTo add code manually to the database:\npython reader.py -l language < myfile\n\nWhere language is the language that the file is written in and myfile is the name of the source code file.\n\n\nTo attempt to identify the language of a piece of source code:\npython identifylanguage.py < source_code_file\n\ni.e.\npython identifylanguage.py < sample.c\n\nYou can also type:\npython identifylanguage.py -v < source_code_file\n\nThis gives you verbose output.\n\n\nCode intended for Python 2.7.2 on linux.", 
+  "read_at": 1462543279, 
+  "description": "Accompanying code for the arXiv paper first published in June of 2011", 
+  "id": 2740254
+}

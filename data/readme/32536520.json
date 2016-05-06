@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543965, 
+  "description": "A dynamic cascading outage simulator in power systems", 
+  "README.md": "#cosmic\nA dynamic cascading outage simulator in power systems,\ndeveloped by Jiajia Song and Eduardo Cotilla-Sanchez (Oregon\nState University), Paul Hines and Goodarz Ghanavati\n(University of Vermont).\n\nThis code is free to use for research purposes (GNU General Public License V3.0). \nIf you find this useful in your research, please cite the publication listed below.\n\nJ. Song, E. Cotilla-Sanchez, G. Ghanavati, and P. D. H. Hines, \n``Dynamic modeling of cascading failure in power systems,'' IEEE Transactions on Power \nSystems, in press (2015), preprint: http://arxiv.org/abs/1411.3990 .\n\nTo get started with COSMIC, run some example simulations: \nsim_case9.m\nsim_case39.m\n", 
+  "id": 32536520
+}

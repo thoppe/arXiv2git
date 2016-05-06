@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543873, 
+  "description": "Dynamic Time Warping (DTW) library implementing lower bounds (LB_Keogh, LB_Improved...)", 
+  "README.md": "# LBImproved C++ Library\n[![Build Status](https://travis-ci.org/lemire/lbimproved.png)](https://travis-ci.org/lemire/lbimproved)\n\nThis library comes in the form of one short C++ header file. The documentation\nis in the C++ comments and in this file.\n\n\n# Key feature\n\n1) Fast Dynamic Time Warping nearest neighbor retrieval.\n\n2) Implementations of LB Koegh and LB Improved\n\n3) Companion to the following paper :\n\nDaniel Lemire, Faster Retrieval with a Two-Pass Dynamic-Time-Warping Lower Bound, Pattern Recognition 42 (9), pages 2169-2180, 2009. \nhttp://arxiv.org/abs/0811.3301\n\nComments about this paper by Keogh's team: \n\n     To our knowledge, there is only one paper that\n     offers a plausible speedup based on a tighter \n     lower bound--Lemire (2009) suggests a mean speedup \n     of about 1.4 based on a tighter bound. \n     These results are reproducible, and testing on \n     more general data sets we obtained similar \n     results (...) (Wang et al. 2013)\n\n\n# BUILD \n\ntype \"make\"\n\n    make\n    ./unittesting\n    ./benchmark\n", 
+  "id": 32107971
+}

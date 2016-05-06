@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543348, 
+  "description": "Go API wrapper for arXiv.org's search API", 
+  "README.md": "# goarxiv [![Build Status](https://travis-ci.org/DevinCarr/goarxiv.svg)](https://travis-ci.org/DevinCarr/goarxiv) [![GoDoc](https://godoc.org/github.com/devincarr/goarxiv?status.svg)](http://godoc.org/github.com/devincarr/goarxiv)\n\nA Go API wrapper around the arXiv.org [API](arxiv.org/help/api/user-manual). Provides simple access to the search query and returns in a simple Atom XML struct format.\n\n## How to\n```shell\ngo get github.com/devincarr/goarxiv\n```\nand\n```Go\nimport github.com/devincarr/goarxiv\n```\n#### New Search\n```Go\n// Build a new search struct\ns := goarxiv.New()\n\n// Add some search parameters\ns.AddQuery(\"search_query\",\"cat:cs.LG\")\n\n// Get the results and print first article\nresult, error := s.Get()\nif error != nil { error }\nfmt.Println(result.Entry[0].Title)\n\n// \"Hierarchical Reinforcement Learning with the MAXQ Value Function\n  Decomposition\"\n```\n\n#### Result Format\nThe results from the arXiv.org API are in Atom XMl format and goarxiv utilizes `golang.org/x/tools/blog/atom` for the results parsing. See [godoc/atom](https://godoc.org/golang.org/x/tools/blog/atom) for the format of the results.\n\n## License\nThe MIT License (MIT)\n", 
+  "id": 32438722
+}

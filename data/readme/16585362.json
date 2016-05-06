@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543167, 
+  "description": "R wrapper for Barnes-Hut t-SNE", 
+  "README.md": "bhtsneR\n=======\n\nA minimal, CRAN-compliant wrapper for the Barnes-Hut implementation of \n[T-distributed Stochastic Neighbor Embedding (t-SNE)](http://homepage.tudelft.nl/19j49/t-SNE.html).\n\n### Installation\n\nYou will need the following software:\n\n * [cblas](http://www.netlib.org/blas/) or [openblas](https://github.com/xianyi/OpenBLAS)\n * R packages: `Rcpp`, `devtools`\n\nRun this in R to install the current GitHub version:\n\n```splus\ndevtools::install_github(\"mschubert/bhtsneR\")\n```\n\n### Running\n\nHere is an example on how to run it on the iris data set:\n\n```splus\nlibrary(bhtsneR)\n\n# perform Barnes-Hut t-SNE\nresult = bhtsne(iris[1:4])\nplot(result, col=iris[[5]])\n\n# perform exact calculations\n# this is equivalent to bhtsne(..., theta=0)\nresult = tsne(iris[1:4])\nplot(result, col=iris[[5]])\n```\n\n### More information\n\nBarnes-Hut-SNE. (2013). L.J.P. van der Maaten. [arXiv:1301.3342](http://arxiv.org/abs/1301.3342).\n\n", 
+  "id": 16585362
+}

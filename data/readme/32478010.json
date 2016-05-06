@@ -1,0 +1,6 @@
+{
+  "read_at": 1462543926, 
+  "description": "Systematics-Insensitive Periodograms for K2", 
+  "README.md": "# SIPK2\nSystematics-Insensitive Periodograms for K2.\n\nThe paper associated with this code, \"Systematics-insensitive periodic signal\nsearch with K2\" can be found at http://arxiv.org/abs/1505.07105.\n\nTo use this code, clone this repo and do\n\n`from SIP import SIP`.\n\nYou'll need the Eigen light curves too.\nYou can download those from http://bbq.dfm.io/ketu/elcs.\nYou can also download any of DFM's ready-made raw K2 light curves from\nhttp://bbq.dfm.io/ketu/lightcurves.\n\nUsage:\n\n`s2n, amp2s, w = SIP(x, y, basis, frequencies)`.\n\nReturns the squared signal-to-noise-ratio, the squared amplitude and the\nweights.\nCheck out the demo at\nhttp://nbviewer.ipython.org/github/RuthAngus/SIPK2/blob/master/SIPdemo.ipynb.\n\n# Licence\n\nCopyright 2015 Ruth Angus.\nLicensed under the terms of the MIT License (see LICENSE).\n", 
+  "id": 32478010
+}
