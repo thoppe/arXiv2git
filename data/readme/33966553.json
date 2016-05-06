@@ -1,0 +1,6 @@
+{
+  "read_at": 1462511621, 
+  "description": "An implementation of the Carlson symmetric forms of elliptic integrals", 
+  "README.md": "Implements Legendre forms of elliptic integrals using Carlson symmetric forms.\nNumerical evaluation of these integrals performed using algorithms defined\nhere: http://arxiv.org/abs/math/9409227.\n\nGoal is to incorporate these into the SciPy toolstack\n(https://github.com/scipy/scipy/issues/4452).\n\n\n", 
+  "id": 33966553
+}

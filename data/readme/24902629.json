@@ -1,5 +1,5 @@
 {
-  "read_at": 1462510598, 
+  "read_at": 1462511059, 
   "description": "Data Smashing", 
   "README.md": "datasmash\n=========\n\nPython implementation of Data Smashing algorithm proposed by Chattopadhyay & Lipson 2014\n\nIshanu Chattopadhyay and Hod Lipson <br>\n**Data smashing: uncovering lurking order in data** <br>\nJ R Soc Interface 2014 11: 20140826 <br>\n\n[arXiv link](http://arxiv.org/abs/1401.0742) <br>\n[journal paper](http://rsif.royalsocietypublishing.org/content/11/101/20140826.full.pdf+html) <br>\n[supplementary paper](http://rsif.royalsocietypublishing.org/content/suppl/2014/09/30/rsif.2014.0826.DC1/rsif20140826supp1.pdf)\n", 
   "id": 24902629

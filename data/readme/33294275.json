@@ -1,0 +1,6 @@
+{
+  "read_at": 1462511748, 
+  "description": "Gaussian homogeneous spatial field in Julia", 
+  "README.md": "# GHF\n\nGHF.jl contains a julia transcription of algorithm in section 2.2:\n\"Generating Stationary Processes via Circulant embedding\" of\n\n> Kroese, D.P. and Botev, Z.I. (2013). <br />\n> \"Spatial Process Generation.\" <br />\n> Lectures on Stochastic Geometry, Spatial Statistics and Random Fields, <br />\n> Volume II: Analysis, Modeling and Simulation of Complex Structures, <br />\n> V. Schmidt (Ed.).  Springer-Verlag, Berlin. <br />\n> http://arxiv.org/abs/1308.0399\n\nfor generation of Gaussian homogeneous spatial field.\n\n## Installation\n\n```julia\nPkg.clone(\"https://github.com/andferrari/GHF.jl.git\")\n```\n\n## Usage\n\nTo compute a Gaussian homogeneous spatial field with\nexponential correlation:\n\n```julia\nusing PyPlot\nusing GHF\n\nn = 512\nm = 512\ntx= linspace(0, n-1, n)\nty= linspace(0, m-1, m)\n\ncorl = n/5.0\nrho(x,y) = exp(-norm([x, y])/corl)\n\nfield = genghf(tx, ty, rho)\n\nimg = imshow(field)\ncolorbar(img)\n```\n", 
+  "id": 33294275
+}

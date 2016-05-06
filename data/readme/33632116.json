@@ -1,0 +1,6 @@
+{
+  "read_at": 1462511614, 
+  "description": "pro(nounceable) quint(uplets) in PHP", 
+  "README.md": "# proquint-php\npro(nounceable) quint(uplets) in PHP\n\nA PHP implementation of proquint was missing... not that I needed it\n\nlink: http://arxiv.org/html/0901.4016\n\n\n## Usage\n\n```PHP\nrequire_once 'proquint.php';\n$proquint = new Proquint;\necho $proquint->Encode(chr(127).chr(0).chr(0).chr(1)); # 'lusab-babad'\necho $proquint->Decode('lusab-babad'); # string of bytes 127,0,0,1\n```\n", 
+  "id": 33632116
+}

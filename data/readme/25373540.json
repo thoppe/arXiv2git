@@ -1,5 +1,5 @@
 {
-  "read_at": 1462509979, 
+  "read_at": 1462511134, 
   "description": "", 
   "README.md": "Suffix array induced sorting with LCP array construction\r\n========\r\n\r\nImplementation of Inducing the LCP array paper by Johannes Fischer:\r\nhttp://arxiv.org/pdf/1101.3448.pdf\r\n\r\nBuild with:\r\ng++ -o sais_lcp main.cpp sais_lcp.cpp sais_lcp_original.cpp\r\n\r\nToni Antunovic, January, 2015.\r\n", 
   "id": 25373540

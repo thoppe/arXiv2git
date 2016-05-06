@@ -1,0 +1,6 @@
+{
+  "read_at": 1462511576, 
+  "description": "Event-based simulations", 
+  "README.md": "# Event-based\n\nSource code accompanying my thesis `Discrete-event simulation of a single-neutron interferometry experiment'\n\n## Links\n\n- http://arxiv.org/abs/quant-ph/0501141\n  src/event.cpp\n- http://arxiv.org/abs/1208.2367\n  src/event2.cpp\n", 
+  "id": 34793183
+}

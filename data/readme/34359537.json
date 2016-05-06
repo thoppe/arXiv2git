@@ -1,0 +1,6 @@
+{
+  "read_at": 1462511656, 
+  "description": "Semiparametric tail estimation", 
+  "README.md": "# semipartail\nSemiparametric tail estimation for heavy-tailed data. This package implements the method proposed by Fithian and Wager (2015).\n\nTo install this package in R, run the following commands:\n\n```R\nlibrary(devtools) \ninstall_github(\"swager/semipartail\")\n```\n\nExample usage:\n\n```R\nlibrary(semipartail)\nX = exp(rgamma(n=1000, shape=4, scale=0.45))\nZ = exp(rgamma(n=1000000, shape=3, scale=0.45))\nsemipar.mean(main.sample=X, background.sample=Z, threshold=quantile(X, 0.8))\n```\n\n#### References\nWilliam Fithian and Stefan Wager.\n<b>Semiparametric Exponential Families for Heavy-Tailed Data.</b>\n<i>Biometrika</i>, 102(2):486-493, 2015.\n[<a href=\"http://arxiv.org/abs/1307.7830\">arxiv</a>]\n", 
+  "id": 34359537
+}

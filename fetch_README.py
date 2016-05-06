@@ -3,6 +3,7 @@ import os
 import time
 import glob
 import codecs
+import unidecode
 from calendar import monthrange
 from datetime import date
 
@@ -14,8 +15,6 @@ login_params = get_login_params()
 
 os.system('mkdir -p data data/readme')
 
-#print login_params
-#API_URL    = "https://api.github.com/repos"
 clone_cmd = 'git clone --depth 1 {url} {dest}'
 
 def repo_iter():
@@ -59,7 +58,9 @@ def gather_readme(item):
             continue
         
         with codecs.open(f,'r','utf-8') as FIN:
-            data[os.path.basename(f)] = FIN.read()
+            raw = FIN.read()
+            val = unidecode.unidecode(raw)
+            data[os.path.basename(f)] = val
 
     # Clear the space
     os.system('rm -rf tmp')

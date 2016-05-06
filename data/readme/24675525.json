@@ -1,5 +1,5 @@
 {
-  "read_at": 1462510049, 
+  "read_at": 1462511203, 
   "description": "Contains the source code for the new k-mer counting algorithm", 
   "readme.txt": "K-mer counting algorithm\n\nCOMPILE\nTo compile the program from the source code on a Linux system, run:\nsh compile_kmers_linux.sh\n\n(note that this must be run from the directory where the .sh script and directory \"kmers\" are located)\n\nThe result of this step is binary file: fasta2kmers2\n\nNote that this compile command was tested on Debian and Ubuntu, you may need to modify the command for a different platform. \n\n\nRUN\nTo get all the options, with which you can run the software, run:\n./fasta2kmers2 -h\n\n\nPPS+ INTEGRATION\nThis binary is used in the PPS+ distribution as a subprogram and located in:\n/apps/pps/tools/PhyloPythiaS/1_3/bin/fasta2kmers2\n\n\nDOCUMENTATION\nGregor et al. (2014) PhyloPythiaS+: A self-training method for the rapid reconstruction of low-ranking taxonomic bins from metagenomes. Preprint. Available: arXiv:1406.7123v1. Section 3.3.\n", 
   "id": 24675525

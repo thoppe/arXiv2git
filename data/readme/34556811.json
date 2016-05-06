@@ -1,0 +1,7 @@
+{
+  "README.md~": "# Summary\nThis set of Matlab codes reproduce the figures and experimental results published in our paper: \n> **Complete Dictionary Recovery over the Sphere**. \n> Ju Sun, Qing Qu, John Wright. arXiv. \n\n+ Folder **image_experiment_focm**: to reproduce the results in Figure 1. Run *test_images.m* to start. \n+ Folder **landscape**: to reproduce Figure 2 (center) and Figure 4. \n+ Folder **simulation**: to reproduce the phase transition in Figure 5. Run *single_vector_pt.m* to start. \n\nCodes written by Ju Sun, Qing Qu, and John Wright. Questions or bug reports please send email to Ju Sun, sunjunus@gmail.com \n", 
+  "read_at": 1462511591, 
+  "description": "Complete dictionary learning over the sphere using trust-region method", 
+  "README.md": "# Summary\nThis set of Matlab codes reproduce the figures and experimental results published in our paper: \n> **Complete Dictionary Recovery over the Sphere**.   \n> Ju Sun, Qing Qu, John Wright. http://arxiv.org/abs/1504.06785. \n\n+ Folder **image_experiment_focm**: to reproduce the results in Figure 1. Run *test_images.m* to start. \n+ Folder **landscape**: to reproduce Figure 2 (center) and Figure 4. \n+ Folder **simulation**: to reproduce the phase transition in Figure 5. Run *single_vector_pt.m* to start. \n\nCodes written by Ju Sun, Qing Qu, and John Wright. Questions or bug reports please send email to Ju Sun, sunjunus@gmail.com \n\nThanks to bug reporters: Yanbing Dong\n", 
+  "id": 34556811
+}

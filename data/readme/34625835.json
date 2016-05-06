@@ -1,0 +1,6 @@
+{
+  "read_at": 1462511530, 
+  "description": "Attempts to recreate the results from http://arxiv.org/pdf/1406.1584v2.pdf in Haskell", 
+  "README.md": "# hs-recursive-nn\nAttempts to recreate the results from http://arxiv.org/pdf/1406.1584v2.pdf in Haskell\n\nRequires cabal packages:\n- HUnit\n- hmatrix\n\n", 
+  "id": 34625835
+}

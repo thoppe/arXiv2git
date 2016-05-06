@@ -1,5 +1,5 @@
 {
-  "read_at": 1462509875, 
+  "read_at": 1462510994, 
   "DecisionTreeREADME.txt": "To use decision trees:\n\nimport decision_tree\ndt = DecisionTree()\ndt.fit(Xs, Ys)\ndt.predict(example)\n\nWhere Xs, Ys, and example are all numpy arrays.\n\nSee more examples in sklearn_cv.py\nFor further help, contact michael.noseworthy@mail.mcgill.ca\n", 
   "description": "Classification of articles from arXiv based on their abstracts.", 
   "README.md": "COMP598Project2\n===============\n\nClassification of articles from arXiv based on their abstracts.\n", 

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462511634, 
+  "description": "Description of an automated pipeline for AMI-LA data, used for the ALARRM programme.", 
+  "README.md": "AMIsurvey, chimenea and other tools:\n====================================\nAutomated imaging for transient surveys with existing radio-observatories\n-------------------------------------------------------------------------\n\n\nA draft paper describing the [drive-ami](https://github.com/timstaley/drive-ami),\n[drive-casa](https://github.com/timstaley/drive-casa), \n[chimenea](https://github.com/timstaley/chimenea) and \n[amisurvey](https://github.com/timstaley/amisurvey) packages, \nused for data-reduction as part of the [ALARRM](http://4pisky.org/projects/#ALARRM) programme.\n\nSubmitted to Astronomy and Computing, pre-print available at http://arxiv.org/abs/1505.08123.\n\nThis paper is built using the [robotopaper](https://github.com/timstaley/robotopaper) template. \nYou'll need CMake and latexmk.\n", 
+  "id": 33416386
+}

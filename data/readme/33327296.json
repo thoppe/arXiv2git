@@ -1,0 +1,6 @@
+{
+  "read_at": 1462511513, 
+  "description": "For more information, see http://arxiv.org/abs/1412.6617", 
+  "README.md": "# Minimum_probability_flow_learning\nPython (Theano) implementation of Minimum Probability Flow learning code provided by Daniel Jiwoong Im.\nThe code includes minimum probability flow with one-bit flip and factored minimum probability flow.\nFor more information, see\n\n```bibtex\n@article{Im2015mpf,\n  title={Understanding Minimum Probability Flow for RBMs Under Various Kinds of Dynamics},\n  author={Im, Daniel Jiwoong and Buchman, Ethan and Taylor, Graham},\n  journal={International Conference on Learning Representations (ICLR) Workshop Track},\n  year={2015}\n}\n```\n\nIf you use this in your research, we kindly ask that you cite the above workshop paper\n\n## Dependencies\nPackages\n* [numpy](http://www.numpy.org/)\n* [Theano](http://deeplearning.net/software/theano/)\n* [(Binarized) MNIST data](http://yann.lecun.com/exdb/mnist/)\n\n\n## How to run\nEntry code for one-bit flip and factored minimum probability flow for mnist data are \n```\n    - mnist_1bit_mpf.py\n    - mnist_fmpf.py\n```\n\n", 
+  "id": 33327296
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462511732, 
+  "description": "sentiment analysis for movie tweets", 
+  "README.md": "# Sentiment Analysis for recent Movie Tweets\n\n\nApproach (time taken ~10 hours):\n\n1. Use basic Django framework to create the desired layout with some dummy data - https://www.djangoproject.com/\n\n2. Use Twython for twitter sign up and pull tweets and feed actual data to above  - https://github.com/ryanmcgrath/twython\n\n3. I also tried Authomatic, but found Twython to be little better - http://peterhudec.github.io/authomatic/\n\n4. Use Twitter Bootstrap for styling - http://getbootstrap.com/. \n\n5. Design is influenced by - http://www.sentiment140.com/\n\n6. Studied this paper for sentiment analysis - http://arxiv.org/pdf/1305.6143v2.pdf\n\n7. Used their open source implementation to plug this into my webapp - https://github.com/vivekn/sentiment\n\n8. Host on to Heroku using Gunicorn as middle layer to handle the requests.\n\n9. Post to Github.\n\nLinks:\n\nhttp://sentiment101.herokuapp.com/\n\nhttps://github.com/singlaripu/sentiment101", 
+  "id": 33403139
+}

@@ -1,6 +1,6 @@
 {
   "README": "NAME\n    Catmandu::ArXiv - Catmandu modules for working with ArXiv data.\n\nSTATUS\nMODULES\n    *   Catmandu::Importer::ArXiv\n\nAUTHOR\n    *   Wouter Willaert\n\n    *   Vitali Peil\n\nLICENSE AND COPYRIGHT\n    This program is free software; you can redistribute it and/or modify it\n    under the terms of either: the GNU General Public License as published\n    by the Free Software Foundation; or the Artistic License.\n\n    See http://dev.perl.org/licenses/ for more information.\n\n", 
-  "read_at": 1462509864, 
+  "read_at": 1462510982, 
   "description": "Read-only release history for Catmandu-ArXiv", 
   "id": 25761287
 }

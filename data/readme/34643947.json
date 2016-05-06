@@ -1,0 +1,6 @@
+{
+  "read_at": 1462511734, 
+  "description": "C++ implementation of the AFINN SA method", 
+  "README.md": "# afinn\nC++ implementation of the AFINN SA method\n\nAFINN is a list of English words rated for valence with an integer\nbetween minus five (negative) and plus five (positive). The words have\nbeen manually labeled by Finn Arup Nielsen in 2009-2011. The file\nis tab-separated. There are two versions:\n\n-AFINN-111: Newest version with 2477 words and phrases.\n\n-AFINN-96: 1468 unique words and phrases on 1480 lines. Note that there\nare 1480 lines, as some words are listed twice. The word list in not\nentirely in alphabetic ordering. \n\nAn evaluation of the word list is available in:\n\nFinn Arup Nielsen, \"A new ANEW: Evaluation of a word list for\nsentiment analysis in microblogs\", http://arxiv.org/abs/1103.2903\n\n- Lexicon method (2 word lists)\n- Amazon Mechanical Turk validation approach\n- AFINN-96 has 1468 different words, including a few phrases. The new version has 2477 words.\n- Scoring range from -5 (very negative) to +5 (very positive)\n\n", 
+  "id": 34643947
+}

@@ -1,5 +1,5 @@
 {
-  "read_at": 1462509886, 
+  "read_at": 1462511004, 
   "description": "", 
   "README.md": "arXiv consumer\n============\n\nConsumes arXiv metadata for ingestion into the SHARE service\n\nMore information available at https://github.com/CenterForOpenScience/SHARE/blob/master/providers/org.arxiv.md\n\nExample API call: http://export.arxiv.org/oai2?verb=ListRecords&metadataPrefix=oai_dc&from=2014-10-10", 
   "id": 24898223

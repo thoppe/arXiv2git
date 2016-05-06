@@ -1,0 +1,6 @@
+{
+  "read_at": 1462511602, 
+  "description": "", 
+  "README.md": "Generative Adversarial Networks\n===============================\n\nThis repository contains experiments on the use of compression-adversarial networks. Based in part on the work of Goodfellow et al.: \n\n\"Generative Adversarial Networks.\" Ian J. Goodfellow, Jean Pouget-Abadie,\nMehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville,\nYoshua Bengio. ArXiv 2014.", 
+  "id": 34632550
+}

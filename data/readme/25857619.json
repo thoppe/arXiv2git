@@ -1,5 +1,5 @@
 {
-  "read_at": 1462509968, 
+  "read_at": 1462511079, 
   "description": "Testing Hierarchical Inference", 
   "README.md": "Quick and dirty test of the Hierarchical Inference framework, ala dfm (Foreman-Mackey 2014, arxiv:1406-3020).\n\nGenerates data for the model y = m*x + b with Gaussian errors, fits to a model with MCMC (using emcee), and then samples the hyperparameters with MCMC.\n", 
   "id": 25857619

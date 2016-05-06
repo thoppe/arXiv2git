@@ -1,5 +1,5 @@
 {
-  "read_at": 1462510612, 
+  "read_at": 1462511137, 
   "description": "", 
   "README.md": "kid-libcloud\n============\n\nThis is work in progress related to KiD-A comparizon project \n(http://appconv.metoffice.com/kid_a_intercomparison/kid_a/home.html).\n\nThe lagrangian scheme from libcloudph++ library \n(https://github.com/igfuw/libcloudphxx) is joined to the Kinematic Driver \nmodel (KiD) using python bindings to the library (http://arxiv.org/abs/1504.01161).\nThe KiD model is started by python code kid.py.   \n\nThe KiD-A code stored in this repository was downloaded from:\nhttp://appconv.metoffice.com/kid_a_intercomparison/kid_a/kid_a_setup.tar.gz\n\nAll changes needed to the KiD code are in kid_a_setup.diff.\n\nIn order to run the model with the lagrangian scheme (having already installed \nthe libcloudph++ library) you need to follow these steps: \n\n  - cd kid-libcloud\n  - gcc -fPIC -shared ptrutil.c -o ptrutil.so\n  - tar xvzf kid_a_setup.tar.gz\n  - cd kid_a_setup\n  - patch -p1 < ../kid_a_setup.diff\n  - make SHELL=/bin/bash CASE=SC_2D COMPILER=gfortran NCPATH=/usr all\n  #- bin/KiD_1D.exe\n  - LD_LIBRARY_PATH=..:bin LD_PRELOAD=ptrutil.so python ../kid.py \n", 
   "id": 25873519

@@ -1,5 +1,5 @@
 {
-  "read_at": 1462509964, 
+  "read_at": 1462511075, 
   "description": "Nonlinear fluctuating hydrodynamics for anharmonic chains", 
   "README.md": "Nonlinear fluctuating hydrodynamics for anharmonic chains\n=========================================================\n\nMathematica package `NFHchains_base.m` and demonstration file `NFHchains_demo.nb` for calculating the coupling constants in Appendix A of Ref. 1.\n\nLicense\n-------\nCopyright (c) 2013-2014, Christian B. Mendl  \nAll rights reserved.  \nhttp://christian.mendl.net\n\nThis program is free software; you can redistribute it and/or\nmodify it under the terms of the Simplified BSD License\nhttp://www.opensource.org/licenses/bsd-license.php\n\n\nReferences\n----------\n1. Herbert Spohn  \n   Nonlinear fluctuating hydrodynamics for anharmonic chains  \n   J. Stat. Phys. 154, 1191-1227 (2014), [arXiv:1305.6412](http://arxiv.org/abs/1305.6412)\n2. Christian B. Mendl, Herbert Spohn  \n   Dynamic correlators of Fermi-Pasta-Ulam chains and nonlinear fluctuating hydrodynamics  \n   Phys. Rev. Lett. 111, 230601 (2013), [arXiv:1305.1209](http://arxiv.org/abs/1305.1209)\n3. Christian B. Mendl, Herbert Spohn  \n   Equilibrium time-correlation functions for one-dimensional hard-point systems  \n   Phys. Rev. E 90, 012147 (2014), [arXiv:1403.0213](http://arxiv.org/abs/1403.0213)\n", 
   "id": 25116576

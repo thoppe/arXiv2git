@@ -1,5 +1,5 @@
 {
-  "read_at": 1462510011, 
+  "read_at": 1462511167, 
   "description": "The VSink dataset containing 372 categorized VSinks", 
   "README.md": "VSinkDataset\n============\n\nThe VSink dataset from ECVDetector for detecting exposed component vulnerabilities in Android apps.\n\nSee our paper, \"A Sink-driven Approach to Detecting Exposed Component Vulnerabilities in Android Apps\", at http://arxiv.org/abs/1405.6282\n(The new version of this paper will be uploaded soon).\n\n```\n$ ./countVSink.sh exp7_VSinkDumper.log \nAll: 555\nSrc: 183\nDIRECTByPara: 23\nInput: 167\nPublic: 45\nDIRECT: 137\n```\nSo it has 372 categorized VSinks.\n", 
   "id": 24882233

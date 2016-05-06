@@ -1,5 +1,5 @@
 {
-  "read_at": 1462509930, 
+  "read_at": 1462511042, 
   "description": "Robust Principal Component Analysis in Julia", 
   "README.md": "# RobustPCA\n\n[![Build Status](https://travis-ci.org/r9y9/RobustPCA.jl.svg?branch=master)](https://travis-ci.org/r9y9/RobustPCA.jl)\n[![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE.md)\n\nRobustPCA.jl provides a support for Robust Principal Component Analysis (RPCA) in Julia language. The optimization algorithm implemented in this package basically follows:\n\n- [Lin, Zhouchen, Minming Chen, and Yi Ma. \"The augmented lagrange multiplier method for exact recovery of corrupted low-rank matrices.\" arXiv preprint arXiv:1009.5055 (2010)](http://arxiv.org/pdf/1009.5055.pdf).\n\n## Installalation\n\n```julia\nPkg.clone(\"https://github.com/r9y9/RobustPCA.jl\")\n```\n\n## Singing-voice separation from monaural recordings Demo\n\n- [P.S Huang, S.D. Chen, P. Smaragdis, and M. HasegawaJohnson, \"Singing-voice separation from monaural recordings using robust principal component analysis\", Proc. ICASSP 2012.](http://www.mirlab.org/conference_papers/International_Conference/ICASSP%202012/pdfs/0000057.pdf)\n\n```julia\njulia demo/Huang2012_singing_source_separation.jl\n```\n", 
   "id": 24948801

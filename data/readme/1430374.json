@@ -1,6 +1,6 @@
 {
   "README": "This repository contains all the source files required to deploy a heterogeneous wireless sensor network which consists of 4 different hardware platforms (TelosB, SunSPOT, Arduino, iSense).\n\nThe most recent technical report published at:\n\nhttp://arxiv.org/abs/1102.0058\n\nPlease cite this work in scientific papers as:\n\nOrestis Akribopoulos, Vasileios Georgitzikis, Christos Koninis, Ioannis Papavasileiou and Ioannis Chatzigiannakis: Deployment and Evaluation of a 802.15.4 Heterogeneous Network. Technical Report in ACM Computing Research Repository, arXiv:1102.0058, February, 2011.\n\n", 
-  "read_at": 1462509762, 
+  "read_at": 1462510883, 
   "description": "Heterogeneous Wireless (802.15.4) Sensor Network", 
   "id": 1430374
 }

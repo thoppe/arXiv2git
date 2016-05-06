@@ -1,0 +1,6 @@
+{
+  "read_at": 1462511527, 
+  "description": "Code to generate the results in arXiv:1502.06959 - Time-delayed quantum feedback control.", 
+  "README.md": "This code was used to generate the results in\narXiv:1502.06959 - Time-delayed quantum feedback control.\n\nRequirements: QuTiP and all it's requirements (see qutip.org).\n\nExplanation of files in repository:\n\nexample.py - example file for running a simulation of a two-level atom\n             coupled to a feedback loop.\ncascade.py - main module that builds the generator for the cascaded\n             master equation, and integrates it.\ntnintegrate_c.pyx - some cython functions for greater speed\n\nExample usage:\n\nIn python prompt:\n\n    from qutip import *\n    from pylab import *\n    import example\n    times,sol = example.run()\n    plot(times,expect(sol,sigmap()*sigmam())\n    show()\n", 
+  "id": 33414348
+}

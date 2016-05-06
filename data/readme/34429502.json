@@ -1,0 +1,6 @@
+{
+  "read_at": 1462511611, 
+  "description": "LQCD sample code", 
+  "README.md": "# LQCD\nUnoptimized code for pure gauge lattice calculation.\n\nFor people who are completely new to LQCD, consult the following:\n\n1) T.C. Yu, LQM for Novices (http://web.mit.edu/ytc/www/806.pdf)\n\n2) G.P. Lepage, LQCD for Novices (http://arxiv.org/abs/hep-lat/0506036)\n", 
+  "id": 34429502
+}
