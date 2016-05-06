@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546235, 
+  "description": "Provides an interface for performing sequential Monte-Carlo simulations of qubit tomography.", 
+  "README.md": "Sequential Monte-Carlo\n======================\n\nThis package provides an interface for performing sequential Monte-Carlo\nsimulations of qubit tomography. This code was used in the creation of some of\nthe figures in my paper published on the arXiv under [1506.08892][arxivid].\n\n[arxivid]: http://arxiv.org/abs/1506.08892\n", 
+  "id": 39409263
+}

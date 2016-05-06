@@ -58,7 +58,7 @@ def gather_readme(item):
         if os.path.isdir(f):
             continue
         
-        with codecs.open(f,'r','utf-8') as FIN:
+        with codecs.open(f,'r','utf-8',errors='replace') as FIN:
             raw = FIN.read()
             val = unidecode.unidecode(raw)
             data[os.path.basename(f)] = val

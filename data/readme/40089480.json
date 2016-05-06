@@ -1,0 +1,6 @@
+{
+  "read_at": 1462545704, 
+  "description": "Event detection in Python based on EigenEvent", 
+  "README.md": "eventmon: scalable event detection in Python\n============================================\n\nEventMon is intended to be an off-the-shelf solution for\nspatio-temporal event detection in Python.\nIt should be usable out of the box with real-time data,\nand be scalable to many sources and features with down to a second resolution.\nwith some tunable parameters but working robustly on a range\nof data with the default configuration.\nThe algorithm is based on EigenEvent (Fanaee-T, 2014).\n\nSome of the goals of the project are:\n\n* Real-time monitoring suited to EC2, etc. with data pushed from many servers\n  or other data sources\n* Interpretation of significant events and configurable alarm\n* OpenCL and/or distributed implementations as an option for large-scale input\n\nReferences\n----------\n\n* Fanaee-T, Hadi, and Joao Gama. \"EigenEvent: An Algorithm for Event Detection from Complex Data Streams in Syndromic Surveillance.\" *arXiv preprint arXiv:1406.3496* (2014).\n", 
+  "id": 40089480
+}

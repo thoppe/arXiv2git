@@ -1,0 +1,6 @@
+{
+  "read_at": 1462545626, 
+  "description": "Simple script for syncing with OAI repositories", 
+  "README.md": "This is a quick and dirty script for harvesting metadata from an [OAI-PMH](https://en.wikipedia.org/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting) enabled repository.\n\nIt relies on the `Net::OAI::Harvester` perl module, and is derived from the\n`oai-listrecords` script provided in the examples for that library.\n\nExample for harvesting arXiv metadata (honouring flow control directives):\n\n```bash\nmkdir arxiv{0,1,2}\n\n# initial sync\n./oai-sync.pl --baseURL=http://export.arxiv.org/oai2 --metadataPrefix=arXiv \\\n              --dumpDir=./arxiv0/\n\n# resume an interrupted sync with the given token\n./oai-sync.pl --baseURL=http://export.arxiv.org/oai2 --metadataPrefix=arXiv \\\n              --dumpDir=./arxiv1/ --resumptionToken='XXXXXX|XXXXXX'\n\n# sync any new changes since the date of the last sync\n./oai-sync.pl --baseURL=http://export.arxiv.org/oai2 --metadataPrefix=arXiv \\\n              --dumpDir=./arxiv2/ --from='2015-03-14'\n\n# split into individual records\nfor F in ./arxiv*/*.xml; do [ -s $F ] && ./oai-split.sh < $F; done\n```\n", 
+  "id": 40958460
+}

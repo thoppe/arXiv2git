@@ -1,0 +1,6 @@
+{
+  "README": "Exact simulation and Quasi Monte Carlo methods for the\nHeston stochastic volatility model.\n\nSee http://arxiv.org/abs/1202.3217\n\nDale Roberts <dale.o.roberts@gmail.com>\n", 
+  "read_at": 1462547615, 
+  "description": "Exact simulation and Quasi Monte Carlo for the Heston stochastic volatility model", 
+  "id": 10233862
+}

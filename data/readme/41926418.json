@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548732, 
+  "description": "Implementation of Variational Auto Encoder with Chainer", 
+  "README.md": "#Implementation of Variational Autoencoder\n\nI Implementated Variational Autoencoder (VAE) with Chainer\n\nYou can train an example model of VAE on the ipython notebook:https://github.com/takerum/vae/blob/master/source/train_vae.ipynb\n\nMy implemetation is now unsupported on GPU.\n\n##Required libraries:\npython 2.7, chainer 1.3.0\n\n##References:\nAuto-Encoding Variational Bayes (DP Kingma, 2013), http://arxiv.org/pdf/1312.6114v10.pdf\n", 
+  "id": 41926418
+}

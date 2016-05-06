@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548705, 
+  "description": "DBT spectral analysis scripts for matlab", 
+  "README.md": "# The demodulated band transform (DBT)\n\nThis repository contains DBT spectral analysis scripts for matlab\n\nFor more information please refer to Kovach & Gander (in press). J. Neurosci. Methods.\nA preprint is available here: [arXiv:1510.03113](http://arxiv.org/abs/1510.03113)\n", 
+  "id": 43022955
+}

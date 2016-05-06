@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546146, 
+  "description": null, 
+  "README.md": "Go package\n\n- [movingminmax](http://godoc.org/github.com/notnot/movingminmax) : A moving minimum-maximum filter.\n\nImplements the algorithm from:\n\nDaniel Lemire, Streaming Maximum-Minimum Filter Using No More than\nThree Comparisons per Element. Nordic Journal of Computing, 13 (4), pages 328-339, 2006.\n\nhttp://arxiv.org/abs/cs/0610046\n\n", 
+  "id": 39796995
+}

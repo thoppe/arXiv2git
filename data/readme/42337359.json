@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548663, 
+  "description": "Program used to compute rational homology groups for the following article: http://arxiv.org/abs/0808.0739 . Uses the Linbox C++ library.", 
+  "README.md": "# findHomology\n\nProgram used to compute rational homology groups for the following article: http://arxiv.org/abs/0808.0739 .\n\nAs input we take a text file containing a collection of same sized subsets of the positive integers. Each separated with a 0 and a -1 to denote the end of that collection.\n\nFor example: 1 2 0 3 4 0 5 6 -1\n\nThe program will then form a simplicial complex using this data where the vertices are the subsets and we form an N-1 simplex whenever N subsets have a nonempty intersection. By using the Linbox library to compute ranks of boundary matrices, we determine the rational homology groups.\n", 
+  "id": 42337359
+}

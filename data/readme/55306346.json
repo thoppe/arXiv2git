@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547802, 
+  "description": "An aided linear integer programming (ALIP) non-intrusive load monitoring (NILM) algorithm.", 
+  "README.md": "# ALIP_NILM\nAided Linear Integer Programming (ALIP) Non-Intrusive Load Monitoring (NILM)\n\nCopyright (C) 2016 by Md Zulfiquar Ali Bhotto.\n\nIf you use my code in your research please cite this paper. Current citation details are:\n\n* Bhotto, Md. A. Z., Makonin, S., and Bajic, I. V. (2016). Load disaggregation based on aided linear integer programming. arXiv preprint arXiv:1603.07417.\n* Paper URL: http://arxiv.org/abs/1603.07417\n\n", 
+  "id": 55306346
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548728, 
+  "description": "coded in Julia", 
+  "README.md": "# BH_diagonalize\ncoded in Julia\n\nAn exact diagonalization code for the Bose Hubbard model\n\nBasis enumerated using the method\nhttp://coulson.chem.elte.hu/surjan/PREPRINTS/181.pdf\nsee also\nhttp://arxiv.org/pdf/1102.4006v1.pdf\n", 
+  "id": 42368018
+}

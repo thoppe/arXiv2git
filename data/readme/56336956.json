@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547702, 
+  "description": "Neural Language Correction implemented on Tensorflow", 
+  "README.md": "!!WARNING!!\n===========\n\nThis porject is porting our original code in Theano to Tensorflow. Still in very early stage and under heavy development.\n\n\nINTRODUCTION\n============\n\nImplementation of Neural Language Correction (http://arxiv.org/abs/1603.09727) on Tensorflow\n\nDEPENDENCIES\n============\n\nTensorflow 0.7 or 0.8\n\n\nTRAINING\n========\n\nTo train character level model (default):\n\n   $ python train.py\n\n\nTo train word level model:\n\n   $ python train.py --tokenizer WORD", 
+  "id": 56336956
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462545688, 
+  "description": "An evolutionary multi-start algorithm for the Steiner Tree Problem in graphs with a fast local search.", 
+  "README.md": "# ms-steiner-puw\nAn evolutionary multi-start algorithm for the Steiner Tree Problem in graphs with a fast local search.\n\nThis project is the implementation of the algorithm introduced in the paper _A Robust and Scalable Algorithm for the Steiner Problem in Graphs_ by Thomas Pajor, Eduardo Uchoa, Renato F. Werneck.\n\nThe paper is available here: http://arxiv.org/abs/1412.2787\n", 
+  "id": 41337489
+}

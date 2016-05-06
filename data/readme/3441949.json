@@ -1,0 +1,6 @@
+{
+  "id": 3441949, 
+  "read_at": 1462547071, 
+  "README.rst": "Provides a command line tool to get metadata for an academic paper\r\nposted at arXiv.org in BibTeX format.\r\n\r\nInstallation\r\n------------\r\n\r\nUse pip::\r\n\r\n    $ pip install arxiv2bib\r\n\r\nOr use easy install::\r\n\r\n    $ easy_install arxiv2bib\r\n\r\nOr download the source and use setup.py::\r\n\r\n    $ python setup.py install\r\n\r\nIf you cannot install, you can use arxiv2bib.py as a standalone executable.\r\nJust copy it to somewhere in your path (like ``/usr/local/bin``.)\r\n\r\n\r\nExamples\r\n--------\r\n\r\nBasic usage::\r\n\r\n    $ arxiv2bib 1001.1001\r\n\r\nRequest a specific version::\r\n\r\n    $ arxiv2bib 1102.0001v2\r\n\r\nRequest multiple papers at once::\r\n\r\n    $ arxiv2bib 1101.0001 1102.0002 1103.0003\r\n\r\nUse a list of papers from a text file (one per line)::\r\n\r\n    $ arxiv2bib < papers.txt\r\n\r\nMore information::\r\n\r\n    $ arxiv2bib --help\r\n\r\nIf you have further questions, see the documentation at\r\nhttp://nathangrigg.github.io/arxiv2bib.\r\n", 
+  "description": "Get a BibTeX entry from an arXiv id number, using the arxiv.org API."
+}

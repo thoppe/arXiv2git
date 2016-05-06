@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546636, 
+  "description": "Unfolding of first-principle electronic band structure", 
+  "README.md": "## fold2Bloch\n\nUnfolding of first-principle electronic band structure obtained with [WIEN2k](http://www.wien2k.at) DFT-(L)APW code\n\n### Contributors:\n* Anton Bokhanchuk\n* Elias Assmann\n* Sheikh Jamil Ahmed\n* Oleg Rubel\n\nFor installation and tutorials, please refer to [wiki page](https://github.com/rubel75/fold2Bloch/wiki)\n\nExamples of \"real life\" applications can be found in [arXiv:1405.4218](http://arxiv.org/abs/1405.4218)\n\nPlease communicate your feedback, support or feature requests via WIEN2k [mailing list](http://www.wien2k.at/reg_user/mailing_list)\n", 
+  "id": 19549110
+}

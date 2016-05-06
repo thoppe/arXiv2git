@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546362, 
+  "description": "Simple and basic implementation of MCMC-MH and sudoku solver using mcmc.", 
+  "README.md": "MARCOV CHAIN MONTE CARLO - METROPOLIS HASTINGS\n==============================================\n\nThis program shows a compact implementation of the MCMC-MH algorithm\nfor density estimation and solving a Sudoku puzzle.\n\n1. COMPILATION\n--------------\n\nOpenCV is required for visualizations.\n\nRun these commands from the root directory of the project:\n$ mkdir build\n$ cd build\n$ cmake ..\n$ make install\n\nTo run the executables type:\n$ ./bin/mcmc\nor\n$ ./bin/sudoku\n\n3. REFERENCES\n-------------\n[1] D. MacKay. Information Theory, Inference, and Learning Algorithms.\n    http://www.inference.eng.cam.ac.uk/mackay/itila/book.html\n[2] E. Chi, and K. Lange. Techniques for Solving Sudoku Puzzles.\n    http://arxiv.org/abs/1203.2295\n[3] J. Goldstick. Statistics 406: Introduction to Statistical Computing.\n    http://dept.stat.lsa.umich.edu/~jasoneg/Stat406/lab5.pdf\n", 
+  "id": 39724791
+}

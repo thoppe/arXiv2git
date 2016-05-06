@@ -1,0 +1,6 @@
+{
+  "id": 55371744, 
+  "read_at": 1462547729, 
+  "README.rst": ".. image:: https://img.shields.io/pypi/v/autocolorize.svg\n    :target: https://pypi.python.org/pypi/autocolorize\n\nautocolorize\n============\n\nAutomatically colorize images using Machine Learning.\n\n* `Project page <http://people.cs.uchicago.edu/~larsson/colorization/>`__\n* `arXiv paper <http://arxiv.org/abs/1603.06668>`__\n\nInstallation\n------------\nMake sure that you have Caffe (with Python bindings). Then run::\n\n    pip install autocolorize\n\nRun::\n\n    autocolorize grayscale.png -o colorized.png\n", 
+  "description": "Automatic colorizaton of grayscale images using Deep Learning"
+}

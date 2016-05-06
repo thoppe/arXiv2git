@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549250, 
+  "description": "Code for computing the Randomized Shortest Paths betweenness centralities of a network", 
+  "README.md": "\nThis repo contains code for computing the Randomized Shortest Paths betweenness centralities of a network, based on\n\nKivimki, Ilkka, et al. \"Two betweenness centrality measures based on Randomized Shortest Paths.\" arXiv preprint arXiv:1509.03147 (2015).\n\nand the data used within that paper. In addition, osm2nx.py can be used to parse OpenStreetMap geodata into Networkx and has been used to generate lowermanhattan.mat.\n\n\n\n\n", 
+  "id": 38101012
+}

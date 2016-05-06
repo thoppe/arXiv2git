@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549305, 
+  "description": "code for Approximate Bayesian Computing estimation of a small DSGE model", 
+  "README.md": "# ABCDGSE\n\nRelease 1 has the files for replicating the results for the DSGE model in the paper \"Bayesian Indirect\nInference and the ABC of GMM\" by Creel, Gao, Hong and Kristensen, http://arxiv.org/abs/1512.07385 The file DSGE.pdf is an extract, which\ngives a description and the results.\n\n\nThe current version is updated to use parameter dependent moments and neural net statistics. This will be described in\nthe next version of the paper, which should be ready in June.\n\n\nThe estimator is an Approximate Bayesian Computing estimator,\ncomputed using importance sampling and local linear nonparametric\nregression. \n\nRequires Open MPI, Julia (with MPI and Distances packages), Octave (with MPI\npackage) and other supporting code available at https://github.com/mcreel/Econometrics\n\nTo replicate the results, execute \"sh MasterScript\" from the bash prompt.\n\nFor questions, write to michael.creel@uab.es\n", 
+  "id": 37302347
+}

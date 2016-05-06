@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548140, 
+  "description": "Resources for RNN", 
+  "README.md": "# rnn-project\nThis is a repository for rnn-related papers and techniques.\n\n# deep-framework \n1. NVIDIA DIGITS + Caffe/Torch\n\t- [On an Amazon EC2 instance][1]\n\t- [DIGIT3][2]\n\t- [NVIDIA/DIGITS.GitHub][3]\n\n2. [CaffeOnSpark][4]\n\n\n# top conferences\n1. [IJCAI][5]\n\t- Paper Dealine: February 2, 2016\n\t- Rebuttal Period: March 10-11, 2016\n2. [ICLR][6]\n\t- Paper Deadline: \n\t\t- title, abstract, preliminary draft: November 12th, 2015\n\t\t-  arXiv paper ID and final draft: November 19th, 2015\n\n3. [AAAI][7]\n\t- Paper Deadline \n\t\t- abstract: September 10, 2015\n\t\t- final: September 15, 2015\n\n# keep up with trends\n1. [keep with new trends][8]\n2. [future of AI from LeCun][9]\n\n\n[1]:\thttp://www.learnopencv.com/nvidia-digits-3-on-ec2/\n[2]:\thttps://developer.nvidia.com/digits\n[3]:\thttps://github.com/NVIDIA/DIGITS\n[4]:\thttps://github.com/yahoo/CaffeOnSpark\n[5]:\thttp://ijcai-16.org/index.php/welcome/view/home\n[6]:\thttp://www.iclr.cc/doku.php\n[7]:\thttp://www.aaai.org/Conferences/AAAI/aaai16.php\n[8]:\thttp://handong1587.github.io/deep_learning/2016/04/01/keep-up-with-new-trends.html\n[9]:\thttp://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=403182818&idx=1&sn=7d4a8f11e61573183c1797addaacf937&scene=0#wechat_redirect", 
+  "id": 57104383
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547654, 
+  "description": "Rewriting code for \"Deep Networks with Stochastic Depth\" http://arxiv.org/abs/1603.09382 in keras", 
+  "README.md": "# Deep Networks with Stochastic Depth\nRewriting code for \"Deep Networks with Stochastic Depth\" http://arxiv.org/abs/1603.09382 in Keras.\n\nOriginal code is at https://github.com/yueatsprograms/Stochastic_Depth.\n\n\n## Usage\n\n1. Install [Theano](https://github.com/Theano/Theano) following its instruction.\n2. Install [Keras](https://github.com/fchollet/keras) (I use new API at `keras-1` branch)\n   ```\n$ cd keras\n$ git checkout keras-1\n$ python setup.py install\n```\n\n3. Just run `python train.py`\n\n\n## Known Issues\n\n- Error related to maximum recursion depth\n - When the network is deep, there happens error saying it reaches to maximum recursion depth.\n - You can resolve this issue by using `sys.setrecursionlimit(max_recursion_depth)`. You should increase `max_recursion_depth` until you get no error (Increasing this value might cause segmentation fault if you don't have enough memory).\n\n\n## Results\n\n- Number of layers == 50\n- (other configs are same as `train.py`)\n\n![results](https://cloud.githubusercontent.com/assets/10726958/14477064/904b573e-0146-11e6-865d-99fbd060486e.png)\n", 
+  "id": 55616394
+}

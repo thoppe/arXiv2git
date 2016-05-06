@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546506, 
+  "description": "Generates galaxies", 
+  "README.md": "galaxy-creator\n==============\nAuthor: James Holland\nEmail: jamesfholland@gmail.com\nCopyright 2012\nLicense:\nNot sure which one yet, email me if you want to use it for anything\n\nCitations:\nEquation for barred spiral galaxy is based on the formula found in:\n\"A New Formula Describing the Scaffold Structure of Spiral Galaxies\" by H. Ringermacher and L. Mead\nYou can read it here if you are curious. http://arxiv.org/abs/0908.0892v1\n\nGenerates galaxies\n\nCurrently generates coordinates for 2D barred spiral galaxies.\n\nTODO:\nAllow setting of how many spirals to create\nAdd plotting\nAdd 3D galaxies\nAdd tie to database where galaxy can be stored\n", 
+  "id": 7218453
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546288, 
+  "description": "Mini challenge for SSSW 2015", 
+  "README.md": "# uncommonfacts\n\nWinner or the Mini challenge @SSSW 2015 ( http://sssw.org ). Topic: finding related entities which are not similar to the input one. \n\nUsage: download the code, open it in Netbeans or import it Eclipse or your favorite IDE as Maven project. Edit Starter.java with the Wikipedia page you want to analyze. Run and wait for the results - it may take a while!\n\nA report with the description of the approach will be soon published in the arXiv.\n", 
+  "id": 38807475
+}

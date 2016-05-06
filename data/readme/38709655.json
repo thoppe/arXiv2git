@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546140, 
+  "description": "Deformation Loop Closure sample code to enable non-rigid alignment of point clouds", 
+  "README.md": "# DeformationLoopClosure #Embedded Shape Deformation\nDeformation Loop Closure sample code to enable non-rigid alignment of point clouds. \n\n## Dependencies\nCVD\nTooN\nEigen3\nCSparse\nPCL\n\n## Acknowledgements\nIf you feel this code was useful please cite the following papers \n\n*SynthCam3D: Semantic Understanding With Synthetic Indoor Scenes*\nAnkur Handa, Viorica Patraucean, Vijay Badrinarayanan, Simon Stent, Roberto Cipolla, \narXiv:1505.00171\n\nThis work builds upon the ideas from \n\n*Embedded Deformation for Shape Manipulation*: \nRobert W. Sumner, Johannes Schmid and Mark Pauly, \nSIGGRAPH 2007\n\n*ElasticFusion: Dense SLAM Without A Pose Graph*: \nThomas Whelan, Stefan Leutenegger, Renato F. Salas-Moreno, Ben Glocker, and Andrew J. Davison,\nRSS 2015\n\nVarious jacobians used in the code are derived in this document which might of some interest: [http://mi.eng.cam.ac.uk/~ah781/NonRigidDeformableEmbedding.pdf](http://mi.eng.cam.ac.uk/~ah781/NonRigidDeformableEmbedding.pdf)\n\nPrimary Contact:\nhanda.ankur@gmail.com\n", 
+  "id": 38709655
+}

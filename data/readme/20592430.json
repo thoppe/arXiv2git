@@ -1,0 +1,6 @@
+{
+  "id": 20592430, 
+  "read_at": 1462547300, 
+  "README.rst": ".. image:: https://img.shields.io/shippable/557c82e6edd7f2c05214d9b0/master.svg\n    :target: https://app.shippable.com/projects/557c82e6edd7f2c05214d9b0/builds/latest\n\n.. image:: https://requires.io/github/jbornschein/reweighted-ws/requirements.svg?branch=master\n    :target: https://requires.io/github/jbornschein/reweighted-ws/requirements/?branch=master\n    :alt: Requirements Status\n\n.. image:: https://img.shields.io/github/license/jbornschein/reweighted-ws.svg\n    :target: http://choosealicense.com/licenses/agpl-3.0/\n    :alt: AGPLv3\n\n\nReweighted Wake-Sleep\n=====================\n\nThis repository contains the implementation of the machine learning \nmethod described in http://arxiv.org/abs/1406.2751 . \n\nInstallation & Requirements \n---------------------------\n\nThis implementation in written in Python and uses Theano. To automatically\ninstall all dependencies run\n\n pip install -r requirements.txt\n\nIn order to reproduce the experiments in the paper you need to download about \n500 MB of training data:\n\n cd data\n sh download.sh\n\n", 
+  "description": "y2k used to be the future!"
+}

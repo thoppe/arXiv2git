@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547000, 
+  "description": "collaborative receptive field learning", 
+  "README.md": "%coRFL\n%=====\n%\n%collaborative receptive field learning\n% This code demonstrates the proposed objective function for discovering\n% the most informative receptive fields in images.\n% Specifically, a synthetic dataset is generated, including three cluters\n% to stand for three images, and the most correlated image regions or the\n% common foreground objects are represented by the points lying in the\n% intersection of the three clusters.\n%\n%\n% Readers can directly run main_syntheticData.m to see the results, and the\n% intermediate results/figures are automatically stored in 'figures' folder.\n%\n%\n% For details, readers are suggested to refer to the following report:\n%       Shu Kong, etal., \"Collaborative Receptive Field Learning\", arXiv, 2014\n%\n% \n% The code is writen by\n%           Shu Kong (Aimery)\n%           aimerykong@gmail.com\n%           www.aimerykong.me\n%           Dec. 2013, release version available on Jan. 13, 2014\n\n\n", 
+  "id": 16124010
+}

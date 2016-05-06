@@ -1,0 +1,6 @@
+{
+  "read_at": 1462545639, 
+  "description": "", 
+  "readme.md": "# IDL codes library\n\n(description...)\n\n## califa\nCodes used for the analysis of the SN host galaxies observed by CALIFA with Integral Field Spectroscopy, presented in Galbany et al. (2014), A&A, and Galbany et al. (in prep.).\n\narXiv:  http://arxiv.org/abs/1409.1623\n\nADSABS: http://adsabs.harvard.edu/abs/2014A%26A...572A..38G\n\narXiv:  http://\n\nADSABS: http://\n\n## cats\nCodes used for the analysis of 51 SN II light-curves presented in Galbany et al. (2016), AJ.\n\narXiv:  http://arxiv.org/abs/1511.08402\n\nADSABS: http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1511.08402\n\n## muse\nCodes used for the AMUSING pilot study with MUSE science Verification data in Galbany et al. (2016), MNRAS.\n\narXiv:  http://arxiv.org/abs/1511.01495\n\nADSABS: http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1511.01495\n\n## sn14j\n\nCodes used for the spectroscopic charaterisation of SN 2014J wit INT and WHT spectra presented in Galbany et al. (2016), MNRAS.\n\narXiv:  http://arxiv.org/abs/1510.06596\n\nADSABS: http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1510.06596\n\n## others \nOther useful codes downloaded from the net \n", 
+  "id": 40117530
+}

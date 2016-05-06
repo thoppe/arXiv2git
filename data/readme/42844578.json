@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548641, 
+  "description": "Wrapper for ArXiv XML data.  Produces JSON output in PHP backend and forwards it to client.", 
+  "README.md": "# arxiv-wrap\nWrapper for ArXiv XML data.  Produces JSON output in PHP backend and forwards it to client.\n\nAvailable at [http://www.arxivwrap.org](http://www.arxivwrap.org)\n", 
+  "id": 42844578
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548130, 
+  "description": "Stochastic LBFGS", 
+  "README.md": "# Stochastic LBFGS\n\nThis repository contains code to reproduce some of the experiments published in the paper\n\"A Linearly-Convergent Stochastic L-BFGS Algorithm\" (see http://arxiv.org/abs/1508.02087).\nTo run it, you need Julia v0.3 and the following packages installed:\n\n- Regression\n- SVM\n- Optim\n- ArrayViews\n- DataStructures\n- DataFrames\n- ArgParse\n- HDF5\n\nThe adult dataset can be obtained from\nhttps://archive.ics.uci.edu/ml/machine-learning-databases/adult/\n\nYou need to put the adult.data file into the working directory.\n\nSome example parameters can be found in the file `experiments/adult.sh`.\n", 
+  "id": 56185027
+}

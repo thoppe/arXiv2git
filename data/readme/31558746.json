@@ -1,0 +1,6 @@
+{
+  "read_at": 1462544662, 
+  "description": "Adjunctions and defects in Landau-Ginzburg models", 
+  "README.md": "# lgdual\nAdjunctions and defects in Landau-Ginzburg models\n\nThis repository is the canonical version of the paper of Nils Carqueville and Daniel Murfet, \"[Adjunctions and defects in Landau-Ginzburg models](http://arxiv.org/abs/1208.1481)\". You are invited to make edits to the paper! No need to ask permission, go ahead and fix that typo, or add details to a proof you find confusing (as long as you accept that from time to time, these changes will be rolled back into the arXiv version, with all contributors thanked in the Acknowledgements).\n\nComments and questions on the paper are [welcome in the wiki](https://github.com/dmurfet/lgdual/wiki) for this repo.\n", 
+  "id": 31558746
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549109, 
+  "description": "A simulation of solutions to the 3-body problem", 
+  "README.md": "three-body\n==========\n\nA simulation of solutions to the 3-body problem\n\nBased on http://arxiv.org/abs/1303.0181\n\nUses three.js\n\nhttp://www.funcmain.com/three_body_problem\n", 
+  "id": 8762041
+}

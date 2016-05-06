@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547914, 
+  "description": "", 
+  "README.MD": "#Residual network implementation\n\n##Original Residual newtork(http://arxiv.org/pdf/1512.03385v1)\noriginal residual network implementation with torch\n20_plain, 20_res, 56_plain, 56_res are implemented using CIFAR-10\nYields the same performance as the paper\n\nBasic residual block design and shortcut option A is used\n", 
+  "id": 56214047
+}

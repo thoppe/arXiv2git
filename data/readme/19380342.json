@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546724, 
+  "description": "A version of the Diffie-Hellman protocol using non-commutative polynomial algebras", 
+  "README.md": "Diffie Hellman -- Non commutative version\n==================================================\n\nIn this repository, one can find a version of the Diffie-Hellman\nprotocol using a non-commutative domain. A publication about this\nprotocol is being written up and will appear soon.\n\nIn order to compile and run the protocol as stated in the paper\n\"A Diffie-Hellman-like Key Exchange Protocol Based on Multivariate Ore\nPolynomials\" by Reinhold Burger and Albert Heinle\n(http://arxiv.org/abs/1407.1270),\nsimply use the command\n\n```\ngcc impl.c\n```\n\nIf you want to do some operations with the underlying ore_algebra, use\nthe functions as provided in\n```\nore_algebra.c\n```\nfor your own project.\n\nWe are looking forward to feedback from users.\n", 
+  "id": 19380342
+}

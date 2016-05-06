@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546696, 
+  "description": "3 state version of busy boxes", 
+  "readme.md": "BUSY BOXES\n==========\n\nAn implementation of the 3D reversible cellular automata developed by Ed Fredkin and Daniel B. Miller in their 2005 paper,\n<a href=\"http://dl.acm.org/citation.cfm?id=1062261.1062271\">Two State, Reversible, Universal Cellular Automata In Three Dimensions</a>. \nA preprint is available <a href=\"http://arxiv.org/pdf/nlin/0501022\">here</a>.\n\nThe new paper, which makes numerous references to the website running this software, is up on\n<a href=\"http://arxiv.org/abs/1206.2060\">the arXiv</a>.\n\n\n\n\nIt's running live (as of March, 2012) <a href=\"http://bbx.logqr.com/\">here</a>.\n\nMore info can be found in the <a href=\"http://bbx.logqr.com/faq.html\">faq.</a>\n", 
+  "id": 19950265
+}

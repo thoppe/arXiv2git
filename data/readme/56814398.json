@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548342, 
+  "description": "Code and Simulations using Bayesian Approximate Kernel Regression (BAKR)", 
+  "README.md": "# BAKR_Code\nCode and simulations using Bayesian approximate kernel regression (BAKR). The motivation for these simulations is to understand the performance of BAKR on an important question in statistical genetics: genomic selection. We use three simulation scenarios, corresponding to three types of genetic architectures, to better understand the performance of BAKR in predicting phenotypes from genotypes: (1) a linear relationship between genotype and phenotype with samples that are not related; (2) a nonlinear relationship between genotype and phenotype with unrelated individuals or observations; and (3) a linear relationship between genotype and phenotype but the individuals or observations. We show that BAKR predicts phenotypes from genotype data as well as the best nonparametric models and better than parametric models. \n\nSee http://arxiv.org/abs/1508.01217 for more details.\n", 
+  "id": 56814398
+}

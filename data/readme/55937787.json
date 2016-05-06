@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547811, 
+  "description": "Generative Question Answering", 
+  "README.md": "# Generative Question Answering\n\nThis repository contains information about downloading the corpus for generative question answering. For a detailed description of the corpus, please read the following paper. Please cite the paper if you use this corpus in your work.\n\nJun Yin, Xin Jiang, Zhengdong Lu, Lifeng Shang, Hang Li, and Xiaoming Li. [Neural Generative Question Answering](http://arxiv.org/abs/1512.01337). arXiv:1512.01337, 2015.\n\n## Download Corpus\nDownload the corpus at http://210.6.28.98/CQA_KB_CH/ with\n```\nusername: huawei\npassword: noah\n```\nPlease refer to README.txt in the folder for the explanation of the data format.\n\nPlease note that texts in the corpus are mostly in **Chinese**. \n", 
+  "id": 55937787
+}

@@ -1,0 +1,6 @@
+{
+  "README": "*Technical Report*\nJianbo Ye, Multiple Closed-Form Local Metric Learning for K-Nearest Neighbor Classifier\nhttp://arxiv.org/abs/1311.3157, 12 Nov 2013\n\n\n*Quick Start*\ncd knnsearch/\nminmax_install\ncd ..\nbenchtest\n", 
+  "read_at": 1462546238, 
+  "description": "Multiple closed-form local metric learning for KNN", 
+  "id": 39851046
+}

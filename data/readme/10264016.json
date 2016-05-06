@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547603, 
+  "description": "Notes on physical and logical data layouts in the context of large-scale data processing (arxiv article)", 
+  "README.md": "# Notes on data layout\n\n## Motivation and Scope\n\nThis is an article to be published on arxiv.org about the principled options for physical and logical data layouts and its implications on data processing at large scales. These notes offer no new insights, that is, everything stated here has already been published elsewhere. In fact it has been published in so many different places, such as blog posts, in the literature, mentioned at talks, spread over YouTube and Vimeo videos, uttered in hallway discussion and various whiteboards that its main contribution is to bring it all together in one place. The reader is expected to have a basic understanding in data management, databases and datastores as well as datashapes [REF] in general.\n\n## Structure\n\n1. Motivation\n1. Manifestations of Data Layouts\n1. Logical Layouts\n1. Physical Layouts\n1. Layering Physical and Logical Layouts\n1. Impact on Data Processing at Scale\n1. Conclusions and Challenges\n\n## TODO\n\n* get template from mhausenblas/data-shapes--DONE\n* init, push to GitHub--DONE\n* write (5p max)\n* publish on arxiv.org", 
+  "id": 10264016
+}

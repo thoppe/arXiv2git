@@ -1,0 +1,6 @@
+{
+  "read_at": 1462545690, 
+  "description": "Implements algorithms for the best subset regression problem in Julia", 
+  "README.md": "# BestSubsetRegression\n\n[![Build Status](https://travis-ci.org/IainNZ/BestSubsetRegression.jl.svg?branch=master)](https://travis-ci.org/IainNZ/BestSubsetRegression.jl)\n\n\nCurrently implements the first order optimization-based heuristic from the paper\n\n> Bertsimas, King, Mazumder. \"Best Subset Selection via a Modern Optimization Lens\". [http://arxiv.org/abs/1507.03133](http://arxiv.org/abs/1507.03133)\n\nto solve the regression problem\n\n```\nFind b such that\n0.5 ||y - Xb||2^2\nis minimized, subject to\n||b||0 <= k\n```\n\nOr in other words, find the regression coefficients `b` to minimize square error such that no more than `k` of the coefficients are non-zero.", 
+  "id": 40090187
+}

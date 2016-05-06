@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546664, 
+  "description": "\"Belief as Willingness to Bet,\" a joint paper by Jan van Ejick and Bryan Renne", 
+  "README.md": "# Belief as Willingness to Bet \n\nJoint work by Jan van Eijck and Bryan Renne\n\nFollowing the general [gitflow](http://nvie.com/posts/a-successful-git-branching-model/) scheme but with some variations:\n* ```develop```: the branch for stepwise improvements to the paper (not including the pdf)\n* ```master```: the branch for releases of the paper (i.e., official versions submitted to people/places, including the pdf)\n* ```arXiv```: the branch for arXiv submissions\n* ```talks```: the branch for talks based on (a version of) the paper\n\n(C) Copyright 2014 Jan van Eijck and Bryan Renne\n", 
+  "id": 19614165
+}

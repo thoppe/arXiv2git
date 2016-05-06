@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546509, 
+  "description": "Projecte Final de CLP basat en la KDDCup 2006", 
+  "README.TXT": "TXT Sobre el projecte final de CLP.\nTask 1 de KDDCup 2006: Deteccio d'Embolies Pulmonars (PE) a traves d'imatges 3D de CAD.\nFeatures del problema ja extretes.\n\nReparticio de tasques:\n\n- Visualitzacio de dades: scatter plots, gaussianitat --> coneixer les variables (Josep Marc)\n\n- Reduccio dimensionalitat: \n    + Feature projection: PCA, ICA, MDA (Biel)\n    + Feature selection: filters, classification wrappers (Mingot)\n\n- Aprenentatge: \n*Discriminants lineals i quadratics (Josep Marc)\n*K-nearest (Biel)\n*SVM (Biel)\n*NN (Josep Marc)\n*Tree (Biel)\n\n\n- Error: #mal classificats/#total vectors\n\ncode: Codi Font R\ndata: original data de KDD CUP\n\nBIBLIOGRAFIA\n* LDA feature selection\nhttp://arxiv.org/pdf/0903.2003v4.pdf\n\n\n", 
+  "id": 7192477
+}

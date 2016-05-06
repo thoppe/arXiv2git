@@ -1,0 +1,6 @@
+{
+  "README": "This code is released under a 3-clause BSD license, found in the file LICENSE.\nBy downloading, modifying, and/or distributing this code in either source or binary form,\nyou agree to be bound by this license.\n\nSource code for a quantum compiler which enumerates over the Clifford group and T (pi/8) gate with skip-ahead\noptimizations to produce approximate gate sequences of optimal length.\n\n(c) Austin Fowler 2004-2012.\n\nThis work is described in more detail in the following paper:\nhttp://arxiv.org/abs/quant-ph/0411206\n\nPlease cite this paper and Austin Fowler for the original code (in the master branch).\nYou can email Austin for support at austingfowler at gmail.\n\nThe branch 'jeff\" was added by Jeffrey Booth to add meet-in-the-middle optimizations.\n\n(c) Jeffrey Booth 2012\n\nThis work is described in more detail in the following paper:\nhttp://arxiv.org/abs/1206.3348\n\nPlease cite this paper and Jeffrey Booth for the meet-in-the-middle optimizations.", 
+  "read_at": 1462547168, 
+  "description": "Austin Fowler's quantum compiler using skip-ahead optimizations with Jeffrey Booth's meet-in-the-middle optimization.", 
+  "id": 3839829
+}

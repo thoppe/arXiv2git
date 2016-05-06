@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547896, 
+  "README.org": "#+TITLE: README\n#+DATE: <2016-04-26 Fri>\n#+OPTIONS: ':nil *:t -:t ::t <:t H:5 \\n:nil ^:t arch:headline author:t c:nil\n#+OPTIONS: creator:comment d:(not \"LOGBOOK\") date:t e:t email:nil f:t inline:t\n#+OPTIONS: num:t p:nil pri:nil stat:t tags:t tasks:t tex:t timestamp:t toc:t\n#+OPTIONS: todo:t |:t\n#+CREATOR: Emacs 25.1.50.1 (Org mode 8.2.10)\n#+DESCRIPTION:\n#+EXCLUDE_TAGS: noexport\n#+KEYWORDS:\n#+LANGUAGE: en\n#+SELECT_TAGS: export\n\n* Long short-term memory(LSTM)\n* References\n1. Deep Learning, Ian Goodfellow, Yoshua Bengio and Aaron Courville, P385, http://www.deeplearningbook.org\n2. LSTM: A Search Space Odyssey, Klaus Greff, Rupesh Kumar Srivastava, Jan Koutnik, Bas R. Steunebrink, Jurgen Schmidhuber, http://arxiv.org/abs/1503.04069\n", 
+  "description": "", 
+  "id": 57423799
+}

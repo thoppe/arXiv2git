@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547306, 
+  "description": "", 
+  "README.md": "A Bayesian approach to the power law distribution\n=================================================\n\nThis is an R code that accompanys the paper\n\n> Gillespie, C.S. *Estimating the number of casualties in the American Indian war: a\nBayesian approach to the power law distribution*. 2015 [arXiv](http://arxiv.org/abs/1408.1554)\n\nOverview of the repository\n--------------------------\n  \n  * The R code for is contained in the root directory.\n  * The file analysis.R runs the mcmc algorithm for the native and US American data sets\n  * The output directory contains the previous MCMC output.\n  * The `poweRlaw` R package is required.\n\n\nIssues\n-------\n  \n  * If you have any problems with the code, either create an issue or email me directly.\n", 
+  "id": 20879824
+}

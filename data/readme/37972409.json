@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549232, 
+  "description": "Fast Two-Sample Testing with Analytic Representations of Probability Measures", 
+  "README.md": "# analyticMeanEmbeddings\nFast Two-Sample Testing with Analytic Representations of Probability Measures\n\nPaper: http://arxiv.org/abs/1506.04725 .\nMy (Kacper Chwialkowski) web page: http://www0.cs.ucl.ac.uk/staff/K.Chwialkowski/\n\nIf you find this code confusing, drop me an email.", 
+  "id": 37972409
+}

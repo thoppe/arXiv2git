@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547664, 
+  "description": "Python implementation of DMN", 
+  "README.md": "# DynamicMemoryNetworks\nPython implementation of DMN\n\nDownload the bAbI tasks (tasks_1-20_v1-2.tar.gz) from https://research.facebook.com/researchers/1543934539189348.\n\nReference: Kumar, A., Irsoy, O., Ondruska, P., Iyyer, M., Bradbury, J., Gulrajani, I., and Socher, R. Ask Me Anything: Dynamic Memory Networks for Natural Language Processing. arXiv preprint arXiv:1506.07285, 2015.\n", 
+  "id": 55902243
+}

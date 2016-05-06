@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547883, 
+  "description": "python implementation of HbEMKM", 
+  "README.md": "# HbEMKM\npython implementation of HbEMKM\n\nReferences:\n  - D. Raja Kishor, N. B. Venkateswarlu:\n    Hybridization of Expectation-Maximization and K-Means Algorithms for Better Clustering Performance\n    http://arxiv.org/abs/1603.07879\n\nIn this demo,I made some small change with the formulae (4), (5), (6),in detail\nin (4), if(abs(det(sigma))<1e-05) P(c_x)=1/K\n", 
+  "id": 55517373
+}

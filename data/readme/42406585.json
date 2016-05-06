@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548773, 
+  "description": "DMD 1st semester project", 
+  "README.md": "Whats up dawg,\n\nThere are 3 files you need to know:\n- start.py -- Start application\n- dbtest.py -- Create test table (in database named \"project\" with user \"postgres\") and fill it with test data\n- fetch_data.py -- Fetch data from arxiv.org", 
+  "id": 42406585
+}

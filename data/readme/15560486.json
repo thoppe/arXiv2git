@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547009, 
+  "description": "Real Root Isolation of Polynomial Equations Based on Hybrid Computation", 
+  "README.md": "real_root_isolation\n===================\n\n### Ji Yu Hun He Ji Suan De Duo Xiang Shi Xi Tong Shi Gen Ge Chi \n\nJu Ti Suan Fa He Yuan Li Jian Lun Wen :\nFei Shen, Wenyuan Wu and Bican Xia: Real Root Isolation of Polynomial Equations Based on Hybrid Computation. [arXiv:1207.3019v1](http://arxiv.org/abs/1207.3019v1) \\[cs.SC\\]. In: Computer Mathematics - Proc. ASCM2012, pp. 375--396, Springer, 2014.\n\nYou Yu Cheng Xu Yi Lai De IntlabZai Bu Fen MatlabBan Ben Xia You bug, Suo Yi Bu Bao Zheng Ke Yi Zhi Xing . Ju Ti Shi Yan Huan Jing Jian Lun Wen .\n\nShuo Ming : Wo Dang Shi Xie Lun Wen Shi Yong De Shi 32Wei De Ji Qi , Er Hom4psZai LinuxXia Zhi You 64Wei Ban Ben , Yin Ci Dang Shi Zhi Neng Zai WindowsXia Bian Cheng ,\n    Hou Xu You Kong Ke Yi Kao Lu Li Yong LinuxBan Ben De Hom4psHe Kai Yuan IntlabTi Dai Pin Zhong Xie Xia Zhe Ge Cheng Xu .\n", 
+  "id": 15560486
+}

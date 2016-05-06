@@ -1,0 +1,5 @@
+{
+  "read_at": 1462549090, 
+  "description": "A small module for interfacing with the arXiv API with Python. Includes functionality for formatting results in BibTex.", 
+  "id": 8830061
+}

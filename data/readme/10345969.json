@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547620, 
+  "description": "Simulation code accompanying manuscript", 
+  "README.md": "Simulation code accompanying \"Revisiting Multi-Subject Random Effects in fMRI: Advocating Prevalence Estimation\" by Rosenblatt, Vink and Benajamini.\nSee http://arxiv.org/abs/1212.3436\n\nA tutorial for the FPF package can be found in http://www.john-ros.com/software\n", 
+  "id": 10345969
+}

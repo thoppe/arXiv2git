@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546127, 
+  "description": "A collection of files that I regularly use in my research for object recognition/classification", 
+  "README.md": "recognition-utils\n=================\n\nA collection of files that I regularly use in my research for object recognition/classification\n\n**Author(s): [Sudeep Pillai](http://people.csail.mit.edu/spillai/)**\n\n###Related Publications:\n\n[**Monocular SLAM Supported Object     Recognition**](http://people.csail.mit.edu/spillai/projects/vslam-object-recognition/)<br>\n [Sudeep Pillai](http://people.csail.mit.edu/spillai/) and John. J. Leonard. <br>\n Robotics: Science and Systems 2015. [arXiv preprint](http://arxiv.org/abs/1506.01732)\n\n###Dependencies:\nOpenCV 2.4.9\n\n###License:\nMIT\n\n\n", 
+  "id": 39813149
+}

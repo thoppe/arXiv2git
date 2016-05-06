@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546185, 
+  "description": "", 
+  "README.md": "# tropical\n\nImplementation of an attack on key exchange protocol using matrices over tropical algebra from\nGrigoriev, Shpilrain, Tropical cryptography, http://arxiv.org/pdf/1301.1195.pdf.\n", 
+  "id": 39872096
+}

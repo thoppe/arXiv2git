@@ -1,0 +1,6 @@
+{
+  "README": "\nErlang Time Warp\n================\n\nThe Time Warp synchronization algorithm written in Erlang. It implements the PHOLD testing model, it's a prototype and a lot of code is needed to use it into a stable production environment.\n\n\nAwards\n===============\n\nThe Version 1.0 of the Simulator has been presented in the paper[1]:\n\nParallel and Distributed Simulation with Erlang\n\naccepted at the FHPC'12 conference[2].\n\n\nReferences:\n\n[1]: http://arxiv.org/abs/1206.2775\n[2]: http://www.hiperfit.dk/fhpc12.html\n\n\n\nLICENSE\n=======\n\nSee LICENSE file for the GNU GENERAL PUBLIC LICENSE\n", 
+  "read_at": 1462547126, 
+  "description": "Time Warp algorithm implemented in Erlang", 
+  "id": 3716889
+}

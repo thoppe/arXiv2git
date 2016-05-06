@@ -1,0 +1,6 @@
+{
+  "README": "=========\nArxivNotificator\n=========\n\nArxivNotificator -- is a little script that notify users about interesting articles in ArXiv.org by e-mail. The papers are chosen by key-words in title and in abstract and by authors.\n\n============\nUsage\n============\n\nFill in fields in settings.py:\n    server -- mail server name.\n    port -- port number\n    sender -- sender name\n    passw -- password of sender\n    recipient -- recipient name\n    keywords -- list of interesting key-words\n    keyauthors -- list of interesting authors", 
+  "read_at": 1462549083, 
+  "description": "Script that notify users about interesting articles in ArXiv.org by e-mail", 
+  "id": 8807942
+}

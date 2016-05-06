@@ -1,0 +1,6 @@
+{
+  "read_at": 1462545868, 
+  "description": "EnKF code for DA with large-scale layered geophysical models.", 
+  "README.md": "##EnKF-C\n\n**EnKF-C** provides a light-weight generic framework for off-line data assimilation (DA) into large-scale layered geophysical models with the ensemble Kalman filter (EnKF).\nFollowing are its other main features:\n\n- coded in C for GNU/Linux platform;\n\n- can conduct DA either in EnKF or ensemble optimal interpolation (EnOI) mode;\n\n- permits multiple model grids;\n\n- can handle rectangular or curvilinear horizontal grids, z or sigma vertical layers.\n\nFor more information see [README](https://github.com/sakov/enkf-c/blob/master/enkf/README) and [user guide](https://github.com/sakov/enkf-c/blob/master/enkf/doc/enkf-userguide.pdf). (An older version of the user guide is also available from [arXiv](http://arxiv.org/abs/1410.1233).) Have a feel for how the code works by running the included example.\n\nCheckout **EnKF-C** by running `git clone https://github.com/sakov/enkf-c`\nor `svn checkout https://github.com/sakov/enkf-c`.\n\n![](sss-spread.png)\n", 
+  "id": 41269807
+}

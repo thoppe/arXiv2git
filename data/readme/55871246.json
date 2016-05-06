@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547659, 
+  "description": "Torch implementation of LSUV weight init from http://arxiv.org/abs/1511.06422", 
+  "README.md": "# torch-lsuv\n\nThis is an attempt to reproduce the experiments from [arXiv:1511.06422](http://arxiv.org/abs/1511.06422).\n\n##Work in progress.\n\n##How to use\n\nYou can run experiment on MNIST.\n\n```bash\nth mnist-example.lua --lsuv\n```\n\nCIFAR-10 experiment code taken from [here](https://github.com/szagoruyko/cifar.torch), thanks to [@szagoruyko](https://github.com/szagoruyko)\n\nDownload and preprocess data first:\n\n```bash\ncd cifar.torch\nOMP_NUM_THREADS=2 th -i provider.lua\n```\n```lua\nprovider = Provider()\nprovider:normalize()\ntorch.save('provider.t7',provider)\n```\n\nTrain with lsuv:\n\n```bash\nCUDA_VISIBLE_DEVICES=0 th train.lua --model vgg_bn_drop -s logs/vgg --lsuv\n```\n\n##TODO\n* Results on MNIST upcoming\n* Results on CIFAR upcoming\n\n## References\n* http://arxiv.org/abs/1511.06422 *LSUV paper*\n* http://arxiv.org/abs/1312.6120 *ortonormal init which we use here to*\n* https://github.com/Lasagne/Lasagne/blob/master/lasagne/init.py *python code of orthogonal init*\n\nThanks for debugging and help to [@ikostrikov](https://github.com/ikostrikov)\n", 
+  "id": 55871246
+}

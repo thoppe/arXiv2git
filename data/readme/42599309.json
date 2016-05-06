@@ -1,0 +1,6 @@
+{
+  "README": "This project is a port of the work at Sandia National Laboratories on\napproximate triangle counting via wedge sampling\n\nSee references:\n1. Seshadhri, C., Pinar, A., & Kolda, T. G. (2013). Triadic Measures on Graphs : The Power of Wedge Sampling *. Proceedings of the 2013 SIAM International Conference on Data Mining, 10-18.\n2. Kolda, T. G., Pinar, A., Plantenga, T., Seshadhri, C., & Task, Christine, M. (2013). Counting Triangles in Massive Graphs with MapReduce, 36(5), 1-30. Retrieved from http://arxiv.org/abs/1301.5887\n", 
+  "read_at": 1462548819, 
+  "description": "A port of the work at Sandia National Laboratories on approximate triangle counting via wedge sampling.", 
+  "id": 42599309
+}

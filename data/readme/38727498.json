@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546048, 
+  "description": "Collections of famous papers on arXiv", 
+  "README.md": "## Famous Papers on arXiv\n\n* [Astrophysics (astro-ph)](astro-ph.md)\n* [Condensed Matter (cond-mat)](cond-mat.md)\n* [General Relativity and Quantum Cosmology (gr-qc)](gr-qc.md)\n* [High Energy Physics - Experiment (hep-ex)](hep-ex.md)\n* [High Energy Physics - Lattice (hep-lat)](hep-lat.md)\n* [High Energy Physics - Phenomenology (hep-ph)](hep-ph.md)\n* [High Energy Physics - Theory (hep-th)](hep-th.md)\n* [Mathematical Physics (math-ph)](math-ph.md)\n* [Nonlinear Sciences (nlin)](nlin.md)\n* [Nuclear Experiment (nucl-ex)](nucl-ex.md)\n* [Nuclear Theory (nucl-th)](nucl-th.md)\n* [Physics (physics)](physics.md)\n* [Quantum Physics (quant-ph)](quant-ph.md)\n* [Mathematics (math)](math.md)\n* [Computer Science (cs)](cs.md)\n* [Quantitative Biology (q-bio)](q-bio.md)\n* [Quantitative Finance (q-fin)](q-fin.md)\n* [Statistics (stat)](stat.md)\n", 
+  "id": 38727498
+}

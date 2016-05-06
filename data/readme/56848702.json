@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547818, 
+  "description": "Neural Turing Machines just use numpy", 
+  "README.md": "# nmt_python\nNeural Turing Machines just use numpy\n\npaper:\nhttp://arxiv.org/pdf/1410.5401v1.pdf\n\nchinese translate:\nhttp://www.dengfanxin.cn/?p=60\n", 
+  "id": 56848702
+}

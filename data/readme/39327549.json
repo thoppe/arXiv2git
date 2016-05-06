@@ -1,0 +1,6 @@
+{
+  "README": "Suite of programs for calculations using the Vibron Model (2DVM).\n\nUsed in the paper arXiv:1506.06765 [cond-mat.stat-mech]\n\nby Currix TM\n\nPrograms\n\nvibron_u4_u3_energies\t:: Eigenvalues and (if needed) eigenvectors of the U(4) vibron model Hamiltonian using a U(3) basis.\n\nvibron_u4_so4_energies  :: Eigenvalues and (if needed) eigenvectors of the U(4) vibron model Hamiltonian using a SO(4) basis.\n\nvibron_u4_u3_ipr\t:: Inverse Participation Ratio for eigenvectors of the vibron model Hamiltonian using the U(3) basis.\n\nvibron_u4_so4_ipr\t:: Inverse Participation Ratio for eigenvectors of the vibron model Hamiltonian using the SO(4) basis.\n\nobservables_U4_mh\t:: Perl script to automate the calculation of several quantities for a simple U(4) model Hamiltonian.\n\n\nRequired Libraries \t:: lapack95\n\nThe program user's guide will be found in the doc directory in pdf, html, and txt formats (ToDo).\n\n\n\n", 
+  "read_at": 1462546367, 
+  "description": "U(4) vibron model calculations.", 
+  "id": 39327549
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546290, 
+  "description": "Compute fractal dimension of OSM bike maps", 
+  "README.md": "# graph-fractals\n\nCompute fractal dimension of OSM bike maps.\n\n# TODO\n\n- [ ] Parse OSM XML files (see http://wiki.openstreetmap.org/wiki/OSM_XML)\n- [ ] Extract bike path graph\n- [ ] Compute CBB for various box sizes (see http://arxiv.org/pdf/cond-mat/0701216v1.pdf)\n  - [ ] Normalize distances to meters\n  - [ ] Implement A* (with cutoff)\n  - [ ] Calculate average box sizes instead of cutoff\n- [ ] Estimate the fractal dimension (see http://mathworld.wolfram.com/LeastSquaresFittingPowerLaw.html)\n", 
+  "id": 39216577
+}

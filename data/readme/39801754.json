@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546244, 
+  "description": "Download files as in wget", 
+  "README.md": "# godownload [![Build Status](https://travis-ci.org/saromanov/godownload.svg?branch=master)](https://travis-ci.org/saromanov/godownload)\n\nDownloading files\n\n### Install\n\n``` \ngo get https://github.com/saromanov/godownload\n```\n\n### Usage\n\nDownload file\n\n```go\npackage main\nimport\n(\n\t\"github.com/saromanov/godownload\"\n)\n\nfunc main() { \n    godownload.Download(\"http://arxiv.org/pdf/1206.5538v3.pdf\", nil)\n}\n\n```\n\nDownload with set output file\n```go\ngodownload.Download(\"http://arxiv.org/pdf/1206.5538v3.pdf\", &godownload.Options{Outpath: \"fun.pdf\"})\n```\n\nIf you have a links on the file, you can download data by this links\n\n```go\ndownload.FromFile(\"file\")\n```\n\n### API\ngodownload.Options\n\nUrl - Url parameter needs only for DownloadMany. In the case with Download. This paremeter will be ignore\n\nOutpath - Outpath sets the path of the downloaded file\n\n", 
+  "id": 39801754
+}

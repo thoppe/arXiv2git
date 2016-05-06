@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546666, 
+  "description": "The context-free grammar defining the snarXiv (http://snarxiv.org)", 
+  "README.md": "Grammar Definition for [the snarXiv](http://snarXiv.org)\n========================================================\n\nThe file `snarxiv.gram` contains a [context-free\ngrammar](http://en.wikipedia.org/wiki/Context-free_grammar) that\nproduces randomly generated titles and abstracts for high energy\ntheoretical physics papers. See\n\n* http://snarxiv.org/\n* http://snarxiv.org/vs-arxiv/\n* http://davidsd.org/2010/03/the-snarxiv/\n* http://davidsd.org/2010/09/the-arxiv-according-to-arxiv-vs-snarxiv/\n\n`compile-grammar` is a perl script that compiles a `.gram` file into\n[OCaml](http://ocaml.org/) code, which can be compiled into an\nexecutable and run.  Type `make` to run both compilation steps.\n\nRequirements\n------------\n\n[Perl](http://www.perl.org/) and [OCaml](http://ocaml.org/).\n\nBonus Grammar: Random Theorems\n------------------------------\n\n`thm.gram` is the grammar for the [theorem\ngenerator](http://davidsd.org/theorem/) (originally authored by Matt\nGline).  When compiled and run, it produces LaTeX code which can be\ntypeset by LaTeX, provided `thmheader.tex` is included at the top of\nthe file.  Requires Paul Taylor's [Diagrams\npackage](http://www.paultaylor.eu/diagrams/).\n", 
+  "id": 19621487
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462544780, 
+  "description": "A consistent hashing Python library implementing the fast Jump Hash algorithm", 
+  "README.md": "# pyjumphash (a consistent hashing libarary implemnting the fast Jump Hash algorithm for python\n\n## Introduction\nJump Hash is a fast, minimal memory consistent hash algorithm that can\nbe expressed in a fairly compact code base.  As such it is well suited\nto rapid-iteration hashing requirements.  This implementation makes use\nof ctypes and numpy to mimic the behavior of integers in the original C\nimplementation.  It is based off the work described here:\nhttp://arxiv.org/pdf/1406.2294v1.pdf\n\nIt's also a short project in conversion and is stated to be in no way\nsuitable for production use.  Currently supports Python 2.6 and Python 2.7\n\n## Installation\n\n* install numpy\n* python setup.py build\n* sudo python setup.py install\n\n## Documentation\n\n\n## Example\nHere is the most simple example of use, sending a message with the BlockingConnection adapter:\n\n    import jumphash\n    # h_id is an integer representation of the id to consistent-hash\n    h_id = 43838\n    buckets = 64\n    bucket_assignment = jumphash.hash(h_id, buckets)\n\n## License\npyjumphash is licensed under the Apache 2.0 license.\n", 
+  "id": 32381532
+}

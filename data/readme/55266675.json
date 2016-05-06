@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547926, 
+  "description": "", 
+  "README.md": "# SSPOC_pub\n\nThis repository contains some functions that implement the sparse sensor placement optimization for classification (SSPOC) algorithm.\n\nIf you use any part of this code in your work, please cite our publication. A earlier version of this work is available [on arXiv](http://arxiv.org/abs/1310.4217).\n", 
+  "id": 55266675
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549278, 
+  "description": "R package for exploration of parameter spaces", 
+  "README.md": "# pse\nR package for exploration of parameter spaces\n\nThis package aims to provide a simple and robust approach to the exploration of parameter spaces of\ncomputational models, focused around the Latin Hypercube Sampling. \n\nThe theoretical revision provided in [this arXiv paper] (http://arxiv.org/abs/1210.6278) \nand the examples provided in the package focus on ecological models, with emphasis in structured \npopulation growth models. However, the functions provided should be adequate to other areas of knowledge as well.\n\nWe also propose a new methodology based on the likelihood statistical paradigm, called\nPLUE - Profiled Likelihood Uncertainty Estimation. The theoretical background for it can be found\nin [this arXiv paper] (http://arxiv.org/abs/1508.03354).\n\nThe package is available on CRAN at http://cran.r-project.org/web/packages/pse/ and can be installed with\n```R\ninstall.packages(\"pse\")\n``` \n\nThis package was developed as part of my Master's degree program, which was funded by \n[CAPES] (http://www.capes.gov.br/) (2012-2014).\n\nMore detailed information can be found [here] (http://github.com/andrechalom/pse-theory).\n", 
+  "id": 38333548
+}

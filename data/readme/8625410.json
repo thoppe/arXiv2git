@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549094, 
+  "description": "Maximization-Expectation Indian Buffet Process (submodular IBP)", 
+  "README.md": "MEIBP\n=====\nMaximization-Expectation Indian Buffet Process (submodular IBP)\n\nThis code implements the nonnegative linear-Gaussian IBP described in\nScaling the Indian Buffet Process via Submodular Maximization [1].\nSee [2] for background material.\n\nSee `meibp_test.m` for example usage on a simple synthetic dataset\nconsisting of binary latent factors with nice structure. \nPlease email the author with any questions.\n\n    Colorado Reed; gmail address: colorado.j.reed\n    Department of Engineering\n    University of Cambridge\n    Cambridge, UK\n\n\nThis software is open-source, released under the terms of the The MIT License (see LICENSE).\n\n[1] \nScaling the Indian Buffet Process via Submodular Maximization\nColorado Reed and Zoubin Ghahramani, http://arxiv.org/abs/1304.3285\n\n[2]\nInfinite latent feature models and the Indian buffet process\nTom Griffiths and Zoubin Ghahramani, NIPS 2006\n", 
+  "id": 8625410
+}

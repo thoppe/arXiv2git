@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548815, 
+  "description": "", 
+  "README.md": "# argon39 #\n\nProgram `argon39` is a Fortran 90 code that handles the calculation of nucleogenic production rates of neutrons, neon-21 and argon-39 in underground geological settings.\n\n## Publication ##\n\nO. Sramek, L. Stevens, W. F. McDonough, S. Mukhopadhyay, and J. Peterson: \"Subterranean production of neutrons, 39Ar and 21Ne: Rates and uncertainties.\" Submitted to _Geochim. Cosmochim. Acta_ ([arXiv:1509.07436](http://arxiv.org/abs/1509.07436)).\n\n## Quick start ##\n\n* Clone or download the code repository\n* Open `doc-html/index.html` for documentation\n\n## Author ##\n\n[Ondrej Sramek](http://www.ondrejsramek.net), Charles University in Prague, Department of Geophysics, <ondrej.sramek@gmail.com>\n\nCollaboration with \n\n* [Bill McDonough](https://www.geol.umd.edu/~mcdonoug/) (Univ. Maryland)\n* [Sujoy Mukhopadhyay](http://mygeologypage.ucdavis.edu/sujoy/) (UC Davis)\n* [Jerry Peterson](http://phys.colorado.edu/people/peterson-jerry) (CU Boulder)\n* [Lauren Stevens](http://www2.chem.umd.edu/groups/beichhorn/Eichhorn_Research_Group/People/Pages/Lauren.html) (Univ. Maryland)\n", 
+  "id": 42878682
+}

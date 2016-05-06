@@ -1,0 +1,6 @@
+{
+  "read_at": 1462544628, 
+  "description": "Code generation algorithm and code for the PGF ODE, SIR paradigm. ", 
+  "README.txt": "README\r\n\r\nPGF_equation_generator will only generate the equations. Use the function episolve to obtain ODE solutions for the time evolution of the susceptible, infected and recovered population. \r\n\r\nIncluded files: combinator.m, episolve.m, inf_neighbors.m, PGF_equation_generator, subgraphs.mat \r\n\r\nsubgraphs.mat contains various subgraphs that can be included in the code generation algorithm. Cn and Ln denotes complete subgraphs and cycles of n nodes respectively. The subgraphs are stored as adjacency matrices and must be undirected and unweighted. \r\nPGF_equation_generator.m contains more detailed instructions and example calls. \r\n\r\nhttp://arxiv.org/abs/1405.6234 is an arxiv version of the paper on which this code has been based. \r\n\r\nA poisson random network example \r\n\r\nPGF_equation_generator(4, 'C2');\r\n[S, I, R, T] = episolve();\r\nplot(T,I,'r','linewidth',2);\r\nxlabel('Time')\r\nylabel('Infectious incidence')\r\ngrid on\r\nbox on", 
+  "id": 32795589
+}

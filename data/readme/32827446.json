@@ -1,0 +1,6 @@
+{
+  "read_at": 1462544732, 
+  "description": "anal turing machine implementation", 
+  "readme.md": "## Anal turing machine implementation\n\ndb (vsetky databazy su db alebo mysql, redis.. blabla je nejake *db nedatabaza?) -> bi \ndb da cyklus do BI (ne anal podla jana) .. a bi je anal alebo vaginal (ale aj oral? bi a tri a bi su dva druhy) -> a anal je \"o\" a vaginal je \"()\" -> o je podobne ako neuron v neuronovej sieti => anal turing machine\n\nSource janko\n\nRMSprop http://arxiv.org/pdf/1308.0850v5.pdf - page 23\n\nNew implementation is HIGHly inspired by Jan Tkacik (https://github.com/JanTkacik/NTM).\n\n\nPS: jankov repozitar ma tak malo followerov, ze ani nemam komu poslat odkaz na ATM ze by sa zasmial.. <- to bol najdlhsi nesmiesny vtip\nPPS: gandziskhan\n", 
+  "id": 32827446
+}

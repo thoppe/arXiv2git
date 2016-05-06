@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548101, 
+  "description": "Look up a bibliographic BiBTeX record by an ID", 
+  "README.md": "# doi2bib package\n\nThis package allows one to convert an id of a document to a BiBTeX record. Currenty the follwoing ids are supported:\n\n* DOI via [dx.doi.org](http://dx.doi.org)\n* [arXiv.org](http://arxiv.org) via its API\n* ISBN via http://manas.tungare.name/software/isbn-to-bibtex/\n\nTo use, type (or paste) an id into an editor window, select it and press the default keymap: `ctrl-alt-shift-d`. The id will be changed with a BiBTeX record shortly.\n", 
+  "id": 55446206
+}

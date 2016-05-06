@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546845, 
+  "description": "A script to automatically rename scientific articles", 
+  "README.md": "# Rename article\n\nThis is a small script for renamin scientific articles. It takes an article\npath as argument and renames it if it can find a DOI code or arXiv ID in the\nPDF. It renames it with the title of the article.  When no name is found, the\nfile name is not changed.\n\nThis script is provided as is and can eventually have bad results.\n\n## Install\n\nIn order to run it need to have xpdf installed (the script depends on\npdftotext). A good way to install this command line tool on OS X is to have\n[homebrew](http://mxcl.github.com/homebrew/) installed, and then execute:\n\n```bash\nbrew install xpdf\n```\n\nIf you want to automatically rename pdf articles added to a specific folder on\nOS X, you can add a new folder action. For this open Automator.app and open the\n\"Rename Article\" workflow provided in the utils folder. You can then change the\nfolder you want to apply the workflow to, as well as the path to the\nrename_article script.\n\n## License\n\nMIT/X11\n", 
+  "id": 4711812
+}

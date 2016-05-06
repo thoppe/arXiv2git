@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548689, 
+  "description": "simple MATLAB code for randomized matrix computation", 
+  "README.md": "# RandMatrixMatlab\nSimple MATLAB code for randomized matrix computation.\n\nFirst run ``setup''.\n\nThe detailed descriptions are in the article:\n\"A Practical Guide to Randomized Matrix Computations with MATLAB Implementations\"\nhttp://arxiv.org/abs/1505.07570\n\n\n", 
+  "id": 43286276
+}

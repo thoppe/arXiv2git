@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546292, 
+  "description": "Astronomers EPO Research Data ", 
+  "README.md": "# Research Data \n\n### Astronomers' View on Education and Public Outreach\nhttp://arxiv.org/abs/1507.08552\nData files for article:\n- Anonimized Raw Data from the IAU GA and the online survey (2012_Survey_Astronomers_Views_Data_Collected.xlsx)\n- Raw Data converted into an SPSS file (RawData.sav)\n- Tracks of tests perform on the .sav file and the SPSS outputs of those tests (Astro_Views_Tests_i.spv where i=1,2,3,4,5)\n\n\n", 
+  "id": 39943758
+}

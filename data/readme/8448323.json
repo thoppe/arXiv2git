@@ -1,0 +1,6 @@
+{
+  "README.m": "% Neural-ideal package\n% README\n% \n% Neural ideal is a MATLAB package which computes the canonical form \n% of the neural ideal. For more information about the neural ideal\n% and its uses, see the paper about the neural ring \n%   http://arxiv.org/abs/1212.4201\n% \n% To use this package, the essential files are\n% \n% Code2CF.m\n% FinalIntersectIdeals.m\n% Prettify.m\n% \n% Usage------------------------------------\n% \n% The primary interface for computation is\n% \n%      Code2CF(C)\n% \n% where C is a binary matrix whose rows are codewords. \n% \n% \n% The default output will be a list of polynomials representing \n% the canonical form; these are strings.\n% \n% A second optional output is available in matrix form. The polynomials\n% of the canonical form are represented as rows in a binary matrix and should \n% be read as follows: the row has length 2n where in the first n entries \n% a 1 in place i indicates an x_i, and in the second n entries, a 1 in place\n% i indicates a (1-x_j) where j = i-n.  For example, the row\n%  [0 1 0 0 1 0 1 1] \n% corresponds to the polynomial x2(1-x1)(1-x3)(1-x4).\n% \n", 
+  "read_at": 1462547564, 
+  "description": "", 
+  "id": 8448323
+}

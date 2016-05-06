@@ -1,0 +1,6 @@
+{
+  "read_at": 1462544955, 
+  "description": "It is an implementation of the method presented by L. Bourdev (paper is available here http://arxiv.org/pdf/1407.0717v1.pdf)", 
+  "README.md": "# Deep-Poselets-for-Human-Detection\nIt is an implementation of the method presented by L. Bourdev (paper is available here http://arxiv.org/pdf/1407.0717v1.pdf)\n\nThe software is written in Matlab and Python, to use the software you need to install:\n* Matlab\n* Python\n* Theano (minimum version required 0.7.0)\n\nAuthor Marco Saviano.\n\nUniversity of Naples Parthenope, CVPR Laboratory.\n\nemail: marco.saviano.89@gmail.com\n", 
+  "id": 41434411
+}

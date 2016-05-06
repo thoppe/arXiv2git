@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548821, 
+  "description": "", 
+  "README.md": "# CellStore\n\nIn traditional data warehousing, it takes months for the IT department to build a single hypercube.\nWith the CellStore, it takes minutes for the business users to build an infinite number of hypercubes.\n\nThe CellStore is entirely written in JSONiq and is hosted on 28.io.\nA deployment can be easily customized to your own needs.\nAn example of such deployment with SEC filings is available at [secxbrl.info](http://app.secxbrl.info).\nIf you are interested, contact us at [hello@28.io](mailto:hello@28.io).\n\nA community version of the CellStore is available at [wcandillon/cellstore](https://github.com/wcandillon/cellstore).\n\nCell stores founding paper: http://arxiv.org/pdf/1410.0600.pdf\n", 
+  "id": 42435754
+}

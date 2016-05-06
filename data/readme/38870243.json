@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546211, 
+  "description": "Experiments with high-dimensional predictive risk", 
+  "README.md": "# high-dim-risk-experiments\nThis repository contains the code to reproduce the computational experiments of the paper: \n\n*E. Dobriban, S. Wager*: High-Dimensional Asymptotics of Prediction: Ridge Regression and Classification, http://arxiv.org/abs/1507.03003\n", 
+  "id": 38870243
+}

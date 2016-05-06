@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547016, 
+  "description": "Simple PCA and RSKM clustering on CyTOF data", 
+  "README.md": "# CyTOF Data Visualizer\n\nThis is a quick javascript implementation of PCA and Robust Sparse K-Means (RSKM). This doesn't really have to be CyTOF data, but any high dimensional dataset. Keep in mind that everything is done in your browser so choosing a huge file may take some time to analyze.\n\n### Usage\n\n1. Your data should be in CSV with column names in first row. Any categorical (non-numerical) columns will be ignored.\n2. Once you upload your CSV, it will perform PCA on it and RSKM.\n3. Reload file to analyze again.\n\n### Options\n\n- Coloration based on your categorical columns or RSKM clusters\n- Can toggle principal component loadings as well\n\n### Problems\n\n- As this was developed for some bioinformatics visualization in the lab, don't expect it to be perfect\n- Haven't implemented convergence testing for RSKM\n- Progress bar hasn't been implemented\n\n### References/Attribution\n\n1. Robust Sparse K-Means: http://arxiv.org/abs/1201.6082\n2. D3.js: https://github.com/mbostock/d3/\n3. Numeric.js: http://www.numericjs.com/\n4. jQuery: http://jquery.com/\n5. Underscore.js: http://underscorejs.org/\n6. jQuery Tipsy: http://onehackoranother.com/projects/jquery/tipsy/\n", 
+  "id": 15658840
+}

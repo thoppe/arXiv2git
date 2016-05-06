@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546494, 
+  "description": "SmoothLife implementation in OCaml.", 
+  "README.md": "CalmLife\n========\n\nSmoothLife[1] implementation in OCaml.\n\n[1] http://arxiv.org/abs/1111.1567\n\nCompilation: ocamlbuild -libs unix,graphics main.native && ./main.native\n\n", 
+  "id": 7260341
+}

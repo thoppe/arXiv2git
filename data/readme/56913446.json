@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548298, 
+  "description": "Audio Recording Device Identification ", 
+  "ReadMe.txt": "Thanks for your interest in our work!\nThe paper can be referred at https://arxiv.org/abs/1602.05682.\n\n1. Source wav files and pkl files can be downloaded at http://pan.baidu.com/s/1cfYn62 with the password 1ask. \n2. gendata.m is used to generate miner audio segments.\n3. bkclassify.m is for softmax classificationas and generating the mat file.\n4. mat2gz.py can transfer .mat to .gz, like the 3 given files at 1.\n5. File 74-79 need .pkl.gz files to run, and will output the identification result.\n6. plot_confusion_matrix.py is used to draw the confusion figure.\n7. voting_tsne.py is used to draw the dimensionality reduction result, as well as generate the voting result.\n\nFor any questions, please contact me at smart_qi@126.com.", 
+  "id": 56913446
+}

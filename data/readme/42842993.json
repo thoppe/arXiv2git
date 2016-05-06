@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548915, 
+  "description": "A jet clustering algorithm for find 2-prong jets.", 
+  "README.md": "JETJet II\n=================================================================\nAn implementation of the JET II algorithm for finding 2-prong jets, described in arXiv:1509.07522.\n\nRequirements:\n--------------------------------------------\n```\nGCC \nFastJet\n```\n\nQuick Start:\n--------------------------------------------\nThe main code is distributed as a single header file, ```double_cone.hh```. It requries ```fastjet``` to compile and run. An example is given in ```example.cc```, which reads a sample datafile with two events and find the leading jets. To run the example, download all files and put them in the same directory. Make sure ```fastjet-config``` is callable or you may need to edit the ```Makefile``` file. Then do\n```\nmake\n./example\n```\n\nIf the code executes correctly, the output should be the same as ```output.txt```. \nUsage:\n--------------------------------------------\nSee the description at the beginning of ```double_cone.hh```.\n", 
+  "id": 42842993
+}

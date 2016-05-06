@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549261, 
+  "description": "Examples for Twitterbots", 
+  "README.md": "\n# Twitterbot Examples\n\nA couple of reactive twitterbot examples for the bots n plots course\n\n## create a virtual environment\n    workon botsnplots\n    \n## Install twitterbot + fix\n    pip install git+https://github.com/craftoid/twitterbot\n\n## Alice Bot \n    pip install aiml\n\n# Exercise:\n\n- play with alice.py\n- implement alicebot.py\n- change the AIML file\n\n# Links\n\n- http://arxiv.org/ftp/arxiv/papers/1307/1307.3091.pdf\n- https://code.google.com/p/aiml-en-us-foundation-alice/\n- https://code.google.com/p/aiml-en-uk-squarebear-utils/\n", 
+  "id": 36815850
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546929, 
+  "description": "NLP Rhetorical Analysis as described --> http://arxiv.org/abs/1301.3547", 
+  "README.md": "Rhetorical-Analysis\n===================\n\nNLP Rhetorical Analysis as described --> http://arxiv.org/abs/1301.3547\n\nRequirements\n------------\nNLTK, NLTK data (for ParallelismFinder.py)\n", 
+  "id": 15884837
+}

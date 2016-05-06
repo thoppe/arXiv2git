@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546272, 
+  "description": "Simple solver for safety games as specified by the synthesis competition (SYNTCOMP)", 
+  "README.md": "# realizer\n\nSimple solver for safety games as specified by the synthesis competition (SYNTCOMP).\n\n## Prerequisites\n\n* Python 2\n* pycudd (http://bears.ece.ucsb.edu/pycudd.html)\n\n## Usage\n\n`$ ./realizer.py instance.aag` where `instance.aag` is conforms to the extended AIGER format for synthesis (http://arxiv.org/abs/1405.5793)\n", 
+  "id": 38423019
+}

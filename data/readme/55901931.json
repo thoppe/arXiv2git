@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548113, 
+  "description": "", 
+  "README.md": "## Classes\n\n### DataManager\n\n##### init:\n  Receives the root directory\n\n##### loadData: \n  Loads the data and transforms all the string columns into integers\n  \n###### Params:\n      fields (not required): Column names that we want to read  \n\n##### splitData: \n  Allows to split the data into train and test sets\n  \n### AlgorithmManager\n\n##### init:\n  Receives the dataManager object\n  \n##### runGRU4Rec: \nRuns recurrent neural network based on the paper: http://arxiv.org/pdf/1511.06939v4.pdf\n\n##### runKMeans: \nRuns K means on the Dataset\n", 
+  "id": 55901931
+}

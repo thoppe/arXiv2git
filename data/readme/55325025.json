@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548393, 
+  "description": "", 
+  "README.md": "This is my attempt to recreate the results in http://arxiv.org/pdf/1505.00387v2.pdf\n\nBasically just run\n\n\tUsage: th main.lua [options] \n\tTesting the HighwayLayers\n\n\tOptions\n\t  -json       json output file [/dev/null]\n\t  -type       layer type: should be vanilla or highway [vanilla]\n\t  -set        input set: should be mnist or xor [mnist]\n\t  -layers     number of layers [2]\n\t  -size       hidden layer size [71]\n\t  -max_epochs number of full passes through the training data [200]\n\t  -seed       torch manual random number generator seed [12345]\n\t  -gpuid      which gpu to use. -1 = use CPU [-1]\n\t  -cudnn      Use CUDNN [0]\n\nSo, I plan to do this:\n\n\tfor layers in 10 20 50 100\n\tdo\n\t\tth main.lua -gpuid 0 -cudnn 1 -json \"results/\"vanilla-${layers}.json\" -type vanilla -set mnist -layers \"${layers}\" -size 71 -max_epochs 400 \n\t\tth main.lua -gpuid 1 -cudnn 1 -json \"results/\"highway-${layers}.json\" -type highway -set mnist -layers \"${layers}\" -size 50 -max_epochs 400 \n\tdone\n\n(Tho, obviously, I'll run these in parallel on multiple shells.)\n", 
+  "id": 55325025
+}

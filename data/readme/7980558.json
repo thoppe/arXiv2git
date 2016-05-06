@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547515, 
+  "description": "Paper_metadata is a gem that gets the metadata for a given DOI or arXiv identifier.", 
+  "README.md": "# PaperMetadata\n\nPaperMetadata is a gem that gets a publication's metadata by accessing the CrossRef OpenURL API.\n\n## Installation\n\nAdd this line to your application's Gemfile:\n\n    gem 'paper_metadata'\n\nAnd then execute:\n\n    $ bundle\n\nOr install it yourself as:\n\n    $ gem install paper_metadata\n\n## Usage\n\nYou can use PaperMetadata like this:\n\n    result = PaperMetadata.metadata_for('doi:10.1021/ac1014832')\n\nThe result will be a hash similar to this one:\n\n    { :volume=>\"82\",\n      :isssue=>\"19\",\n      :first_page=>\"8153\",\n      :last_page=>\"8160\",\n      :title=>\n      \"Basic Modeling Approach To Optimize Elemental Imaging by Laser Ablation ICPMS\",\n      :authors=>\"Jure Triglav, Johannes T. van Elteren, Vid S. Selih\",\n      :journal=>\"Anal. Chem. 2010\",\n      :resource=>\"http://pubs.acs.org/doi/abs/10.1021/ac1014832\" }\n\n## Contributing\n\n1. Fork it\n2. Create your feature branch (`git checkout -b my-new-feature`)\n3. Commit your changes (`git commit -am 'Add some feature'`)\n4. Push to the branch (`git push origin my-new-feature`)\n5. Create new Pull Request\n\nBe sure to run the specs too.\n", 
+  "id": 7980558
+}

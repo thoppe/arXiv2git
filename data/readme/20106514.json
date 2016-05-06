@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546602, 
+  "description": "Script for merging LaTeX files and stripping comments, in preparation for submission to ArXiV", 
+  "README.md": "mergetex.py\n\nThis is a script for merging a LaTeX project into a single \nmonolithic file while stripping out the comments.  The purpose is \nto make it easier to generate a single pared-down .tex file for\nsubmitting manuscripts to ArXiV, which generally wants the raw\n.tex.  Sometimes comments are embarassing, so this script removes\nthem (while checking for excaped \\% signs).\n\nThe script scans recursively through the main .tex file looking\nfor \\input{} commands and appends them to a target output file.\n\nUSAGE:\n     python mergetex.py  [input]  [output]\n\nEXAMPLE:\n     python mergetex.py  mypaper.tex  mypaperMerged.tex\n\nv0.1 by Anand Sarwate (asarwate@alum.mit.edu) based on a previous\nperl version.\n", 
+  "id": 20106514
+}

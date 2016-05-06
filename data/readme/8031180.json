@@ -1,0 +1,6 @@
+{
+  "README": "This is the example implementation for \"Linear-Time Poisson-Disk\nPatterns\" by Jones & Karger, Journal of Graphics, GPU, and Game Tools,\n2011, Vol. 15, Issue 3, pp. 177-182\n\nPaper here:\nhttp://arxiv.org/abs/1107.3013\n\nThe code is in python, and requires the Polygon module, available from\npypi.  It is quite slow in this implementation, primarily due to the\ninterpreted nature of Python.\n", 
+  "read_at": 1462547550, 
+  "description": "Example implementation for \"Linear-Time Poisson-Disk Patterns\" by Jones & Karger, 2011", 
+  "id": 8031180
+}

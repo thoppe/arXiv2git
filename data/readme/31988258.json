@@ -1,0 +1,6 @@
+{
+  "read_at": 1462544626, 
+  "description": "A reference implementation of the 'Dancing Links' algorithm", 
+  "README.md": "# Dantz\nThis is a reference implementation of the 'Dancing Links' algorithm from Knuth's paper of the same name:\nhttp://arxiv.org/abs/cs/0011047\n\nThe algorithm searches for solutions to the 'exact cover problem' and prints them all out. It does not use the optimization of taking at each stage the column with the smallest number of rows.\n\nTo build with Visual Studio 2013, load the solution file. To build with gcc:\n\n    cd Dantz\n    make\n\n", 
+  "id": 31988258
+}

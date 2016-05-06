@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546262, 
+  "description": "Calculate and sample from a probability distribution over projective measurements", 
+  "README.md": "Bloch distribution\n==================\n\nThis Python module has code for calculating and sampling from the distribution\nover projectors that the measurement described by [Das and Arvind][DA2014]\ncorresponds to. This code was used in the generation of some of the figures in\nmy paper published on the arXiv under [1506.08892][arxivid].\n\n[DA2014]: http://dx.doi.org/10.1103/PhysRevA.89.062121\n[arxivid]: http://arxiv.org/abs/1506.08892\n", 
+  "id": 38846772
+}

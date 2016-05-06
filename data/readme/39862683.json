@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546227, 
+  "description": "", 
+  "README.md": "Probabilistic multi-resolution scanning for cross-sample variation\n================================\n\nThis package fits the MRS algorithm for comparison across probability distributions. \nThe model is based on a nonparametric process taking the form of a Markov model that transitions \nbetween a \"null\" and a \"alternative\" state on a multi-resolution partition tree of the sample space.\nMRS effectively detects and characterizes a variety of underlying differences. \nThese differences can be visualized using several plotting functions.\n\n### Install\nThe package can be installed on Linux and Mac using `devtools`:\n\n```S\ninstall.packages('devtools')\nlibrary('devtools')\ndevtools::install_github('MRS', 'jacsor')\n```\n\n### Use\nThere are six functions in this package, and their descriptions are provided in the help files\n\n```S\nans = mrs(X, G)\nans = andova(X, G, H)\nsummary(ans)\nplot1D(ans)\nplot2D(ans)\nplotTree(ans)\n```\n\n### Reference\nSoriano J. and Ma L. (2015). Probabilistic multi-resolution scanning for two-sample differences. JRSS-B (To appear).\n\nMa L. and Soriano J. (2016). Analysis of distributional variation through multi-scale Beta-Binomial modeling. http://arxiv.org/abs/1604.01443\n", 
+  "id": 39862683
+}

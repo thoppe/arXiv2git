@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547705, 
+  "description": "Batch-Normalized LSTM (Recurrent Batch Normalization) implementation in Torch.", 
+  "README.md": "# Recurrent Batch Normalization\nBatch-Normalized LSTMs\n\nTim Cooijmans, Nicolas Ballas, Cesar Laurent, Caglar Gulcehre, Aaron Courville\n\n[http://arxiv.org/abs/1603.09025](http://arxiv.org/abs/1603.09025)\n\n### Usage\n`local rnn = LSTM(input_size, rnn_size, n, dropout, bn)`\n\nn = number of layers (1-N)\n\ndropout = probability of dropping a neuron (0-1)\n\nbn = batch normalization (true, false)\n\n### Example\n[https://github.com/iassael/char-rnn](https://github.com/iassael/char-rnn)\n\n### Performance\nValidation scores on char-rnn with default options\n\n<img src=\"http://blog.yannisassael.com/wp-content/uploads/2016/04/bnlstm_val_loss-1024x631.png\" width=502 height=309 />\n\nImplemented in Torch by Yannis M. Assael (www.yannisassael.com)", 
+  "id": 55863214
+}

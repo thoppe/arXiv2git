@@ -1,0 +1,6 @@
+{
+  "README": "Dependencies\n============\n\ngPapers is currently developed and tested under Ubuntu 12.04 and depends on the\nfollowing packages (giving the current version numbers in Ubuntu 12.04):\n\ngir1.2-glib-2.0: 1.32.0-1\ngir1.2-gtk-3.0: 3.4.0-0ubuntu2\ngir1.2-gdkpixbuf-2.0: 2.26.0-1\ngir1.2-pango-1.0: 1.30.0-0ubuntu1\ngir1.2-poppler-0.18: 0.18.4-1ubuntu2\ngir1.2-soup-2.4: 2.38.0-0ubuntu1\npython-django: 1.3.1-4ubuntu1\npython-pdfminer: 20110515+dfsg-1\npython-beautifulsoup: 3.2.0-2build1\npython-feedparser: 5.1-0ubuntu3.1\n\nIn addition, gPapers contains code from the following sources:\n\npyparsing parser for BibTeX\n    http://pastebin.com/ZzU19NLJ\n    Written by Matthew Brett, published under a simplified BSD license\n\nExternal Services\n=================\ngPapers is using the following external web services to allow searching for\nliterature and to download metadata.\n\nGoogle Scholar: http://scholar.google.com/\nPubmed: http://www.ncbi.nlm.nih.gov/pubmed/\nJSTOR's Data for Research (DfR) service: http://dfr.jstor.org\narXiv.org e-Print archive: http://arxiv.org\n\nThe DOI service for resolving DOIs and downloading metadata: http://dx.doi.org/\n\n", 
+  "read_at": 1462549361, 
+  "description": "Automatically exported from code.google.com/p/gpapers", 
+  "id": 37345223
+}

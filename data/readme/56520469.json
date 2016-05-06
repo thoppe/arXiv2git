@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548142, 
+  "description": "Deep Neural Network for Learning Language By Using a Simple Image.", 
+  "README.md": "# DNN-LLI\n## Deep Neural Network for Learning Language By Using a Simple Image.\nThis System is dedicated to people who would like to learn words on given language \nby using their mobile phone. take picture submit the image.\nfield are in this project Image recognition, visual semantic and speech synthesis \n\n## bibliography:\n  * Show and Tell: A Neural Image Caption Generator <http://arxiv.org/pdf/1411.4555v2.pdf> \n  * MNIS dataset <https://en.wikipedia.org/wiki/MNIST_database>\n  * Cifar-10 and Cifar-100  dataset <https://www.cs.toronto.edu/~kriz/cifar.html>\n  * Deep Visual-Semantic Alignments for Generating Image Descriptions <https://cs.stanford.edu/people/karpathy/cvpr2015.pdf>.\n", 
+  "id": 56520469
+}

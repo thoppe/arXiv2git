@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549174, 
+  "description": "repository associated with manuscript   http://arxiv.org/abs/1503.08763", 
+  "README.md": "# *p*-DOSY\nrepository associated with manuscript [doi:10.1016/j.jmr.2015.06.002](http://dx.doi.org/10.1016/j.jmr.2015.06.002) ( preprint at : http://arxiv.org/abs/1503.08763 ) which introduces the *p*-DOSY experiment to compensate for off-equilibrium bias when acquiring DOSY NMR experiment.\n\nThis repository contains the Jupyter iPython NoteBook implementing the simulation for both regular DOSY and *p*-DOSY experiments, it corresponds to the second Supplementay Material file of the manuscript\n", 
+  "id": 36876678
+}

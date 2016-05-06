@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547613, 
+  "description": "Simple implementation of the BumpHunter algorithm", 
+  "README.md": "Extremely basic implementation of the bumphunter by Peter Waller.\n\nOriginal paper: http://arxiv.org/pdf/1101.0390v2.pdf by G. Choudalakis\n", 
+  "id": 9984883
+}

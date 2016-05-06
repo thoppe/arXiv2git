@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548785, 
+  "description": "The code for my MSc project at Imperial College London", 
+  "README.md": "# tr_python\nThe code for my master's project (Implementing a teleo-reactive programming system) at Imperial College London, 2015.\n\nThis code is shared under GPL v2, see LICENCE.md\n\nTo run the program, you need to have Pedro installed (I used version 1.8): http://staff.itee.uq.edu.au/pjr/HomePages/PedroHome.html\n\nThe documentation for this system is still a work in progress. In the meantime, refer to the thesis itself: http://arxiv.org/abs/1509.04315", 
+  "id": 42267242
+}

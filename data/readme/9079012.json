@@ -1,0 +1,6 @@
+{
+  "README": "PSSOLib\n=======\n\nA Python library of Practically Scalable Shared Objects.\nIt currently support Apache Cassandra.\nThe objects implemented in the library are: \ncompare-and-swap,\nspinlock,\nstack,\nmapping,\nconsensus\nand a few esoteric objects which are necessary to build the above objects.\n\nTo sidestep the consensus/CAP impossibility result, all the objects in the library are obstruction-free, \nthat is a call might take a lot of time in case the contention is high.\nIt is nevertheless possible to add some helping mechanisms or to proxy all the accesses\nthrough a leader ( la Paxos). \n\nFor additional details, a paper is available at the following address on arxiv http://arxiv.org/abs/1309.2772.\n\n", 
+  "read_at": 1462549107, 
+  "description": "A Python library of Practically Scalable Shared Objects  ", 
+  "id": 9079012
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548111, 
+  "description": "A theano-based project reproducing 'A Algorithm of Artistic Style'", 
+  "README.md": "# theano_artistic_cnn\n\nImplementation of generating artistic pictures[1] in Theano[2]. We used AlexNet here, even though original work used VGG.\n\nThis code is light enough to be run on the CPU only. To enhance convergence speed, RMSprop is employed for learning rate schedules.\n\nTrained weights are taken from [4]. \n\n# How to run\n\nPrerequisite : Theano[2] and Pylearn2[3]\n\n1) Run preprocess_img.py :\npython preprocess_img.py\n\n2) Run artistic_alexnet_inference.py :\nTHEANO_FLAGS='floatX=float32,device=cpu,nvcc.fastmath=True' python artistic_alexnet_inference.py\n\n3) Run artistic_alexnet_train.py :\nTHEANO_FLAGS='floatX=float32,device=cpu,nvcc.fastmath=True' python artistic_alexnet_train_rmsprop.py\n\n# References\n\n[1] Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. \"A neural algorithm of artistic style.\" arXiv preprint arXiv:1508.06576 (2015).\n\n[2] http://deeplearning.net/software/theano/index.html\n\n[3] http://deeplearning.net/software/pylearn2/\n\n[4] https://github.com/uoguelph-mlrg/theano_alexnet\n\n# Contact\n\nsihyun0826@kaist.ac.kr\n", 
+  "id": 56669071
+}

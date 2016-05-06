@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547276, 
+  "description": "Code for the Kaggle Higgs Boson challenge", 
+  "README.md": "Higgs Boson challenge\n=====================\n\nIdeas:\n\n* Try predicting weights instead of class, so that the sums of weights of predicted signals and backgrounds can be matched to the corresponding sums on the training set. (They are supposed to be the same.)\n* Implement an AMS criterion in decision trees.\n* Implement an AMS loss function in GBRT.\n* Investigate neural networks. (See: https://github.com/uci-igb/higgs-susy + http://arxiv.org/abs/1402.4735)\n", 
+  "id": 20475635
+}

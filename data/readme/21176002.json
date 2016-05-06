@@ -1,0 +1,7 @@
+{
+  "id": 21176002, 
+  "read_at": 1462547220, 
+  "README.rst": "sparseNMF\n=========\n\nSample Python implementation of the algorithm presented in the following\npaper:\n\n::\n\n     Block Coordinate Descent for Sparse NMF\n     Vamsi K. Potluru, Sergey M. Plis, Jonathan Le Roux, Barak A. Pearlmutter, Vince D. Calhoun, Thomas P. Hayes\n     ICLR 2013.\n     http://arxiv.org/abs/1301.3527\n\n", 
+  "README.md": "sparseNMF\n=========\n\nSample Python implementation of the algorithm presented in the following paper:\n\n     Block Coordinate Descent for Sparse NMF\n     Vamsi K. Potluru, Sergey M. Plis, Jonathan Le Roux, Barak A. Pearlmutter, Vince D. Calhoun, Thomas P. Hayes\n     ICLR 2013.\n     http://arxiv.org/abs/1301.3527\n\nDocumentation\n-------------\n\nhttp://ismav.github.com/sparseNMF\n", 
+  "description": "Block coordinate descent for Sparse NMF  "
+}

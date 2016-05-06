@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548380, 
+  "description": "Contains programs for computing the Mobius function of the permutation poset", 
+  "README.md": "# perm\nContains programs for computing the Mobius function of the permutation poset.\nSee http://arxiv.org/abs/1506.04406 for an overview of the theory behind the programs.\n\nBoth mob.java and mobLoop.java are stand alone files that can be compiled with javac mob.java and javac mobLoop.java.\n\nmob.java computes the mobius function and associated information of an interval [sigma,pi] and is called with two inputs: sigma and pi.\nFor example:\njava mob 12 245136\n\n\nmobLoop.java loops through all intervals of permutations and calculates the proportion for which the Mobius function equals the number of\nnormal embeddings. This is the proportion of intervals for which the second term, given in the paper above, vanishes.\nIt is called with three inputs m, n and p. Where it will loop through all interval [sigma,pi] with |sigma| <= m and |pi| <= n.\nAnd p is 0 or 1 indicating whether or not to print the intervals which have MF!=NE. If no p is included it's assumed to be 0.\nFor example:\njava mobLoop 5 8 0\n", 
+  "id": 55401751
+}

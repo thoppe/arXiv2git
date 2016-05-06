@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546369, 
+  "description": "A prove of concept implementation of a sat-based crypto system", 
+  "README.md": "# kryptoSAT\nThis is a prove of concept implementation of a SAT-based crypto system proposed in \nhttp://arxiv.org/abs/1507.08094v1 .\n\n\n##License\n\nCopyright 2015 Sebastian E. Schmittner <sebastian@schmittner.pw>\n\n<img alt=\"GPLV3\" style=\"border-width:0\" src=\"http://www.gnu.org/graphics/gplv3-127x51.png\" /><br />\nkryptoSAT is free software: you can redistribute it\nand/or modify it under the terms of the GNU General Public License as\npublished by the Free Software Foundation, either version 3 of the\nLicense, or (at your option) any later version.\n\nkryptoSAT is distributed in the hope that it will\nbe useful, but WITHOUT ANY WARRANTY; without even the implied\nwarranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\nSee the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with kryptoSAT.  If not, see\n<http://www.gnu.org/licenses/>.\n", 
+  "id": 39843178
+}

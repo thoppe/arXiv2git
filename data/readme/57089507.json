@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548324, 
+  "description": "Generative Adversarial Networks\u3092chainer\u3067\u5b9f\u88c5", 
+  "README.md": "# Generative-Adversarial-Networks\nGANwochainerdeShi Zhuang \n\nSheng Cheng shitaHua Xiang noYi Li wo, Zai seteokimashita. CNNwoYong ita, DCGANwoShi ebaQi Li niHua Xiang Sheng Cheng dekiruga\nDCGANnoYuan noGANnoLun Wen ( http://arxiv.org/pdf/1406.2661v1.pdf )dehamnistkurainaraCNNwoShi wanakutemoQi Li niHua Xiang woZuo reteitanode\nCNNwoShi wazunichianerdeShi Zhuang shitemita. motsutoQi Li niSheng Cheng dekisoudaga, Yi Dan Shi Zhuang hadekitatoiukotodeZhong Liao . \nGPUdeshikaDong kashitakotoganainode, CPUdeDong kukahaBu Ming . \n", 
+  "id": 57089507
+}

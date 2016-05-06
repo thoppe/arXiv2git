@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549213, 
+  "description": "visualize a classification model of deep network (i.e. alex_net)", 
+  "README.md": "# visualize_dl\n\nauthor: Guotian Xie <br />\ne-mail: xieguotian1990@gmail.com <br />\n\nvisualize a deep network for classifcation (i.e. alex_net) <br />\n\nan implementation of paper:(Example1_calss_vis.py and Example2_salience_vis.py)\n    Simonyan, Karen, Andrea Vedaldi, and Andrew Zisserman. \"Deep inside convolutional networks: Visualising image classification models and saliency maps.\" arXiv preprint arXiv:1312.6034 (2013). <br />\n![class_reconstruction](result/goose.png)\n    \nan coarse implementation of paper: (Example3_feat_reconstruct.py)\n    Mahendran, Aravindh, and Andrea Vedaldi. \"Understanding deep image representations by inverting them.\" arXiv preprint arXiv:1412.0035 (2014). <br />\n![feat_reconstruction](result/conv3_reconstruct_cat.png)\n\nan implementaion of paper: (Example4_deconv_net.py)\n    Zeiler, Matthew D., and Rob Fergus. \"Visualizing and understanding convolutional networks.\" Computer Vision-ECCV 2014. Springer International Publishing, 2014. 818-833. <br />\n![deconv_net](result/deconv_net_5.png)\n", 
+  "id": 36879909
+}

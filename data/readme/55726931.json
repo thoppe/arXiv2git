@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547800, 
+  "description": "An R implementation of Navid Dianati's GraphPruning algorithm", 
+  "README.md": "Literally just a port of http://arxiv.org/abs/1503.04085. All credit goes to Navid Dianati.\n", 
+  "id": 55726931
+}

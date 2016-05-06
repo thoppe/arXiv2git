@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548747, 
+  "description": "Detect and recognize speed limit traffic signs", 
+  "README.md": "# SpeedLimitSignRecogniser\nDetect and recognize speed limit traffic signs\n\n## Articles, sources\nKnowledge sources (unordered)\n* http://users.cecs.anu.edu.au/~nmb/papers/IROS2004cameraready.pdf\n* http://www.diva-portal.org/smash/get/diva2:523372/FULLTEXT01.pdf\n* http://vbn.aau.dk/files/72574480/survey.pdf\n* http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.9226&rep=rep1&type=pdf\n* http://lmb.informatik.uni-freiburg.de/people/bahlmann/data/ke_sp_ba_ba_gi_iv08.pdf\n* http://arxiv.org/ftp/arxiv/papers/0910/0910.1295.pdf", 
+  "id": 42771764
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547114, 
+  "description": "Ruby source of http://arXiv-opds.heroku.com", 
+  "README.md": "\nThis is the source repository for [http://arXiv-opds.heroku.com](http://arXiv-opds.heroku.com)\n\nThis website enable any [OPDS-enabled](http://opds-spec.org) client to access the vast scientific archive located at [http://arxiv.org](http://arxiv.org).\n\nOPDS Catalog URL is : [http://arXiv-opds.heroku.com/catalog.atom](http://arXiv-opds.heroku.com/catalog.atom)\nThis catalog permits search and will forward the query to arxiv.org\n", 
+  "id": 870251
+}

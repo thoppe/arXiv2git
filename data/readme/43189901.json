@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549024, 
+  "description": "Automatically exported from code.google.com/p/word2vec", 
+  "README.txt": "Tools for computing distributed representtion of words\n------------------------------------------------------\n\nWe provide an implementation of the Continuous Bag-of-Words (CBOW) and the Skip-gram model (SG), as well as several demo scripts.\n\nGiven a text corpus, the word2vec tool learns a vector for every word in the vocabulary using the Continuous\nBag-of-Words or the Skip-Gram neural network architectures. The user should to specify the following:\n - desired vector dimensionality\n - the size of the context window for either the Skip-Gram or the Continuous Bag-of-Words model\n - training algorithm: hierarchical softmax and / or negative sampling\n - threshold for downsampling the frequent words \n - number of threads to use\n - the format of the output word vector file (text or binary)\n\nUsually, the other hyper-parameters such as the learning rate do not need to be tuned for different training sets. \n\nThe script demo-word.sh downloads a small (100MB) text corpus from the web, and trains a small word vector model. After the training\nis finished, the user can interactively explore the similarity of the words.\n\nMore information about the scripts is provided at https://code.google.com/p/word2vec/\n\n\n", 
+  "id": 43189901
+}

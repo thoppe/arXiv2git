@@ -1,0 +1,6 @@
+{
+  "id": 42641982, 
+  "read_at": 1462548599, 
+  "README.rst": "Recurrent Spatial Transformer Networks\n======================================\n\nCode for the paper http://arxiv.org/abs/1509.05329\n\nThe repository contains code for running\n\n * RNN-SPN model\n * FFN-SPN model\n\n\n\nExample og RNN-SPN classifying cluttered MNIST sequences.\n\n.. image:: https://github.com/skaae/recurrent-spatial-transformer-code/blob/master/zoom.png\n    :alt: Example\n    :width: 200\n    :height: 140\n    :align: center\n\n\nPlease cite [1] and Lasagne [2] if you use the code or the Transformerlayer.\n\nReferences\n==========\n\n1. Recurrent Spatial Transformer Networks   \n    * Soren Kaae Sonderby, Casper Kaae Sonderby, Lars Maaloe and Ole Winther   \n    * http://arxiv.org/abs/1509.05329    \n2. Lasagne: First release   \n    * https://github.com/Lasagne/Lasagne/   \n    * https://zenodo.org/record/27878#.Vfrw685sDhk   \n\n\n", 
+  "description": "Code for Recurrent Spatial Transformer Networks"
+}

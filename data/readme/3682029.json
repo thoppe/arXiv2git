@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547163, 
+  "description": "Hogg's ideas about photometric redshift estimation and related matters", 
+  "README.md": "# PhotoZ\n\nA repository for Hogg's thoughts about redshift estimation.  The name\nimplies *photometric redshifts*, but of course everything applies to\nspectroscopic data too; images and spectra are both composed of\nintegrals of the intensity field.\n\n### Author\n\n**David W. Hogg**, New York University, <http://cosmo.nyu.edu/hogg/>\n\n### License\n\n**Copyright 2012 David W. Hogg (NYU).  All rights reserved.**\n\n### Related publications\n\n* Bovy, J. *et al*, 2012, *[Photometric redshifts and quasar probabilities from a single, data-driven generative model](http://arxiv.org/abs/1105.3975),*\n  arXiv:1105.3975 (or *ApJ* **749** 41).\n", 
+  "id": 3682029
+}

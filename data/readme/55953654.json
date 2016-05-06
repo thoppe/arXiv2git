@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548118, 
+  "description": "A clone from http://www.niu.edu/spmartin/primer/", 
+  "README.md": "This is a clone from <http://www.niu.edu/spmartin/primer/>, which holds the source of the paper published at <https://arxiv.org/abs/hep-ph/9709356>.\nConsult that site for any copyright infomation and contents of the documents.\nThis repository only provides variants of the same document, described below:\n\n# Description\n\nA script is wrote to automate the compliation of 8 combinations of 3 possible choices:\n\n- 11pt or 12pt\n- spacetime metric signature (default: `-+++`, alt: `+---`)\n- links in blue or not\n", 
+  "id": 55953654
+}

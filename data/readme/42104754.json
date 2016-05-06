@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548905, 
+  "description": "An image processing package mainly designed for cold atom experiments based on pyqtgraph.", 
+  "README.md": "pycoldatom\n==========\n\nAn image processing package mainly designed for cold atom experiments based on pyqtgraph.\nPart of source files are modified from [Odysseus](https://github.com/edjoesu/odysseus)\n\nThis package is aimed at providing a flexible and universal framework for image acquiring and immediate analysis during the cold atom experiment, lighten the burden of operators from repetitive work of manipulating new data files. It is also easier and more robust to implement new features and integrate into the framework.\n\nA flowchart GUI interface allows simple programming of the processing and visualization procedure without the knowledge of any language.\n\nFeatures\n--------\n\n * Control of Andor iXon Ultra 897, support temperature, EM and frame transfer\n * Generating file name automatically through communication with Cicero\n * Image view and set multiple region-of-interest\n * Basic math operations, like calculating optical depth of absorption imaging\n * Gaussian and boson bimodal fit\n * Fringe removal algorithm based on incremental singular value decomposition. See [arXiv:1007.2136](http://arxiv.org/abs/1007.2136)\n\n All features above have been tested in our lab.", 
+  "id": 42104754
+}

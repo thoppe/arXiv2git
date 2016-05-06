@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548636, 
+  "description": "Program used to find homotopy types for the following article: http://arxiv.org/abs/0808.0739 . ", 
+  "README.md": "# smoosher\n\nProgram used to compute homotopy types for the following article: http://arxiv.org/abs/0808.0739 .\n\nAs input we take a text file containing a collection of same sized subsets of the positive integers. Each separated with a 0 and a -1 to denote the end of that collection.\n\nFor example: 1 2 0 3 4 0 5 6 -1\n\nThe program will then form a simplicial complex using this data where the vertices are the subsets and we form an N-1 simplex whenever N subsets have a nonempty intersection. We then perform simple homotopy equivalences or \"smooshings\" in order to reduce the complex.\n\nThere are several command line options available. The default behavior is just to print the number of remaining simplices in each dimension.\n\n-up (starts from the bottom instead of the top)\n\n-simp (displays the simpices remaining)\n\n-matrix (saves the resulting boundary matrices)\n\n-mem (switches to program to memory efficient mode at the cost of performance)\n", 
+  "id": 42301808
+}

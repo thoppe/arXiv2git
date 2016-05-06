@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546360, 
+  "description": "Engineering Hamiltonians through Nonlinearities", 
+  "README.md": "# Engineering Hamiltonians through Nonlinearities\n\nFollowing the formalism described in \"Black-box superconducting circuit\nquantization\" http://arxiv.org/abs/1204.0587 we can expand `sin(a+b+...+h.c.)`\nor `cos(a+b+...+h.c.)` or any other nonlinear `f(a+b+...+h.c.)` in order to\nobtain non-linear terms in the Hamiltonian (a, b, and other letters represent\nthe annihilation operators of various oscillator modes). If we drive some of\nthe modes classically we can create any non-linear term in the effective\nHamiltonian.\n\nThis module helps solve the constraint on the frequencies of the\nmodes (both the requirement that some of the monomials in the expansion are\nresonant and that all the other terms in the expansion of the nonlinearity are\noff-resonant).\n\n", 
+  "id": 39217488
+}

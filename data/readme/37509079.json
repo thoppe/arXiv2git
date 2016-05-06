@@ -1,0 +1,7 @@
+{
+  "id": 37509079, 
+  "read_at": 1462549363, 
+  "TransitMaker-README": "This directory contains a fast Mandel & Agol code\nimplemented in Python/C.  The code uses a quadratic\nlimb darkening law.  \n\nTo compile, execute the shell script build.sh.  There \nis a demo code demo.py that generates a sample light \ncurve and describes the input parameters.\n\nLaura Kreidberg 10/10/13\n", 
+  "README.md": "# exofit\nAn implementation of a steepest descent algorithm for fitting exoplanet transit data to Mandel and Agol light curves\n(http://arxiv.org/abs/astro-ph/0210099).\n\nThe only thing here that I wrote is 'ad-exofit.py', which implements a version of the algorithm mentioned above.\nI wrote this mostly out of curiosity; it turns out that this method is a lot slower than the Markov Chain Monte\nCarlo that's all the rage these days.  It also gets stuck in local minima.  The solution to this is straight forward\n-- if there has been no change in the fit for some number of steps, increase the dx until there is change -- I just\nhaven't gotten around to coding this.\n\nThere's a neat little feature that lets you watch the fit happen in real time.\nDefinition of exhilirating.\n\nThe rest of the code (i.e. most of it) is by Laura Kreidberg (http://astro.uchicago.edu/~kreidberg/) and included\nhere with permission.\n", 
+  "description": "An implementation of a steepest descent algorithm for exoplanet transit data."
+}

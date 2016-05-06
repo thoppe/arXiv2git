@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547813, 
+  "description": "This repo consists of all the work currently being done regarding Memory Networks", 
+  "README.md": "# MemoryNetworks\nThis repo consists of all the work currently being done regarding Memory Networks.\n\nImportant resources:-\n\n- \"End-To-End Memory Networks\" S. Sukhbaatar, A. Szlam, J. Weston, R. Fergus. End-To-End Memory Networks. arXiv:1503.08895.\n- Recurrent Neural Networks with External Memory for Language Understanding Baolin Peng, Kaisheng Yao arXiv:1506.00195v1.\n- \"Memory networks,\" J. Weston, S. Chopra, and A.Bordes arXiv:1410.3916.\n", 
+  "id": 55731148
+}

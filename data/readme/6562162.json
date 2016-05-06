@@ -1,0 +1,6 @@
+{
+  "id": 6562162, 
+  "read_at": 1462547430, 
+  "description": "Library for fast spherical harmonic transforms, see http://arxiv.org/abs/1303.4945", 
+  "README.compilation": "GNU make and GNU gcc (version 4.x) are required for compilation.\n\nSimply run \"./configure\"; if this fails, please refer to the output of\n\"./configure --help\" for additional hints and, if necessary, provide\nadditional flags to the configure script.\nOnce the script finishes successfully, run \"make\"\n(or \"gmake\"). This should install the compilation products in the\nsubdirectory \"auto/\".\n\nDocumentation can be created by the command \"(g)make doc\".\nHowever this requires the doxygen application to be installed\non your system.\nThe documentation will be created in the subdirectory doc/.\n"
+}

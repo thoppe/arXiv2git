@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549183, 
+  "description": "Just to check new articles on arXiv astro.ph and hep-ex on Google Chrome.", 
+  "README.md": "# checkArXiv.crx\nJust to check new articles on arXiv astro-ph and hep-ex on Google Chrome.\n\n##Installation\n###How to install from the package.\nOpen <chrome://extensions/> and drag and drop the package file.\n\nSee this page. <https://support.google.com/chrome_webstore/answer/2664769>\n\n###How to install from the source.\nOpen <chrome://extensions/> and check if you are in the ```Developper mode```.\n\nThen push the button ```Load unpacked extension...```.\n\n\n###How to pack the source files.\nOpen <chrome://extensions/> and check if you are in the ```Developper mode```.\n\nThen push the button ```Pack extension...```.\n\n##Usage\nPush the icon and arXiv page will be shown.\n\n![demo](https://raw.githubusercontent.com/pn11/checkArXiv.crx/master/readme_materials/demo.png)\n\n##To do\n- huremuNei no```<a>```taguniQuan te```target=_blacnk```woCha Ru suru. ", 
+  "id": 38153783
+}

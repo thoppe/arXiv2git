@@ -1,0 +1,6 @@
+{
+  "README": "PySGWT\n------\n\nPython implementation of the Spectral Graph Wavelet Transform (SGWT) [1]. \n\nThe code is a port of the MATLAB implementation provided by the authors\n(available at http://wiki.epfl.ch/sgwt). The original code is released under\nGPLv3, so I guess this code should have the same license (I am not sure about\nthis at the moment, the point seems to be moot. See [2] and [3] and for\ninstance.)\n\n\n\n[1] D. K. Hammond, P. Vandergheynst, and R. Gribonval, \"Wavelets on graphs via\nspectral graph theory,\" Applied and Computational Harmonic Analysis, vol. 2,\nApr. 2010. http://arxiv.org/abs/0912.3848\n\n [2] http://stackoverflow.com/questions/77044/licensing-a-rewrite-from-gpl-to-mit\n\n [3] http://stackoverflow.com/questions/1919010/does-porting-count-as-derivative-work", 
+  "read_at": 1462547466, 
+  "description": "Spectral Graph Wavelet Transform", 
+  "id": 2552073
+}

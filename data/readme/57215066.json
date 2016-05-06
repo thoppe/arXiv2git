@@ -1,0 +1,6 @@
+{
+  "README": "EPIC 211098454: period 1.129d, stable signal\r\nEPIC 211000411: period 8.589d, evolving signal\r\n\r\nBoth objects are Pleiades members. Each text file contains time (in HJD-2454833), flux (after removing K2 systematics and outliers), and flux uncertainty (as estimated by our GP model, see arXiv:1603.09167\r\n", 
+  "read_at": 1462547929, 
+  "description": "K2 Lightcurves for Stars in Pleiades", 
+  "id": 57215066
+}

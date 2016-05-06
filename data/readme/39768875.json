@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546099, 
+  "description": "Implementation of the for_id metafunction for fake run-time selection of template arguments as described [here](http://arxiv.org/abs/1306.5142)", 
+  "README.md": "# for_id\nImplementation of the for_id metafunction for fake run-time selection of template arguments as described [here](http://arxiv.org/abs/1306.5142)\nBuilt using [Autocmake](https://github.com/scisoft/autocmake)\n", 
+  "id": 39768875
+}

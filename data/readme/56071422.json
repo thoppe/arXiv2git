@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548314, 
+  "README.org": "#+TITLE: README for Fast Forward Feature Selection\n#+AUTHOR: Adrien Lagrange\n#+EMAIL: ad.lagrange@gmail.com\n\n* Objectives\n  The package provides the python codes to perform a fast forward feature selection using a Gaussian Mixture Model. The algorithm is based  on the  following papers  [[http://arxiv.org/abs/1501.00857]] and [[http://fauvel.mathieu.free.fr/data/ffs_gmm.pdf][Nonlinear parsimonious  feature selection for the  classification of\n  hyperspectral images]]. And the code is inspired of [[https://github.com/mfauvel/FFFS]].\n\n* Install\n  Just download the  file ~npfs.py~ and import it with  python. It has been tested on linux, Ubuntu 14.04.\n\n* Requirements\n  Scipy needs to be installed. For a fast processing, a good linear algebra library is required too. [[https://github.com/xianyi/OpenBLAS][Openblas]] is a good option.\n\n* Usage\n  See the file ~test.py~\n\n  Data labels needs to be integers from 1 to classNumbers.\n", 
+  "description": "Fast Forward Features Selection", 
+  "id": 56071422
+}

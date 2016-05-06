@@ -1,0 +1,6 @@
+{
+  "read_at": 1462544988, 
+  "description": "re-implementation of Recurrent Models of Visual Attention in Lasagne (Theano)", 
+  "README.md": "# lasagne-ram\nre-implementation of Recurrent Models of Visual Attention in Lasagne (Theano)\n\n# Notes\nIt takes to much time to compile and it even fails to compile it with MNIST (batchsize 32), so I will re-implement RAM with caffe, soon. \n\n# ref\n1. http://arxiv.org/abs/1406.6247\n2. http://arxiv.org/abs/1412.7755\n3. http://www.scholarpedia.org/article/Policy_gradient_methods\n", 
+  "id": 41030537
+}

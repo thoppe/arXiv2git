@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546116, 
+  "description": "", 
+  "README.md": "# language-model\n\ngit subtree pull --prefix libs/blocks https://github.com/mila-udem/blocks.git master --squash\n\nhttp://arxiv.org/pdf/1308.0850v5.pdf\n", 
+  "id": 39199540
+}

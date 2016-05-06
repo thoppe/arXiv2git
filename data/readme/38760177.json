@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546371, 
+  "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  tailloss\u00a0\u2014\u00a0Estimate\u00a0the\u00a0Probability\u00a0in\u00a0the\u00a0Upper\u00a0Tail\u00a0of\u00a0the\u00a0Aggregate\u00a0Loss\u00a0Distribution.\u00a0Homepage:\u00a0http://github.com/igollini/tailloss  ", 
+  "README.md": "tailloss\n=======\n\nEvaluate the probability in the upper tail of the aggregate loss distribution using different methods: Panjer recursion, Monte Carlo simulations, Markov bound, Cantelli bound, Moment bound, and Chernoff bound.\n\n`tailloss` contains functions to estimate the exceedance probability curve of the aggregated losses. There are two 'exact' approaches: Panjer recursion and Monte Carlo simulations, and four approaches producing upper bounds: the Markov bound, the Cantelli bound, the Moment bound, and the Chernoff bound. The upper bounds are useful and effective when the number of events in the catalogue is large, and there is interest in estimating the exceedance probabilities of exceptionally high losses.\n\n### References \n- Gollini, I., and Rougier, J. C. (2015), \"Rapidly bounding the exceedance probabilities of high aggregate losses\", [arXiv:1507.01853](http://arxiv.org/abs/1507.01853).\n", 
+  "id": 38760177
+}

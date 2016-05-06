@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547708, 
+  "description": "Theano/Blocks implementation of the paper \"Adversarial Autoencoders\" by Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow (http://arxiv.org/abs/1511.05644)", 
+  "README.md": "# adversarial_autoencoder\r\nTheano/Blocks implementation of the paper \"Adversarial Autoencoders\" by Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow (http://arxiv.org/abs/1511.05644)\r\n\r\nThe basic_tutorial.ipynb takes you through the basic steps, if looking on the web go to http://nbviewer.jupyter.org/github/andhus/adversarial_autoencoder/blob/master/basic_tutorial.ipynb to view it with interactive plots.\r\n", 
+  "id": 55355663
+}

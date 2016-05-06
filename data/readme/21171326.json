@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547192, 
+  "description": "Large scale detection through adaptation", 
+  "README.md": "Large Scale Detection through Adaptation\n========\n\nDemo code available at: https://github.com/jhoffman/lsda\nThis code accompanies the arXiv report.\n\nDownload pre-trained 7.5K model:\n-------\n\n* Includes all leaf synsets + 200 detection categories\n* Pre-trained Detection Model: https://www.eecs.berkeley.edu/~jhoffman/caffe_nets/rcnn_model7200.mat\n* Caffe Weights for 200 strong detectors: https://www.eecs.berkeley.edu/~jhoffman/caffe_nets/finetune_ilsvrc13_val1+train1k_iter_50000\n* Caffe Weights for 7K weak detectors: https://www.eecs.berkeley.edu/~jhoffman/caffe_nets/imagenet7k_det_ilsvrc_2013_fc8_iter_74040\n\nTo try out an example, run:\n    \n    startup;\n    detect10k_demo(rcnn_model, rcnn_feat, 'ex_img.jpg');\n\nDependency\n-------\n\nThis code requires Caffe to be installed. For Installation instructions\nvisit: http://caffe.berkeleyvision.org\n\n\nCiting\n-------\n\n    \"LSDA: Large Scale Detection Through Adaptation.\" J. Hoffman, \n    S. Guadarrama, E. Tzeng, R. Hu, J. Donahue, R. Girshick, T. Darrell, and\n    K. Saenko. Neural Information Processing Systems (NIPS), 2014.\n\nhttp://arxiv.org/abs/1407.5035\n", 
+  "id": 21171326
+}

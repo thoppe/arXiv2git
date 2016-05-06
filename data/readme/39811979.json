@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546216, 
+  "description": "", 
+  "README.md": "RankMap Project.\n\nPaper \"RankMap: A Platform-Aware Framework for Distributed Learning from Dense Datasets\", can be found here: http://arxiv.org/abs/1503.08169\n\nSource codes: \n\nColumn Subset Selection-based (CCS) Transformation:\nRandom Sampling (a.k.a Nystrom)\nAdaptive Sampling\n\nIterative Learninmg Algorithms: \nLeast squares minimization with L1 Penalty (a.k.a LASSO regularization) \nPower iteration for sigular value decomposition\n\nOrthogonal Matching Pursuit (OMP)\n", 
+  "id": 39811979
+}

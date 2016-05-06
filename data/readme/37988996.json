@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549234, 
+  "description": "A conjugate subgradient algorithm for L2-L1 minimization", 
+  "README.md": "# csg\nA conjugate subgradient algorithm for L2-L1 minimization\n\nThe paper describing this algorithm can be found at http://arxiv.org/abs/1506.07730\n", 
+  "id": 37988996
+}

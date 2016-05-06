@@ -1,0 +1,6 @@
+{
+  "read_at": 1462545674, 
+  "description": "", 
+  "README.md": "# vgcanon\n\nReferences\n----------\nFast R-CNN:\n@article{girshick15fastrcnn,\n    Author = {Ross Girshick},\n    Title = {Fast R-CNN},\n    Journal = {arXiv preprint arXiv:1504.08083},\n    Year = {2015}\n}\n\nStanford CoreNLP:\n@InProceedings{manning-EtAl:2014:P14-5,\n  author    = {Manning, Christopher D. and  Surdeanu, Mihai  and  Bauer, John  and  Finkel, Jenny  and  Bethard, Steven J. and  McClosky, David},\n  title     = {The {Stanford} {CoreNLP} Natural Language Processing Toolkit},\n  booktitle = {Proceedings of 52nd Annual Meeting of the Association for Computational Linguistics: System Demonstrations},\n  year      = {2014},\n  pages     = {55--60},\n  url       = {http://www.aclweb.org/anthology/P/P14/P14-5010}\n}\n%  month     = {June},\n%  address   = {Baltimore, Maryland},\n%  publisher = {Association for Computational Linguistics},", 
+  "id": 41454361
+}

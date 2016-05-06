@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546283, 
+  "description": "", 
+  "README.md": "Recursive Coding Algorithm for Two-Unicast-Z Networks\n=====================================================\n\nThis is an implementation of the recursive coding alogrithm for two-unicast-Z\n networks, proposed in http://arxiv.org/abs/1502.00656\n \nDependencies\n------------\n\n0. numpy==1.9.2\n0. networkx==1.9.1\n0. pandas==0.16.1\n0. gurobi optimization package, gurobipy==6.0.0\n\n\nUsage\n-----\n \n \nExamples\n--------\n\n\nReference\n---------\n\n0. \"Alignment based Network Coding for Two-Unicast-Z Networks\", Weifei Zeng, \nViveck R. Cadambe, Muriel Medard. https://github.com/weifei/tuzc\n", 
+  "id": 39784851
+}

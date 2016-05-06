@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547295, 
+  "description": "Sparse Poisson Intensity Reconstruction ALgorithms", 
+  "README.md": "SPIRAL-TAP\n==========\n\nSPIRAL is a software toolbox for solving Poisson inverse problems.\n\nCite this software as\n\nZ. T. Harmany, R. F. Marcia, and R. M. Willett, \"This is SPIRAL-TAP: Sparse Poisson Intensity Reconstruction ALgorithms--Theory and Practice,\" IEEE Transactions on Image Processing, vol. 21, pp. 1084-1096, Mar. 2012.\n\nThis paper describes the mathematical details and is available via [IEEEXplore][SPIRAL-IEEEXplore] or [ArXiv.org][SPIRAL-ArXiv]. \n\n\n[SPIRAL-ArXiv]: http://arxiv.org/abs/1005.4274\n\n[SPIRAL-IEEEXplore]: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6020799\n\n\nLicense\n=======\n\nThis software is distributed under GPL v2.0. See the LICENSE file for details.\n", 
+  "id": 21288091
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547905, 
+  "description": "Colorful Image Colorization implementation", 
+  "README.md": "<!--<h3><b>ImageColorization</b></h3>-->\n## <b>ImageColorization</b> <br>\n[Richard Zhang](https://richzhang.github.io/), [Phillip Isola](http://web.mit.edu/phillipi/), [Alexei A. Efros](http://www.eecs.berkeley.edu/~efros/). In [arXiv, 2016](http://arxiv.org/abs/1603.08511). \n\n![Image](https://github.com/inlmouse/ImageColorization/blob/master/paper.png)\n\n![NetStructure](https://github.com/inlmouse/ImageColorization/blob/master/color.png)\n\n### Dependencies ###\nThis code requires a working installation of [Caffe](http://caffe.berkeleyvision.org/) and basic Python libraries (numpy, pyplot, skimage, scipy). For guidelines and help with installation of Caffe, consult the [installation guide](http://caffe.berkeleyvision.org/) and [Caffe users group](https://groups.google.com/forum/#!forum/caffe-users).\n\n### Citation ###\nIf you find this model useful for your resesarch, please use this [bibtex](http://richzhang.github.io/index_files/bibtex_arxiv2016_colorization.txt) to cite.", 
+  "id": 57274352
+}

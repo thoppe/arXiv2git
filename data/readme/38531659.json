@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546044, 
+  "description": "to make arXiv abstracts printable", 
+  "README.md": "# print-arxiv\n\nThis is a python script that crawls arXiv search results and compiles useful information into one PDF file.  \n\nReads in:  \n`http://arxiv.org/find/*`\n\nSample output:  \n![](http://i.imgur.com/Pk3WK6p.png)\n\nNeeds:  \n* python\n* [python-requests](http://docs.python-requests.org/en/latest/)\n* pandoc\n* LaTeX engine\n\nTested on Windows.", 
+  "id": 38531659
+}

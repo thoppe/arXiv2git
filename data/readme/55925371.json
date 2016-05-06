@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547839, 
+  "description": "", 
+  "README.md": "# Deeply Supervised Siamese Network\n## For Similarity-based Text Recognition\n* Adadelta for training\n\n###Paper  \nE. Hosseini-Asl, and A. Guha, \"Similarity-based Text Recognition By Deeply-Supervised Siamese Network, 2015, [arXiv:1511.04397 [cs.CV]](http://arxiv.org/abs/1511.04397)\n", 
+  "id": 55925371
+}

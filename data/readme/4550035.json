@@ -1,0 +1,7 @@
+{
+  "README": "This is Sage code related to the work on book crossing numbers\nof graphs, such as http://arxiv.org/abs/1207.5701 and some more\nongoing projects.\n", 
+  "id": 4550035, 
+  "read_at": 1462546838, 
+  "README.rst": "This is `Sage <http://www.sagemath.org>`_ code related to the work on book crossing numbers\nof graphs, such as `arXiv.org e-print 1207.5701 <http://arxiv.org/abs/1207.5701>`_ and some other \nongoing projects.\n", 
+  "description": "Sage code for our work on crossing numbers"
+}

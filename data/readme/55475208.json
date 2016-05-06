@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547825, 
+  "description": "", 
+  "README.md": "# ConvSent\n\n> Kim Y. Convolutional neural networks for sentence classification[J]. arXiv preprint arXiv:1408.5882, 2014.\n\n## files\n\n1. model.py: define model of cnn, and a mini sample in **main**\n2. asyc_train.py: train model by ASGD\n3. test.py: test in test set\n4. inter_test.py: get a input from user then output a class\n", 
+  "id": 55475208
+}

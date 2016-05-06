@@ -1,0 +1,6 @@
+{
+  "read_at": 1462548317, 
+  "description": "Matlab code for Analog to Information of Frequency Hopping signal based on Modulated Wideband Converter", 
+  "readme.txt": "This package is used to simulate the Frequency Hopping signal based on Modulated Wideband Converter in MATLAB.\n\nThe package includes:\n\n\t- Demo.m\n\t- eig_r.m\n\t- FilterDecimate.m\n\t- FindNonZeroValues.m\n\t- is_contained.m\n\t- MixSignal.m\n\t- RunOMP_Unnormalized.m\n\nUsage: Unzip the package and run Demo.m\n\nThe package is based on the following papers.\n\n1. M. Mishali, Y. C. Eldar and J. A. Tropp, \"Efficient Sampling and Stable Reconstruction of Wide Band Sparse Analog Signals\", Proc. of IEEEI, 25th convention, pp. 290-294, Dec. 2008 \n\n2. M. Mishali and Y. C. Eldar, \"From Theory to Practice: Sub-Nyquist Sampling of Sparse Wideband Analog Signals\", arXiv 0902.4291; submitted to IEEE Selected Topics on Signal Processing, Feb. 2009", 
+  "id": 56921219
+}

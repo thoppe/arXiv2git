@@ -1,0 +1,5 @@
+{
+  "read_at": 1462546154, 
+  "description": "Translation as described in  Exploiting Similarities among Languages for Machine Translation (http://arxiv.org/abs/1309.4168) test data can downloaded here: http://clic.cimec.unitn.it/~georgiana.dinu/down/ (org. python implementation), I will provide test data and a multilingual word space of WordNet words before end of september 15. Code will be updated soon.", 
+  "id": 38764499
+}

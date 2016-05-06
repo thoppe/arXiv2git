@@ -1,0 +1,6 @@
+{
+  "read_at": 1462549205, 
+  "description": "re-implementation of variational auto encoder with Lasagne", 
+  "README.md": "# VAE\nre-implementation of variational auto-encoder (http://arxiv.org/abs/1312.6114) with Lasagne.\n\n# Settings\nUbuntu 14.04\n\nNvidia Titan Z\n\nnumpy 1.9.2\n\nscipy 0.16.0b2\n\nTheano 0.7 \n\nLasagne 9b48d675dbaa6f1255003cb2b76fab7deed65961\n\n# refs\n1. http://arxiv.org/abs/1312.6114\n2. http://vdumoulin.github.io/articles/vae-demo/\n3. https://github.com/y0ast/Variational-Autoencoder\n", 
+  "id": 36730795
+}

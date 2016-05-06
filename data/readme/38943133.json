@@ -1,0 +1,6 @@
+{
+  "read_at": 1462546113, 
+  "description": "", 
+  "README.md": "# Sentiment Analysis with Convolutional Networks\n\nHere is one of my submissions to [Kaggle](http://www.kaggle.com) challenge ['Bag of Words meets Bags of Popcorn'](https://www.kaggle.com/c/word2vec-nlp-tutorial).\n\nIt is based on the idea of combining pre-trained word2vec embeddings with convolutional networks proposed by Yoon Kim [http://arxiv.org/abs/1408.5882].\n\nThe code consists of two IPython Notebooks:\n\n1. Process Kaggle Dataset Train+Test.ipynb contains data pre-processing.\n\n2. Train CNN IMDB.ipynb implements convolutional network with one convolutional layer.\n\nThis model (trained for 3 epochs) yields AUC = 0.96823 (on test data).\n\nEnsemble of three convolutional networks (having different number of convolutional layers and feature maps) gives AUC = 0.97310.\n\n## Dependencies\n\n* Python 2.7\n* [IPython 3.0](http://ipython.org/)\n* [NumPy](http://www.numpy.org/)\n* [Theano 0.7](https://github.com/Theano/Theano/releases/tag/rel-0.7)\n* [Keras 0.1.2](https://github.com/fchollet/keras/releases/tag/0.1.2)\n* [scikit-learn](http://scikit-learn.org/stable/index.html)\n* [Pandas](http://pandas.pydata.org/)\n", 
+  "id": 38943133
+}

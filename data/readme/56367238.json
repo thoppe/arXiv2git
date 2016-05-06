@@ -1,0 +1,6 @@
+{
+  "read_at": 1462547923, 
+  "description": "Predict every joint's speed and generate motion sequence", 
+  "README.md": "#Deep Motion Generator\n\nDeep Motion Generator(DMG) uses Deep Convolutional Generative Adversatial Network([http://arxiv.org/abs/1511.06434](http://arxiv.org/abs/1511.06434)).\n\nDMG generates every joint's difference between current frame and next frame.\n\nBy combining this with joints' initial values,\n\nyou can get a motion sequence data.\n\n", 
+  "id": 56367238
+}
