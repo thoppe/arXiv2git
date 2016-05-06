@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557588, 
+  "description": "Implementing FastSent in theano", 
+  "README.md": "# fastsent_theano\nImplementing FastSent in theano\n\nModel proposed in \n\nHill, F. Cho, K. & Korhonen, A. Learning Distributed Representations of Sentences from Unlabelled Data. \n\n( http://arxiv.org/abs/1602.03483 )\n", 
+  "id": 52530676
+}

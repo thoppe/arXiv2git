@@ -1,0 +1,6 @@
+{
+  "read_at": 1462559088, 
+  "description": "Scripts for preparing manuscripts for astronomical journals.", 
+  "README.md": "paper-tools\n===========\n\nScripts for preparing manuscripts for astronomical journals.\n\n* `shorten.py`: Shorten author list in `.bbl` file and save modified file\n  to `{filename}.short`. Usage:\n\n      shorten.py [-n NUMBER] FILENAME\n\n  where `NUMBER` is the maximum number of authors to allow before the author\n  list is shortened to First Author, et al. Default is 8.\n\n* `submission_prep.py`: Prepare files for submission to ApJ or arXiv. Usage:\n\n      submission_prep.py [-a] FILENAME OUTDIR\n\n  See script for more details. `-a` prepares for submission to arXiv rather\n  than ApJ.\n", 
+  "id": 12453014
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462559072, 
+  "description": "Implementation of \"A correct even-odd algorithm for the point-in-polygon (PIP) problem for complex polygons\" (http://arxiv.org/abs/1207.3502)", 
+  "README.md": "point_in_polygon\n================\n\nImplementation of \"A correct even-odd algorithm for the point-in-polygon (PIP) problem for complex polygons\" (http://arxiv.org/abs/1207.3502)\n", 
+  "id": 12360046
+}

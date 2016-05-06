@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558711, 
+  "description": "deep transductive learning for semi-supervised clustering", 
+  "README.txt": "README\nThis package implements the deep tranductive learning for semi-supervised clusteirng. \nTwo key files are:\ndtmmc_constrains.m --- generalized the pairwise constraints\ndtmmc_gradient_update.m --- computer the gradient and update the parameters\n\nTo test the code, the user can run dtmmc_demo_coil100.m\n\n\nFor more details about the model please refer to:\n\nDeep transductive semi-supervised maximum margin clustering, in arxiv.\n", 
+  "id": 36461705
+}

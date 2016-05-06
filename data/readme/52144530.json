@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557432, 
+  "description": "Implementation for the LDA model in Tensor Decompositions for Learning Latent Variable Models http://arxiv.org/abs/1210.7559", 
+  "README.md": "[![Build Status](https://travis-ci.org/jli05/Spectral_LDA.svg?branch=master)](https://travis-ci.org/jli05/Spectral_LDA)\n\n\n# Spectral_LDA\nImplementation for the LDA model in Tensor Decompositions for Learning Latent Variable Models http://arxiv.org/abs/1210.7559\n", 
+  "id": 52144530
+}

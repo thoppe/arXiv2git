@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558272, 
+  "description": "(2+1)-d viscous hydrodynamic simulation for relativistic heavy-ion collisions", 
+  "README.md": "VISHNew\n=======\n\n### Viscous Isarel Stewart hydrodynamics\n\n(2+1)-d viscous hydrodynamic simulation for relativistic heavy-ion collisions\n\nThe code is written by Dr. Huichao Song and further modified and enhanced by Zhi Qiu, Chun Shen, and Jia Liu. \n\nFor references, please see the following papers:\n\n* Huichao Song, Ulrich W Heinz, \"Causal viscous hydrodynamics in 2+1 dimensions for relativistic heavy-ion collisions\", \n[http://arxiv.org/abs/arXiv:0712.3715]\n\n* Huichao Song, Ulrich W. Heinz, \"Multiplicity scaling in ideal and viscous hydrodynamics\",\n[http://arxiv.org/abs/arXiv:0805.1756]\n\nCompile note:\nuse -DEnableHDF5=ON to link hydro code with HDF5 Library\n", 
+  "id": 24203817
+}

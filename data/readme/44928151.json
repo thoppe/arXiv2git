@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556225, 
+  "description": "Tool for calculating helicity amplitudes", 
+  "README.md": "# HelicityCalcFW\nFramework for helicity amplitude calculations using mixed C++ and FORTRAN\n\nUsing:\n- Cuba - http://www.feynarts.de/cuba/\n- ROOT - https://root.cern.ch/\n- RAMBO - http://www.pp.rhul.ac.uk/~cowan/computing/tutorial99/rambo.f\n- PHACT - http://arxiv.org/abs/hep-ph/9911318\n", 
+  "id": 44928151
+}

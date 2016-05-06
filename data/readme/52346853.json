@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557471, 
+  "description": "", 
+  "README.md": "# badEye\n\n1. Pose estimation - http://arxiv.org/pdf/1602.00134.pdf\n2. Camera localization\n3. Shuttle tracker\n4. Trajectory ranking\n", 
+  "id": 52346853
+}

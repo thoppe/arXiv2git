@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558742, 
+  "description": "Maximum Likelihood Synthesis of Analog and Photon-Counting Lidar Returns", 
+  "README.md": "LidarSynth\n==========\n\nMaximum Likelihood Synthesis of Analog and Photon-Counting Lidar Returns.\n\nCode based on algorithms described in\n[Appl. Opt. **51** (2012) 139-147](http://dx.doi.org/10.1364/AO.51.000139)\n(also available as preprint [arXiv:1107.0608](http://arxiv.org/abs/1107.0608)).\n\n\n\n## License\n\nReleased under dual licence: the GPL version 2 and the two-clause BSD license.\n\nScientific or technical publications resulting from projects using this code are\nrequired to add the following citation\n\n* Darko Veberic, \"Maximum-likelihood reconstruction of photon returns from\n  simultaneous analog and photon-counting lidar measurements\",\n  [Appl. Opt. **51** (2012) 139-147](http://dx.doi.org/10.1364/AO.51.000139).\n\nto their references.\n\n\n\n## Notes\n\nNeeds [boost c++](http://www.boost.org) libraries and [ROOT](http://root.cern.ch).\n", 
+  "id": 36224846
+}

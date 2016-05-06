@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556472, 
+  "description": "Implementation of linear SVM and HOG", 
+  "README.md": "# Linear-SVM-and-HOG\nImplementation of linear SVM and HOG\n\nSimilar projects:\n~~~\nuse LibSVM and SVMLight\nhttps://github.com/DaHoC/trainHOG\n\nLibSVM\nhttps://github.com/niosus/HOGclassifier\n\nExample in OpenCV(OpenCV use LibSVM internally)\nhttps://github.com/Itseez/opencv/blob/ddf82d0b154873510802ef75c53e628cd7b2cb13/samples/cpp/train_HOG.cpp\n\nhow to use LibSVM with opencv\nhttp://kuantinglai.blogspot.ru/2013/07/using-libsvm-with-opencv-mat.html\n\nmaybe we can use dlib, also it have some SVM's and Pegasos solver.\nhttp://dlib.net/fhog_object_detector_ex.cpp.html\n\nPython\nhttps://github.com/bikz05/object-detector\n~~~\n\nHOG\n~~~\nhttps://github.com/ivanaslamov/hog_sse\n~~~\n\nPapers:\n~~~\n\"Why do linear SVMs trained on HOG features perform so well?\"\nhttp://arxiv.org/abs/1406.2419\n\n\"Lecture 2: The SVM classifier\"\nhttp://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf\n~~~\n\nTODO:\n~~~\nAdd Liblinear.\nhttps://github.com/cjlin1/liblinear\n\nAdd rect train tool.\nhttps://github.com/Itseez/opencv/blob/ddf82d0b154873510802ef75c53e628cd7b2cb13/apps/annotation/opencv_annotation.cpp\n\nAdd GUI.\n~~~\n\nUse other SVM solvers:\n~~~\nhttps://github.com/mrgloom/Large-Scale-Linear-Classification\n~~~\n", 
+  "id": 44667259
+}

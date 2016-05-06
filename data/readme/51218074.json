@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557364, 
+  "description": "Dataset for deduplicating bibliographic records derived from Mendeley/Arxiv data", 
+  "README.md": "# arxivDeduplicationDataset\n\n* Dataset for deduplicating bibliographic records derived from Mendeley/Arxiv data.\n* As mentioned in my paper:\n\"On generating large-scale ground truth datasets for the deduplication of bibliographic records\", James A Hammerton et al, Proceedings of the 2nd International Conference on Web Intelligence, Mining and Semantics, 2012, doi: 10.1145/2254129.2254153\n", 
+  "id": 51218074
+}

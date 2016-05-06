@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558644, 
+  "description": "algorithm for performing iterative step-function estimation for graphons", 
+  "README.md": "# An Iterative Step-function Estimator for Graphons\nalgorithm for performing iterative step-function estimation for graphons, see\nthe following paper:\n\nDiana Cai, Nathanael Ackerman, Cameron Freer. **An iterative step-function\nestimator for graphons.** arXiv:1412.2129. [math.ST, stat.CO, stat.ML].\n*http://arxiv.org/abs/1412.2129*.\n", 
+  "id": 35358456
+}

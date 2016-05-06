@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556173, 
+  "description": "", 
+  "README.md": "Choose the type of simulator using:\n1. Partial Key Grouping with multiple sources with local estimation from data: <SimulatorType inFileName outFileName serversNo initialTime NumSources>\n2. Simple Consistent Hashing hash mode num of Servers: <SimulatorType inFileName outFileName serversNo initialTime>\n3. G-Choices : <SimulatorType inFileName outFileName serversNo initialTime>\n4. D-Choices : <SimulatorType inFileName outFileName serversNo initialTime>\n5. W-Choices : <SimulatorType inFileName outFileName serversNo initialTime>\n6. Round Robin: <SimulatorType inFileName outFileName serversNo initialTime>\n\n---------\nSources\n---------\n1. https://melmeric.files.wordpress.com/2014/11/the-power-of-both-choices-practical-load-balancing-for-distributed-stream-processing-engines.pdf\n2. http://arxiv.org/pdf/1510.05714v2.pdf\n3. http://arxiv.org/pdf/1510.07623v1.pdf\n", 
+  "id": 44537046
+}

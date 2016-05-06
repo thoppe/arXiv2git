@@ -1,0 +1,6 @@
+{
+  "README": "PAIRGEN\n-------\nPairgen is a lightweight tool for autogenerating gpu-accelerated pair styles for LAMMPS.\nThe input to Pairgen is a yml file containing a data/access pattern and a function body that describes the mechanical model of the pair style.\nPairgen uses string templating to produce two customized gpu-accelerated implementations of the pair style.\nWe currently support thread-per-atom and block-per-atom decompositions[1].\n\nThere are examples in the tests/ directory.\n\n[1] General-purpose molecular dynamics simulations on GPU-based clusters\nChristian Trott, Lars Winterfeld, Paul Crozier\nhttp://arxiv.org/abs/1009.4330\n", 
+  "read_at": 1462557274, 
+  "description": "Autogenerate LAMMPS pairstyles", 
+  "id": 1805900
+}

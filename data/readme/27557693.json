@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557126, 
+  "description": "A genetic algorithm to perform target-based evolution of 3D supershapes produced by Gielis superformula encoded in a voxelised format and exported to STL for 3D printing if desired. ", 
+  "README.md": "A genetic algorithm to perform target-based evolution of 3D supershapes\nproduced by Gielis superformula encoded in a voxelised format and exported to\nSTL for 3D printing if desired. \n\nSee <http://arxiv.org/abs/1204.4107> for details.\n\n============ \nCompilation: \n============\n\nTo build the executable named \"sfnn\" simply run \"make\". To enable the parallel\nprocessing of the supershapes, compile with \"PARALLEL=1\".\n\n====== \nUsage: \n======\n\nTo initiate the target-based evolution of supershapes simply run the executable\nand specify a file to write output (e.g., \"./sfnn output.dat\"). Most parameters\nare in constants.h. Default set to perform 10000 evaluations using 8 supershape\nparameters targetting a star shape.\n\n-----------\nAdditional:\n-----------\n\nA supershape visualisation tool and its source code produced by Martin\nSchneider, licensed under Creative Commons Attribution Share Alike 3.0 and GNU\nGPL license, can be found at <http://openprocessing.org/visuals/?visualID=2638>\n", 
+  "id": 27557693
+}

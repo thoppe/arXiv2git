@@ -1,0 +1,6 @@
+{
+  "id": 51381793, 
+  "read_at": 1462557873, 
+  "README.rst": "About\n=====\n\nSimple but effective script for cleaning parallel corpora based on dictionary and stop words.\n\nUsage\n=====\n\n Script count two numbers:\n    m - total number of words in sentence (excluding stop words)\n    n - total number of words in sentence from dictionary\nFiltering can be done using absolute and relative difference:\n    abs_diff = n\n    rel_diff = n/m\nSentence will be preserved if absolute or relative difference is more for it\nthen provided in script options\n\nExample command:\n    $ python sentence_cleaner.py --abs_diff 3 --dictionary dictionary.txt --stop_words stop.txt text1 text2\n\nCleaned sentences will be saved as \"cleaned__[file_name]\"\n\n\nFinal info\n====\n\nFeel free to use this tool if you cite:\n*\tWolk K., Marasek K., \"Unsupervised comparable corpora preparation and exploration for bi-lingual translation equivalents\", Proceedings of the 12th International Workshop on Spoken Language Translation, Da Nang, Vietnam, December 3-4, 2015, p.118-125\n\nFor more information, see: http://arxiv.org/pdf/1512.01641\n\nFor any questions:\n| Krzysztof Wolk\n| krzysztof@wolk.pl", 
+  "description": "Parallel Corpora Cleaning Tool"
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556712, 
+  "description": "Random Bit Regression implementation", 
+  "README.md": "# RBR\nA simple Random Bit Regression implementation\n\n    This class implements a feature generator based on the paper:\n      Random Bits Regression: a Strong General Predictor for Big Data\n      Yi Wang, Yi Li, Momiao Xiong, Li Jin\n      http://arxiv.org/abs/1501.02990\n\n    The class persists feature schema that can later be used to apply the process to test data.\n\n    Usage:\n\n    # get n random bir features:\n    rbr = RBR(train)\n    features = rbr.generate_features(1000)\n\n    # get schema:\n    schema = rbr.feature_schema\n\n    # dump schema:\n    rbr.dump_schema('rbr_dump')\n\n    # load schema and reset features:\n    schema = rbr.load_schema('rbr_dump')\n\n    # get features for specific schema and X:\n    schema_features = rbr.generate_features_from_schema(X, schema)\n", 
+  "id": 57958414
+}

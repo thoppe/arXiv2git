@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556134, 
+  "description": "Slitless spectroscopy analysis pipeline", 
+  "README.md": "# pygrism\nGrism analysis pipeline refactored from [\"threedhst\"](https://github.com/gbrammer/threedhst/) and [\"unicorn\"](https://github.com/gbrammer/unicorn/).\n\nFor full details see Momcheva et al. (http://arxiv.org/abs/1510.02106v1).\n", 
+  "id": 43971869
+}

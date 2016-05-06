@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556078, 
+  "description": "The FMT* motion planner (https://github.com/schmrlng/MotionPlanning.jl) and  Convex elastic smoother (http://arxiv.org/abs/1506.01085) implementation in julia and the interfacing with X1 ", 
+  "README.md": "# RHC_FMT_CES\n\nThe FMT* (Fast Marching Trees) motion planner and CES (Convex Elastic Smoothing) applied in a RHC (Receding Horizon Control) fashion on self driving cars to avoid obstacles taking into consideration the kino-dynamic constraints of the car.\n\nThis code uses the FMT* motion planner (https://github.com/schmrlng/MotionPlanning.jl) package and implements the Convex elastic smoother (http://arxiv.org/abs/1506.01085), low level MPC tracker and the interfacing with X1 (Stanford's student built electric drive by wire, steer by wire car).\n\nIt uses FORCES PRO (https://www.embotech.com/FORCES-Pro) to solve the smoothing problem which is modelled as a QCQP and MTSOS (http://web.stanford.edu/~boyd/MTSOS/index.html) to solve the speed optimization problem.\n", 
+  "id": 43871145
+}

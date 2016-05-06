@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558639, 
+  "description": "Torch7 batch normalization example on MNIST dataset", 
+  "README.md": "# torch-mnist-batch-normalization\nTorch7 batch normalization example on MNIST dataset\n\nI use torch7 to test the techniq from the Batch Normalization paper, section 4.1.\n\nThe main difference is the data, MNIST dataset I use has pictures of size 32x32px.\n\n*Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift*\nby Sergey Ioffe, Christian Szegedy (11 Feb 2015)\nhttp://arxiv.org/abs/1502.03167\n\n![Example results](bn-graph.png)\n", 
+  "id": 36119008
+}

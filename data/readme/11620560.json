@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556990, 
+  "description": "Nymphalidae MS", 
+  "README.md": "# Nymphalidae diversification paper\n\nSee the preprint here <http://arxiv.org/abs/1302.6294>\n\nSoftware in ``code`` folder taken from:\n\n* [turboMEDUSA](https://github.com/josephwb/turboMEDUSA)\n* [phyloch](http://www.christophheibl.de/Rpackages.html)\n* [auteur v0.12.1010](http://cran.r-project.org/src/contrib/Archive/auteur/)\n* diversitree v0.9.3 -> Newer version don't save to file in the MCMC function.\n\n## Reproducing the analyses\nYou can easily reproduce the analyses by using [GNU make](http://www.gnu.org/software/make/).\nInstall ``make`` in your computer and run the analysis with ``make command``. For example:\n\n```bash\n# Run MEDUSA analysis on our MCT\nmake medusa_run\n```\n\nThe code and data will be read from their respective folders.\nThe output data and plots will be saved into the folder ``output``.\n", 
+  "id": 11620560
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556019, 
+  "description": "Classifying deferred representations: http://arxiv.org/abs/1508.02315", 
+  "README.md": "# classifyDeferred\nThis is the code for generating data for classifying a URI-R as either deferred or non-deferred. \nThis is meant to create a feature vector (as detailed in the tech report mentioned below) that \ncan be put into an ARFF file and used for classification in Weka. Note that we use the interaction.js\nfile with PhantomJS to generate some of the features (mainly, those that come from the HTTP traffic\nof the representation), while the rest come from the DOM only.\n\n\n\nPlease cite http://arxiv.org/abs/1508.02315. \n", 
+  "id": 45013100
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556423, 
+  "description": "Local Binary Pattern and Local Binary Test features related materials.", 
+  "README.md": "# LBP-and-LBT\nLocal Binary Pattern and Local Binary Test features related materials.\n\nLocal Binary Patterns:\n~~~\n\nLBP\nhttp://bytefish.de/blog/local_binary_patterns/\n\n\"Extended Set of Local Binary Patterns for Rapid Object Detection\"\nhttp://cmp.felk.cvut.cz/~matas/papers/trefny-emb_lbp-cvww10.pdf\n\nRLBP\nhttp://www.cs.tut.fi/~mehta/rlbp\n\nTo look at:\nhttps://github.com/t0nyren/llbp\n\n~~~\n\nLocal Binary Test:\n~~~\n\nFAST Corner Detection\nhttp://www.edwardrosten.com/work/fast.html\n\n\"Object Detection with Pixel Intensity Comparisons Organized in Decision\nTrees\"\nhttp://arxiv.org/pdf/1305.4537v5.pdf\nhttps://github.com/nenadmarkus/pico\n\n\"Unconstrained Face Detection\" - Normalized Pixel Difference (NPD) \nhttp://www.cse.msu.edu/biometrics/Publications/Face/LiaoJainLi_UnconstrainedFaceDetection_TechReport.pdf\n\n\"A Fast and Accurate Unconstrained Face Detector\" - Normalized Pixel Difference (NPD) \nhttps://github.com/biotrump/NPD\n\n~~~\n\n", 
+  "id": 44603549
+}

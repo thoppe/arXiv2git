@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557603, 
+  "description": "Physics Engine in Python", 
+  "README.md": "pyphy-engine was used in our paper Learning Visual Predictive Models of Physics for Playing Billiards, ICLR 2016 ([arXiv](http://arxiv.org/abs/1511.07404)) to simulate the billiards environments. \n\n##Installation\n\n### Requirements\n\n- Cairo\n  - Ubuntu: sudo apt-get install libcairo2-dev\n  - Fedora: sudo yum install cairo-devel\n  \n##Coming Soon\n\nExtensive README\n", 
+  "id": 52510407
+}

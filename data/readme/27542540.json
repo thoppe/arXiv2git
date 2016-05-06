@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557160, 
+  "description": "Site for the Kepler K2 Variables catalogue", 
+  "README.md": "Kepler K2 Variables Catalogue\n=============================\n\nThe site is hosted [here](http://deneb.astro.warwick.ac.uk/phrlbj/k2varcat). This readme documents the construction. Please see this [arxiv](http://arxiv.org/abs/1411.6830) release for more detail on the catalogue itself.\n\nSite\n----\n\nThe site is static html rendered into the `build` directory. This name is configurable at the command line.\n\nEach image is embedded in the page directly for simplicity.\n\nDeployment\n----------\n\n*Update*: new section to appear soon\n\nThe `master` branch of this repository shall be the deployable branch therefore anything in master is deemed \"production ready\".\n\nAuthors\n-------\n\n* Catalogue construction: David Armstrong\n* Online site: [Simon Walker](https://github.com/mindriot101)\n", 
+  "id": 27542540
+}

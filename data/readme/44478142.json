@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556222, 
+  "description": "A project website of Direct Intrinsics", 
+  "README.md": "# Direct Intrinsics\n\nThis is a project web site of our work on ICCV 2015 described in:\n\n> [Direct Intrinsics: Learning Albedo-Shading Decomposition by Convolutional Regression](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Narihira_Direct_Intrinsics_Learning_ICCV_2015_paper.pdf)\n> [arxiv](http://arxiv.org/abs/1512.02311)\n> Takuya Narihira, Michael Maire, and Stella X. Yu\n> International Conference on Computer Vision (ICCV), 2015\n\n# Code release\n## Run trained model\n* See [model_release](model_release)\n\n## Training a new model\n* [Prepare Dataset](data)\n* [How to train](training)\n\n## Citation\n\nIf you make use of this software, please cite the following in any publications:\n\n    @inproceedings{NMY:ICCV:2015,\n        title     = {Direct Intrinsics: Learning Albedo-Shading Decomposition by Convolutional Regression},\n        author    = {Takuya Narihira, Michael Maire and Stella X. Yu},\n        booktitle = {International Conference on Computer Vision (ICCV)},\n        year      = {2015}\n    }\n\n\n## License\n", 
+  "id": 44478142
+}

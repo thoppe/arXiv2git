@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557502, 
+  "description": "Variational auto-encoder", 
+  "README.md": "# vae\nVariational auto-encoder for MNIST\nbased on Auto-Encoding Variational Bayes, http://arxiv.org/abs/1312.6114\nhttps://github.com/y0ast/VAE-Torch\n\n![alt tag](samples/manifold.jpg)\n\n", 
+  "id": 52753158
+}

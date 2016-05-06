@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558357, 
+  "description": "Finding the best configuration set of parameters for nucleus density distribution for various nuclei ", 
+  "README.md": "nucleusParametersTuner\n======================\n\nThis small program finds the best configuration set of parameters for the\nwoods-saxon nucleus density distribution for various nuclei \n\nWe assume that the density distribution of individual nucleon is a gaussian\n\n\\rho(r) = 1/(2 \\pi width)^{1.5} exp(-r^2/(2 width^2))\n\nSince the nucleus charge density is measured at low collision energy, the\nfit should also be done at low collision energy. When the collision energy\nincreases, the size of the individual nucleon grows with the inelastic \nnucleon-nucleon cross section and so does the size of the nucleus. \n\nWe will perform our fit at \\sqrt{s} = 23.5 GeV according to the reference, \n[http://arxiv.org/pdf/1108.5379.pdf],\nwhere the gaussian width for the nucleon is 0.473 fm.\n", 
+  "id": 23876426
+}

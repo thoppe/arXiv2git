@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556204, 
+  "description": "generalized large-margin classification", 
+  "README.md": "`glmargin`\n---\n\nThis package contains implementations of the method described in [this arXiv preprint](http://arxiv.org/abs/1411.5260).\nAlthough the package passes build, it was written for personal recordkeeping and is not intended for widespread use.\nTherfore, many functions are not fully optimized, and the corresponding documentation is sparse.\n", 
+  "id": 45015017
+}

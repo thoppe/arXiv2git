@@ -1,0 +1,6 @@
+{
+  "read_at": 1462559158, 
+  "description": "Ideas on active learning", 
+  "README.md": "# Ideas on active learning\n\n## Possible application senarios for our idea\n\n* Preference matching\n * http://www.cs.toronto.edu/~zemel/documents/al4matching_icml.pdf\n * http://arxiv.org/abs/1202.3706\n\n* Interactive data visualization\n * http://jmlr.org/proceedings/papers/v31/iwata13a.pdf\n\n* Information retrieval\n\n## Publishing forum\nMachine Learning -journal\n\n## Modeling ideas, labeling example\nMain idea: User not an oracle.\n\nTwo ways to model:\n1. User inputs probability vectors\n2. User's input is not reliable\n\n(And of course 1+2: user's probability vector is not reliable).\n\n### User inputs probability vectors\n\nObservations are $y$ simplices, $\\sum y_i=1$. Obvious candidate models are Dirichlet distribution,\n Dirichlet process.\n\nQuestions: \n1. How do regression on Dirichlet parameters $y_i | x_i \\sim Dir(\\alpha(x_i))$\n2. ", 
+  "id": 11827361
+}

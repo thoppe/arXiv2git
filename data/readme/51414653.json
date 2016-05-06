@@ -1,0 +1,6 @@
+{
+  "id": 51414653, 
+  "read_at": 1462557358, 
+  "README.rst": "Iterative Refinement of the Approximate Posterior (IRVI)\n=====================\n\nInstallation & Requirements \n---------------------------\n\nThis implementation is based in Theano and python, and requires several pacakges to run.\n\n pip install -r requirements.txt\n\nFirst edit the irvi.conf file and fill in the fields for default data and output directories.\n\nData can be pulled via:\n\n python get_data.py", 
+  "description": "Iterative Refinement of the Approximate Posterior for Directed Belief Networks (http://arxiv.org/abs/1511.06382)"
+}

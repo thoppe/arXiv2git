@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558156, 
+  "description": "This is a package of Matlab scripts to reproduce the results of the scientific paper \"Compressed Sensing with Correlation Between Measurements and Noise\"", 
+  "README.md": "cs-correlated-noise\n===================\n\nThis is a package of Matlab scripts to reproduce the results of the scientific paper \"Compressed Sensing with Linear Correlation Between Signal and Measurement Noise\".\n\nThe paper is available on ArXiv: http://arxiv.org/abs/1301.0213\n", 
+  "id": 6224136
+}

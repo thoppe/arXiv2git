@@ -1,0 +1,6 @@
+{
+  "README": "A collection of scripts for modularity evaluation \nwhich uses the Fast Community Unfolding algorithm \n(http://arxiv.org/abs/0803.0476) in its original \nimplementation by authors\n(https://sites.google.com/site/findcommunities/) \nto compute Q values of EVS-compartible networks.\n\nThe suite works on Linux and perhaps on MacOS.\n\n-----\n\nUSAGE:\n\nDownload the \"updated\" version of the code from \nthe site:\n\nwget -O community.tgz \"https://sites.google.com/site/findcommunities/newversion/community.tgz\"\n\nunzip in the repo folder. Compile \nthe code (adding \"#include <unistd.h>\" at the top \nof main_community.cpp may be helpful). Create the \nnecessary pipes by running\n\n$ ./makePipes.sh\n\nAfter that, sequences of lines in the format\n\n<id0> <weights0>\n<id1> <weights1>\n...\n\ncan be piped through the script massQ.sh to yield\n\n<id0> <q0>\n<id1> <q1>\n...\n\nFor now, the app only works with Espinosa-Soto Wagner \nstyle boolean networks.\n", 
+  "read_at": 1462557176, 
+  "description": "Wrapper for Fast Community Unfolding Code", 
+  "id": 28582286
+}

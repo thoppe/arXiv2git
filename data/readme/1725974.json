@@ -1,0 +1,6 @@
+{
+  "README": "Peerduct\n========\n\n - Bittorrent DHT\n   - bt_dht.c\n   - DHT, Kademlia based.\n - tribbler\n   - extentions to Bittorrent DHT.\n - Kad (ed2k)\n   - DHT, Kademlia based.\n - Vuze\n   - DHT\n - overnet (ed2k)\n - gnunet\n - freenet\n - gnutella\n   - has a DHT as an extention\n - gnutella2\n - https://gitweb.torproject.org/torspec.git/tree/tor-spec.txt\n \n\n- DHTs\n - pastry\n - chord\n - OpenDHT (ring, https://blog.savoirfairelinux.com/en/2015/ring-opendht-a-distributed-hash-table/)\n - ipfs\n - sipping-p2p: (also lists some others) https://www.ietf.org/proceedings/65/slides/plenaryt-2.pdf\n - DDNS, CoDoNS\n - Beehive\n \n- Auth\n - \n\n- Onion routing\n - Tor\n  - http://fermatslibrary.com/s/tor-the-second-generation-onion-router\n  - https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf\n - HORNET (high speed onion routing) (requires Sphinx)\n  - http://arxiv.org/pdf/1507.05724v1.pdf\n - Sphinx\n\n- Auth/Enc/Sec\n - https://core.telegram.org/mtproto\n - axolotl\n  - https://github.com/WhisperSystems/Signal-Android/wiki/ProtocolV2\n  - https://github.com/trevp/axolotl/wiki\n", 
+  "read_at": 1462557270, 
+  "description": "P2P stuff.", 
+  "id": 1725974
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556028, 
+  "description": "Pointer Networks", 
+  "README.md": "# PtrNets\nAn implementation of Pointer Networks [arXiv:1506.03134](http://arxiv.org/abs/1506.03134)\n\n## Usage\nTo generate training data\n\nFor Convex Hull task:\n\n    >> python misc/convex_hull.py ch.pkl.gz\n    \nor for TSP task:\n\n    >> python misc/tsp.py tsp.pkl.gz\n    \nThis will generate the training data, add the data path to ptrnets.py (or change the default path in data_util), then start training:\n\n    >> python ptrnets.py\n    \n\n\n## References\n\n* Oriol Vinyals, Meire Fortunato, Navdeep Jaitly,\n  \"[Pointer Networks](http://arxiv.org/abs/1506.03134)\",\n  *arXiv:1506.03134 [stat.ML]*.\n", 
+  "id": 44375780
+}

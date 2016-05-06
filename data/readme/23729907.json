@@ -1,0 +1,6 @@
+{
+  "README": "the orientation sets were downloaded from:\ncharles.karney.info/orientation/\n\nfor more in-depth information see:\nCharles F.F. Karney\nQuaternions in molecular modeling\nJ.Mol.Graph.Mod. 25(5), 595-604 (Jan. 2007)\nPreprint: arXiv:physics/0506177\n\nformat is:\nAny number of initial comment lines beginning with #\nA line containing 'format quaternion'\nA line containing N alpha(degree) c\nN lines containing q0i q1i q2i q3i wi\n\nwi are the relative weights, which is important for average orientations\nbut it has no value here.\n", 
+  "read_at": 1462558347, 
+  "description": "Optimal rotation sets developed by C. Karney", 
+  "id": 23729907
+}

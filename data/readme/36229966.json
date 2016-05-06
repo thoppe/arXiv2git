@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558657, 
+  "description": "", 
+  "README.md": "# SkippingRefinement\nSkipping Refinement paper: http://arxiv.org/abs/1502.02942\n\nACL2 Workshop paper: http://eptcs.web.cse.unsw.edu.au/paper.cgi?ACL22015.9\n\nThis repository has ACL2s proof script for case studies in ACL2 2015 workshop paper. \n", 
+  "id": 36229966
+}

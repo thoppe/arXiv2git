@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556788, 
+  "description": "Code to reproduce tests from Step Sizes for Strong Stability Preservation with Downwind-biased Operators (http://arxiv.org/abs/1105.5798).", 
+  "README.md": "Code to reproduce tests from [Step Sizes for Strong Stability Preservation with\nDownwind-biased Operators](http://arxiv.org/abs/1105.5798).\n\nTo run these scripts, you should have:\n\nPython 2.5 \nMatplotlib\nScipy 0.9\nNumpy 1.5\n\nor more recent versions.\n\nFiles:\n- dwrk_tests.py: Main file containing scripts that produce the figures in the paper.\n- burgers_char.py: solves Burgers equation by characteristics in order to plot exact solution.\n- recon.py: WENO reconstruction routine.\n", 
+  "id": 14294567
+}

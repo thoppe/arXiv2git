@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556432, 
+  "description": "", 
+  "README.md": "Spacey Random Walks\n--------\nAustin R. Benson, David F. Gleich, and Lek-Heng Lim\n\nThis repository contains research code to accompany our work:\n\nThe Spacey Random Walk: a Stochastic Process for Higher-order Data.\n\nAvailable on [arXiv](http://arxiv.org/abs/1602.02102).\n\n\n\nSynthetic data\n--------\nThe synthetic data used in the numerical experiments is also included in the repository in `processed_data/synthetic_experiments/`.\nThe data can also be generated again:\n\n      make sim\n      bash generate_synthetic.sh\n\nTo train and test the spacey random walk model on the data, run:\n\n      make learn\n      bash learn_synthetic_R1_R2.sh\n      bash learn_synthetic_random.sh\n\nTaxi data\n--------\nThe processed taxi trajectory data used in the numerical experiments is provided in the file `processed_data/taxi/manhattan-year-seqs.txt`.\nThe raw data can be downloaded [here](http://www.andresmh.com/nyctaxitrips/).\nThe code used to process this data is in `scripts/form_taxi_trajectories.py`.\n\nTo train and test the spacey random walk model on the data, run:\n\n      make learn\n      bash learn_taxi.sh\n", 
+  "id": 44492497
+}

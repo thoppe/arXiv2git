@@ -1,0 +1,7 @@
+{
+  "id": 23833748, 
+  "read_at": 1462558299, 
+  "readme.txt": "This is the maximum entropy unfolding software associated with a NIPS 2010 submission.\n", 
+  "README.md": "meu\n===\n\n# Maximum Entropy Unfolding - MATLAB Software\n\nThis page will describe examples of how to use MEU.\n\n## Release Notes\n\n### Current Release\n\nThis release is for the arxiv paper.\n\n\n## Examples\n\n\n```matlab\n>> dem...\n```", 
+  "description": "Maximum Entropy Unfolding "
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558553, 
+  "description": "", 
+  "README.md": "# Places_CNDS_models\n\nPlaces-CNDS-8 is a \"8conv3fc layer\" deep Convolutional neural Networks model trained on MIT Places Dataset with Deep Supervision. \n\nTop-1 and Top-5 accuracies (%) on MIT Places Val/Test dataset:\n\n       top-1 val/test        top-5 val/test\n       54.7/55.7              84.1/85.8\n\nThe method is described in the following report. \nThanks for citing this report if the model is useful for your research. \n\nDownloading our 8conv3fc_CNDS.caffemodel (8 convolutional layers and 3 fully connected layers)\n\nhttps://drive.google.com/file/d/0B_s0NuQ5DMW_SUZCOUV2amY3ZkU/view?usp=sharing\n\nThanks for citing our work if the model is useful for you.  \n\nhttp://arxiv.org/pdf/1505.02496.pdf\n\n      Training Deeper Convolutional Networks with Deep Supervision\n      L.Wang, C.Lee, Z.Tu, S. Lazebnik, arXiv:1505.02496, 2015\n\n", 
+  "id": 35299938
+}

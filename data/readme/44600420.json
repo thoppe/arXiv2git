@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556413, 
+  "description": "A python and pyopencl based SPH simulation toolbox.", 
+  "README.txt": "\npyclsph \n\ncurrent version: 0.1a\n\n\n\n\n\n\nReferences:\n\n1. \nPyCUDA and PyOpenCL: A scripting-based approach to GPU run-time code generation.\nAndreas Klockner, Nicolas Pinto, Yunsup Lee, Bryan Catanzaro, Paul Ivanov, Ahmed Fasih. \nParallel Computing, Volume 38, Issue 3, March 2012, Pages 157-174.\n\n2. \nImplicit Incompressible SPH.\nM. Ihmsen, J. Cornelis, B. Solenthaler, C. Horvath, M. Teschner,\nIEEE Transactions on Visualization and Computer Graphics, July 2013. \n\n3.\nA double layer method for constructing signed distance fields from triangle meshes.\nYizi Wu1, , Jiaju Man, , Ziqing Xie.\nGraphical Models, Volume 76, Issue 4, July 2014, Pages 214-223\n\n4.\nGenerating Optimal Initial Conditions for Smooth Particle Hydrodynamics Simulations.\nSteven Diehl, Gabriel Rockefeller, Christopher L. Fryer, David Riethmiller, Thomas S. Statler.\narXiv:1211.0525 [astro-ph.IM], 2012", 
+  "id": 44600420
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558406, 
+  "description": "R package implementing lazy ABC paper example", 
+  "README.md": "lazyABCexample\n==============\n\nThis R package implements an epidemics example from\n\n\"Lazy ABC\" Dennis Prangle (2014)\n\nAvailable at http://arxiv.org/abs/1405.7867\n\n**nb this example appears from v2 of this paper**\n\n\nThe package contains commands to simulate from the model of interest (SIRsim) and to perform lazy ABC, or standard ABC as a special case (lazyABC).\nTwo scripts are also supplied as demos.\nBoth perform the analysis in the paper.\n\"SIRproduction\" is the exact code used in the paper.\n\"SIRexample\" is a more user-friendly version (less code, more explanatory plots).\nThe scripts can be run by \"demo(SIRexample)\" or \"demo(SIRproduction)\".\nThey use parallel processing via \"mclapply\", so the user may wish to run \"options(mc.cores=X)\" for some appropriate value of X before execution.\n\n", 
+  "id": 24058235
+}

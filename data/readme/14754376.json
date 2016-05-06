@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556768, 
+  "description": "Code and website for my arxiv abstract dataset", 
+  "README.md": "A little script that scrapes the metadata from [the arXiv](http://arxiv.org)\nand saves it in a form that is useful for statistical analysis.\n\nUsage\n-----\n\nYou'll need to install [NLTK](http://nltk.org) first and then run\n\n```\npython scrape.py\n```\n\nThis will take many hours to run and it will save files of the form\n`data/astro-ph/2007-05-10.txt.gz` with one abstract per line. Each row has the\ntab-separated columns: arxiv id, space-separated categories, tokenized title,\nand tokenized abstract.\n\nCredits\n-------\n\nCopyright 2013 Dan Foreman-Mackey\n\nLicensed under the terms of the MIT License (see `LICENSE`).\n", 
+  "id": 14754376
+}

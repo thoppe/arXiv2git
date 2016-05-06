@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558646, 
+  "description": "Conditional Latent Tree Model for Multi-Object Classification", 
+  "README.md": "# CLTM\nsimple python script to extract semantictree structure from fc7 features and labels using kernel conditional embedding framework\n\nExtracted Tree Structure  : http://newport.eecs.uci.edu/anandkumar/Lab/Lab_sub/ObjectClassification.html  for MS-COCO\n\nFor more details visit :  http://krishna1188.github.io/cltm\n\narxiv submission : http://arxiv.org/pdf/1505.00308v1.pdf\n\n", 
+  "id": 36591496
+}

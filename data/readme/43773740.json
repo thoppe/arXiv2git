@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556209, 
+  "description": "Bachelors Thesis Project", 
+  "README.md": "# twitter-sentiment-analysis\nBachelors Thesis Project\n\n-------------------------------------\n\nThe web application is open for public use at:\nwww.tweet-mood-check.appspot.com\n\nThe bachelors thesis report is available at:\nhttp://arxiv.org/pdf/1509.04219v1.pdf\n\n-------------------------------------\n\n\"tweetmood-check\" contains the entire open source code for the app running with google app engine\n\n\"experiments\" contains code which i used in the research phase\n", 
+  "id": 43773740
+}

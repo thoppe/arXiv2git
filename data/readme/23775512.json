@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558429, 
+  "description": "", 
+  "README.md": "Chord-Diagrams\n==============\n\nThis program will compute the set of all unique chord diagrams\n(under the dihedral group) with n chords and then computes which \nof these form a cycle.\n\nI have not computed the exact computational complexity in terms of\nn, however it is very complex. For example, at 10 chords there are \n16,411,700 UNIQUE chord diagrams and this program computes vastly\nmore redundant diagrams.\n\n For details on the mathematical question that led me to create\n this program I refer you to \"Enumeration of Chord Diagrams\"\n located here: http://arxiv.org/abs/math/0008209\n  \n Verification for my programs validity can be found by comparing\n results of 3 and 4 vertices to the diagrams listed at the end\n of the above reference.\n", 
+  "id": 23775512
+}

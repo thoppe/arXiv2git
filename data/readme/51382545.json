@@ -1,0 +1,6 @@
+{
+  "id": 51382545, 
+  "read_at": 1462557709, 
+  "README.rst": "About\n=====\n\nTool can build comparable corpora by crawling and aligning at article level subtitles from https://www.ted.com talks page.\n\nYou may specify as much languages as you need and skip some if needed by filling in ignore_list file.\n\n\nUsage\n=====\n\n python crawl_ted_com.py -h \n\n\nFinal info\n====\n\nFeel free to use this tool if you cite:\n*\tWolk K., Marasek K., \"Unsupervised comparable corpora preparation and exploration for bi-lingual translation equivalents\", Proceedings of the 12th International Workshop on Spoken Language Translation, Da Nang, Vietnam, December 3-4, 2015, p.118-125\n\nFor more information, see: http://arxiv.org/pdf/1512.01641\n\nFor any questions:\n| Krzysztof Wolk\n| krzysztof@wolk.pl", 
+  "description": "Crawl and build comparable corpora from ted.com"
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556378, 
+  "description": "QuarkContractionTool - QCT ", 
+  "README.md": "# Quark Contraction Tool - QCT\nQCT is a package for performing Wick contractions of fermionic operators in\nquantum field theory. Furthermore it implements most common algebraic\nmanipulations used in the calculation of physical matrix elements in lattice\nQCD. The package aims at automatically generating expressions suitable for\nnumerical evaluation within C++. For more details on the package please see \n\nhttp://arxiv.org/abs/1603.01576\n\n## Installation \nThe repository contains an example notebook (Example.nb) showing the basic\nfunctionality. To load the package either load the .m file directly, i.e. \n\n`Get[<absolute path to qct.m>]`\n\nor make sure that the cloned repository is within Mathematica's standard search\npath. One can check the paths used in Mathematica inspecting the output of\n`$Path`.\nCloning the repository into one of the directories within the $Path environment\nvariable, makes the package accessible as\n``<<qct` ``\n\n## Terms of use\nThe software may be used under the terms of the  GPL license. Please cite \nhttp://arxiv.org/abs/1603.01576 \nin papers that made use of the package. \n\n", 
+  "id": 44387940
+}

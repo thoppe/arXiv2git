@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557138, 
+  "description": "A collection of functions for algebraic hypersurface fitting", 
+  "README.md": "ALS-FIT: adjusted least squares for algebraic hypersurface fitting\n==============================================================================\nThis package contains a collection of functions for algebraic hypersurface fitting,\nincluding the ordinary least squares and adjusted least squares methods described in\n\n    @techreport{als14,\n        author = {K. Usevich and I. Markovsky},\n        title = {Adjusted least squares fitting of algebraic hypersurfaces},\n        url = {http://arxiv.org/abs/1412.2291},\n        pdf = {http://arxiv.org/pdf/1412.2291v1.pdf},\n        year = {2014},\n    }\n\nUsing the package\n-----------------\n\nThe main four functions are `algebraicFit`, `geometricFit`, `alsKsigmaFit` and `alsUsigmaFit`.\n\nAll the functions have a common interface\n    \n    [theta, ...] = xxxxFit(D, A, ...)\n\nwhere D is an array of data point and A is the matrix of multidegrees,\nand theta is the computed estimate.\n\nAll the separate functions are documented, \nhelp for the functions can be obtained by typing `help ...`.\nThe list of functions can be obtaioned\n\nExamples of usage can be found contained in the directory `test`,\nwhere the reproducible examples from the paper are contained.\n", 
+  "id": 27536831
+}

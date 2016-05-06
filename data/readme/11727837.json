@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556967, 
+  "description": "", 
+  "README.md": "Implements algorithm to generate minimum braid given number of strands \nand crossings. Based on the minimum braids paper by Thomas Gittings found\nhere, http://arxiv.org/abs/math/0401051", 
+  "id": 11727837
+}

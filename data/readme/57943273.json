@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556684, 
+  "description": "\u7528\u4e8c\u9636\u9ea6\u514b\u52b3\u6797\u5c55\u5f00\u5f0f\u903c\u8fd1\u51b3\u7b56\u51fd\u6570", 
+  "README.md": "# LibsvmFastPrediction\nUse a second-order Maclaurin series approximation to kernel function.\n\n\"Deal.java\" is the code about how to deal with model trained by svm.\n\n\"GetGamma.java\" is the code about how to get gamma of RBF function.\n\nHow to use:\n\n1. Run Deal.java to get the file  named model.deal about model.\n2. Run Getgamma.java to get suited gamma.\n3. Editing the svm.java\n4. Run main.java to get the result.\n\nCite:\nClaesen, Marc, et al. \"Fast prediction with SVM models containing RBF kernels.\" arXiv preprint arXiv:1403.0736 (2014).\n\n", 
+  "id": 57943273
+}

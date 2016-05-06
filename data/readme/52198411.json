@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557350, 
+  "description": "crawling arXiv paper and organize as a database", 
+  "README.md": "# arxiv-crawler\nCrawl [arXiv](http://arxiv.org/) paper and organize as a database\n\n### Modifying crawling range\n\n```sh\n# crawler.py\nfields = ['CV']\nmonths = ['{:0>2d}'.format(i+1) for i in range(12)]\nyears = ['{:0>2d}'.format(i) for i in range(6, 17)]\n```\n\n### Launch the crawler\n\n```sh\n$ python crawler.py\nRetrieving http://arxiv.org/list/cs.CV/0601?show=1000\n...\n```\n\n### Check the results\n\n```sh\n$ python\n>>> import sqlite3\n>>> conn = sqlite3.connect('arxiv_raw.sqlite')\n>>> cur = conn.cursor()\n>>> cur.execute('SELECT * FROM sqlite_master')\n>>> print cur.fetchall() # print the information for all tables\n```\n\n## Future work\n\nStill figuring the best way to visualize papers\n", 
+  "id": 52198411
+}

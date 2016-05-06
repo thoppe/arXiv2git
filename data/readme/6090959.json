@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558062, 
+  "description": "Catmandu modules for working with ArXiv data.", 
+  "README.md": "# NAME\n\nCatmandu::ArXiv - Catmandu modules for working with ArXiv data.\n\n[![Build Status](https://travis-ci.org/LibreCat/Catmandu-ArXiv.svg?branch=master)](https://travis-ci.org/LibreCat/Catmandu-ArXiv)\n[![Coverage](https://coveralls.io/repos/LibreCat/Catmandu-ArXiv/badge.png?branch=master)](https://coveralls.io/r/LibreCat/Catmandu-ArXiv)\n[![CPANTS kwalitee](http://cpants.cpanauthors.org/dist/Catmandu-ArXiv.png)](http://cpants.cpanauthors.org/dist/Catmandu-ArXiv)\n\n# MODULES\n\n- [Catmandu::Importer::ArXiv](https://metacpan.org/pod/Catmandu::Importer::ArXiv)\n\n# AUTHOR\n\n- Wouter Willaert\n- Vitali Peil\n\n# MAINTAINER\n\n- Vitali Peil\n- Christian Pietsch\n\n# LICENSE AND COPYRIGHT\n\nThis program is free software; you can redistribute it and/or modify it\nunder the terms of either: the GNU General Public License as published\nby the Free Software Foundation; or the Artistic License.\n\nSee http://dev.perl.org/licenses/ for more information.\n", 
+  "id": 6090959
+}

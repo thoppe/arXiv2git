@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558670, 
+  "description": "Bayesian Separation of Close Sources", 
+  "README.md": "# BASCS\n\nBayesian Separation of Close Sources\n\nSamples from the joint posterior distribution of the number of sources and their spatial and spectral parameters.\n\nNOTE: we are currently correcting some errors that occur when there is only one source detected. We will also shortly provide additional examples to illustrate the method. \n\nReferences: \n\nJones, D. E., Kashyap, V. L., & van Dyk, D. A. (2015). Disentangling Overlapping Astronomical Sources using Spatial and Spectral Information. arXiv preprint arXiv:1411.7447.\n\nRichardson, S., & Green, P. J. (1997). On Bayesian analysis of mixtures with an unknown number of components (with discussion). Journal of the Royal Statistical Society: series B (statistical methodology), 59(4), 731-792.\n\nWiper, M., Insua, D. R., & Ruggeri, F. (2001). Mixtures of gamma distributions with applications. Journal of Computational and Graphical Statistics, 10(3).\n", 
+  "id": 35572812
+}

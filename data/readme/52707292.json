@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557462, 
+  "description": "WordRank: Learning Word Embeddings via Robust Ranking", 
+  "README.md": "# WordRank\nWordRank is a word embedding algorithm that estimates vector representations for words via robust ranking. This is an implementation described in \"[WordRank: Learning Word Embeddings via Robust Ranking](http://arxiv.org/abs/1506.02761), arXiv preprint arxiv:1506.02761, 2015\".\n\n# Code\nhttps://bitbucket.org/shihaoji/wordrank\n", 
+  "id": 52707292
+}

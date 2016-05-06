@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556676, 
+  "description": "TensorNet (TensorFlow implementation)", 
+  "Readme.md": "# TensorNet\n\nThis is a TensorFlow implementation of the _Tensor Train layer_ (_TT-layer_) of a neural network. In short, the TT-layer acts as a fully-connected layer but is much more compact and allows to use lots of hidden units without slowing down the learning and inference.   \nFor the additional information see the following paper:\n\nTensorizing Neural Networks  \nAlexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov; In _Advances in Neural Information Processing Systems 28_ (NIPS-2015) [[arXiv](http://arxiv.org/abs/1509.06569)].\n\nPlease cite it if you write a scientific paper using this code.  \nIn BiBTeX format:\n```latex\n@incollection{novikov15tensornet,\n  author    = {Novikov, Alexander and Podoprikhin, Dmitry and Osokin, Anton and Vetrov, Dmitry},\n  title     = {Tensorizing Neural Networks},\n  booktitle = {Advances in Neural Information Processing Systems 28 (NIPS)},\n  year      = {2015},\n}\n```\n\n# Prerequisites\n* [TensorFlow](https://www.tensorflow.org/) (tested with v. 0.7.1)\n* [NumPy](http://www.numpy.org/)\n\n# MATLAB and Theano\nWe also published a [MATLAB and Theano+Lasagne implementation](https://github.com/Bihaqo/TensorNet) in a separate repository.\n", 
+  "id": 57995136
+}

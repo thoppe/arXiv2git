@@ -1,0 +1,6 @@
+{
+  "id": 51384353, 
+  "read_at": 1462557694, 
+  "README.rst": "About\n=====\n\nThis script uses dictionary of words, for each word it gets parallel corpora from website https://glosbe.com/, using api https://glosbe.com/a-api, and saves to two parallel files. \n\nUsage\n=====\n\n Example command: $ python glosbe_corpora.py -l pol-eng -d dictionary.txt\n\n\nFinal info\n====\n\nFeel free to use this tool if you cite:\nWolk K., Marasek K., \"Polish - English Speech Statistical Machine Translation Systems for the IWSLT 2013.\", Proceedings of the 10th International Workshop on Spoken Language Translation, Heidelberg, Germany, p. 113-119, 2013\n\nFor more information, see: http://arxiv.org/pdf/1509.09097\n\nFor any questions:\n| Krzysztof Wolk\n| krzysztof@wolk.pl\n", 
+  "description": "parallel corpora for any languages supported by glosbe.com"
+}

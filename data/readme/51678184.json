@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557699, 
+  "description": "", 
+  "README.md": "Acknowledgement: I used the following github: https://github.com/sotelo/play as the basis for my work, expanding the original RNN (inspired by Alex Graves' paper) to have a second one attached. I also acknowledge his help in understanding his code, and frequent debugging advice.\n\nMusic generation in Blocks and Theano using RNNs. \nThe first RNN parses the sequence in frames, and the second one generates subframes of fixed length. For each subframe it outputs GMM coefficients that will allow us to sample.\n\nLitterature: \nAlex Graves' very interesting paper of Generative RNNs: http://arxiv.org/abs/1308.0850\n", 
+  "id": 51678184
+}

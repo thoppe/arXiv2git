@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558361, 
+  "description": "Java program used to produce results, which are presented in the worthcomming paper \"Preventing endogenous extreme events in herding dominant agent-based financial market\" (A. Kononovicius, V. Gontis).", 
+  "README.md": "Fin-market-control-2014\n=======================\n\nJava program (and its source code) used to produce results, which are presented in the paper \"Herding interactions as an opportunity to prevent extreme events in financial markets\" (A. Kononovicius, V. Gontis; draft available at [arXiv](http://arxiv.org/abs/1409.8024)).\n\nAnyone may use this program or its source code for any non-commercial purpose as long as the paper is referenced (when it will be published).\n\nFile structure\n--------------\n\n* main.java - source code (Java language)\n* doubleModel.jar - compiled software\n* mymanifest - manifest file which describes the main class\n* cmp.bat - compiles java program and produces jar file\n* fig4.bat - reproduces data shown in figure 4 of the paper\n* fig5.bat - reproduces data shown in figure 5 of the paper\n", 
+  "id": 24582653
+}

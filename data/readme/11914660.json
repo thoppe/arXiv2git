@@ -1,0 +1,6 @@
+{
+  "id": 11914660, 
+  "read_at": 1462559037, 
+  "README.rst": "This is the simulation code for the paper `Quantum simulations of the early universe <http://arxiv.org/abs/1305.5314>`_. The files are:\n\n* ``integrator.py``: contains the RK4IP stepper based on `reikna <http://reikna.publicfields.net>`_, and the corresponding integrator which performs full- and half-step propagation, comparing the results to estimate the convergence.\n* ``wigner.py``: creates an initial state in Wigner representation and propagates it using the integrator.\n* ``colors.xml``: a data file with values of main colors for plotting.\n* ``mplhelpers.py``: backend settings for ``matplotlib`` and color/style definitions for quality plots.\n* ``mencoder.sh``: a batch file used to create movies out of plots with ``mencoder``.\n* ``plot.py``: the main file, plots the graphs for the paper.\n", 
+  "description": "The simulation code for the early Universe simulation paper (http://arxiv.org/abs/1305.5314)"
+}

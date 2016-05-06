@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557060, 
+  "description": "MATLAB implementation of the paper Salient Object Detection: A Discriminative Regional Feature Integration Approach", 
+  "README.md": "drfi_matlab\r\n===========\r\n\r\nMATLAB implementation of the paper Salient Object Detection: A Discriminative Regional Feature Integration Approach\r\n\r\nThis implementation contains the full pipiline of the approach, including both the training and testing phases. Run compile.m to compile the mex files. \r\n\r\nBefore testing, you might want to download our pre-trained Random Forest model, which is available at http://jianghz.com/drfi/files/drfiModelMatlab.zip. Put it into the model folder.\r\n\r\nIf you want to train your own Random Forest regressor, check the trainAll.m for instructions. For more details, check out our technical report http://arxiv.org/pdf/1410.5926v1.\r\n\r\nTested on Windows 7 64bit with MATLAB 2012b and Ubuntu 12.04 64bit with MATLAB 2012a.\r\n\r\nBugs, comments are welcome to hzjiang@mail.xjtu.edu.cn.\r\n", 
+  "id": 27532588
+}

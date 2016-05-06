@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557705, 
+  "description": "Project Uncovering Temporal Context for Video Question and Answering", 
+  "README.md": "## Temporal context Video Question Answering\n\nDataset and source code for the paper [Uncovering Temporal Context for Video Question and Answering](http://arxiv.org/abs/1511.04670).\n\n### Dataset\n- Current dataset is the one we used in our arXiv v1 paper.\n- See `sample.py` for details.\n\n### Source code\n- Will be available upon request.\n\n### Download\n- You need to install [git-lfs](https://github.com/github/git-lfs) first.\n  - Download git-lfs on your OS;\n  - Initialize with `git lfs install`\n- If you don't have access to `git-lfs`, you can download the dataset directly from\n[Google Drive](https://drive.google.com/file/d/0B_z0UB56K4lpbTY2bUlGWUxTR1E/view?usp=sharing) or [Baidu Yun](http://pan.baidu.com/s/1gfpqVcf).\n", 
+  "id": 51116100
+}

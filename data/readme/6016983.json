@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557324, 
+  "description": "Sudoku player and solver", 
+  "README.md": "shuodu\n===========\n\nShu Du  (shuodu), a discreet Sudoku player and solver in the terminal.\n\nBuilding shuodu requires libncurses (`apt-get install libncurses-dev`).\n\nAcknowledgements and notes:\n* [tint](https://packages.debian.org/source/jessie/tint)\n* [netToe](http://nettoe.sourceforge.net/index.php)\n* http://games.slashdot.org/story/12/08/05/1440221/the-chaos-within-sudoku---a-richter-scale-of-difficulty\n* http://norvig.com/sudoku.html\n* http://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/sudoku.paper.html\n* http://www.icode4u.net/how-to-create-a-sudoku-solver/\n* http://en.wikipedia.org/wiki/Sudoku_solving_algorithms\n* http://en.wikipedia.org/wiki/Mathematics_of_Sudoku\n* http://iaindunning.com/2013/sudoku-as-a-service.html\n* http://tldp.org/HOWTO/NCURSES-Programming-HOWTO/\n* http://invisible-island.net/ncurses/ncurses-intro.html\n* http://www.writeka.com/ed/ncurses_library.html\n\n* http://zhangroup.aporc.org/images/files/Paper_3485.pdf\n* http://arxiv.org/pdf/1312.0192.pdf\n* https://stackoverflow.com/questions/6924216/how-to-generate-sudoku-boards-with-unique-solutions\n", 
+  "id": 6016983
+}

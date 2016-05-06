@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558734, 
+  "description": "", 
+  "README.md": "# Paper-Scraper\nGets bibtex entries from spires and stores them in a convenient format.\n\n## Basic setup\nRequirements:\n- Python 2.7\n- Pip\n\nFirst run 'python setup.py'\n\n## Basic use\nAt present only arxiv numbers can be used to index.\n\nRun 'python PaperScraper.py _ARXIVNUMBER_'\n\n\n## Known issues\nNeed to ensure that all possible bibtex entries are in Article model. There will be a clever to do this with post_init signals that I'll look into.\n\nNeed to add search features and DOI lookups.\n\nUse this instead of string stripping: http://inspirehep.net/info/hep/api?ln=en", 
+  "id": 36081931
+}

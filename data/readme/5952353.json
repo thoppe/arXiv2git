@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557314, 
+  "description": "", 
+  "README.md": "ReproduceSidewalk\n=================\nThese scripts are used to reproduce the plots in arXiv:1102.5338v2\n\nRequirements\n------------\n* MadGraph5 (Pythia, PGS) tool chain\n* python\n\nUsage\n-----\n1. Create a p p -> gluino gluino process in MadGraph\n2. Modify generate_events.sh (enter the path to MadGraph...)\n3. use generate_events.sh to generate events (this may take a long time.).\n4. Produce background processes\n5. modify apply_cuts.py: add background processes in CalculateDeltaB, MadGraph path, model in ApplyCuts", 
+  "id": 5952353
+}

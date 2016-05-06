@@ -1,0 +1,6 @@
+{
+  "read_at": 1462559042, 
+  "description": "An R implementation of the hypergraph partitioning algorithm described by Vazquez (http://arxiv.org/abs/0712.1365).", 
+  "README.md": "hyperstrat\n==========\n\nAn R implementation of the hypergraph partitioning algorithm described by Vazquez (http://arxiv.org/abs/0712.1365).\n", 
+  "id": 11936011
+}

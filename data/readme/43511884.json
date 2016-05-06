@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556182, 
+  "description": "Domain Adaption Learning Algorithm (accepted for publication in JMLR 2015)", 
+  "README.md": "# domain_adversarial_neural_network\nDomain Adaption Learning Algorithm (accepted for publication in JMLR 2015 see [1])\n\n\n## Dependencies\nThis Python code depends on numpy and h5py librairies\n\n## Usage\n...\n\n## References\n[1] Gani, Y., Ustinova, E., Ajakan, H., Germain, P., Larochelle, H., Laviolette, F.,\nMarchand, M., and Lempitsky, V. Domain-adversarial training of neural networks. \npreprint arXiv:1505.07818 (2015)\n\n", 
+  "id": 43511884
+}

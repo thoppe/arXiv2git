@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557430, 
+  "description": "", 
+  "README.md": "## Implementation LSTM on torch\n**Paper**: http://arxiv.org/pdf/1411.4389v3.pdf\nImplement 1st task.\n\n## Database\nData structure should look like root/train/{subclass} and root/val/{subclass}.\n\n### Base code: \n- [imagenet-multiGPU.torch](https://github.com/soumith/imagenet-multiGPU.torch) (thanks to soumith)\n- [torch-rnn](https://github.com/jcjohnson/torch-rnn) (thanks to jcjohnson)\n\n### Dependencies\n- cunn \n`luarocks install cunn`\n- cudnn\n`luarocks intall cudnn`\n- libffmpeg, ffmpeg\n`luarocks install ffmpeg`\n\n### Run\nSetting up some parameters in `opt.lua`. And run below command.\n```\nth main.lua\n```\n", 
+  "id": 52484553
+}

@@ -1,0 +1,5 @@
+{
+  "read_at": 1462557022, 
+  "description": "Based on Thompson sampling with the online bootstrap (Dean Eckles,\nMaurits Kaptein).\n\nhttp://arxiv.org/abs/1410.4009", 
+  "id": 28627271
+}

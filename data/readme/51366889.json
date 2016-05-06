@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557681, 
+  "description": "iTEBD algorithm for one-dimensional infinite-size quantum lattice systems ", 
+  "README.md": "# iTEBD\n  This code is an implementation of the iTEBD algorithm based on the article: \n \n  Classical simulation of infinite-size quantum lattice systems in one spatial dimension\n  Phys. Rev. Lett 98, 070201 (2007), http://arxiv.org/abs/cond-mat/0605597\n \n  For linear algebra (Singular Value Decomposition (SVD) in particular), \n  Eigen library (3.2.7) is called. \n \n  Compilation under Mac:\n \n  g++ -m64 -O3 -I/.../Eigen main.cpp -o main.x\n", 
+  "id": 51366889
+}

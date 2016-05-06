@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557172, 
+  "description": "coffee stains package for latex", 
+  "README.md": "coffee\n======\n\nCoffee stains package for latex\n\n\n\n## Genesis\n\nThe latex-coffee package. \n\nby Hanno Rein, Cambridge University\n\nhttp://hanno-rein.de   hanno@hanno-rein.de\n\n\n#### November, 2010\n\nUpdated to TikZ (for compatibility with pdflatex)\n\nby Evan Sultanik, Johns Hopkins University APL\n\nhttp://www.sultanik.com/ evan@sultanik.com\n\n\nInspired by several arXiv papers (see eg. 0812.3367v2)\n\n\n#### March, 2011\n\nAdding more options and  compatible with pdflatex\n\nby Luis Randez, IUMA, University of Zaragoza \n\nhttp://pcmap.unizar.es/~pilar/  randez@unizar.es\n\n\n#### May, 2012\n\nAdded placement parameters\n\nby Adrian Robson\n\nhttp://nepsweb.co.uk/homeapr/\n\n\n#### December, 2014\n\nAdded random \\cofeSplash{} (requires ifthen) and onEveryPage package option\n\nadded to github\n\nby Sebastian Schmittner\n\nhttp://www.thp.uni-koeln.de/~ses/\n\n\n## License\n\nMIT License, see LICENSE.\n", 
+  "id": 27816582
+}

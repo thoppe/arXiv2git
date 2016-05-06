@@ -1,0 +1,6 @@
+{
+  "id": 24492877, 
+  "read_at": 1462558265, 
+  "README.rst": "TheCannon\n=========\n\nThis is the code associated with *The Cannon*, a data-driven method for \ndetermining stellar labels (physical parameters and chemical abundances) from\nstellar spectra in the context of large spectroscopic surveys. It closely \nfollows the method outlined in Ness et al. 2015, although some minor changes \nhave been made. A description of these changes is outlined in Ho et al. 2016.\n\nDocumentation for The Cannon can be found here_. \n\n.. _here: https://annayqho.github.io/TheCannon/\n\nAuthors\n-------\n\n* **Anna Ho** (MPIA)\n* **Melissa Ness** (MPIA)\n* **David W. Hogg** (NYU CCPP)(MPIA)\n* **Hans-Walter Rix** (MPIA)\n\nLicense and Citation\n--------------------\n\nCopyright 2015 the authors. TheCannon is open-source software released under \nthe MIT License. See the file ``LICENSE`` for details.\n\nA condition on using this code for any academic purpose is citation of\nNess et al. 2015 (arXiv:1501.07604) and Ho et al. 2016 (arXiv:1602.00303). \n\nProjects\n--------\n\n* Survey Cross-Calibration with The Cannon: Apogee-scale Stellar Labels from Lamost Spectra\n", 
+  "description": "a new data-driven method for determining stellar parameters and abundances from stellar spectra"
+}

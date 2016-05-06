@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558746, 
+  "description": "Vagrant development environment for the manuscript 'Hierarchical Bond Graph Modelling of Biochemical Networks' ", 
+  "README.md": "### What is this? \nVagrant development environment for the manuscript 'Hierarchical Bond Graph Modelling of Biochemical Networks'\n[Here is the project page](http://uomsystemsbiology.github.io/hbgm/)\n\n### Where is the publication?\n[Here is the arXiv link](http://arxiv.org/abs/1503.01814)\n\n### How do I see the results and work with the code?\nFirst install [Vagrant](http://www.vagrantup.com) and [VirtualBox](https://www.virtualbox.org/), then do:\n\n```\n$ git clone https://github.com/uomsystemsbiology/hbgm_vagrant.git\n$ cd hbgm_vagrant\n$ vagrant up\n```\nThis will get the code for this project and build a virtual environment with scripts you can run to reproduce the computations and figures in the publication.", 
+  "id": 35647444
+}

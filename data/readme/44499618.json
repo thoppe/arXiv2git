@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556434, 
+  "description": "BOSS-DR11 likelihoods and chisquares", 
+  "README.md": "# BOSS-DR11\nBOSS-DR11 likelihoods and chisquares.\n\nHere, we include \nthe files to describe BAO-DR11 (and others datasets) that were used in the paper\n[Cosmological implications of BAO mesuarements [arXiv:1411.1074].](http://arxiv.org/abs/1411.1074)\n[Proper citations are also included in the paper.]\n\n##Python \nPython files\nare located within [SimpleMC](https://github.com/ja-vazquez/SimpleMC).\n\n\n##Fortran\nThe fortran files to be plugged into the CosmoMC code\nare also included:\n\n-- Galaxies\n* LOWZ\n* CMASS\n* MGS\n* 6dFGS \n\n-- Lya\n* Lya Auto\n* Lya Cross\n\n###Chisquare values for the best-fit versions of\ncosmological models considered in the paper.\n\n![Chisquare values for the best-fit versions of \ncosmological models considered in the paper.](https://github.com/ja-vazquez/BOSS_files/blob/master/Chisq.jpg)\n\n# BOSS-DR12\n\nFiles that are included in CosmoMC to run DR12 datasets (no data included yet).\n\n##SimpleMC calibration\nWe calibrated Planck SimpleMC by using **base_Alens/plikHM_TT_lowTEB** with CosmoMC\n![Calibration](https://github.com/ja-vazquez/BOSS_files/blob/master/Simple_Cosmo_PLK.jpg)\n\n", 
+  "id": 44499618
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556103, 
+  "description": ":racehorse:code for cvpr2016 paper \"Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs\"", 
+  "README.md": "###DeepSkeleton\nobject skeleton extraction in a nature image.\n\ncode for our [CVPR2016](http://cvpr2016.thecvf.com/) paper \"**Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs**\". [[Arxiv]](http://arxiv.org/abs/1603.09446)\n\n![](http://7xn7wz.com1.z0.glb.clouddn.com/DeepSkeleton.png?imageView2/2/w/500)\n####Requirement:\n**For test:**\n* [our pretrained model on SK506 dataset](http://7xocv2.dl1.z0.glb.clouddn.com/sk506_it14k.caffemodel)\n    \n  or\n\n* [our pretrained model on Horse dataset](http://7xocv2.dl1.z0.glb.clouddn.com/horse_it14k.caffemodel)\n\n**For train:**\n* Finetune model [*vgg-16*](http://7xocv2.dl1.z0.glb.clouddn.com/5stage-vgg.caffemodel)\n\n* Our new dataset [*SK506*](http://7xocv2.dl1.z0.glb.clouddn.com/sk506.tar.gz)\n\nMore technical details pls refer to our [paper](http://arxiv.org/abs/1603.09446)\n\nCode base on [*caffe*](http://caffe.berkeleyvision.org/)\n\n*** \n\nMail: zeakey@outlook.com \n\nHomepage: <http://zhaok.xyz>\n", 
+  "id": 44421253
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462558546, 
+  "description": "Use Three models for synonym extraction. Implement the algorithm described in http://arxiv.org/pdf/1412.2197.pdf", 
+  "README.md": "# Synonym_Extraction\n\nUse Three models for synonym extraction. \nImplement the algorithm described in http://arxiv.org/pdf/1412.2197.pdf\n\n#Pipeline:\n    1) Use Wordnet to generate: 22k synonyms, 2k antonyms, 80k irrelevant words.\n\n    2) Train word vector, each word is mapped to a 50d vector\n\n    3) Generate Training data: \n      Synonym with label 1, \n      Antonym/Irrelevant with label -1. \n      For each pair of words, feature is of 250d, a concatenation of x1, x2, x1*x2, |x1-x2|, x1+x2\n\n    4) Split data to Train/Test , 33% training data and 67% test data\n\n    5) Run three classifiers on the data: svm, neural network, deep neural network.\n\n\n#Model\n    1) SVM: \n      with C=1.0\n\n    2) Multilayer Perceptron: \n      Input Layer: 250\n      Hidden Layer 100, with tanh activation\n      Ouput Layer 1\n\n    3) Deep MLP:\n      Input Layer: Tensor of 50*3\n      Layer without bias term: size 3*10\n      Flatten Layer: Transform the 50*10 2d tensor to 500d vector\n      Hidden Layer: 500*100, tanh activation\n      Output Layer: 100*1, None activation\n", 
+  "id": 35192792
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462557297, 
+  "description": "Based on http://arxiv.org/pdf/1209.5818v1.pdf", 
+  "README.md": "Maximum Clique Implementation on Massive Sparse Graphs\n\nHacker News Discussion:\nhttp://news.ycombinator.com/item?id=4592571\n\nPaper: http://arxiv.org/abs/1209.5818\n\nTODO: \n* Clique subroutine\n* Recursion for first loop\n", 
+  "id": 6023618
+}

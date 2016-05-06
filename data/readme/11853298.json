@@ -1,0 +1,6 @@
+{
+  "read_at": 1462559098, 
+  "description": "A good scholarly paper organizer", 
+  "README.md": "# Pile\n\nA good scholarly paper organizer\n\n## Features\n\nPile helps you find manuscripts to read from arXiv.org, and automatically saves your favorites for offline reading.\n\nPile's inbox organizes the literature that you've selected, helping you plow through it quickly. Pile's papers will open in your favorite PDF reader.\n\nPile manages an archive of the papers you've finished reading, so you can search for old literature easily. Pile has all of your old PDFs, but keeps them out of your way.\n\n## Requirements\n\nPile is a desktop application that works on Windows, OSX, and Linux, and requires the latest version of Java.\n\nTo build Pile from source, you'll need the latest Java Development Kit. You'll also need Gradle.\n\n## Build & Run\n\nUse `gradle build` to compile the application. \n\nUse `gradle run` to launch it.\n\n## More info\n\nVisit Pile's [homepage](http://spartango.github.io/Pile/) for more information. \n", 
+  "id": 11853298
+}

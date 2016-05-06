@@ -1,0 +1,6 @@
+{
+  "read_at": 1462556180, 
+  "description": "An easy implementation of Dictionary Annealing", 
+  "README.md": "Dictionary Annealing Algorithm in MATLAB for Nearest Neighbor Search\n\nArXiv Links:\n\n[HCLAE: High Capacity Locally Aggregating Encodings for Approximate Nearest Neighbor Search](http://arxiv.org/pdf/1509.05194)\n\n[Learning Better Encoding for Approximate Nearest Neighbor Search with Dictionary Annealing](http://arxiv.org/pdf/1507.01442)\n\nUsage:\n\n1. Prepare a dataset, e.g, SIFT-1M, in N*dim matrix\n2. Learn dictionaries: [~, dict]=DA(learn, [], 8, 256, 10,5)\n3. Encode: [idx, epsi, residue]=encode(database,dict,10)\n", 
+  "id": 44201302
+}
