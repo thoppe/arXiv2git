@@ -28,14 +28,14 @@ keep_keys = [
     'description',
     'git_url',
     'created_at',
+    'pushed_at',
+    'updated_at',
     'size',
     'stargazers_count',
     'watchers_count',
     'language',
     'forks_count',
-    'score',
 ]
-
 
 base_url = "https://api.github.com/search/repositories"
 
