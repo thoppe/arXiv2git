@@ -47,11 +47,17 @@ def gather_readme(item):
     os.system(cmd)
 
     # Find the matching files
-    gb = os.path.join('tmp','*')
-    F_README = [x for x in glob.glob(gb) if 'readme' in x.lower()]
+    F_README = [x for x in os.listdir('tmp')
+                if 'readme' in x.lower()
+                and 'html' not in x.lower()]
 
     data = {}
     for f in F_README:
+        f = os.path.join('tmp',f)
+
+        if os.path.isdir(f):
+            continue
+        
         with codecs.open(f,'r','utf-8') as FIN:
             data[os.path.basename(f)] = FIN.read()
 

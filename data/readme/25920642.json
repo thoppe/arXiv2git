@@ -1,6 +1,6 @@
 {
   "README": "Theano implementation of dropout.  See: http://arxiv.org/abs/1207.0580\n\nRun with:\n\n     ./mlp.py dropout\n\nfor dropout, or \n\n    ./mlp.py backprop\n\nfor regular backprop with no dropout.\n\nUse:\n\n    ./plot_results.sh results.png\n\nto visualize the results.\n\nBased on code from:\n- http://deeplearning.net/tutorial/mlp.html\n- http://deeplearning.net/tutorial/logreg.html\n\nUse the data here to make the units of the results comparable to Hinton's paper:\n- http://www.cs.ox.ac.uk/people/misha.denil/hidden/mnist_batches.npz\n\n", 
-  "read_at": 1462510009, 
+  "read_at": 1462510616, 
   "description": "", 
   "id": 25920642
 }
