@@ -1,0 +1,28 @@
+[
+  {
+    "description": "Ruby source of http://arXiv-opds.heroku.com", 
+    "language": "Ruby", 
+    "watchers_count": 9, 
+    "created_at": "2010-08-29T15:43:47Z", 
+    "forks_count": 0, 
+    "score": 6.867159, 
+    "git_url": "git://github.com/zetaben/arXiv-opds.git", 
+    "full_name": "zetaben/arXiv-opds", 
+    "stargazers_count": 9, 
+    "id": 870251, 
+    "size": 148
+  }, 
+  {
+    "description": "Licensing for the Mizar Mathematical Library", 
+    "language": "TeX", 
+    "watchers_count": 4, 
+    "created_at": "2010-08-11T10:10:55Z", 
+    "forks_count": 2, 
+    "score": 0.93800694, 
+    "git_url": "git://github.com/JUrban/MMLLicense.git", 
+    "full_name": "JUrban/MMLLicense", 
+    "stargazers_count": 4, 
+    "id": 830750, 
+    "size": 629
+  }
+]

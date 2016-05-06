@@ -1,0 +1,93 @@
+[
+  {
+    "description": "Heterogeneous Wireless (802.15.4) Sensor Network", 
+    "language": "Java", 
+    "watchers_count": 8, 
+    "created_at": "2011-03-02T11:48:04Z", 
+    "forks_count": 9, 
+    "score": 3.7211978, 
+    "git_url": "git://github.com/mksense/mac.git", 
+    "full_name": "mksense/mac", 
+    "stargazers_count": 8, 
+    "id": 1430374, 
+    "size": 204
+  }, 
+  {
+    "description": "Rolling Hash C++ Library", 
+    "language": "C++", 
+    "watchers_count": 49, 
+    "created_at": "2011-03-11T14:19:01Z", 
+    "forks_count": 11, 
+    "score": 3.2167718, 
+    "git_url": "git://github.com/lemire/rollinghashcpp.git", 
+    "full_name": "lemire/rollinghashcpp", 
+    "stargazers_count": 49, 
+    "id": 1468126, 
+    "size": 245
+  }, 
+  {
+    "description": "Rolling hash functions in Java", 
+    "language": "Java", 
+    "watchers_count": 26, 
+    "created_at": "2011-03-11T15:45:30Z", 
+    "forks_count": 8, 
+    "score": 1.8572042, 
+    "git_url": "git://github.com/lemire/rollinghashjava.git", 
+    "full_name": "lemire/rollinghashjava", 
+    "stargazers_count": 26, 
+    "id": 1468436, 
+    "size": 3
+  }, 
+  {
+    "description": "Document similarity analysis for large document sets", 
+    "language": "C++", 
+    "watchers_count": 3, 
+    "created_at": "2011-03-23T14:57:57Z", 
+    "forks_count": 0, 
+    "score": 0.9209032, 
+    "git_url": "git://github.com/zimeon/docsim.git", 
+    "full_name": "zimeon/docsim", 
+    "stargazers_count": 3, 
+    "id": 1516659, 
+    "size": 39044
+  }, 
+  {
+    "description": "Vocabulary quality assessment tools", 
+    "language": "Java", 
+    "watchers_count": 35, 
+    "created_at": "2011-03-21T15:14:45Z", 
+    "forks_count": 5, 
+    "score": 0.4693035, 
+    "git_url": "git://github.com/cmader/qSKOS.git", 
+    "full_name": "cmader/qSKOS", 
+    "stargazers_count": 35, 
+    "id": 1507101, 
+    "size": 8142
+  }, 
+  {
+    "description": "Dichotic Harmony Accords Generator program and other data", 
+    "language": "C++", 
+    "watchers_count": 1, 
+    "created_at": "2011-03-29T07:12:43Z", 
+    "forks_count": 0, 
+    "score": 0.39397246, 
+    "git_url": "git://github.com/vadimrm/Dichotic-Harmony-Project.git", 
+    "full_name": "vadimrm/Dichotic-Harmony-Project", 
+    "stargazers_count": 1, 
+    "id": 1540352, 
+    "size": 8964
+  }, 
+  {
+    "description": "TM2: Type-safe modeling in text mining", 
+    "language": "Java", 
+    "watchers_count": 5, 
+    "created_at": "2011-03-15T22:42:32Z", 
+    "forks_count": 0, 
+    "score": 0.32501072, 
+    "git_url": "git://github.com/fsteeg/tm2.git", 
+    "full_name": "fsteeg/tm2", 
+    "stargazers_count": 5, 
+    "id": 1484982, 
+    "size": 37662
+  }
+]

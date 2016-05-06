@@ -1,0 +1,28 @@
+[
+  {
+    "description": "Latent Dirichlet Allocation algorithms for topic extraction from the arXiv pre-print data", 
+    "language": "Python", 
+    "watchers_count": 8, 
+    "created_at": "2009-12-07T21:04:49Z", 
+    "forks_count": 4, 
+    "score": 9.700375, 
+    "git_url": "git://github.com/ivanistheone/arXivLDA.git", 
+    "full_name": "ivanistheone/arXivLDA", 
+    "stargazers_count": 8, 
+    "id": 404458, 
+    "size": 42972
+  }, 
+  {
+    "description": "Latex source for geometric algebra and physics notes.", 
+    "language": "TeX", 
+    "watchers_count": 7, 
+    "created_at": "2009-12-06T05:08:35Z", 
+    "forks_count": 2, 
+    "score": 0.4693034, 
+    "git_url": "git://github.com/peeterjoot/physicsplay.git", 
+    "full_name": "peeterjoot/physicsplay", 
+    "stargazers_count": 7, 
+    "id": 401406, 
+    "size": 18739
+  }
+]

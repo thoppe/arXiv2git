@@ -1,0 +1,67 @@
+[
+  {
+    "description": "YACC is dead for Common Lisp (based on http://arxiv.org/abs/1010.5023)", 
+    "language": "Common Lisp", 
+    "watchers_count": 21, 
+    "created_at": "2010-12-01T21:19:01Z", 
+    "forks_count": 2, 
+    "score": 8.299532, 
+    "git_url": "git://github.com/sellout/YACC-is-dead.git", 
+    "full_name": "sellout/YACC-is-dead", 
+    "stargazers_count": 21, 
+    "id": 1130044, 
+    "size": 146
+  }, 
+  {
+    "description": "social arxiv", 
+    "language": "Python", 
+    "watchers_count": 1, 
+    "created_at": "2010-12-30T20:41:36Z", 
+    "forks_count": 0, 
+    "score": 6.867159, 
+    "git_url": "git://github.com/caffeine-xx/myxiv.git", 
+    "full_name": "caffeine-xx/myxiv", 
+    "stargazers_count": 1, 
+    "id": 1209416, 
+    "size": 124
+  }, 
+  {
+    "description": "arXiv scraper and machine reader in radio news style ", 
+    "language": null, 
+    "watchers_count": 1, 
+    "created_at": "2010-12-10T02:23:19Z", 
+    "forks_count": 0, 
+    "score": 3.4756474, 
+    "git_url": "git://github.com/nushio3/arXivRadio.git", 
+    "full_name": "nushio3/arXivRadio", 
+    "stargazers_count": 1, 
+    "id": 1155075, 
+    "size": 92
+  }, 
+  {
+    "description": "The core of the project is the one involved with retrieving tweets from Twitter Streaming API and the implementation of the influence algorithm", 
+    "language": "Ruby", 
+    "watchers_count": 3, 
+    "created_at": "2010-12-10T16:50:57Z", 
+    "forks_count": 0, 
+    "score": 0.75040555, 
+    "git_url": "git://github.com/brenes/momentum-core.git", 
+    "full_name": "brenes/momentum-core", 
+    "stargazers_count": 3, 
+    "id": 1156594, 
+    "size": 116
+  }, 
+  {
+    "description": "A full-featured automatic indexing system.", 
+    "language": "Ruby", 
+    "watchers_count": 7, 
+    "created_at": "2010-12-28T15:37:12Z", 
+    "forks_count": 5, 
+    "score": 0.4608707, 
+    "git_url": "git://github.com/lex-lingo/lingo.git", 
+    "full_name": "lex-lingo/lingo", 
+    "stargazers_count": 7, 
+    "id": 1203227, 
+    "size": 13091
+  }
+]

@@ -7,7 +7,7 @@ Links the [arXiv](http://arxiv.org/) to github repos
 - [x] Build (this) git repo
 - [x] Use github tokens
 - [x] parse month by month
-- [ ] build starter repo list
+- [x] build starter repo list
 - [ ] Write downloader of READMEs
 - [ ] Write parser of READMEs
 - [ ] Build set of links

@@ -1,0 +1,15 @@
+[
+  {
+    "description": "Implementation of Phase Coupling Estimation in Python and Matlab (see http://arxiv.org/abs/0906.3844 )", 
+    "language": "Python", 
+    "watchers_count": 12, 
+    "created_at": "2010-04-25T01:49:02Z", 
+    "forks_count": 9, 
+    "score": 11.124218, 
+    "git_url": "git://github.com/koepsell/phase-coupling-estimation.git", 
+    "full_name": "koepsell/phase-coupling-estimation", 
+    "stargazers_count": 12, 
+    "id": 627438, 
+    "size": 1783
+  }
+]

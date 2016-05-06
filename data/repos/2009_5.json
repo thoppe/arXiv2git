@@ -1,0 +1,15 @@
+[
+  {
+    "description": "A small DLX based Sudoku Solver in Ruby. Comes with a general purpose DLX implementation", 
+    "language": "Ruby", 
+    "watchers_count": 5, 
+    "created_at": "2009-05-28T20:02:39Z", 
+    "forks_count": 0, 
+    "score": 0.75179434, 
+    "git_url": "git://github.com/biilmann/Ruby-DLX-Sudoku-Solver.git", 
+    "full_name": "biilmann/Ruby-DLX-Sudoku-Solver", 
+    "stargazers_count": 5, 
+    "id": 212856, 
+    "size": 76
+  }
+]

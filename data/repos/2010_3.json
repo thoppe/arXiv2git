@@ -1,0 +1,41 @@
+[
+  {
+    "description": "Symplectic leap frog integrator for Hill's equations based on http://arxiv.org/abs/0908.2269", 
+    "language": "C++", 
+    "watchers_count": 1, 
+    "created_at": "2010-03-31T09:52:22Z", 
+    "forks_count": 0, 
+    "score": 2.744227, 
+    "git_url": "git://github.com/hannorein/symhills.git", 
+    "full_name": "hannorein/symhills", 
+    "stargazers_count": 1, 
+    "id": 588214, 
+    "size": 104
+  }, 
+  {
+    "description": "A python interface to the computer algebra package LiE, for computations with Lie groups, representations, etc..", 
+    "language": null, 
+    "watchers_count": 14, 
+    "created_at": "2010-03-31T00:10:16Z", 
+    "forks_count": 3, 
+    "score": 0.7508854, 
+    "git_url": "git://github.com/davidsd/lie.git", 
+    "full_name": "davidsd/lie", 
+    "stargazers_count": 14, 
+    "id": 587586, 
+    "size": 516
+  }, 
+  {
+    "description": "very simple simulation of what negative mass would look like in newtonian mechanics.  Of course this is most likely not what reality is like, but I was struck with the simplicity of the idea and whipped this up one weekend to try it out. Bugs and issues abound.", 
+    "language": "C++", 
+    "watchers_count": 1, 
+    "created_at": "2010-03-26T21:04:58Z", 
+    "forks_count": 0, 
+    "score": 0.3758977, 
+    "git_url": "git://github.com/clord/negative_mass.git", 
+    "full_name": "clord/negative_mass", 
+    "stargazers_count": 1, 
+    "id": 581347, 
+    "size": 100
+  }
+]

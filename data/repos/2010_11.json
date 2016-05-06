@@ -1,0 +1,93 @@
+[
+  {
+    "description": "A Machine Learning library based on Theano", 
+    "language": "Python", 
+    "watchers_count": 2069, 
+    "created_at": "2010-11-22T18:00:50Z", 
+    "forks_count": 849, 
+    "score": 4.2491355, 
+    "git_url": "git://github.com/lisa-lab/pylearn2.git", 
+    "full_name": "lisa-lab/pylearn2", 
+    "stargazers_count": 2069, 
+    "id": 1103054, 
+    "size": 697296
+  }, 
+  {
+    "description": "Webpage creating BibTeX, HTML and Wiki markup for papers on the arXiv.", 
+    "language": "Python", 
+    "watchers_count": 2, 
+    "created_at": "2010-11-25T22:54:21Z", 
+    "forks_count": 0, 
+    "score": 4.149766, 
+    "git_url": "git://github.com/ssp/arXivToBibTeX.git", 
+    "full_name": "ssp/arXivToBibTeX", 
+    "stargazers_count": 2, 
+    "id": 1113313, 
+    "size": 32
+  }, 
+  {
+    "description": "Matlab code implementing Minimum Probability Flow Learning.", 
+    "language": "Matlab", 
+    "watchers_count": 35, 
+    "created_at": "2010-11-27T01:15:25Z", 
+    "forks_count": 9, 
+    "score": 2.22822, 
+    "git_url": "git://github.com/Sohl-Dickstein/Minimum-Probability-Flow-Learning.git", 
+    "full_name": "Sohl-Dickstein/Minimum-Probability-Flow-Learning", 
+    "stargazers_count": 35, 
+    "id": 1115996, 
+    "size": 2081
+  }, 
+  {
+    "description": "A compressed bitmap class in C++. ", 
+    "language": "C++", 
+    "watchers_count": 167, 
+    "created_at": "2010-11-01T16:15:05Z", 
+    "forks_count": 33, 
+    "score": 1.5801282, 
+    "git_url": "git://github.com/lemire/EWAHBoolArray.git", 
+    "full_name": "lemire/EWAHBoolArray", 
+    "stargazers_count": 167, 
+    "id": 1042208, 
+    "size": 18184
+  }, 
+  {
+    "description": "QUCS, (http://qucs.sf.net), is a powerful open-source circuit simulator, python-qucs is a Python package that allows to automate the process of preparing input netlists for several simulations, run them, and export the results.", 
+    "language": "Python", 
+    "watchers_count": 8, 
+    "created_at": "2010-11-25T01:57:13Z", 
+    "forks_count": 1, 
+    "score": 0.74487954, 
+    "git_url": "git://github.com/zonca/python-qucs.git", 
+    "full_name": "zonca/python-qucs", 
+    "stargazers_count": 8, 
+    "id": 1110990, 
+    "size": 156
+  }, 
+  {
+    "description": "Self Adjusting Top Tree Java5 Implementation", 
+    "language": "Java", 
+    "watchers_count": 9, 
+    "created_at": "2010-11-10T00:07:19Z", 
+    "forks_count": 0, 
+    "score": 0.6517696, 
+    "git_url": "git://github.com/katox/toptree.git", 
+    "full_name": "katox/toptree", 
+    "stargazers_count": 9, 
+    "id": 1066875, 
+    "size": 296
+  }, 
+  {
+    "description": "Coupled Cell Networks", 
+    "language": "Python", 
+    "watchers_count": 1, 
+    "created_at": "2010-11-23T22:29:38Z", 
+    "forks_count": 1, 
+    "score": 0.13926375, 
+    "git_url": "git://github.com/peterjc/ccn.git", 
+    "full_name": "peterjc/ccn", 
+    "stargazers_count": 1, 
+    "id": 1107384, 
+    "size": 268
+  }
+]

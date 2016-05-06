@@ -1,0 +1,15 @@
+[
+  {
+    "description": "MultiNest is a Bayesian inference tool which calculates the evidence and explores the parameter space which may contain multiple posterior modes and pronounced (curving) degeneracies in moderately high dimensions.", 
+    "language": "FORTRAN", 
+    "watchers_count": 9, 
+    "created_at": "2010-02-16T12:23:22Z", 
+    "forks_count": 5, 
+    "score": 1.3132415, 
+    "git_url": "git://github.com/rjw57/MultiNest.git", 
+    "full_name": "rjw57/MultiNest", 
+    "stargazers_count": 9, 
+    "id": 520249, 
+    "size": 179
+  }
+]
