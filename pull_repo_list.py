@@ -1,8 +1,26 @@
 import requests
 import json
 import os
-import requests_cache
-requests_cache.install_cache('working_cache')
+import time
+from calendar import monthrange
+from datetime import date
+import itertools
+
+current_year = date.today().year
+current_month = date.today().month
+#import requests_cache
+#requests_cache.install_cache('working_cache')
+
+# Verify that there is a token set as an env variable and load it
+shell_token  = "GITHUB_TOKEN"
+try:
+    GITHUB_TOKEN = os.environ[shell_token]
+except:
+    msg = "Set environment variable $GITHUB_TOKEN"
+    raise SyntaxError(msg)
+
+login_params = {"access_token":GITHUB_TOKEN,}
+
 
 keep_keys = [
     'id',
@@ -22,30 +40,39 @@ keep_keys = [
 base_url = "https://api.github.com/search/repositories"
 
 params = {
-    "sort" :"stars",
+    "sort" :"created",
     "order":"desc",
     "per_page":100,
 }
+params.update(login_params)
+
 
 _total_count = None
 
 def grab(url, params):
     global _total_count
     r = requests.get(url, params=params)
-    
-    if r.status_code != 200:
-        msg = "Exiting with status code {}".format(r.status_code)
-        raise ValueError(msg)
-
     h = r.headers
     
-    #print json.dumps(dict(r.headers),indent=2)
-    if h["X-RateLimit-Remaining"] < 2:
-        msg = "Rate limit hit! Exiting"
+    if r.status_code != 200:
+        print h
+        msg = "Exiting with status code {}".format(r.status_code)
         raise ValueError(msg)
-
+    
+    current_time  = int(time.time())
+    remaining_req = int(h["X-RateLimit-Remaining"])
+    
+    if remaining_req < 2:
+        delta = int(h["X-RateLimit-Reset"]) - current_time + 2
+        print "Rate limit hit! Holding...", delta
+        time.sleep(delta)
+        
     js = json.loads(r.content)
     _total_count = js["total_count"]
+
+    if _total_count > 1000:
+        msg = "Search broken with > 1000 results, need refined query..."
+        raise SyntaxError(msg)
 
     yield js
 
@@ -58,8 +85,13 @@ def grab(url, params):
             for x in grab(link,{}):
                 yield x
 
-def grab_year(year):
-    date = "{year}-01-01..{year}-12-31".format(year=year)
+def grab_range(year,month):
+    
+    date = "{year}-{month:02d}-01..{year:02d}-{month:02d}-{day:02d}"
+    date = date.format(year=year,
+                       month=month,
+                       day=monthrange(year,month)[1])
+    
     q = ' '.join([
         "arxiv",
         "in:description,readme",
@@ -72,7 +104,7 @@ def grab_year(year):
 
     results = []
     for k,page in enumerate(INPUT_ITR):
-        
+       
         print "Grabbed {: 3d} items from page {}".format(len(page["items"]),k)
 
         for item in page["items"]:
@@ -88,20 +120,27 @@ def reduce_item(item):
 
 
 
-year = 2010
-
-
-print "Starting year", year
-results = grab_year(year)
-assert(_total_count == len(results))
-
 os.system('mkdir -p data data/repos')
 
-f_out = 'data/repos/{}.json'.format(year)
-with open(f_out,'w') as FOUT:
-    s = json.dumps(results,indent=2)
-    FOUT.write(s)
+years = range(2007, current_year+1)
+months = range(1,13)
 
+INPUT_ITR = itertools.product(years,months)
 
+for year,month in INPUT_ITR:
 
+    # Stop if past the present
+    if year == current_year:
+        if month > current_month:
+            break
+              
+    print "Starting year/month", year, month
 
+    results = grab_range(year,month)
+    assert(_total_count == len(results))
+    print " {} results found".format(len(results))
+
+    f_out = 'data/repos/{}_{}.json'.format(year,month)
+    with open(f_out,'w') as FOUT:
+        s = json.dumps(results,indent=2)
+        FOUT.write(s)
