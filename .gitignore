@@ -1,4 +1,5 @@
 *~
+*.pyc
 
 # For testing
 working_cache.sqlite

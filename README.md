@@ -8,7 +8,8 @@ Links the [arXiv](http://arxiv.org/) to github repos
 - [x] Use github tokens
 - [x] parse month by month
 - [x] build starter repo list
-- [ ] Write downloader of READMEs
+- [x] Write downloader of READMEs
+- [ ] Allow downloader to only update changed READMEs
 - [ ] Write parser of READMEs
 - [ ] Build set of links
 

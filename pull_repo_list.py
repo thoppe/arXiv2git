@@ -11,16 +11,8 @@ current_month = date.today().month
 #import requests_cache
 #requests_cache.install_cache('working_cache')
 
-# Verify that there is a token set as an env variable and load it
-shell_token  = "GITHUB_TOKEN"
-try:
-    GITHUB_TOKEN = os.environ[shell_token]
-except:
-    msg = "Set environment variable $GITHUB_TOKEN"
-    raise SyntaxError(msg)
-
-login_params = {"access_token":GITHUB_TOKEN,}
-
+from utils import get_login_params
+login_params = get_login_params()
 
 keep_keys = [
     'id',
