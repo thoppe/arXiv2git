@@ -1,0 +1,6 @@
+{
+  "read_at": 1462510032, 
+  "description": "Numerical implementations of the Douglas-Rachford splitting (DRS), and an accelerated version of the method, for solving nonsmooth convex composite optimization problems", 
+  "README.md": "## Douglas-Rachford splitting\n\nThis repository contains implementations of the Douglas-Rachford operator\nsplitting method for solving convex optimization problems of the form\n\n```\nminimize f(x) + g(x)\n```\n\nThe proposed implementations and tests reflect the analysis contained in\n[1]. In particular, a *fast* version of the method is provided for problems\nwhere f(x) is quadratic.\n\nThe problems for which the algorithms are implemented are:\n* Box constrained QPs\n* L1-regularized least square regression\n\n### References\n\n[1] P. Patrinos, L. Stella, A. Bemporad, \u201cDouglas-Rachford Splitting: Complexity\nEstimates and Accelerated Variants,\u201d [arXiv:1407.6723](http://arxiv.org/abs/1407.6723) [math.OC], Sep. 2014.\nIn *Proceedings of the 53nd IEEE Conference on Decision and Control*.\n", 
+  "id": 24794652
+}

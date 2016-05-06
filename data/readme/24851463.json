@@ -1,0 +1,6 @@
+{
+  "read_at": 1462509959, 
+  "description": "Library for performing in situ calibration of six-axis Force Torque sensors with an embedded accelerometer. ", 
+  "README.md": "insitu-ft-calibration [![Build Status](https://travis-ci.org/robotology-playground/insitu-ft-calibration.svg?branch=master)](https://travis-ci.org/robotology-playground/insitu-ft-calibration) [![Build status](https://ci.appveyor.com/api/projects/status/2fn5jbnccq1isqe2/branch/master)](https://ci.appveyor.com/project/traversaro/insitu-ft-calibration/branch/master) \n=====================\n\nLibrary for performing in situ calibration of six-axes Force Torque sensors with an embedded accelerometer. \n\nIt implements the algorithms presented in http://arxiv.org/abs/1410.0885 .\n", 
+  "id": 24851463
+}

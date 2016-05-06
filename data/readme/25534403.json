@@ -1,0 +1,6 @@
+{
+  "read_at": 1462510051, 
+  "description": "Code and data to accompany paper \"The Pattern Method for Incorporating Tidal Uncertainty Into Probabilistic Tsunami Hazard Assessment (PTHA)\" by L.M. Adams, R.J. LeVeque, and F.I. Gonzalez, to appear in Natural Hazards.", 
+  "README.md": "pattern-method-paper\n====================\n\nCode and data to accompany paper \"The Pattern Method for Incorporating Tidal\nUncertainty Into Probabilistic Tsunami Hazard Assessment (PTHA)\" by L.M.\nAdams, R.J. LeVeque, and F.I. Gonzalez, to appear in \n[Natural Hazards](http://link.springer.com/journal/11069).\nA preprint is posted at\n[http://arxiv.org/abs/1404.7216](http://arxiv.org/abs/1404.7216).\n\nThe code provided here illustrates the basic methodology in ways that might\nbe adapted to other work.  Some of the illustrative figures in the paper can be\nreproduced, but we have not included all of the Crescent City modeling codes\nthat were used to produce the figures specific to that application.  That\nwork was performed as part of the project report posted at\nhttp://hdl.handle.net/1773/25916.\n\nSee `programs/README` for more information and instructions.\n", 
+  "id": 25534403
+}

@@ -1,0 +1,6 @@
+{
+  "read_at": 1462509767, 
+  "description": "Rolling hash functions in Java", 
+  "README.md": "## Rolling hash functions in Java\nDaniel Lemire\n\nLicense: Apache 2.0\n\n## What is this?\n\nThis is a set of Java classes implementing various recursive n-gram hashing techniques, also called rolling hashing (http://en.wikipedia.org/wiki/Rolling_hash), including:\n\n* Randomized Karp-Rabin (sometimes called Rabin-Karp)\n* Hashing by Cyclic Polynomials (also known as Buzhash)\n\n\n## Code sample\n\n```\nString s = \"some string\";\nint n = 3; //hash all sequences of 3 characters\nCyclicHash ch = new CyclicHash(n);\nint k = 0;\nfor(; k<n-1;++k) {\n  ch.eat(s.charAt(k));\n}\nint rollinghash = ch.eat(s.charAt(k)); // the first or last 32-(n-1) bits are \n// do something with the hash value\nfor(;k<s.length();++k) {\n  rollinghash = ch.update(s.charAt(k-n), s.charAt(k));\n  // do something with the hash value\n}\n```\n\n## Reference \n\nDaniel Lemire, Owen Kaser: Recursive n-gram hashing is pairwise independent, at best, Computer Speech & Language, Volume 24, Issue 4, October 2010, Pages 698-710 http://arxiv.org/abs/0705.4676\n", 
+  "id": 1468436
+}

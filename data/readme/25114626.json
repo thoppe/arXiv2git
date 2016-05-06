@@ -1,0 +1,6 @@
+{
+  "read_at": 1462509868, 
+  "description": "rewrite the matlab code of pcanet into c++", 
+  "README.md": "PCANet\n======\n\nrewrite the matlab code of pcanet into:\n\n1, c++ and using openmp to reduce the run time;\n\n2, scala.\n\nPCANet: A Simple Deep Learning Baseline for Image Classification?\n\npaper pdf download: http://arxiv.org/pdf/1404.3606v1.pdf\n\n\nexamples:\n\nuse 7 persons of YaleB.\n\nfor each person, use 40 images for training, the rest for testing.\n", 
+  "id": 25114626
+}

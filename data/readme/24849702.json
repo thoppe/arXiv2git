@@ -1,0 +1,6 @@
+{
+  "read_at": 1462510023, 
+  "description": "A PCA-based strong lens finder in Matlab", 
+  "README.md": "pca-lens-finder\n===============\n\nA PCA-based strong lens finder in Matlab implementing R. Joseph et al. 2014, _A PCA-based automated finder for galaxy-scale strong lenses_  \n\nPaper link: _http://arxiv.org/pdf/1403.1063v1.pdf_  \n\nMove the training/testing set into images/ and run the file main.m. The current dataset is taken from _http://metcalf1.bo.astro.it/~bmetcalf/Data/21_9_2014/blf\\_kids\\_gband.tar.gz_\nIf you want to use the current dataset first run setup.sh and then proceed.\n", 
+  "id": 24849702
+}

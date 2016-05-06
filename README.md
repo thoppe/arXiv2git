@@ -10,6 +10,7 @@ Links the [arXiv](http://arxiv.org/) to github repos
 - [x] build starter repo list
 - [x] Write downloader of READMEs
 - [ ] Allow downloader to only update changed READMEs
+- [ ] Download first pass of READMEs
 - [ ] Write parser of READMEs
 - [ ] Build set of links
 

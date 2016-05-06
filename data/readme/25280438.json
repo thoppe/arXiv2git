@@ -1,0 +1,6 @@
+{
+  "read_at": 1462509999, 
+  "description": "Getting medical snake robots to learn to imitate human operators. ", 
+  "README.md": "slytherin_dagger\n================\n\nGetting medical snake robots to learn to imitate human operators.\n\nWe use imitation learning to learn to mimic a human operator while operating a medical snake robot inside tubes and eventually, organs. The framework we use is DAgger (http://arxiv.org/pdf/1011.0686.pdf)\n", 
+  "id": 25280438
+}
