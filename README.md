@@ -1,6 +1,11 @@
 # arXiv2git
 Links the [arXiv](http://arxiv.org/) to github repos
 
+Why?
+
++ It's hard to search for papers like ["t \bar{t} W production and decay at NLO"](http://arxiv.org/abs/1204.5678)
++ It builds a database of links for other uses
+
 ## Starter roadmap
 
 - [x] Write basic repo searcher
@@ -10,8 +15,8 @@ Links the [arXiv](http://arxiv.org/) to github repos
 - [x] build starter repo list
 - [x] Write downloader of READMEs
 - [ ] Allow downloader to only update changed READMEs
-- [ ] Download first pass of READMEs
-- [ ] Write parser of READMEs
+- [x] Download first pass of READMEs
+- [x] Write parser of READMEs
 - [ ] Build set of links
 
 ## Website roadmap
