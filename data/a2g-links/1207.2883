@@ -1,0 +1,6 @@
+{
+  "project": [
+    "cran/additivityTests", 
+    "simecek/additivityTests"
+  ]
+}

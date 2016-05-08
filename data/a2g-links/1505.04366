@@ -1,0 +1,11 @@
+{
+  "project": [
+    "HyeonwooNoh/caffe", 
+    "HyeonwooNoh/DeconvNet", 
+    "viorik/caffe-float", 
+    "matthieudelaro/caffe"
+  ], 
+  "citation": [
+    "kjw0612/awesome-deep-vision"
+  ]
+}

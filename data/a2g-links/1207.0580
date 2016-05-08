@@ -1,0 +1,19 @@
+{
+  "project": [
+    "maddin79/darch", 
+    "maddin79/darch", 
+    "keithzhou/NeuralNets", 
+    "skaae/rbm_toolbox", 
+    "FrederikDiehl/NNForSKLearn", 
+    "skaae/rbm_toolbox_lua", 
+    "jackkitte/DeepLearnDropOut", 
+    "pengsun/MatlabCNN", 
+    "SYChienIsGod/hw1", 
+    "FlyingSpringrol/C.-Elegance", 
+    "jostmey/DeepNeuralClassifier", 
+    "mdenil/dropout"
+  ], 
+  "citation": [
+    "Element-Research/dpnn"
+  ]
+}

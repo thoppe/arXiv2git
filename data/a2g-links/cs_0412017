@@ -1,0 +1,7 @@
+{
+  "project": [
+    "weiway/oscgroups", 
+    "galp/oscgroups", 
+    "RossBencina/oscgroups"
+  ]
+}

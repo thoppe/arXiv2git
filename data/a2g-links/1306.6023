@@ -1,0 +1,6 @@
+{
+  "project": [
+    "bigfootproject/schedsim", 
+    "komarVadim/schedsim"
+  ]
+}

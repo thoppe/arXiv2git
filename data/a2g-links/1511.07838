@@ -1,0 +1,8 @@
+{
+  "project": [
+    "beopst/dcn.tf"
+  ], 
+  "citation": [
+    "dennybritz/deeplearning-papernotes"
+  ]
+}

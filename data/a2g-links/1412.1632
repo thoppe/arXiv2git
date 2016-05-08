@@ -1,0 +1,6 @@
+{
+  "project": [
+    "brmson/Sentence-selection", 
+    "brmson/dataset-sts"
+  ]
+}

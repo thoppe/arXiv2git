@@ -1,0 +1,7 @@
+{
+  "project": [
+    "tnagler/kdecopula", 
+    "tnagler/kdecopula", 
+    "cran/kdecopula"
+  ]
+}

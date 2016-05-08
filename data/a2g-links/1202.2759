@@ -1,0 +1,7 @@
+{
+  "project": [
+    "krzakala/LowRAMP", 
+    "krzakala/LowRAMP_julia", 
+    "sphinxteam/LowRAMP.jl"
+  ]
+}

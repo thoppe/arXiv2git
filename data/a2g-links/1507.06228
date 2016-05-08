@@ -1,0 +1,10 @@
+{
+  "project": [
+    "flukeskywalker/highway-networks"
+  ], 
+  "citation": [
+    "lipiji/app-dl", 
+    "dennybritz/deeplearning-papernotes", 
+    "styleNie/notes"
+  ]
+}

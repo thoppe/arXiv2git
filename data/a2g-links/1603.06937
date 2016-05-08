@@ -1,0 +1,6 @@
+{
+  "project": [
+    "anewell/pose-hg-demo", 
+    "anewell/pose-hg-train"
+  ]
+}

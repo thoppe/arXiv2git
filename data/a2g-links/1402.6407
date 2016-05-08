@@ -1,0 +1,12 @@
+{
+  "project": [
+    "RoaringBitmap/RoaringBitmap", 
+    "lemire/RoaringBitmapReal", 
+    "lemire/RoaringBitmapSynth", 
+    "RoaringBitmap/roaring", 
+    "lemire/BitSliceIndex", 
+    "andreasvc/roaringbitmap", 
+    "RoaringBitmap/CRoaring", 
+    "travisbrady/ocaml-roaring"
+  ]
+}

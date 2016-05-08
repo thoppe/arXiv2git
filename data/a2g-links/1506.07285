@@ -1,0 +1,15 @@
+{
+  "project": [
+    "YerevaNN/Dynamic-memory-networks-in-Theano", 
+    "YerevaNN/Dynamic-memory-networks-in-Theano", 
+    "poyuwu/QA", 
+    "swstarlab/DynamicMemoryNetworks"
+  ], 
+  "citation": [
+    "kjw0612/awesome-rnn", 
+    "kastnerkyle/PyGotham2015", 
+    "johnny5550822/awesome-neat-rnn", 
+    "dennybritz/deeplearning-papernotes", 
+    "brucerain/nlp-papernotes"
+  ]
+}

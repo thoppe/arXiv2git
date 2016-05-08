@@ -1,0 +1,22 @@
+{
+  "project": [
+    "turinglife/Notes", 
+    "mleimeister/kaggle-plankton", 
+    "paulorauber/nn", 
+    "leongatys/DeepTextures", 
+    "Mikelew88/ChefNet", 
+    "kobiemb/PMAhackathon", 
+    "sharath83/Yelp_restaurant_classification", 
+    "heuritech/convnets-keras"
+  ], 
+  "citation": [
+    "auroraxie/Kaggle-NDSB", 
+    "kjw0612/awesome-deep-vision", 
+    "carpedm20/awesome-torch", 
+    "ry/deep_learning_glossary", 
+    "dennybritz/deeplearning-papernotes", 
+    "kristjankorjus/applied-deep-learning-resources", 
+    "abhshkdz/papers", 
+    "TensorFlowKR/awesome_tensorflow_implementations"
+  ]
+}

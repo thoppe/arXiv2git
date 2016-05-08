@@ -1,0 +1,6 @@
+{
+  "project": [
+    "sylvchev/dataset-ssvep-exoskeleton", 
+    "emmanuelkalunga/Online-SSVEP"
+  ]
+}

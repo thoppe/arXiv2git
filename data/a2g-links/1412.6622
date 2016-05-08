@@ -1,0 +1,10 @@
+{
+  "project": [
+    "eladhoffer/TripletNet", 
+    "ICapalija/TN", 
+    "hrantzsch/TripletEmbedding"
+  ], 
+  "citation": [
+    "carpedm20/awesome-torch"
+  ]
+}

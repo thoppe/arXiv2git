@@ -1,0 +1,10 @@
+{
+  "project": [
+    "paul0819/SA-tensorflow"
+  ], 
+  "citation": [
+    "kjw0612/awesome-deep-vision", 
+    "kjw0612/awesome-rnn", 
+    "aliensunmin/awesomeCVpapers"
+  ]
+}

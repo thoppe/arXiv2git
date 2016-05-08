@@ -1,0 +1,6 @@
+{
+  "project": [
+    "cmendl/fluct-hydro-chains", 
+    "cmendl/hardpoint-systems"
+  ]
+}

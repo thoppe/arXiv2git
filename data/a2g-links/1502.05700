@@ -1,0 +1,10 @@
+{
+  "project": [
+    "RuiShu/Neural-Net-Bayesian-Optimization", 
+    "Kyate/hyerparameter_optimization", 
+    "ilija139/paper-a-day"
+  ], 
+  "citation": [
+    "KirkHadley/icml2015_papers"
+  ]
+}

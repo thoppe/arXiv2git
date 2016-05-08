@@ -1,0 +1,13 @@
+{
+  "project": [
+    "AmanMander123/MarketSentimentFromBusinessWeek", 
+    "sptz45/sse-sentiment", 
+    "manoelrmj/afinn", 
+    "eiriks/Afinn-for-Norsk", 
+    "syzer/sentiment-analyser", 
+    "syzer/sentiment-analyser", 
+    "masonwan/tweentiment", 
+    "RobBlackwell/cl-sentiment", 
+    "RobBlackwell/cl-sentiment"
+  ]
+}

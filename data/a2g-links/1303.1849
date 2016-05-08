@@ -1,0 +1,6 @@
+{
+  "project": [
+    "SimonDu/CUR-matrix-decomposition", 
+    "rustandruin/NystromBestiary"
+  ]
+}

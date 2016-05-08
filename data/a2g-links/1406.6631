@@ -1,0 +1,6 @@
+{
+  "project": [
+    "biboudis/clashofthelambdas", 
+    "biboudis/streamalg"
+  ]
+}

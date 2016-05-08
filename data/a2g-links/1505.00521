@@ -1,0 +1,10 @@
+{
+  "project": [
+    "ilyasu123/rlntm", 
+    "ulucs/rlntm"
+  ], 
+  "citation": [
+    "kjw0612/awesome-rnn", 
+    "dennybritz/deeplearning-papernotes"
+  ]
+}

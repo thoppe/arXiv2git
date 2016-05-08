@@ -1,0 +1,6 @@
+{
+  "project": [
+    "astro-informatics/comb", 
+    "astro-informatics/s2fil"
+  ]
+}

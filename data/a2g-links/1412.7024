@@ -1,0 +1,6 @@
+{
+  "project": [
+    "MatthieuCourbariaux/deep-learning-multipliers", 
+    "NervanaSystems/nervana-lib-gpu-performance-preview"
+  ]
+}

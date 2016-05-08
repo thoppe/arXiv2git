@@ -1,0 +1,10 @@
+{
+  "project": [
+    "echizentm/Adam", 
+    "olanleed/MochiMochi", 
+    "ajschumacher/lists", 
+    "ahwillia/StochasticOpt.jl", 
+    "andpol5/credit-classifier", 
+    "ngopee/RNN_ANER"
+  ]
+}

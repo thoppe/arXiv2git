@@ -1,0 +1,10 @@
+{
+  "project": [
+    "PFCM/weightnorm", 
+    "TimSalimans/weight_norm"
+  ], 
+  "citation": [
+    "muupan/deep-reinforcement-learning-papers", 
+    "dennybritz/deeplearning-papernotes"
+  ]
+}

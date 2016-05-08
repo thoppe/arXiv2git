@@ -1,0 +1,13 @@
+{
+  "project": [
+    "jordipons/DRNN4ASS", 
+    "yandex/faster-rnnlm", 
+    "mohammadpz/Identity_RNN", 
+    "scottyli/faster-rnnlm"
+  ], 
+  "citation": [
+    "mihaelacr/paper-notes", 
+    "dykang/neurallanguage-notes", 
+    "pokey/deep-learning-landscape"
+  ]
+}

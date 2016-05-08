@@ -1,0 +1,7 @@
+{
+  "project": [
+    "jsy1001/oifitslib", 
+    "emmt/OIFITS.jl", 
+    "JuliaPackageMirrors/OIFITS.jl"
+  ]
+}

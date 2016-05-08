@@ -1,0 +1,7 @@
+{
+  "project": [
+    "morkonda/moonlet", 
+    "quasars100/Resonance_testing_scripts", 
+    "ernesvold/SMACK"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "project": [
+    "iassael/torch-linearo", 
+    "Kaixhin/nninit", 
+    "ducha-aiki/LSUVinit", 
+    "yobibyte/torch-lsuv"
+  ]
+}

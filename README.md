@@ -17,7 +17,7 @@ Why?
 - [ ] Allow downloader to only update changed READMEs
 - [x] Download first pass of READMEs
 - [x] Write parser of READMEs
-- [ ] Build set of links
+- [x] Build set of links
 
 ## Website roadmap
 

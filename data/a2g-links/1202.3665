@@ -1,0 +1,7 @@
+{
+  "project": [
+    "dfm/clda", 
+    "mattpitkin/yamm", 
+    "eggplantbren/StretchR"
+  ]
+}

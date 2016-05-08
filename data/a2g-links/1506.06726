@@ -1,0 +1,14 @@
+{
+  "project": [
+    "ryankiros/skip-thoughts", 
+    "kyunghyuncho/skip-thoughts", 
+    "ryankiros/neural-storyteller", 
+    "zuiwufenghua/Sequence-To-Sequence-Generation-Skip-Thoughts-", 
+    "jli05/cs224n-project", 
+    "luzc08/skip-thought"
+  ], 
+  "citation": [
+    "kjw0612/awesome-rnn", 
+    "dennybritz/deeplearning-papernotes"
+  ]
+}

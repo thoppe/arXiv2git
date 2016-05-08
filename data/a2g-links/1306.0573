@@ -1,0 +1,8 @@
+{
+  "project": [
+    "navtejsingh/pix2sky", 
+    "navtejsingh/sky2pix", 
+    "navtejsingh/mccomplete", 
+    "navtejsingh/paralleldeconv"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "project": [
+    "pbl64k/BrzozowskiDerivative", 
+    "sellout/YACC-is-dead", 
+    "jespera/derivative-parser"
+  ]
+}

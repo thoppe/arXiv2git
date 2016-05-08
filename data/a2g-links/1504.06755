@@ -1,0 +1,6 @@
+{
+  "project": [
+    "pingmeix/TurkerGaze", 
+    "PrincetonVision/TurkerGaze"
+  ]
+}

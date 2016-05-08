@@ -1,0 +1,10 @@
+{
+  "project": [
+    "avati/nlc"
+  ], 
+  "citation": [
+    "dennybritz/deeplearning-papernotes", 
+    "dykang/neurallanguage-notes", 
+    "brucerain/nlp-papernotes"
+  ]
+}

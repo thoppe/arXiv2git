@@ -1,0 +1,11 @@
+{
+  "project": [
+    "takerum/adversarial_autoencoder", 
+    "musyoku/adversarial-autoencoder", 
+    "andhus/adversarial_autoencoder", 
+    "andhus/adversarial_autoencoder"
+  ], 
+  "citation": [
+    "ry/deep_learning_glossary"
+  ]
+}

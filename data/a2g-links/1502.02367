@@ -1,0 +1,13 @@
+{
+  "project": [
+    "jimfleming/gf_rnn", 
+    "ZhangBanger/recurrent-network-variants", 
+    "mike-bowles/hdDeepLearningStudy"
+  ], 
+  "citation": [
+    "KirkHadley/icml2015_papers", 
+    "kjw0612/awesome-rnn", 
+    "shudct/studying-RNN", 
+    "coreylynch/grid-lstm"
+  ]
+}

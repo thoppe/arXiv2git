@@ -1,0 +1,6 @@
+{
+  "project": [
+    "lemire/fasthashing", 
+    "lemire/rollinghashcpp"
+  ]
+}

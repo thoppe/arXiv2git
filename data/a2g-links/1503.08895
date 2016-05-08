@@ -1,0 +1,19 @@
+{
+  "project": [
+    "facebook/bAbI-tasks", 
+    "facebook/MemNN", 
+    "shincling/MemNN_and_Varieties", 
+    "seominjoon/memnn-tensorflow", 
+    "vinhkhuc/MemN2N-babi-python", 
+    "poyuwu/QA", 
+    "Anmol6/bAbi-tasks", 
+    "vivek201189/MemoryNetworks"
+  ], 
+  "citation": [
+    "kjw0612/awesome-rnn", 
+    "kastnerkyle/PyGotham2015", 
+    "carpedm20/awesome-torch", 
+    "dennybritz/deeplearning-papernotes", 
+    "TensorFlowKR/awesome_tensorflow_implementations"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "project": [
+    "aaronjfisher/bootSVD", 
+    "aaronjfisher/2014_JSM_bootSVD_demo", 
+    "cran/bootSVD", 
+    "cran/bootSVD"
+  ]
+}

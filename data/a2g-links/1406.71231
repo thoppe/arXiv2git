@@ -1,0 +1,6 @@
+{
+  "project": [
+    "algbioi/kmer_counting", 
+    "algbioi/ppsplus"
+  ]
+}

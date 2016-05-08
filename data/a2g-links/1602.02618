@@ -1,0 +1,6 @@
+{
+  "project": [
+    "MikaelSlevinsky/FastTransforms.jl", 
+    "JuliaPackageMirrors/FastTransforms.jl"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "project": [
+    "cmusphinx/g2p-seq2seq"
+  ]
+}

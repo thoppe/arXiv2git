@@ -1,0 +1,6 @@
+{
+  "project": [
+    "JuliaPackageMirrors/RandomMatrices.jl", 
+    "jiahao/RandomMatrices.jl"
+  ]
+}

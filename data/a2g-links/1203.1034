@@ -1,0 +1,6 @@
+{
+  "project": [
+    "giordano/cmplx-roots-sg", 
+    "giordano/PolynomialRoots.jl"
+  ]
+}

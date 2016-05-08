@@ -1,0 +1,40 @@
+{
+  "project": [
+    "uhub/awesome-c-sharp", 
+    "Seth-Park/fundus-diabetes-detection", 
+    "alrojo/lasagne_residual_network", 
+    "shiyemin/ResNet-Generator-for-caffe", 
+    "PyDataOkinawa/meetup008", 
+    "shuokay/resnet", 
+    "shuokay/resnet", 
+    "tao-j/resnet", 
+    "gcr/torch-residual-networks", 
+    "gcr/torch-residual-networks", 
+    "arunpatala/residual.mnist", 
+    "freesouls/Deep-Residual-Network-For-MXNet", 
+    "facebook/fb.resnet.torch", 
+    "facebook/fb.resnet.torch", 
+    "KaimingHe/deep-residual-networks", 
+    "xuyuwei/resnet-tf", 
+    "JiaRenChang/residual-learning-for-matconvnet", 
+    "dnlcrl/deep-residual-networks-pyfunt", 
+    "dnlcrl/deep-residual-networks-pyfunt", 
+    "mike-bowles/hdDeepLearningStudy", 
+    "KaimingHe/resnet-1k-layers", 
+    "mks0601/Residual_network", 
+    "DeepMark/deepmark", 
+    "panpanpanpan/Machine-Learning"
+  ], 
+  "citation": [
+    "lipiji/app-dl", 
+    "kjw0612/awesome-deep-vision", 
+    "ry/deep_learning_glossary", 
+    "dennybritz/deeplearning-papernotes", 
+    "kristjankorjus/applied-deep-learning-resources", 
+    "sunshineatnoon/Paper-Collection", 
+    "abhshkdz/papers", 
+    "TensorFlowKR/awesome_tensorflow_implementations", 
+    "styleNie/notes", 
+    "NVTUANHUT/deeplearning"
+  ]
+}

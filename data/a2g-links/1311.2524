@@ -1,0 +1,13 @@
+{
+  "project": [
+    "rbgirshick/rcnn", 
+    "latharam/CVP", 
+    "tangyuxing/context"
+  ], 
+  "citation": [
+    "kjw0612/awesome-deep-vision", 
+    "sunshineatnoon/Paper-Collection", 
+    "abhshkdz/papers", 
+    "NVTUANHUT/deeplearning"
+  ]
+}

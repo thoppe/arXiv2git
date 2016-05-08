@@ -1,0 +1,7 @@
+{
+  "project": [
+    "RoaringBitmap/RoaringBitmap", 
+    "RoaringBitmap/roaring", 
+    "RoaringBitmap/CRoaring"
+  ]
+}

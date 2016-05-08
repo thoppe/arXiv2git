@@ -1,0 +1,7 @@
+{
+  "project": [
+    "gunrock/gunrock", 
+    "anshumang/gunrockINST", 
+    "anshumang/gunrock-swched-swmm"
+  ]
+}

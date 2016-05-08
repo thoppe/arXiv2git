@@ -1,0 +1,6 @@
+{
+  "project": [
+    "NervanaSystems/nervana-lib-gpu-performance-preview", 
+    "eBay/maxDNN"
+  ]
+}

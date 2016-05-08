@@ -1,0 +1,9 @@
+{
+  "project": [
+    "DeepMark/deepmark"
+  ], 
+  "citation": [
+    "lampts/data_science", 
+    "dennybritz/deeplearning-papernotes"
+  ]
+}

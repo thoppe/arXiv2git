@@ -1,0 +1,6 @@
+{
+  "project": [
+    "cms-externals/fastjet", 
+    "sbinet-staging/fastjet"
+  ]
+}

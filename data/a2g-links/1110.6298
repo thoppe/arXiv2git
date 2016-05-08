@@ -1,0 +1,7 @@
+{
+  "project": [
+    "astro-informatics/ssht", 
+    "astro-informatics/flag", 
+    "astro-informatics/s2let"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "project": [
+    "ctuning/ck", 
+    "ctuning/ck-autotuning", 
+    "ctuning/ctuning-programs", 
+    "ctuning/ctuning-datasets-min", 
+    "ctuning/reproduce-ck-paper", 
+    "ctuning/ck-crowdtuning", 
+    "ctuning/reproduce-ck-paper-large-experiments", 
+    "ctuning/reproduce-adapt16", 
+    "ctuning/ck-crowdtuning-platforms", 
+    "ctuning/reproduce-milepost-project"
+  ]
+}

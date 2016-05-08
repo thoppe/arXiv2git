@@ -1,0 +1,6 @@
+{
+  "project": [
+    "cmgithub/spectral", 
+    "maxentile/method-of-moments-tinker"
+  ]
+}

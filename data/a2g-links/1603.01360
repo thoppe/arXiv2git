@@ -1,0 +1,10 @@
+{
+  "project": [
+    "glample/tagger", 
+    "clab/stack-lstm-ner"
+  ], 
+  "citation": [
+    "dennybritz/deeplearning-papernotes", 
+    "brucerain/nlp-papernotes"
+  ]
+}

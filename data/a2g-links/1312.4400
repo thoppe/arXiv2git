@@ -1,0 +1,8 @@
+{
+  "project": [
+    "guillaume-chevalier/python-caffe-custom-cifar-100-conv-net"
+  ], 
+  "citation": [
+    "abhshkdz/papers"
+  ]
+}

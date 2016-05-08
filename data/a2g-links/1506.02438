@@ -1,0 +1,9 @@
+{
+  "project": [
+    "joschu/modular_rl"
+  ], 
+  "citation": [
+    "muupan/deep-reinforcement-learning-papers", 
+    "junhyukoh/deep-reinforcement-learning-papers"
+  ]
+}

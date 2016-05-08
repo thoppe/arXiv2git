@@ -1,0 +1,7 @@
+{
+  "project": [
+    "eldad-a/ridge-directed-ring-detector", 
+    "eldad-a/particle-tracking", 
+    "eldad-a/natural-cubic-smoothing-splines"
+  ]
+}

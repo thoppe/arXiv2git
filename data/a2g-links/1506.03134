@@ -1,0 +1,9 @@
+{
+  "project": [
+    "vshallc/PtrNets"
+  ], 
+  "citation": [
+    "kjw0612/awesome-rnn", 
+    "dennybritz/deeplearning-papernotes"
+  ]
+}

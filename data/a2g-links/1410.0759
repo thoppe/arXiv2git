@@ -1,0 +1,9 @@
+{
+  "project": [
+    "NervanaSystems/nervana-lib-gpu-performance-preview", 
+    "NervanaSystems/nervanagpu"
+  ], 
+  "citation": [
+    "aliensunmin/awesomeCVpapers"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "project": [
+    "cran/fdasrvf", 
+    "jdtuck/ElasticFDA.jl", 
+    "JuliaPackageMirrors/ElasticFDA.jl", 
+    "jdtuck/fdasrvf_R", 
+    "glemaitre/fdasrsf", 
+    "jdtuck/fdasrsf_python"
+  ]
+}

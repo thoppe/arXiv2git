@@ -1,0 +1,6 @@
+{
+  "project": [
+    "gitpan/Biblio-Refbase", 
+    "hma/Biblio-Refbase"
+  ]
+}

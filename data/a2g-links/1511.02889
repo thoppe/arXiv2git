@@ -1,0 +1,27 @@
+{
+  "project": [
+    "nbatfai/samu", 
+    "nbatfai/isaac", 
+    "nbatfai/jacob", 
+    "nbatfai/judah", 
+    "nbatfai/super-judah", 
+    "nbatfai/perez", 
+    "nbatfai/hezron", 
+    "nbatfai/ram", 
+    "nbatfai/amminadab", 
+    "nbatfai/nahshon", 
+    "BeardOfDoom/amminadabtest", 
+    "mordn/samuinjava", 
+    "nbatfai/SamuLife", 
+    "nbatfai/SamuMovie", 
+    "nbatfai/SamuStroop", 
+    "nbatfai/SamuBrain", 
+    "nbatfai/SamuCopy", 
+    "nbatfai/SamuTicker", 
+    "nbatfai/SamuVocab", 
+    "nbatfai/SamuKnows", 
+    "nbatfai/Robopsychology", 
+    "nbatfai/SamuCam", 
+    "nbatfai/SamuTuring"
+  ]
+}

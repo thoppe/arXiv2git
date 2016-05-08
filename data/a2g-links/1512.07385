@@ -1,0 +1,7 @@
+{
+  "project": [
+    "mcreel/ABCDSGE", 
+    "mcreel/ABCAuction.jl", 
+    "mcreel/QuantileIV.jl"
+  ]
+}

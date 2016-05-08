@@ -1,0 +1,6 @@
+{
+  "project": [
+    "michaelschaub/MarkovZoomingMap", 
+    "twanvl/graph-cluster"
+  ]
+}

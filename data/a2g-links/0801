@@ -1,0 +1,6 @@
+{
+  "project": [
+    "nchrys/haskell-sequence-kernels", 
+    "nchrys/python-sequence-kernels"
+  ]
+}

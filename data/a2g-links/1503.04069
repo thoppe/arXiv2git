@@ -1,0 +1,14 @@
+{
+  "project": [
+    "jachiam/rnn-playground", 
+    "flukeskywalker/highway-networks", 
+    "fluency03/sequence-rnn-py", 
+    "Yevgnen/LSTM", 
+    "Yevgnen/seq2seq"
+  ], 
+  "citation": [
+    "Element-Research/rnn", 
+    "kjw0612/awesome-rnn", 
+    "ry/deep_learning_glossary"
+  ]
+}

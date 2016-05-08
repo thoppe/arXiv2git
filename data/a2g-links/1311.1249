@@ -1,0 +1,6 @@
+{
+  "project": [
+    "olydis/vlg_matching", 
+    "simongog/sdsl-lite"
+  ]
+}

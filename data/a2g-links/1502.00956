@@ -1,0 +1,12 @@
+{
+  "project": [
+    "olivierdm/ORB_SLAM", 
+    "olivierdm/ORB_SLAM", 
+    "ankurhanda/ORB_SLAM_Pangolin", 
+    "ankurhanda/ORB_SLAM_Pangolin", 
+    "RedwanNewaz/ModifiedSLAM", 
+    "RedwanNewaz/ModifiedSLAM", 
+    "jingpang/ORBSLAM_jpMiniPC", 
+    "jingpang/ORBSLAM_jpMiniPC"
+  ]
+}

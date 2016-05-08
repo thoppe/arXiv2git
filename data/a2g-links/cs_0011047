@@ -1,0 +1,12 @@
+{
+  "project": [
+    "biilmann/Ruby-DLX-Sudoku-Solver", 
+    "AaronStGeorge/dlx-java", 
+    "gtech/Tetrominoer", 
+    "jwg4/Dantz", 
+    "marioyc/dancing-links", 
+    "jlaire/dlx-cpp", 
+    "weihengSu/puzzleApp", 
+    "jrouviere/dlx"
+  ]
+}

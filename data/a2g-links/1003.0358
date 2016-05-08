@@ -1,0 +1,7 @@
+{
+  "project": [
+    "avulanov/ann-benchmark", 
+    "CalculatedContent/big_deep_simple_mlp", 
+    "KyotoSunshine/CNN-for-handwritten-kanji"
+  ]
+}

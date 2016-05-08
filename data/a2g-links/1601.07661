@@ -1,0 +1,6 @@
+{
+  "project": [
+    "caibolun/DehazeNet", 
+    "allenyangyl/dehaze"
+  ]
+}

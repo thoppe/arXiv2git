@@ -1,0 +1,6 @@
+{
+  "project": [
+    "cms-externals/thepeg", 
+    "qgp/ThePEG"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "project": [
+    "jiwoongim/GRAN"
+  ], 
+  "citation": [
+    "dennybritz/deeplearning-papernotes", 
+    "mihaelacr/paper-notes"
+  ]
+}

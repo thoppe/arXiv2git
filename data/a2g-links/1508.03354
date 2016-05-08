@@ -1,0 +1,7 @@
+{
+  "project": [
+    "cran/pse", 
+    "andrechalom/pse", 
+    "andrechalom/pse-theory"
+  ]
+}

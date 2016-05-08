@@ -1,0 +1,7 @@
+{
+  "project": [
+    "rappoccio/fj_parallel", 
+    "cms-externals/fastjet", 
+    "sbinet-staging/fastjet"
+  ]
+}

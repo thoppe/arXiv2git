@@ -1,0 +1,6 @@
+{
+  "project": [
+    "karel-brinda/rnftools", 
+    "karel-brinda/rnf-spec"
+  ]
+}

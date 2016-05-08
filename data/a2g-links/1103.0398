@@ -1,0 +1,8 @@
+{
+  "project": [
+    "vaswani/WORD_OBSERVATION_RBM_NCE"
+  ], 
+  "citation": [
+    "dennybritz/deeplearning-papernotes"
+  ]
+}

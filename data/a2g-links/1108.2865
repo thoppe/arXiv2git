@@ -1,0 +1,19 @@
+{
+  "project": [
+    "nbatfai/samu", 
+    "nbatfai/isaac", 
+    "nbatfai/jacob", 
+    "nbatfai/judah", 
+    "nbatfai/super-judah", 
+    "nbatfai/perez", 
+    "nbatfai/hezron", 
+    "nbatfai/ram", 
+    "nbatfai/amminadab", 
+    "nbatfai/nahshon", 
+    "BeardOfDoom/amminadabtest", 
+    "mordn/samuinjava", 
+    "nbatfai/SamuBrain", 
+    "nbatfai/SamuCopy", 
+    "nbatfai/SamuKnows"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "project": [
+    "huangqx/image_shape_align", 
+    "opengm/opengm"
+  ]
+}

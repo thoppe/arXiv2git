@@ -1,0 +1,32 @@
+{
+  "project": [
+    "rbgirshick/fast-rcnn", 
+    "WilsonWangTHU/pedestrian-detection-thu2015", 
+    "ogroth/vgcanon", 
+    "rohitgirdhar-cmu-experimental/fast-rcnn-with3D", 
+    "prendingerlab/PeopleDetection-Chen", 
+    "nicci1771/fast-rcnn", 
+    "nightrome/matconvnet-calvin", 
+    "xiaolonw/fast-rcnn_flow", 
+    "xiaolonw/fast-rcnn_flow2", 
+    "herobd/fast-rcnn", 
+    "xiaolonw/fast-rcnn-distillation", 
+    "xiaolonw/fast-rcnn-backup", 
+    "xiaolonw/fast-rcnn-normal", 
+    "chenxistephen/fast-rcnn", 
+    "xiaolonw/fast-rcnn-depth", 
+    "xiaolonw/fast-rcnn-hha", 
+    "xiaolonw/fast-rcnn-norm2", 
+    "xiaolonw/fast-rcnn-normg", 
+    "marcopede/wsd", 
+    "heroinlin/fast_rcnn", 
+    "ekyurdakul/Comp541-Term-Project", 
+    "kumardeepakr3/fast-rcnn"
+  ], 
+  "citation": [
+    "kjw0612/awesome-deep-vision", 
+    "sunshineatnoon/Paper-Collection", 
+    "imatge-upc/readcv", 
+    "NVTUANHUT/deeplearning"
+  ]
+}

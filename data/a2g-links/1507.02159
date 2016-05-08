@@ -1,0 +1,10 @@
+{
+  "project": [
+    "skylian/caffe-action", 
+    "zbwglory/kd", 
+    "mathrho/action_recog", 
+    "bearpaw/caffe_mpi", 
+    "zbwglory/DeepLearningUtils", 
+    "zbwglory/caffe_labelVec"
+  ]
+}

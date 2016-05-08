@@ -1,0 +1,6 @@
+{
+  "project": [
+    "cms-externals/openloops", 
+    "davidlt/openloops"
+  ]
+}

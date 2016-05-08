@@ -1,0 +1,16 @@
+{
+  "project": [
+    "lim0606/lasagne-vae", 
+    "clinicalml/dgm", 
+    "stitchfix/fauxtograph", 
+    "takerum/vae", 
+    "casperkaae/parmesan", 
+    "skaae/vaeblog", 
+    "sokazaki/Deep-Generative-Models", 
+    "akolishchak/vae"
+  ], 
+  "citation": [
+    "kastnerkyle/PyGotham2015", 
+    "mjwillson/Bayesic"
+  ]
+}

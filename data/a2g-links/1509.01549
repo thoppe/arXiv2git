@@ -1,0 +1,11 @@
+{
+  "project": [
+    "imthexie/giraffe", 
+    "enlighter/giraffe"
+  ], 
+  "citation": [
+    "aikorea/awesome-rl", 
+    "muupan/deep-reinforcement-learning-papers", 
+    "junhyukoh/deep-reinforcement-learning-papers"
+  ]
+}

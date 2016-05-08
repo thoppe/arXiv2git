@@ -1,0 +1,9 @@
+{
+  "project": [
+    "epnev/constrained-foopsi", 
+    "epnev/ca_source_extraction", 
+    "NTCColumbia/ntc_CNMF", 
+    "agiovann/Constrained_NMF", 
+    "YishGene/ca_source_extraction"
+  ]
+}

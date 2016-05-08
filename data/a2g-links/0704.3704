@@ -1,0 +1,7 @@
+{
+  "project": [
+    "ProfessorBrunner/bayes-detect", 
+    "j-faria/MultiNest", 
+    "rjw57/MultiNest"
+  ]
+}

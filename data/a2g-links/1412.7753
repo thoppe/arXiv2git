@@ -1,0 +1,13 @@
+{
+  "project": [
+    "facebook/SCRNNs", 
+    "facebook/SCRNNs", 
+    "yandex/faster-rnnlm", 
+    "uhub/awesome-lua", 
+    "fiskio/PiHKAL"
+  ], 
+  "citation": [
+    "carpedm20/awesome-torch", 
+    "dennybritz/deeplearning-papernotes"
+  ]
+}

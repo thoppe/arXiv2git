@@ -1,0 +1,7 @@
+{
+  "project": [
+    "AlfredXiangWu/face_verification_experiment", 
+    "richardhahahaha/SpatialMaxFeatureMap", 
+    "tornadomeet/mxnet-face"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "project": [
+    "lemire/SIMDCompressionAndIntersection", 
+    "lemire/simdcomp", 
+    "lemire/FrameOfReference", 
+    "cruppstahl/libfor", 
+    "lemire/FastPFor", 
+    "stephanepoirier/varint", 
+    "lemire/JavaFastPFOR", 
+    "cruppstahl/libvbyte", 
+    "lemire/LittleIntPacker", 
+    "lemire/FastDifferentialCoding", 
+    "Genbox/CSharpFastPFOR"
+  ]
+}

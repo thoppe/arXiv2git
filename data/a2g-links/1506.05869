@@ -1,0 +1,12 @@
+{
+  "project": [
+    "GitXiv/DeepQA", 
+    "lumenrobot/lumen-trainer"
+  ], 
+  "citation": [
+    "kjw0612/awesome-rnn", 
+    "dennybritz/deeplearning-papernotes", 
+    "neuralconcept/DrWhoAI", 
+    "TensorFlowKR/awesome_tensorflow_implementations"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "project": [
+    "shyamalschandra/visual-attention-multiple-objects", 
+    "shyamalschandra/visual-attention-multiple-objects", 
+    "lim0606/lasagne-ram"
+  ], 
+  "citation": [
+    "kjw0612/awesome-deep-vision", 
+    "ry/deep_learning_glossary", 
+    "dennybritz/deeplearning-papernotes"
+  ]
+}

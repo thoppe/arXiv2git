@@ -1,0 +1,9 @@
+{
+  "project": [
+    "hannorein/oec_outreach", 
+    "OpenExoplanetCatalogue/open_exoplanet_catalogue", 
+    "sporter399/ExoPlanetCatologue", 
+    "OpenExoplanetCatalogue/oec_tables", 
+    "OpenExoplanetCatalogue/oec_web"
+  ]
+}

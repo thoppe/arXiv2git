@@ -1,0 +1,9 @@
+{
+  "project": [
+    "jcjohnson/cnn-vis"
+  ], 
+  "citation": [
+    "eiso/awesome-data-science", 
+    "abhshkdz/papers"
+  ]
+}

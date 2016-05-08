@@ -1,0 +1,10 @@
+{
+  "project": [
+    "clab/knowledge", 
+    "kastnerkyle/vrnn-samples", 
+    "jych/nips2015_vrnn"
+  ], 
+  "citation": [
+    "kastnerkyle/PyGotham2015"
+  ]
+}

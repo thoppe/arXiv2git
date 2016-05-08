@@ -1,0 +1,10 @@
+{
+  "project": [
+    "wojzaremba/trpo", 
+    "wojzaremba/trpo_rnn", 
+    "joschu/modular_rl"
+  ], 
+  "citation": [
+    "KirkHadley/icml2015_papers"
+  ]
+}

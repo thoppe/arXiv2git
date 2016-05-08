@@ -1,0 +1,7 @@
+{
+  "project": [
+    "facebook/fbcunn", 
+    "NervanaSystems/nervana-lib-gpu-performance-preview", 
+    "Novaes/ouro"
+  ]
+}

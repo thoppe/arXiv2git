@@ -1,0 +1,11 @@
+{
+  "project": [
+    "Nanne/ClassModel", 
+    "pengsun/MatlabCNN", 
+    "xieguotian/visualize_dl"
+  ], 
+  "citation": [
+    "abhshkdz/papers", 
+    "imatge-upc/readcv"
+  ]
+}

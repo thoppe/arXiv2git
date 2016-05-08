@@ -1,0 +1,6 @@
+{
+  "project": [
+    "makistsantekidis/clockworkrnn", 
+    "iaroslav-ai/recurrent"
+  ]
+}

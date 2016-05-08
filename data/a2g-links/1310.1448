@@ -1,0 +1,6 @@
+{
+  "project": [
+    "hdbn/bgone", 
+    "pombredanne/bgone"
+  ]
+}

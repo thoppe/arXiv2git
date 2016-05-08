@@ -1,0 +1,9 @@
+{
+  "project": [
+    "HEPcodes/SOFTSUSY", 
+    "HEPcodes/SOFTSUSY"
+  ], 
+  "citation": [
+    "dylan-harries/susyhd-call"
+  ]
+}

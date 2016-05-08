@@ -1,0 +1,7 @@
+{
+  "project": [
+    "tdhock/PeakSegJoint", 
+    "tdhock/reproducible-papers", 
+    "MrTavus/imageprocessing"
+  ]
+}

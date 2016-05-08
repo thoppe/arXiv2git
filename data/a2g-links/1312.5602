@@ -1,0 +1,24 @@
+{
+  "project": [
+    "brian473/neural_rl", 
+    "shyamalschandra/playing-atari-with-deep-reinforcement-learning", 
+    "shyamalschandra/playing-atari-with-deep-reinforcement-learning", 
+    "blakeMilner/DeepQLearning", 
+    "ijosc/Deep_Reinforcement_Learning", 
+    "smartsystems4u/deep_exchange", 
+    "AhmedHani/Deep-Q-Learning", 
+    "ugo-nama-kun/DQN-chainer", 
+    "joplapp/deep-blobby", 
+    "zergler/inverted-pendulum", 
+    "cuayahuitl/SimpleDS", 
+    "paulorauber/rlnn", 
+    "ndrabins/2048-AI-Player", 
+    "amonnphillip/nnexp2", 
+    "amonnphillip/nnexp3", 
+    "space-weather-KU/bbt-sw"
+  ], 
+  "citation": [
+    "kristjankorjus/applied-deep-learning-resources", 
+    "TensorFlowKR/awesome_tensorflow_implementations"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "project": [
+    "xmb-cipher/iNCML-DNNLM"
+  ], 
+  "citation": [
+    "kristjankorjus/applied-deep-learning-resources", 
+    "neuralconcept/DrWhoAI"
+  ]
+}

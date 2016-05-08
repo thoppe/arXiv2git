@@ -1,0 +1,11 @@
+{
+  "project": [
+    "facebook/eyescream", 
+    "skaae/vaeblog"
+  ], 
+  "citation": [
+    "kjw0612/awesome-deep-vision", 
+    "kastnerkyle/PyGotham2015", 
+    "carpedm20/awesome-torch"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "project": [
+    "nclab/nclab.github.io", 
+    "nclab/ea.prover"
+  ]
+}

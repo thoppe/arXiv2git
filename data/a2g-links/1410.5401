@@ -1,0 +1,21 @@
+{
+  "project": [
+    "shawntan/neural-turing-machines", 
+    "shawntan/neural-turing-machines", 
+    "shyamalschandra/neural-turing-machines", 
+    "shyamalschandra/neural-turing-machines", 
+    "JanTkacik/NTM", 
+    "gcgibson/NTM", 
+    "fumin/ntm", 
+    "chiggum/Neural-Turing-Machines", 
+    "yeoedward/Neural-Turing-Machine", 
+    "zhuyong0000/nmt_python"
+  ], 
+  "citation": [
+    "steven2358/mlx", 
+    "kjw0612/awesome-rnn", 
+    "kastnerkyle/PyGotham2015", 
+    "carpedm20/awesome-torch", 
+    "dennybritz/deeplearning-papernotes"
+  ]
+}

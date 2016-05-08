@@ -1,0 +1,9 @@
+{
+  "project": [
+    "Avmb/lowrank-gru", 
+    "Avmb/lowrank-highwaynetwork"
+  ], 
+  "citation": [
+    "styleNie/notes"
+  ]
+}

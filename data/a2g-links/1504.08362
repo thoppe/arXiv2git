@@ -1,0 +1,6 @@
+{
+  "project": [
+    "mfigurnov/perforated-cnn-matconvnet", 
+    "mfigurnov/perforated-cnn-caffe"
+  ]
+}

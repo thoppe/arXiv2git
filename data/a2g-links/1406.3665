@@ -1,0 +1,6 @@
+{
+  "project": [
+    "meisamr/Parallel_Lasso_Solver", 
+    "meisamr/ParallelGroupLassowithRenyiClassifier"
+  ]
+}

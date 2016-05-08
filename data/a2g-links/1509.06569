@@ -1,0 +1,9 @@
+{
+  "project": [
+    "Bihaqo/TensorNet", 
+    "timgaripov/TensorNet-TF"
+  ], 
+  "citation": [
+    "carpedm20/awesome-torch"
+  ]
+}

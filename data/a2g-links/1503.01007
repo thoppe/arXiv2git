@@ -1,0 +1,10 @@
+{
+  "project": [
+    "facebook/Stack-RNN", 
+    "yandexdataschool/AgentNet"
+  ], 
+  "citation": [
+    "kjw0612/awesome-rnn", 
+    "eiso/awesome-data-science"
+  ]
+}

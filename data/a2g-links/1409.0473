@@ -1,0 +1,19 @@
+{
+  "project": [
+    "lbsantos/anaa", 
+    "chuckgu/RNN", 
+    "chuckgu/RNN", 
+    "seankim902/nmt", 
+    "evanthebouncy/simple_attn_rnn", 
+    "lobachevzky/seq2seq"
+  ], 
+  "citation": [
+    "jiyfeng/DiscoMT", 
+    "kjw0612/awesome-rnn", 
+    "kastnerkyle/PyGotham2015", 
+    "shudct/studying-RNN", 
+    "dennybritz/deeplearning-papernotes", 
+    "neuralconcept/DrWhoAI", 
+    "abhshkdz/papers"
+  ]
+}

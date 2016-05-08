@@ -1,0 +1,17 @@
+{
+  "project": [
+    "cdmh/deeplab-public", 
+    "TheLegendAli/DeepLab-Context", 
+    "Robotertechnik/Deep-Lab", 
+    "ITLab-Vision/ITLab-Vision-deeplab", 
+    "futurely/deeplab-public", 
+    "fanxu/deeplab", 
+    "GoYchen/deeplab", 
+    "iqbalu/DeepLab", 
+    "cvlab-epfl/densecrf", 
+    "gadkins/deeplab"
+  ], 
+  "citation": [
+    "kjw0612/awesome-deep-vision"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "project": [
+    "echi/Sudoku", 
+    "francisengelmann/mcmc"
+  ]
+}

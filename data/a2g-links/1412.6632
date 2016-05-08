@@ -1,0 +1,9 @@
+{
+  "project": [
+    "leconteur/CaptionImaging"
+  ], 
+  "citation": [
+    "kjw0612/awesome-rnn", 
+    "shudct/studying-RNN"
+  ]
+}

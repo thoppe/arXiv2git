@@ -1,0 +1,6 @@
+{
+  "project": [
+    "brenes/momentum-core", 
+    "brenes/momentum-web"
+  ]
+}

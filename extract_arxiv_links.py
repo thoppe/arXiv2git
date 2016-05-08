@@ -1,10 +1,13 @@
 import glob
+import os
 import json
 import string
 import collections
+import tqdm
 
 F_JSON = sorted(glob.glob("data/readme/*.json"))
 F_REPO = sorted(glob.glob("data/repos/*.json"))
+output_dir = 'a2g-links'
 
 repo_lookup = {}
 for f in F_REPO:
@@ -162,6 +165,10 @@ def find_arxiv_links(text):
     # Keep only unique items
     xid = set(xid)
 
+    # Remove the idens with xxx (usually placeholders)
+    xid = [x for x in xid if 'xxx' not in x]
+    
+
     return xid
 
 
@@ -195,6 +202,29 @@ for js in json_iterator():
         for x in xid:
             AX[ax_type][x].append(repo)
 
-print AX
+
+            
+os.system('mkdir -p data data/'+output_dir)
+
+all_ID = set([key for key in AX[ax_type] for ax_type in AX])
+all_ID = sorted(list(all_ID))
+
+for key in tqdm.tqdm(all_ID):
+    
+    # Can't have slashes in filenames
+    f_name = os.path.join('data',output_dir, key.replace('/','_'))
+
+    data = {}
+    
+    for ax_type in AX:
+        if key in AX[ax_type]:
+            data[ax_type] = AX[ax_type][key]
+
+
+    with open(f_name,'w') as FOUT:
+        js = json.dumps(data,indent=2)
+        FOUT.write(js)
+
+
 
 

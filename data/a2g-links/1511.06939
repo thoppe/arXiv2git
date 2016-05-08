@@ -1,0 +1,9 @@
+{
+  "project": [
+    "hidasib/GRU4Rec", 
+    "royee17/DS_Workshop"
+  ], 
+  "citation": [
+    "dennybritz/deeplearning-papernotes"
+  ]
+}

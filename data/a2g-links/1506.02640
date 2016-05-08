@@ -1,0 +1,12 @@
+{
+  "project": [
+    "yushroom/caffe-yolo"
+  ], 
+  "citation": [
+    "kjw0612/awesome-deep-vision", 
+    "sunshineatnoon/Paper-Collection", 
+    "abhshkdz/papers", 
+    "imatge-upc/readcv", 
+    "NVTUANHUT/deeplearning"
+  ]
+}

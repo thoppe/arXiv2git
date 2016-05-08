@@ -1,0 +1,9 @@
+{
+  "project": [
+    "georgios-stats/PISAA_Rastrigin", 
+    "georgios-stats/PISAA_ProtAB2D", 
+    "georgios-stats/PISAA_ProtAB3D", 
+    "georgios-stats/PISAA_Ising2D", 
+    "georgios-stats/PISAA_BNLDD"
+  ]
+}

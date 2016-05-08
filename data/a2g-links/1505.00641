@@ -1,0 +1,7 @@
+{
+  "project": [
+    "ibayer/fastFM", 
+    "ibayer/fastFM-core", 
+    "ibayer/fastFM-fork"
+  ]
+}

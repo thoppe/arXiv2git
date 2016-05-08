@@ -1,0 +1,6 @@
+{
+  "project": [
+    "jdrugo/vb_linear", 
+    "jdrugo/vb_logit"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "project": [
+    "dl-lab/dnn-multidigit-recognition", 
+    "itaicaspi/SVHN-Multi-Digit-torch", 
+    "itaicaspi/SVHN-Multi-Digit-torch"
+  ]
+}

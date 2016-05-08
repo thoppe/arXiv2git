@@ -1,0 +1,6 @@
+{
+  "project": [
+    "ApproxFun/SingularIntegralEquations.jl", 
+    "JuliaPackageMirrors/SingularIntegralEquations.jl"
+  ]
+}

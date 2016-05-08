@@ -1,0 +1,7 @@
+{
+  "project": [
+    "peterkovesi/PerceptualColourMaps.jl", 
+    "JuliaPackageMirrors/PerceptualColourMaps.jl", 
+    "bruceravel/Graphics-Gnuplot-Palettes"
+  ]
+}

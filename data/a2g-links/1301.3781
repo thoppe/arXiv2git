@@ -1,0 +1,21 @@
+{
+  "project": [
+    "dhammack/Word2VecExample", 
+    "wdbm/abstraction", 
+    "deborausujono/word2vecpy", 
+    "pablomelo/word2vec", 
+    "sanyam5/papers-per-week", 
+    "cran/PythonInR", 
+    "yandex/faster-rnnlm", 
+    "scottyli/faster-rnnlm", 
+    "asu-labs/wordvec", 
+    "izeye/ai", 
+    "jesege/py-cbow", 
+    "mhjabreel/word2vec_theano"
+  ], 
+  "citation": [
+    "carpedm20/awesome-torch", 
+    "dennybritz/deeplearning-papernotes", 
+    "kristjankorjus/applied-deep-learning-resources"
+  ]
+}

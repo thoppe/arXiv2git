@@ -1,0 +1,10 @@
+{
+  "project": [
+    "lisa-lab/pylearn2", 
+    "gdesjardins/pylearn2_bio", 
+    "KennethPierce/pylearnk", 
+    "JesseLivezey/plankton", 
+    "hyqneuron/pylearn2-maxsom", 
+    "CKehl/pylearn2"
+  ]
+}

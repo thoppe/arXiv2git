@@ -1,0 +1,14 @@
+{
+  "project": [
+    "alrojo/lasagne_residual_network", 
+    "dnlcrl/deep-residual-networks-pyfunt", 
+    "mike-bowles/hdDeepLearningStudy", 
+    "n3011/Deep_Residual_Network", 
+    "KaimingHe/resnet-1k-layers", 
+    "panpanpanpan/Machine-Learning"
+  ], 
+  "citation": [
+    "abhshkdz/papers", 
+    "TensorFlowKR/awesome_tensorflow_implementations"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "project": [
+    "ryankiros/visual-semantic-embedding"
+  ], 
+  "citation": [
+    "kjw0612/awesome-deep-vision", 
+    "kjw0612/awesome-rnn", 
+    "shudct/studying-RNN"
+  ]
+}

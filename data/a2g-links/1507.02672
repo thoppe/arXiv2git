@@ -1,0 +1,10 @@
+{
+  "project": [
+    "casperkaae/parmesan", 
+    "tilaks/stochastic-ladder"
+  ], 
+  "citation": [
+    "Element-Research/dpnn", 
+    "dennybritz/deeplearning-papernotes"
+  ]
+}

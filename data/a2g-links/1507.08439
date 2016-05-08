@@ -1,0 +1,6 @@
+{
+  "project": [
+    "lyst/lightfm-paper", 
+    "qqwjq/lightFM"
+  ]
+}

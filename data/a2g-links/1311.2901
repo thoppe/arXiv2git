@@ -1,0 +1,11 @@
+{
+  "project": [
+    "guruucsd/CNN_visualization", 
+    "keunwoochoi/Auralisation"
+  ], 
+  "citation": [
+    "ry/deep_learning_glossary", 
+    "dennybritz/deeplearning-papernotes", 
+    "abhshkdz/papers"
+  ]
+}

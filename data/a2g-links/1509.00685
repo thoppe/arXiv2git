@@ -1,0 +1,13 @@
+{
+  "project": [
+    "jli05/cs224n-project", 
+    "jli05/cs224n-project", 
+    "youyanggu/rcnn", 
+    "falcondai/trained-ABS-model"
+  ], 
+  "citation": [
+    "lipiji/app-dl", 
+    "carpedm20/awesome-torch", 
+    "dennybritz/deeplearning-papernotes"
+  ]
+}

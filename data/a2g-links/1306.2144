@@ -1,0 +1,7 @@
+{
+  "project": [
+    "j-faria/MultiNest", 
+    "JohannesBuchner/PyMultiNest", 
+    "piero-ranalli/LFTools"
+  ]
+}

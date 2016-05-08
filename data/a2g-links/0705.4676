@@ -1,0 +1,6 @@
+{
+  "project": [
+    "lemire/rollinghashcpp", 
+    "lemire/rollinghashjava"
+  ]
+}

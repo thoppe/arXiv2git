@@ -1,0 +1,10 @@
+{
+  "project": [
+    "Anode1/SMBPANN", 
+    "daijialun/tiny_cnn", 
+    "nyanp/tiny-cnn"
+  ], 
+  "citation": [
+    "sunshineatnoon/Paper-Collection"
+  ]
+}

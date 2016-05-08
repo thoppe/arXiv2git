@@ -1,0 +1,6 @@
+{
+  "project": [
+    "HEPcodes/MG5_aMC", 
+    "HEPcodes/pythia-pgs"
+  ]
+}

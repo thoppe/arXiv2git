@@ -1,0 +1,11 @@
+{
+  "project": [
+    "dsw/proquint", 
+    "SUNET/python-proquint", 
+    "dominictarr/d64", 
+    "bjjb/proquint", 
+    "Fil/proquint-php", 
+    "thepirat000/Proquint.NET", 
+    "phillord/identitas"
+  ]
+}

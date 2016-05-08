@@ -1,0 +1,9 @@
+{
+  "project": [
+    "clinicalml/dgm"
+  ], 
+  "citation": [
+    "kastnerkyle/PyGotham2015", 
+    "mjwillson/Bayesic"
+  ]
+}

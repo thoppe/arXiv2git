@@ -1,0 +1,20 @@
+{
+  "project": [
+    "vsl9/Sentiment-Analysis-with-Convolutional-Networks", 
+    "flipkart-incubator/optimus", 
+    "lavishyadav/Question-Classification", 
+    "hadyelsahar/CNN-RelationExtraction", 
+    "ericrincon/CNNW2V", 
+    "r-terada/cnn_sentence_chainer", 
+    "nestle1993/SE16-Task6-Stance-Detection", 
+    "ppaanngggg/ConvSent", 
+    "zted/TBIR_Proj", 
+    "yuhaozhang/sentence-convnet"
+  ], 
+  "citation": [
+    "lipiji/app-dl", 
+    "dennybritz/deeplearning-papernotes", 
+    "abhshkdz/papers", 
+    "styleNie/notes"
+  ]
+}
