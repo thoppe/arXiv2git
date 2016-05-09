@@ -35,7 +35,8 @@ Sorted by github `stars`...
 
 - [x] Write working chrome extension (empty project)
 - [x] Get code links to pull from github
-- [x] Fix missing projects? 
+- [x] Fix missing projects?
+- [x] Handle missing references
 - [ ] Push project to chrome store
 
 ## Website roadmap
