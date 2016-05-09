@@ -1,12 +1,12 @@
 {
   "project": [
+    "LeoHung/eazymp", 
+    "uqfoundation/dill", 
+    "uqfoundation/multiprocess", 
     "uqfoundation/mystic", 
     "uqfoundation/pathos", 
-    "uqfoundation/dill", 
-    "uqfoundation/pyina", 
     "uqfoundation/pox", 
     "uqfoundation/ppft", 
-    "LeoHung/eazymp", 
-    "uqfoundation/multiprocess"
+    "uqfoundation/pyina"
   ]
 }

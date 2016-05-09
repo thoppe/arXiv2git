@@ -1,6 +1,5 @@
 {
   "project": [
-    "pglauner/point_in_polygon", 
     "pglauner/point_in_polygon"
   ]
 }

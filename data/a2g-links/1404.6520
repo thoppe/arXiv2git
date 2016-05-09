@@ -1,6 +1,6 @@
 {
   "project": [
-    "richardreeve/Diversity.jl", 
-    "JuliaPackageMirrors/Diversity.jl"
+    "JuliaPackageMirrors/Diversity.jl", 
+    "richardreeve/Diversity.jl"
   ]
 }

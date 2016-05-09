@@ -1,6 +1,6 @@
 {
   "project": [
-    "gyk/fgseg", 
-    "gyk/bgs-gcut"
+    "gyk/bgs-gcut", 
+    "gyk/fgseg"
   ]
 }

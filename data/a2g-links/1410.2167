@@ -1,7 +1,7 @@
 {
   "project": [
     "nickkw/slambench", 
-    "yun-li/SLAMBench", 
-    "pamela-project/slambench"
+    "pamela-project/slambench", 
+    "yun-li/SLAMBench"
   ]
 }

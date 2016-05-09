@@ -1,7 +1,7 @@
 {
   "project": [
-    "shelhamer/fcn.berkeleyvision.org", 
-    "nightrome/matconvnet-calvin"
+    "nightrome/matconvnet-calvin", 
+    "shelhamer/fcn.berkeleyvision.org"
   ], 
   "citation": [
     "kjw0612/awesome-deep-vision"

@@ -1,6 +1,6 @@
 {
   "project": [
-    "thibautjombart/treescape", 
-    "cran/treescape"
+    "cran/treescape", 
+    "thibautjombart/treescape"
   ]
 }

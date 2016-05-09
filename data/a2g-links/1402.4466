@@ -1,7 +1,7 @@
 {
   "project": [
-    "lemire/EWAHBoolArray", 
     "lemire/BitSliceIndex", 
+    "lemire/EWAHBoolArray", 
     "lemire/javaewah"
   ]
 }

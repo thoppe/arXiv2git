@@ -1,13 +1,13 @@
 {
   "project": [
-    "tungpd/sentence2vec", 
     "bwgroff/SemanticZip", 
-    "nisarg64/Sentiment-Analysis-Word2Vec", 
     "g-strou/NLPChallenge", 
-    "nishoknm/Censorship-Prediction-Doc2Vec"
+    "nisarg64/Sentiment-Analysis-Word2Vec", 
+    "nishoknm/Censorship-Prediction-Doc2Vec", 
+    "tungpd/sentence2vec"
   ], 
   "citation": [
-    "lipiji/app-dl", 
-    "dennybritz/deeplearning-papernotes"
+    "dennybritz/deeplearning-papernotes", 
+    "lipiji/app-dl"
   ]
 }

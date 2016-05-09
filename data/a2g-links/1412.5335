@@ -1,9 +1,9 @@
 {
   "project": [
+    "ELind77/Candidate_Classifier", 
     "mesnilgr/iclr15", 
-    "wgsjack199213/ensemble_sentiment_analysis", 
     "shashankg7/Deep-Learning-for-NLP-Resources", 
-    "ELind77/Candidate_Classifier"
+    "wgsjack199213/ensemble_sentiment_analysis"
   ], 
   "citation": [
     "lampts/data_science"

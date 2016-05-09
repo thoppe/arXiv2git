@@ -1,6 +1,5 @@
 {
   "project": [
-    "ismav/sparseNMF", 
     "ismav/sparseNMF"
   ]
 }

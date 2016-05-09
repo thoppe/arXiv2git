@@ -1,6 +1,6 @@
 {
   "project": [
-    "sebeq33/StegoMinecraft", 
-    "picamator/SteganographyKit"
+    "picamator/SteganographyKit", 
+    "sebeq33/StegoMinecraft"
   ]
 }

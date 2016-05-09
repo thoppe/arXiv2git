@@ -1,6 +1,6 @@
 {
   "project": [
-    "maximeFl/data_psf", 
-    "andferrari/muffin.jl"
+    "andferrari/muffin.jl", 
+    "maximeFl/data_psf"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "project": [
+    "cran/pweight", 
     "dobriban/pvalue_weighting_matlab", 
-    "dobriban/pweight", 
-    "cran/pweight"
+    "dobriban/pweight"
   ]
 }

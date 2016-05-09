@@ -1,7 +1,7 @@
 {
   "project": [
-    "naviddianati/GraphPruning", 
+    "aaronrkaufman/GraphPruneR", 
     "datamade/fuzzycategory", 
-    "aaronrkaufman/GraphPruneR"
+    "naviddianati/GraphPruning"
   ]
 }

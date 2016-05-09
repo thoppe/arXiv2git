@@ -1,7 +1,7 @@
 {
   "project": [
-    "dmlc/xgboost", 
-    "VoodooLunchbox/xgboost"
+    "VoodooLunchbox/xgboost", 
+    "dmlc/xgboost"
   ], 
   "citation": [
     "steven2358/mlx"

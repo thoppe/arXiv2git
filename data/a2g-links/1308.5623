@@ -1,7 +1,7 @@
 {
   "project": [
     "TaddyLab/gamlr", 
-    "cran/gamlr", 
-    "TaddyLab/pose"
+    "TaddyLab/pose", 
+    "cran/gamlr"
   ]
 }

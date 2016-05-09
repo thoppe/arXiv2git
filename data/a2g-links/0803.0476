@@ -1,12 +1,11 @@
 {
   "project": [
-    "upphiminn/jLouvain", 
     "RanningMan/LouvainAlgorithm", 
     "abernatskiy/findcommunities", 
-    "ledyba/go-louvain", 
     "ledyba/cpp-louvain-fast", 
+    "ledyba/go-louvain", 
     "msionkin/community-detection", 
-    "msionkin/community-detection", 
-    "twanvl/graph-cluster"
+    "twanvl/graph-cluster", 
+    "upphiminn/jLouvain"
   ]
 }

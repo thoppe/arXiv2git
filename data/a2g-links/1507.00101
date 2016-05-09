@@ -1,7 +1,7 @@
 {
   "project": [
-    "kevinlin311tw/Caffe-DeepBinaryCode", 
     "WenchenLi/PhotoRestoration", 
+    "kevinlin311tw/Caffe-DeepBinaryCode", 
     "zexihan/caffe-SSDH"
   ]
 }

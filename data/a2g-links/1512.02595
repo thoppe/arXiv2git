@@ -1,10 +1,10 @@
 {
   "project": [
-    "alrojo/RNNProteins", 
-    "DeepMark/deepmark"
+    "DeepMark/deepmark", 
+    "alrojo/RNNProteins"
   ], 
   "citation": [
-    "lampts/data_science", 
-    "dennybritz/deeplearning-papernotes"
+    "dennybritz/deeplearning-papernotes", 
+    "lampts/data_science"
   ]
 }

@@ -1,13 +1,13 @@
 {
   "project": [
-    "pkuwwt/phat", 
     "blazs/phat", 
-    "zhusj/phat", 
-    "suhailshergill/phat", 
-    "hksonngan/phat", 
-    "xoltar/phat", 
     "crvs/phat", 
+    "hksonngan/phat", 
+    "ohai/phat-debianize", 
+    "pkuwwt/phat", 
+    "suhailshergill/phat", 
     "toggled/phat", 
-    "ohai/phat-debianize"
+    "xoltar/phat", 
+    "zhusj/phat"
   ]
 }

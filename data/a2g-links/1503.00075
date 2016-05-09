@@ -1,11 +1,10 @@
 {
   "project": [
     "stanfordnlp/treelstm", 
-    "stanfordnlp/treelstm", 
     "uhub/awesome-lua"
   ], 
   "citation": [
-    "kjw0612/awesome-rnn", 
-    "carpedm20/awesome-torch"
+    "carpedm20/awesome-torch", 
+    "kjw0612/awesome-rnn"
   ]
 }

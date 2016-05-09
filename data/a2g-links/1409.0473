@@ -1,19 +1,18 @@
 {
   "project": [
-    "lbsantos/anaa", 
     "chuckgu/RNN", 
-    "chuckgu/RNN", 
-    "seankim902/nmt", 
     "evanthebouncy/simple_attn_rnn", 
-    "lobachevzky/seq2seq"
+    "lbsantos/anaa", 
+    "lobachevzky/seq2seq", 
+    "seankim902/nmt"
   ], 
   "citation": [
-    "jiyfeng/DiscoMT", 
-    "kjw0612/awesome-rnn", 
-    "kastnerkyle/PyGotham2015", 
-    "shudct/studying-RNN", 
+    "abhshkdz/papers", 
     "dennybritz/deeplearning-papernotes", 
+    "jiyfeng/DiscoMT", 
+    "kastnerkyle/PyGotham2015", 
+    "kjw0612/awesome-rnn", 
     "neuralconcept/DrWhoAI", 
-    "abhshkdz/papers"
+    "shudct/studying-RNN"
   ]
 }

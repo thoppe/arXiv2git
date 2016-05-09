@@ -3,7 +3,7 @@
     "shashankg7/Deep-Learning-for-NLP-Resources"
   ], 
   "citation": [
-    "lampts/data_science", 
-    "dennybritz/deeplearning-papernotes"
+    "dennybritz/deeplearning-papernotes", 
+    "lampts/data_science"
   ]
 }

@@ -4,9 +4,9 @@
     "wojzaremba/algorithm-learning"
   ], 
   "citation": [
-    "kjw0612/awesome-rnn", 
-    "junhyukoh/deep-reinforcement-learning-papers", 
     "carpedm20/awesome-torch", 
-    "dennybritz/deeplearning-papernotes"
+    "dennybritz/deeplearning-papernotes", 
+    "junhyukoh/deep-reinforcement-learning-papers", 
+    "kjw0612/awesome-rnn"
   ]
 }

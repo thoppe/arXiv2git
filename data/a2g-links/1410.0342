@@ -1,6 +1,6 @@
 {
   "project": [
-    "madeleineudell/LowRankModels.jl", 
-    "JuliaPackageMirrors/LowRankModels.jl"
+    "JuliaPackageMirrors/LowRankModels.jl", 
+    "madeleineudell/LowRankModels.jl"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "project": [
-    "alexgkendall/caffe-segnet", 
     "alexgkendall/SegNet-Tutorial", 
-    "pradyu1993/segnet", 
+    "alexgkendall/caffe-segnet", 
     "gogartom/caffe-textmaps", 
+    "pradyu1993/segnet", 
     "yixi1992/segnet_play"
   ], 
   "citation": [

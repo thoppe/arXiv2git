@@ -1,7 +1,7 @@
 {
   "project": [
-    "cmendl/matrix-quantum-boltzmann-1D", 
     "cmendl/inhom-quantum-boltzmann-fourier-c", 
-    "cmendl/inhom-quantum-boltzmann-fourier-matlab"
+    "cmendl/inhom-quantum-boltzmann-fourier-matlab", 
+    "cmendl/matrix-quantum-boltzmann-1D"
   ]
 }

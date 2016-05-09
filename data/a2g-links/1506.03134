@@ -3,7 +3,7 @@
     "vshallc/PtrNets"
   ], 
   "citation": [
-    "kjw0612/awesome-rnn", 
-    "dennybritz/deeplearning-papernotes"
+    "dennybritz/deeplearning-papernotes", 
+    "kjw0612/awesome-rnn"
   ]
 }

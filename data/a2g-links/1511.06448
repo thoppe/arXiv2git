@@ -1,6 +1,6 @@
 {
   "project": [
-    "pbashivan/EEGLearn", 
-    "pawarren/neurofusion"
+    "pawarren/neurofusion", 
+    "pbashivan/EEGLearn"
   ]
 }

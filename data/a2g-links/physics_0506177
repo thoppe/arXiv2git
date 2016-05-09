@@ -1,6 +1,6 @@
 {
   "project": [
-    "latrocinia/rotation_sets", 
-    "cffk/orientation"
+    "cffk/orientation", 
+    "latrocinia/rotation_sets"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "project": [
-    "jachiam/rnn-playground", 
-    "flukeskywalker/highway-networks", 
-    "fluency03/sequence-rnn-py", 
     "Yevgnen/LSTM", 
-    "Yevgnen/seq2seq"
+    "Yevgnen/seq2seq", 
+    "fluency03/sequence-rnn-py", 
+    "flukeskywalker/highway-networks", 
+    "jachiam/rnn-playground"
   ], 
   "citation": [
     "Element-Research/rnn", 

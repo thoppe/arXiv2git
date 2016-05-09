@@ -1,7 +1,7 @@
 {
   "project": [
-    "eldad-a/ridge-directed-ring-detector", 
+    "eldad-a/natural-cubic-smoothing-splines", 
     "eldad-a/particle-tracking", 
-    "eldad-a/natural-cubic-smoothing-splines"
+    "eldad-a/ridge-directed-ring-detector"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "project": [
     "DeepScale/SqueezeNet", 
-    "songhan/SqueezeNet-Generator", 
-    "songhan/SqueezeNet-Deep-Compression", 
     "songhan/SqueezeNet-DSD-Training", 
+    "songhan/SqueezeNet-Deep-Compression", 
+    "songhan/SqueezeNet-Generator", 
     "songhan/SqueezeNet-Residual", 
     "styleNie/SqueezeNet"
   ], 

@@ -3,10 +3,10 @@
     "yushroom/caffe-yolo"
   ], 
   "citation": [
-    "kjw0612/awesome-deep-vision", 
-    "sunshineatnoon/Paper-Collection", 
+    "NVTUANHUT/deeplearning", 
     "abhshkdz/papers", 
     "imatge-upc/readcv", 
-    "NVTUANHUT/deeplearning"
+    "kjw0612/awesome-deep-vision", 
+    "sunshineatnoon/Paper-Collection"
   ]
 }

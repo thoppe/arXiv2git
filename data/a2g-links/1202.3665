@@ -1,7 +1,7 @@
 {
   "project": [
     "dfm/clda", 
-    "mattpitkin/yamm", 
-    "eggplantbren/StretchR"
+    "eggplantbren/StretchR", 
+    "mattpitkin/yamm"
   ]
 }

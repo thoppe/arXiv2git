@@ -1,6 +1,5 @@
 {
   "project": [
-    "wammar/bayesian-record-linkage", 
     "wammar/bayesian-record-linkage"
   ]
 }

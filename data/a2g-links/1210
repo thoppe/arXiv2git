@@ -1,6 +1,6 @@
 {
   "project": [
-    "tleeuwen/CGMN", 
-    "nesanders/calc_LZC"
+    "nesanders/calc_LZC", 
+    "tleeuwen/CGMN"
   ]
 }

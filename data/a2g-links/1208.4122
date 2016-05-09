@@ -1,6 +1,6 @@
 {
   "project": [
-    "sbailey/empca", 
-    "evanbiederstedt/HMF2.0"
+    "evanbiederstedt/HMF2.0", 
+    "sbailey/empca"
   ]
 }

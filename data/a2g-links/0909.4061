@@ -1,10 +1,10 @@
 {
   "project": [
-    "ryotat/TKML10", 
-    "rustandruin/NystromBestiary", 
-    "mrgloom/PCA-and-SVD-Evaluation", 
-    "allenlu95/matrix-factorization-algorithms", 
     "ajverster/FastPCA", 
-    "ccsevers/scalding-linalg"
+    "allenlu95/matrix-factorization-algorithms", 
+    "ccsevers/scalding-linalg", 
+    "mrgloom/PCA-and-SVD-Evaluation", 
+    "rustandruin/NystromBestiary", 
+    "ryotat/TKML10"
   ]
 }

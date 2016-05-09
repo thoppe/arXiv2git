@@ -1,6 +1,6 @@
 {
   "project": [
-    "travisbrady/py-soft-impute", 
-    "modularity/softImpute-ALS"
+    "modularity/softImpute-ALS", 
+    "travisbrady/py-soft-impute"
   ]
 }

@@ -1,19 +1,19 @@
 {
   "project": [
-    "facebook/bAbI-tasks", 
-    "facebook/MemNN", 
-    "shincling/MemNN_and_Varieties", 
-    "seominjoon/memnn-tensorflow", 
-    "vinhkhuc/MemN2N-babi-python", 
-    "poyuwu/QA", 
     "Anmol6/bAbi-tasks", 
+    "facebook/MemNN", 
+    "facebook/bAbI-tasks", 
+    "poyuwu/QA", 
+    "seominjoon/memnn-tensorflow", 
+    "shincling/MemNN_and_Varieties", 
+    "vinhkhuc/MemN2N-babi-python", 
     "vivek201189/MemoryNetworks"
   ], 
   "citation": [
-    "kjw0612/awesome-rnn", 
-    "kastnerkyle/PyGotham2015", 
+    "TensorFlowKR/awesome_tensorflow_implementations", 
     "carpedm20/awesome-torch", 
     "dennybritz/deeplearning-papernotes", 
-    "TensorFlowKR/awesome_tensorflow_implementations"
+    "kastnerkyle/PyGotham2015", 
+    "kjw0612/awesome-rnn"
   ]
 }

@@ -1,7 +1,6 @@
 {
   "project": [
-    "benglard/Rhetorical-Analysis", 
-    "benglard/Rhetorical-Analysis", 
-    "JustinRoll/NLP_project2"
+    "JustinRoll/NLP_project2", 
+    "benglard/Rhetorical-Analysis"
   ]
 }

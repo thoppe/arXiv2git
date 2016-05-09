@@ -1,9 +1,9 @@
 {
   "project": [
-    "lawmurray/NPZD", 
-    "lawmurray/PeriodicDriftBridge", 
     "lawmurray/FederalFundsRate", 
-    "lawmurray/SIR", 
-    "lawmurray/OrnsteinUhlenbeckBridge"
+    "lawmurray/NPZD", 
+    "lawmurray/OrnsteinUhlenbeckBridge", 
+    "lawmurray/PeriodicDriftBridge", 
+    "lawmurray/SIR"
   ]
 }

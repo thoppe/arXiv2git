@@ -1,7 +1,7 @@
 {
   "project": [
-    "cran/tmg", 
     "aripakman/hmc-tmg", 
+    "cran/tmg", 
     "cunni/epmgp"
   ]
 }

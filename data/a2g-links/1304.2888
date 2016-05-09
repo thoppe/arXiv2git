@@ -1,11 +1,9 @@
 {
   "project": [
-    "nekonaute/roborobo2", 
+    "KungPaoChicken/monee3", 
+    "inakiFernandez/roborobo3", 
     "nekonaute/roborobo2", 
     "nekonaute/roborobo3", 
-    "inakiFernandez/roborobo3", 
-    "inakiFernandez/roborobo3", 
-    "ropaul/myRobocologie", 
-    "KungPaoChicken/monee3"
+    "ropaul/myRobocologie"
   ]
 }

@@ -1,7 +1,6 @@
 {
   "project": [
-    "stites/CSSR", 
     "barak/CSSR", 
-    "barak/CSSR"
+    "stites/CSSR"
   ]
 }

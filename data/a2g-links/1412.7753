@@ -1,10 +1,9 @@
 {
   "project": [
     "facebook/SCRNNs", 
-    "facebook/SCRNNs", 
-    "yandex/faster-rnnlm", 
+    "fiskio/PiHKAL", 
     "uhub/awesome-lua", 
-    "fiskio/PiHKAL"
+    "yandex/faster-rnnlm"
   ], 
   "citation": [
     "carpedm20/awesome-torch", 

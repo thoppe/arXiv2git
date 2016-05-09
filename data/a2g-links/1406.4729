@@ -1,7 +1,7 @@
 {
   "project": [
-    "szagoruyko/imagine-nn", 
-    "ekyurdakul/Comp541-Term-Project"
+    "ekyurdakul/Comp541-Term-Project", 
+    "szagoruyko/imagine-nn"
   ], 
   "citation": [
     "auroraxie/Kaggle-NDSB", 

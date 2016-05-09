@@ -1,6 +1,6 @@
 {
   "project": [
-    "emmt/OIFITS.jl", 
-    "JuliaPackageMirrors/OIFITS.jl"
+    "JuliaPackageMirrors/OIFITS.jl", 
+    "emmt/OIFITS.jl"
   ]
 }

@@ -3,8 +3,8 @@
     "flukeskywalker/highway-networks"
   ], 
   "citation": [
-    "lipiji/app-dl", 
     "dennybritz/deeplearning-papernotes", 
+    "lipiji/app-dl", 
     "styleNie/notes"
   ]
 }

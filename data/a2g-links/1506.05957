@@ -1,6 +1,6 @@
 {
   "project": [
-    "barbagroup/inexact-gmres", 
-    "barbagroup/fmm-bem-relaxed"
+    "barbagroup/fmm-bem-relaxed", 
+    "barbagroup/inexact-gmres"
   ]
 }

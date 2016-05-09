@@ -3,9 +3,9 @@
     "kundan2510/vqa_LSTM"
   ], 
   "citation": [
+    "johnny5550822/awesome-neat-rnn", 
     "kjw0612/awesome-deep-vision", 
     "kjw0612/awesome-rnn", 
-    "shudct/studying-RNN", 
-    "johnny5550822/awesome-neat-rnn"
+    "shudct/studying-RNN"
   ]
 }

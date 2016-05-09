@@ -1,6 +1,6 @@
 {
   "project": [
-    "gbeliako/bcnrandom", 
-    "gbeliako/bcnrand"
+    "gbeliako/bcnrand", 
+    "gbeliako/bcnrandom"
   ]
 }

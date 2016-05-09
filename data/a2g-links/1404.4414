@@ -1,7 +1,6 @@
 {
   "project": [
-    "tnagler/kdecopula", 
-    "tnagler/kdecopula", 
-    "cran/kdecopula"
+    "cran/kdecopula", 
+    "tnagler/kdecopula"
   ]
 }

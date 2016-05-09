@@ -1,8 +1,8 @@
 {
   "project": [
-    "nick-ulle/2014-sta299-baines", 
     "eggplantbren/DNest3", 
     "eggplantbren/DNest4", 
+    "nick-ulle/2014-sta299-baines", 
     "tripathi/DNestD3SB"
   ]
 }

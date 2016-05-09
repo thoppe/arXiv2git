@@ -1,11 +1,11 @@
 {
   "project": [
-    "clab/knowledge", 
     "XiaoranJin/memnn_demo", 
+    "clab/knowledge", 
     "facebook/bAbI-tasks"
   ], 
   "citation": [
-    "kjw0612/awesome-rnn", 
-    "kastnerkyle/PyGotham2015"
+    "kastnerkyle/PyGotham2015", 
+    "kjw0612/awesome-rnn"
   ]
 }

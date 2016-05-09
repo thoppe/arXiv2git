@@ -1,9 +1,9 @@
 {
   "project": [
+    "StijnBertrand/BwaForCrayXMT", 
+    "hexpunK/bwa-parallel", 
     "lh3/bwa", 
     "turner11/BWA", 
-    "StijnBertrand/BwaForCrayXMT", 
-    "yinlonghui/bwa-fmeas", 
-    "hexpunK/bwa-parallel"
+    "yinlonghui/bwa-fmeas"
   ]
 }

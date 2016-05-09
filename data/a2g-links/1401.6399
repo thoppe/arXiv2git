@@ -1,15 +1,15 @@
 {
   "project": [
+    "Genbox/CSharpFastPFOR", 
+    "cruppstahl/libfor", 
+    "cruppstahl/libvbyte", 
+    "lemire/FastDifferentialCoding", 
+    "lemire/FastPFor", 
+    "lemire/FrameOfReference", 
+    "lemire/JavaFastPFOR", 
+    "lemire/LittleIntPacker", 
     "lemire/SIMDCompressionAndIntersection", 
     "lemire/simdcomp", 
-    "lemire/FrameOfReference", 
-    "cruppstahl/libfor", 
-    "lemire/FastPFor", 
-    "stephanepoirier/varint", 
-    "lemire/JavaFastPFOR", 
-    "cruppstahl/libvbyte", 
-    "lemire/LittleIntPacker", 
-    "lemire/FastDifferentialCoding", 
-    "Genbox/CSharpFastPFOR"
+    "stephanepoirier/varint"
   ]
 }

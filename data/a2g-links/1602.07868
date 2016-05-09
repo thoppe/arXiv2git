@@ -4,7 +4,7 @@
     "TimSalimans/weight_norm"
   ], 
   "citation": [
-    "muupan/deep-reinforcement-learning-papers", 
-    "dennybritz/deeplearning-papernotes"
+    "dennybritz/deeplearning-papernotes", 
+    "muupan/deep-reinforcement-learning-papers"
   ]
 }

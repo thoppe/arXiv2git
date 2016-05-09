@@ -1,8 +1,7 @@
 {
   "project": [
-    "wush978/FeatureHashing", 
-    "wush978/FeatureHashing", 
     "cran/FeatureHashing", 
-    "wnzhang/rtb-papers"
+    "wnzhang/rtb-papers", 
+    "wush978/FeatureHashing"
   ]
 }

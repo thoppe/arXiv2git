@@ -1,32 +1,32 @@
 {
   "project": [
-    "rbgirshick/fast-rcnn", 
     "WilsonWangTHU/pedestrian-detection-thu2015", 
-    "ogroth/vgcanon", 
-    "rohitgirdhar-cmu-experimental/fast-rcnn-with3D", 
-    "prendingerlab/PeopleDetection-Chen", 
+    "chenxistephen/fast-rcnn", 
+    "ekyurdakul/Comp541-Term-Project", 
+    "herobd/fast-rcnn", 
+    "heroinlin/fast_rcnn", 
+    "kumardeepakr3/fast-rcnn", 
+    "marcopede/wsd", 
     "nicci1771/fast-rcnn", 
     "nightrome/matconvnet-calvin", 
-    "xiaolonw/fast-rcnn_flow", 
-    "xiaolonw/fast-rcnn_flow2", 
-    "herobd/fast-rcnn", 
-    "xiaolonw/fast-rcnn-distillation", 
+    "ogroth/vgcanon", 
+    "prendingerlab/PeopleDetection-Chen", 
+    "rbgirshick/fast-rcnn", 
+    "rohitgirdhar-cmu-experimental/fast-rcnn-with3D", 
     "xiaolonw/fast-rcnn-backup", 
-    "xiaolonw/fast-rcnn-normal", 
-    "chenxistephen/fast-rcnn", 
     "xiaolonw/fast-rcnn-depth", 
+    "xiaolonw/fast-rcnn-distillation", 
     "xiaolonw/fast-rcnn-hha", 
     "xiaolonw/fast-rcnn-norm2", 
+    "xiaolonw/fast-rcnn-normal", 
     "xiaolonw/fast-rcnn-normg", 
-    "marcopede/wsd", 
-    "heroinlin/fast_rcnn", 
-    "ekyurdakul/Comp541-Term-Project", 
-    "kumardeepakr3/fast-rcnn"
+    "xiaolonw/fast-rcnn_flow", 
+    "xiaolonw/fast-rcnn_flow2"
   ], 
   "citation": [
-    "kjw0612/awesome-deep-vision", 
-    "sunshineatnoon/Paper-Collection", 
+    "NVTUANHUT/deeplearning", 
     "imatge-upc/readcv", 
-    "NVTUANHUT/deeplearning"
+    "kjw0612/awesome-deep-vision", 
+    "sunshineatnoon/Paper-Collection"
   ]
 }

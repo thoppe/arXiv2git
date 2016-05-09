@@ -1,6 +1,6 @@
 {
   "project": [
-    "jgscott/FDRreg", 
-    "cran/FDRreg"
+    "cran/FDRreg", 
+    "jgscott/FDRreg"
   ]
 }

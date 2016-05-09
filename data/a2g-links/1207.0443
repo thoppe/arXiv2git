@@ -1,6 +1,6 @@
 {
   "project": [
-    "sacek/LPegLJ", 
-    "reusee/paza"
+    "reusee/paza", 
+    "sacek/LPegLJ"
   ]
 }

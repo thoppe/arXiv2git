@@ -4,9 +4,9 @@
     "didw/lstm.torch"
   ], 
   "citation": [
+    "NVTUANHUT/deeplearning", 
     "kjw0612/awesome-deep-vision", 
     "kjw0612/awesome-rnn", 
-    "shudct/studying-RNN", 
-    "NVTUANHUT/deeplearning"
+    "shudct/studying-RNN"
   ]
 }

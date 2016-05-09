@@ -1,6 +1,6 @@
 {
   "project": [
-    "dmurfet/mf", 
-    "dmurfet/cutsystems"
+    "dmurfet/cutsystems", 
+    "dmurfet/mf"
   ]
 }

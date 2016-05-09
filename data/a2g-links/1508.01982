@@ -1,6 +1,6 @@
 {
   "project": [
-    "JuliaPackageMirrors/JuMP.jl", 
-    "JuliaOpt/JuMP.jl"
+    "JuliaOpt/JuMP.jl", 
+    "JuliaPackageMirrors/JuMP.jl"
   ]
 }

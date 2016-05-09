@@ -1,6 +1,6 @@
 {
   "project": [
-    "kapelner/ICEbox", 
-    "AustinRochford/PyCEbox"
+    "AustinRochford/PyCEbox", 
+    "kapelner/ICEbox"
   ]
 }

@@ -1,6 +1,5 @@
 {
   "project": [
-    "fdayoub/ros-semantic-mapper", 
     "fdayoub/ros-semantic-mapper"
   ]
 }

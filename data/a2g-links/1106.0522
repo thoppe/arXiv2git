@@ -1,7 +1,7 @@
 {
   "project": [
+    "HEPcodes/MG5_aMC", 
     "dsmiff/MG5-NLO", 
-    "fliptanedo/UCI-spin-0-mediators", 
-    "HEPcodes/MG5_aMC"
+    "fliptanedo/UCI-spin-0-mediators"
   ]
 }

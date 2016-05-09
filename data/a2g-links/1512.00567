@@ -1,11 +1,11 @@
 {
   "project": [
-    "n3011/Inception_v3_GoogLeNet", 
-    "DeepMark/deepmark"
+    "DeepMark/deepmark", 
+    "n3011/Inception_v3_GoogLeNet"
   ], 
   "citation": [
-    "ry/deep_learning_glossary", 
     "dennybritz/deeplearning-papernotes", 
-    "kristjankorjus/applied-deep-learning-resources"
+    "kristjankorjus/applied-deep-learning-resources", 
+    "ry/deep_learning_glossary"
   ]
 }

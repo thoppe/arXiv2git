@@ -1,13 +1,13 @@
 {
   "project": [
-    "nagadomi/waifu2x", 
     "Scthe/cnn-Super-Resolution", 
     "aaron-xichen/Reproduction", 
-    "stps/waifu2x_matlab", 
-    "ackimball/autocolorization"
+    "ackimball/autocolorization", 
+    "nagadomi/waifu2x", 
+    "stps/waifu2x_matlab"
   ], 
   "citation": [
-    "kjw0612/awesome-deep-vision", 
-    "carpedm20/awesome-torch"
+    "carpedm20/awesome-torch", 
+    "kjw0612/awesome-deep-vision"
   ]
 }

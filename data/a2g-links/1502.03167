@@ -1,22 +1,22 @@
 {
   "project": [
-    "lim0606/ndsb", 
-    "orian/torch-mnist-batch-normalization", 
-    "lim0606/lasagne-googlenet", 
-    "lim0606/caffe-googlenet-bn-experiment", 
-    "lim0606/caffe-googlenet-bn", 
     "LouisFoucard/StereoConvNet", 
-    "Seth-Park/fundus-diabetes-detection"
+    "Seth-Park/fundus-diabetes-detection", 
+    "lim0606/caffe-googlenet-bn", 
+    "lim0606/caffe-googlenet-bn-experiment", 
+    "lim0606/lasagne-googlenet", 
+    "lim0606/ndsb", 
+    "orian/torch-mnist-batch-normalization"
   ], 
   "citation": [
-    "steven2358/mlx", 
-    "auroraxie/Kaggle-NDSB", 
     "KirkHadley/icml2015_papers", 
-    "kjw0612/awesome-deep-vision", 
-    "ry/deep_learning_glossary", 
+    "auroraxie/Kaggle-NDSB", 
     "dennybritz/deeplearning-papernotes", 
+    "kjw0612/awesome-deep-vision", 
     "kristjankorjus/applied-deep-learning-resources", 
-    "sunshineatnoon/Paper-Collection", 
-    "pokey/deep-learning-landscape"
+    "pokey/deep-learning-landscape", 
+    "ry/deep_learning_glossary", 
+    "steven2358/mlx", 
+    "sunshineatnoon/Paper-Collection"
   ]
 }

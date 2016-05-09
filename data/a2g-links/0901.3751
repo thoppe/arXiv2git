@@ -1,10 +1,10 @@
 {
   "project": [
-    "vmg/libewok", 
-    "lemire/EWAHBoolArray", 
-    "lemire/csharpewah", 
     "gguzun/HybridBitmap", 
     "jiayuasu/EWAH-Compressed-Bitmap", 
-    "lemire/javaewah"
+    "lemire/EWAHBoolArray", 
+    "lemire/csharpewah", 
+    "lemire/javaewah", 
+    "vmg/libewok"
   ]
 }

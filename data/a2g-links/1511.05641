@@ -1,16 +1,14 @@
 {
   "project": [
-    "uhub/awesome-c-sharp", 
-    "soumith/net2net.torch", 
-    "soumith/net2net.torch", 
-    "paengs/Net2Net", 
     "DanielSlater/Net2Net", 
-    "DanielSlater/Net2Net"
+    "paengs/Net2Net", 
+    "soumith/net2net.torch", 
+    "uhub/awesome-c-sharp"
   ], 
   "citation": [
+    "abhshkdz/papers", 
     "carpedm20/awesome-torch", 
     "dennybritz/deeplearning-papernotes", 
-    "abhshkdz/papers", 
     "styleNie/notes"
   ]
 }

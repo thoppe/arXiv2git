@@ -1,14 +1,14 @@
 {
   "project": [
-    "keavney/sequence-translation", 
     "fiskio/PiHKAL", 
+    "keavney/sequence-translation", 
     "masaki-y/translation-by-rnn"
   ], 
   "citation": [
-    "kjw0612/awesome-rnn", 
-    "lampts/data_science", 
+    "abhshkdz/papers", 
     "carpedm20/awesome-torch", 
     "dennybritz/deeplearning-papernotes", 
-    "abhshkdz/papers"
+    "kjw0612/awesome-rnn", 
+    "lampts/data_science"
   ]
 }

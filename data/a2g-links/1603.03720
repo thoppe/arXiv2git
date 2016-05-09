@@ -1,7 +1,7 @@
 {
   "project": [
-    "lvnguyen/prime_tuples", 
     "Amarchuk/primes-freq-50kk", 
+    "lvnguyen/prime_tuples", 
     "timeeeee/consecutive-prime-distribution"
   ]
 }

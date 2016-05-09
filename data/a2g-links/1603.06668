@@ -1,6 +1,6 @@
 {
   "project": [
-    "gustavla/autocolorize", 
-    "ackimball/autocolorization"
+    "ackimball/autocolorization", 
+    "gustavla/autocolorize"
   ]
 }

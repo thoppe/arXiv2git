@@ -1,7 +1,7 @@
 {
   "project": [
-    "npow/ubuntu-corpus", 
     "npow/ubottu", 
+    "npow/ubuntu-corpus", 
     "ryan-lowe/Ubuntu-Dialogue-Generationv2", 
     "shashankg7/Deep-Learning-for-NLP-Resources"
   ], 

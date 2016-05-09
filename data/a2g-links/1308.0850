@@ -1,20 +1,20 @@
 {
   "project": [
+    "Bjornwolf/language-model", 
+    "Denly/AIFont", 
     "JanTkacik/NTM", 
-    "mohammadpz/Recurrent-Neural-Networks", 
+    "Plested/char-LSTM-RNN", 
+    "ShigekiKarita/gravesnet", 
+    "TiSU32/play", 
     "csae1152/MyPredictiveFarm", 
     "jakubzitny/ATM", 
-    "Bjornwolf/language-model", 
-    "ShigekiKarita/gravesnet", 
-    "szcom/rnnlib", 
-    "Plested/char-LSTM-RNN", 
-    "TiSU32/play", 
     "jarmstrong2/handwritingnet", 
-    "Denly/AIFont"
+    "mohammadpz/Recurrent-Neural-Networks", 
+    "szcom/rnnlib"
   ], 
   "citation": [
-    "kjw0612/awesome-rnn", 
+    "johnny5550822/awesome-neat-rnn", 
     "kastnerkyle/PyGotham2015", 
-    "johnny5550822/awesome-neat-rnn"
+    "kjw0612/awesome-rnn"
   ]
 }

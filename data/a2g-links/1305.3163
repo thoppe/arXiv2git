@@ -1,7 +1,7 @@
 {
   "project": [
+    "acieroid/aac-ml", 
     "deeglaze/pushdown-shift-reset", 
-    "jensnicolay/aac", 
-    "acieroid/aac-ml"
+    "jensnicolay/aac"
   ]
 }

@@ -1,13 +1,13 @@
 {
   "project": [
+    "chunshen1987/VISHNew", 
+    "garetxe/SCI", 
+    "garetxe/lie-singlets", 
+    "garetxe/polytope-scan", 
+    "gavinsalam/1404.7353-validation", 
     "jackdawjackdaw/2dfourier", 
     "ribault/CFT-Review", 
-    "chunshen1987/VISHNew", 
-    "gavinsalam/1404.7353-validation", 
-    "scarrazza/apfel", 
-    "garetxe/lie-singlets", 
-    "garetxe/SCI", 
-    "garetxe/polytope-scan"
+    "scarrazza/apfel"
   ], 
   "citation": [
     "davidsd/sdpb"

@@ -1,7 +1,6 @@
 {
   "project": [
     "taolei87/text_convnet", 
-    "taolei87/text_convnet", 
     "youyanggu/rcnn"
   ]
 }

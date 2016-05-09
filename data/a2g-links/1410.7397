@@ -1,7 +1,6 @@
 {
   "project": [
     "dstndstn/unwise-sdss-phot", 
-    "dstndstn/unwise-sdss-phot-paper", 
     "dstndstn/unwise-sdss-phot-paper"
   ]
 }

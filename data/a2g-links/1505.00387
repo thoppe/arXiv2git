@@ -1,13 +1,13 @@
 {
   "project": [
-    "zomux/deepy", 
-    "flukeskywalker/highway-networks", 
-    "ZhangBanger/highway-vs-gradnet", 
     "Avmb/lowrank-highwaynetwork", 
-    "bnsh/highwaytest"
+    "ZhangBanger/highway-vs-gradnet", 
+    "bnsh/highwaytest", 
+    "flukeskywalker/highway-networks", 
+    "zomux/deepy"
   ], 
   "citation": [
-    "lipiji/app-dl", 
-    "coreylynch/grid-lstm"
+    "coreylynch/grid-lstm", 
+    "lipiji/app-dl"
   ]
 }

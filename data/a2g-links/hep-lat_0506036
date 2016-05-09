@@ -1,8 +1,8 @@
 {
   "project": [
-    "karlnordstrom/LatticeCode", 
-    "uchuutamashi/lqcd", 
     "dutra/lattice_qcd", 
-    "lbovard/qcd"
+    "karlnordstrom/LatticeCode", 
+    "lbovard/qcd", 
+    "uchuutamashi/lqcd"
   ]
 }

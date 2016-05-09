@@ -1,12 +1,11 @@
 {
   "project": [
-    "ml-lab/grid-lstm", 
-    "ml-lab/grid-lstm", 
-    "coreylynch/grid-lstm"
+    "coreylynch/grid-lstm", 
+    "ml-lab/grid-lstm"
   ], 
   "citation": [
-    "kjw0612/awesome-rnn", 
     "carpedm20/awesome-torch", 
-    "coreylynch/grid-lstm"
+    "coreylynch/grid-lstm", 
+    "kjw0612/awesome-rnn"
   ]
 }

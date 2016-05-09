@@ -1,6 +1,6 @@
 {
   "project": [
-    "szagoruyko/imagine-nn", 
-    "AndrewDotson/StochasticPoolingRegionSelection"
+    "AndrewDotson/StochasticPoolingRegionSelection", 
+    "szagoruyko/imagine-nn"
   ]
 }

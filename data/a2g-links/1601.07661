@@ -1,6 +1,6 @@
 {
   "project": [
-    "caibolun/DehazeNet", 
-    "allenyangyl/dehaze"
+    "allenyangyl/dehaze", 
+    "caibolun/DehazeNet"
   ]
 }

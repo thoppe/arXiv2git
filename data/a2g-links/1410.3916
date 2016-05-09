@@ -1,13 +1,12 @@
 {
   "project": [
-    "XiaoranJin/memnn_demo", 
     "Mome/memory-networks", 
-    "vivek201189/MemoryNetworks", 
+    "XiaoranJin/memnn_demo", 
     "fatihozh/comp441projectMemNN", 
-    "fatihozh/comp441projectMemNN"
+    "vivek201189/MemoryNetworks"
   ], 
   "citation": [
-    "kjw0612/awesome-rnn", 
-    "kastnerkyle/PyGotham2015"
+    "kastnerkyle/PyGotham2015", 
+    "kjw0612/awesome-rnn"
   ]
 }

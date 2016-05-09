@@ -1,13 +1,12 @@
 {
   "project": [
-    "yueatsprograms/Stochastic_Depth", 
     "dblN/stochastic_depth_keras", 
-    "dblN/stochastic_depth_keras", 
-    "tilaks/stochastic-ladder"
+    "tilaks/stochastic-ladder", 
+    "yueatsprograms/Stochastic_Depth"
   ], 
   "citation": [
-    "dennybritz/deeplearning-papernotes", 
     "abhshkdz/papers", 
+    "dennybritz/deeplearning-papernotes", 
     "styleNie/notes"
   ]
 }

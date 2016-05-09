@@ -1,7 +1,7 @@
 {
   "project": [
-    "stared/tagoverflow", 
+    "deric/fast-community", 
     "erlfas/CNM", 
-    "deric/fast-community"
+    "stared/tagoverflow"
   ]
 }

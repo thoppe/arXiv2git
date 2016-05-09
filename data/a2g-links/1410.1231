@@ -1,6 +1,6 @@
 {
   "project": [
-    "westrik/bitcoin", 
-    "stavros0/bitcoin-price-prediction"
+    "stavros0/bitcoin-price-prediction", 
+    "westrik/bitcoin"
   ]
 }

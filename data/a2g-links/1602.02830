@@ -3,7 +3,7 @@
     "hillbig/binary_net"
   ], 
   "citation": [
-    "lipiji/app-dl", 
-    "dennybritz/deeplearning-papernotes"
+    "dennybritz/deeplearning-papernotes", 
+    "lipiji/app-dl"
   ]
 }

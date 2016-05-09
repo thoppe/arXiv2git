@@ -1,11 +1,10 @@
 {
   "project": [
-    "yandex/faster-rnnlm", 
-    "scottyli/faster-rnnlm", 
     "izeye/ai", 
+    "michaelfarrell76/End-To-End-Generative-Dialogue", 
     "neoscode/GRU-recurrent-network", 
-    "neoscode/GRU-recurrent-network", 
-    "michaelfarrell76/End-To-End-Generative-Dialogue"
+    "scottyli/faster-rnnlm", 
+    "yandex/faster-rnnlm"
   ], 
   "citation": [
     "Element-Research/rnn", 

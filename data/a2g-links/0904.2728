@@ -1,7 +1,6 @@
 {
   "project": [
     "Thorsten2k3/GraphDiameterApproximator", 
-    "bobbthebuilder/GraphDiameterApproximator", 
     "bobbthebuilder/GraphDiameterApproximator"
   ]
 }

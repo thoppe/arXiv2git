@@ -1,6 +1,6 @@
 {
   "project": [
-    "kkapsner/hiddenMarkovModel", 
-    "bhmm/bhmm"
+    "bhmm/bhmm", 
+    "kkapsner/hiddenMarkovModel"
   ]
 }

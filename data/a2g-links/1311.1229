@@ -1,6 +1,6 @@
 {
   "project": [
-    "HEPcodes/Delphes3", 
-    "Argonne-National-Laboratory/ProMC"
+    "Argonne-National-Laboratory/ProMC", 
+    "HEPcodes/Delphes3"
   ]
 }

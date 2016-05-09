@@ -1,7 +1,7 @@
 {
   "project": [
     "PriyankaKhante/nlp_spf", 
-    "hinhrt/spf", 
-    "YannWang/spf"
+    "YannWang/spf", 
+    "hinhrt/spf"
   ]
 }

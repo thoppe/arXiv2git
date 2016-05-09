@@ -1,7 +1,6 @@
 {
   "project": [
     "akyrola/shotgun", 
-    "akyrola/shotgun", 
     "lianos/buckshot"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "project": [
-    "tcew/occa.deprecated", 
+    "artv3/myOCCA", 
     "tcew/OCCA2", 
-    "artv3/myOCCA"
+    "tcew/occa.deprecated"
   ]
 }

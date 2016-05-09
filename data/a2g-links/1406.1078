@@ -1,19 +1,19 @@
 {
   "project": [
+    "Avmb/lowrank-gru", 
     "ajschumacher/lists", 
     "keavney/sequence-translation", 
-    "Avmb/lowrank-gru", 
     "masaki-y/translation-by-rnn"
   ], 
   "citation": [
-    "jiyfeng/DiscoMT", 
     "Element-Research/rnn", 
-    "kjw0612/awesome-rnn", 
-    "kastnerkyle/PyGotham2015", 
-    "shudct/studying-RNN", 
-    "johnny5550822/awesome-neat-rnn", 
     "carpedm20/awesome-torch", 
     "dennybritz/deeplearning-papernotes", 
-    "neuralconcept/DrWhoAI"
+    "jiyfeng/DiscoMT", 
+    "johnny5550822/awesome-neat-rnn", 
+    "kastnerkyle/PyGotham2015", 
+    "kjw0612/awesome-rnn", 
+    "neuralconcept/DrWhoAI", 
+    "shudct/studying-RNN"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "project": [
-    "weiway/oscgroups", 
+    "RossBencina/oscgroups", 
     "galp/oscgroups", 
-    "RossBencina/oscgroups"
+    "weiway/oscgroups"
   ]
 }

@@ -4,7 +4,7 @@
     "yandexdataschool/AgentNet"
   ], 
   "citation": [
-    "kjw0612/awesome-rnn", 
-    "eiso/awesome-data-science"
+    "eiso/awesome-data-science", 
+    "kjw0612/awesome-rnn"
   ]
 }

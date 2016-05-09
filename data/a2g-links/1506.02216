@@ -1,8 +1,8 @@
 {
   "project": [
     "clab/knowledge", 
-    "kastnerkyle/vrnn-samples", 
-    "jych/nips2015_vrnn"
+    "jych/nips2015_vrnn", 
+    "kastnerkyle/vrnn-samples"
   ], 
   "citation": [
     "kastnerkyle/PyGotham2015"

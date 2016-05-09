@@ -1,6 +1,5 @@
 {
   "project": [
-    "peterwittek/ncpol2sdpa-cpp", 
     "peterwittek/ncpol2sdpa-cpp"
   ]
 }

@@ -1,9 +1,7 @@
 {
   "project": [
-    "jacsor/DMMT", 
-    "jacsor/DMMT", 
     "jacsor/ARMtree", 
     "jacsor/ARMtree2", 
-    "jacsor/ARMtree2"
+    "jacsor/DMMT"
   ]
 }

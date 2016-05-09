@@ -1,9 +1,8 @@
 {
   "project": [
-    "fakenmc/pphpc", 
+    "fakenmc/micompm", 
     "fakenmc/micompr", 
-    "fakenmc/simoututils", 
-    "fakenmc/simoututils", 
-    "fakenmc/micompm"
+    "fakenmc/pphpc", 
+    "fakenmc/simoututils"
   ]
 }

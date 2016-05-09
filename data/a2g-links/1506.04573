@@ -1,6 +1,5 @@
 {
   "project": [
-    "GRAAL-Research/domain_adaptation_of_linear_classifiers", 
     "GRAAL-Research/domain_adaptation_of_linear_classifiers"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "project": [
-    "cran/fdasrvf", 
-    "jdtuck/ElasticFDA.jl", 
     "JuliaPackageMirrors/ElasticFDA.jl", 
-    "jdtuck/fdasrvf_R", 
+    "cran/fdasrvf", 
     "glemaitre/fdasrsf", 
-    "jdtuck/fdasrsf_python"
+    "jdtuck/ElasticFDA.jl", 
+    "jdtuck/fdasrsf_python", 
+    "jdtuck/fdasrvf_R"
   ]
 }

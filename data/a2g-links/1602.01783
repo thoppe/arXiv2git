@@ -1,14 +1,12 @@
 {
   "project": [
     "Zeta36/Asynchronous-Methods-for-Deep-Reinforcement-Learning", 
-    "Zeta36/Asynchronous-Methods-for-Deep-Reinforcement-Learning", 
     "miyosuda/async_deep_reinforce", 
-    "wulfebw/async_rl", 
     "muupan/async-rl", 
-    "muupan/async-rl"
+    "wulfebw/async_rl"
   ], 
   "citation": [
-    "muupan/deep-reinforcement-learning-papers", 
-    "junhyukoh/deep-reinforcement-learning-papers"
+    "junhyukoh/deep-reinforcement-learning-papers", 
+    "muupan/deep-reinforcement-learning-papers"
   ]
 }

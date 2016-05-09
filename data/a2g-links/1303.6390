@@ -1,8 +1,7 @@
 {
   "project": [
-    "hakimsd9/ksupLogistic", 
-    "ignaciorlando/overfeat-glaucoma", 
     "blaschko/ksupport", 
-    "blaschko/ksupport"
+    "hakimsd9/ksupLogistic", 
+    "ignaciorlando/overfeat-glaucoma"
   ]
 }

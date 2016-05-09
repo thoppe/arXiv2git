@@ -1,8 +1,8 @@
 {
   "project": [
-    "zhangxiangxiao/Crepe", 
+    "aichemzee/Crepe", 
     "jacklanchantin/optimize", 
-    "aichemzee/Crepe"
+    "zhangxiangxiao/Crepe"
   ], 
   "citation": [
     "carpedm20/awesome-torch", 

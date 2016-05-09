@@ -1,13 +1,13 @@
 {
   "project": [
-    "lh3/bwa", 
+    "StijnBertrand/BwaForCrayXMT", 
+    "TGenNorth/ISGPipeline", 
+    "dattagargi/MutationAnalysisPipeline", 
     "evolvedmicrobe/BWA-Sharp", 
+    "hexpunK/bwa-parallel", 
+    "lh3/bwa", 
     "sjackman/white-spruce-organelles-paper", 
     "turner11/BWA", 
-    "StijnBertrand/BwaForCrayXMT", 
-    "yinlonghui/bwa-fmeas", 
-    "hexpunK/bwa-parallel", 
-    "dattagargi/MutationAnalysisPipeline", 
-    "TGenNorth/ISGPipeline"
+    "yinlonghui/bwa-fmeas"
   ]
 }

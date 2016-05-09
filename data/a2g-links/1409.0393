@@ -1,6 +1,6 @@
 {
   "project": [
-    "QuickChick/TestingNoninterference", 
-    "QuickChick/IFC"
+    "QuickChick/IFC", 
+    "QuickChick/TestingNoninterference"
   ]
 }

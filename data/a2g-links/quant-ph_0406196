@@ -1,7 +1,7 @@
 {
   "project": [
-    "rharper2/Juqst", 
     "StationQ/Liquid", 
-    "griest024/LiquidProject"
+    "griest024/LiquidProject", 
+    "rharper2/Juqst"
   ]
 }

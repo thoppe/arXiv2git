@@ -167,7 +167,6 @@ def find_arxiv_links(text):
 
     # Remove the idens with xxx (usually placeholders)
     xid = [x for x in xid if 'xxx' not in x]
-    
 
     return xid
 
@@ -218,7 +217,7 @@ for key in tqdm.tqdm(all_ID):
     
     for ax_type in AX:
         if key in AX[ax_type]:
-            data[ax_type] = AX[ax_type][key]
+            data[ax_type] = sorted(list(set(AX[ax_type][key])))
 
 
     with open(f_name,'w') as FOUT:

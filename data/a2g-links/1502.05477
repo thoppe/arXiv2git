@@ -1,8 +1,8 @@
 {
   "project": [
+    "joschu/modular_rl", 
     "wojzaremba/trpo", 
-    "wojzaremba/trpo_rnn", 
-    "joschu/modular_rl"
+    "wojzaremba/trpo_rnn"
   ], 
   "citation": [
     "KirkHadley/icml2015_papers"

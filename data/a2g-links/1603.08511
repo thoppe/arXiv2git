@@ -1,7 +1,7 @@
 {
   "project": [
-    "richzhang/colorization", 
-    "inlmouse/ImageColorization"
+    "inlmouse/ImageColorization", 
+    "richzhang/colorization"
   ], 
   "citation": [
     "dykang/neurallanguage-notes"

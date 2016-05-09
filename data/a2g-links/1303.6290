@@ -1,7 +1,7 @@
 {
   "project": [
-    "jonathansick/skyoffset", 
     "jonathansick/MoAstro", 
+    "jonathansick/skyoffset", 
     "jonathansick/skysubpub"
   ]
 }

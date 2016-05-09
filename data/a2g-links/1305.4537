@@ -1,7 +1,7 @@
 {
   "project": [
-    "nenadmarkus/pico", 
     "mdqyy/rotfacefinder", 
-    "mrgloom/LBP-and-LBT"
+    "mrgloom/LBP-and-LBT", 
+    "nenadmarkus/pico"
   ]
 }

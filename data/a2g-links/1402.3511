@@ -1,6 +1,6 @@
 {
   "project": [
-    "makistsantekidis/clockworkrnn", 
-    "iaroslav-ai/recurrent"
+    "iaroslav-ai/recurrent", 
+    "makistsantekidis/clockworkrnn"
   ]
 }

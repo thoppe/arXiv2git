@@ -1,9 +1,9 @@
 {
   "project": [
-    "ryankiros/skip-thoughts", 
-    "ryankiros/neural-storyteller", 
     "izeye/ai", 
-    "luzc08/skip-thought"
+    "luzc08/skip-thought", 
+    "ryankiros/neural-storyteller", 
+    "ryankiros/skip-thoughts"
   ], 
   "citation": [
     "kjw0612/awesome-deep-vision", 

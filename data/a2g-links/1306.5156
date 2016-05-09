@@ -1,6 +1,6 @@
 {
   "project": [
-    "symeapp/syme", 
-    "cryodex/cryodex"
+    "cryodex/cryodex", 
+    "symeapp/syme"
   ]
 }

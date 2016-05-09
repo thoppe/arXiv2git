@@ -1,6 +1,6 @@
 {
   "project": [
-    "sjoudaki/cfhtlens_revisited", 
-    "mraveri/cfhtlens_revisited."
+    "mraveri/cfhtlens_revisited.", 
+    "sjoudaki/cfhtlens_revisited"
   ]
 }

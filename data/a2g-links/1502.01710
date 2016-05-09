@@ -1,11 +1,11 @@
 {
   "project": [
-    "zhangxiangxiao/Crepe", 
+    "aichemzee/Crepe", 
     "jacklanchantin/optimize", 
-    "aichemzee/Crepe"
+    "zhangxiangxiao/Crepe"
   ], 
   "citation": [
-    "eiso/awesome-data-science", 
-    "dennybritz/deeplearning-papernotes"
+    "dennybritz/deeplearning-papernotes", 
+    "eiso/awesome-data-science"
   ]
 }

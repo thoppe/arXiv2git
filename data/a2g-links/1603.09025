@@ -1,12 +1,12 @@
 {
   "project": [
     "cooijmanstim/recurrent-batch-normalization", 
-    "taey16/lstm", 
-    "iassael/torch-bnlstm"
+    "iassael/torch-bnlstm", 
+    "taey16/lstm"
   ], 
   "citation": [
-    "dennybritz/deeplearning-papernotes", 
     "abhshkdz/papers", 
+    "dennybritz/deeplearning-papernotes", 
     "pokey/deep-learning-landscape"
   ]
 }

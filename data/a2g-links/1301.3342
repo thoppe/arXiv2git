@@ -1,7 +1,7 @@
 {
   "project": [
-    "plops/mnist-svd-tsne", 
     "mschubert/bhtsneR", 
-    "osdf/py_bh_tsne"
+    "osdf/py_bh_tsne", 
+    "plops/mnist-svd-tsne"
   ]
 }

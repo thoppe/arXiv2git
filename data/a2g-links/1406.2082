@@ -1,6 +1,6 @@
 {
   "project": [
-    "simonster/Lasso.jl", 
-    "JuliaPackageMirrors/Lasso.jl"
+    "JuliaPackageMirrors/Lasso.jl", 
+    "simonster/Lasso.jl"
   ]
 }

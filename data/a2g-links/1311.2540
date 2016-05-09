@@ -1,7 +1,6 @@
 {
   "project": [
     "rygorous/ryg_rans", 
-    "skal65535/fsc", 
     "skal65535/fsc"
   ]
 }

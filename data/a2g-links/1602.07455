@@ -1,6 +1,6 @@
 {
   "project": [
-    "nclab/nclab.github.io", 
-    "nclab/ea.prover"
+    "nclab/ea.prover", 
+    "nclab/nclab.github.io"
   ]
 }

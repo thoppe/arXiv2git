@@ -1,9 +1,9 @@
 {
   "project": [
-    "nick-ulle/2014-sta299-baines", 
-    "j-faria/MultiNest", 
     "JohannesBuchner/PyMultiNest", 
+    "j-faria/MultiNest", 
     "kbarbary/NestedSampling.jl", 
+    "nick-ulle/2014-sta299-baines", 
     "piero-ranalli/LFTools", 
     "rjw57/MultiNest"
   ]

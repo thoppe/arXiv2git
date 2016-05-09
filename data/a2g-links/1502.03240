@@ -1,7 +1,7 @@
 {
   "project": [
-    "torrvision/crfasrnn", 
     "ZENGXH/segmentCaffe", 
+    "torrvision/crfasrnn", 
     "yixi1992/rnn"
   ], 
   "citation": [

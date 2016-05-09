@@ -1,6 +1,6 @@
 {
   "project": [
-    "cmendl/irredLS", 
-    "cmendl/diatomic"
+    "cmendl/diatomic", 
+    "cmendl/irredLS"
   ]
 }

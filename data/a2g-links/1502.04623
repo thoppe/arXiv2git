@@ -1,19 +1,19 @@
 {
   "project": [
+    "drewlinsley/draw_classify", 
     "jbornschein/draw", 
     "skaae/lasagne-draw", 
     "vivanov879/draw", 
-    "zomux/deepy-draw", 
-    "drewlinsley/draw_classify", 
-    "wagnermarkd/draw"
+    "wagnermarkd/draw", 
+    "zomux/deepy-draw"
   ], 
   "citation": [
     "KirkHadley/icml2015_papers", 
-    "kjw0612/awesome-rnn", 
-    "kastnerkyle/PyGotham2015", 
-    "johnny5550822/awesome-neat-rnn", 
+    "abhshkdz/papers", 
     "carpedm20/awesome-torch", 
-    "ry/deep_learning_glossary", 
-    "abhshkdz/papers"
+    "johnny5550822/awesome-neat-rnn", 
+    "kastnerkyle/PyGotham2015", 
+    "kjw0612/awesome-rnn", 
+    "ry/deep_learning_glossary"
   ]
 }

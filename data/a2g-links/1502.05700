@@ -1,7 +1,7 @@
 {
   "project": [
-    "RuiShu/Neural-Net-Bayesian-Optimization", 
     "Kyate/hyerparameter_optimization", 
+    "RuiShu/Neural-Net-Bayesian-Optimization", 
     "ilija139/paper-a-day"
   ], 
   "citation": [

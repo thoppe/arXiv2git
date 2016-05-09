@@ -1,20 +1,20 @@
 {
   "project": [
-    "wojzaremba/lstm", 
-    "e-lab/RNN", 
-    "dhalpern/A4", 
-    "pvarsh/lstm_private", 
-    "wydnyu/DL4", 
     "PorkShoulderHolder/lstm", 
-    "nedfex/DL_A4", 
+    "dhalpern/A4", 
+    "e-lab/RNN", 
     "jacklanchantin/lstm", 
-    "taey16/lstm"
+    "nedfex/DL_A4", 
+    "pvarsh/lstm_private", 
+    "taey16/lstm", 
+    "wojzaremba/lstm", 
+    "wydnyu/DL4"
   ], 
   "citation": [
-    "lampts/data_science", 
     "carpedm20/awesome-torch", 
     "coreylynch/grid-lstm", 
     "dennybritz/deeplearning-papernotes", 
+    "lampts/data_science", 
     "mihaelacr/paper-notes"
   ]
 }

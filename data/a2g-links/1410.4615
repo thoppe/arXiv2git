@@ -1,13 +1,13 @@
 {
   "project": [
-    "wojciechz/learning_to_execute", 
     "hassyGo/N3LP", 
-    "indiejoseph/chinese-char-rnn"
+    "indiejoseph/chinese-char-rnn", 
+    "wojciechz/learning_to_execute"
   ], 
   "citation": [
-    "kjw0612/awesome-rnn", 
     "carpedm20/awesome-torch", 
+    "dennybritz/deeplearning-papernotes", 
     "eiso/awesome-data-science", 
-    "dennybritz/deeplearning-papernotes"
+    "kjw0612/awesome-rnn"
   ]
 }

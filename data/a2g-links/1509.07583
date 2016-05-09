@@ -1,6 +1,6 @@
 {
   "project": [
-    "garthtarr/mplot", 
-    "cran/mplot"
+    "cran/mplot", 
+    "garthtarr/mplot"
   ]
 }

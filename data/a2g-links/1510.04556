@@ -1,7 +1,7 @@
 {
   "project": [
-    "jsy1001/oifitslib", 
+    "JuliaPackageMirrors/OIFITS.jl", 
     "emmt/OIFITS.jl", 
-    "JuliaPackageMirrors/OIFITS.jl"
+    "jsy1001/oifitslib"
   ]
 }

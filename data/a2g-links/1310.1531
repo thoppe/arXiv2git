@@ -1,7 +1,7 @@
 {
   "project": [
+    "Kadenze/siamese_net", 
     "UCBAIR/decaf-release", 
-    "zkfairytale/CNN_Image_Classifications", 
-    "Kadenze/siamese_net"
+    "zkfairytale/CNN_Image_Classifications"
   ]
 }

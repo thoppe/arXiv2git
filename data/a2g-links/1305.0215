@@ -1,9 +1,9 @@
 {
   "project": [
+    "cocoaaa/powerlaw", 
     "jeffalstott/powerlaw", 
     "roxyboy/powerlaw", 
-    "yiyuezhuo/zhihu-distribution-test", 
     "volconix/powerlaw", 
-    "cocoaaa/powerlaw"
+    "yiyuezhuo/zhihu-distribution-test"
   ]
 }

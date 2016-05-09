@@ -1,20 +1,20 @@
 {
   "project": [
-    "kelvinxu/arctic-captions", 
-    "jazzsaxmafia/show_attend_and_tell", 
-    "kracwarlock/action-recognition-visual-attention", 
-    "cxj273/arctic-captions", 
-    "seankim902/imageQA", 
-    "jazzsaxmafia/show_attend_and_tell.tensorflow", 
     "Z-TANG/arctic-captions-origin", 
+    "cxj273/arctic-captions", 
     "ducminhkhoi/Image-Captioning", 
+    "jazzsaxmafia/show_attend_and_tell", 
+    "jazzsaxmafia/show_attend_and_tell.tensorflow", 
+    "kelvinxu/arctic-captions", 
+    "kracwarlock/action-recognition-visual-attention", 
+    "seankim902/imageQA", 
     "shreyansh219/image_captioning"
   ], 
   "citation": [
     "KirkHadley/icml2015_papers", 
-    "kjw0612/awesome-deep-vision", 
-    "kjw0612/awesome-rnn", 
+    "TensorFlowKR/awesome_tensorflow_implementations", 
     "dennybritz/deeplearning-papernotes", 
-    "TensorFlowKR/awesome_tensorflow_implementations"
+    "kjw0612/awesome-deep-vision", 
+    "kjw0612/awesome-rnn"
   ]
 }

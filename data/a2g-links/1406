@@ -1,6 +1,6 @@
 {
   "project": [
-    "pathron/SM-code", 
-    "dylan-harries/summerschol-fs-project"
+    "dylan-harries/summerschol-fs-project", 
+    "pathron/SM-code"
   ]
 }

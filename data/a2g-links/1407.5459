@@ -1,6 +1,6 @@
 {
   "project": [
-    "JohannesBuchner/ultranest-js", 
-    "JohannesBuchner/UltraNest"
+    "JohannesBuchner/UltraNest", 
+    "JohannesBuchner/ultranest-js"
   ]
 }

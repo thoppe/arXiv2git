@@ -1,6 +1,6 @@
 {
   "project": [
-    "lsst-pst/overview_paper", 
-    "jonathansick/bootcamp"
+    "jonathansick/bootcamp", 
+    "lsst-pst/overview_paper"
   ]
 }

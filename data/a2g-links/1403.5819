@@ -1,8 +1,8 @@
 {
   "project": [
+    "ebagli/ChannelingSpectrometer", 
     "ebagli/ExExChC12", 
     "ebagli/ExExChH42010", 
-    "ebagli/ExExChSLAC", 
-    "ebagli/ChannelingSpectrometer"
+    "ebagli/ExExChSLAC"
   ]
 }

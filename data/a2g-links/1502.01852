@@ -1,9 +1,9 @@
 {
   "project": [
-    "lim0606/ndsb", 
+    "Kaixhin/nninit", 
     "SYChienIsGod/hw1", 
     "jordipons/DRNN4ASS", 
-    "Kaixhin/nninit"
+    "lim0606/ndsb"
   ], 
   "citation": [
     "auroraxie/Kaggle-NDSB", 

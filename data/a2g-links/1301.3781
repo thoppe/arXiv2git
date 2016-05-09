@@ -1,17 +1,17 @@
 {
   "project": [
-    "dhammack/Word2VecExample", 
-    "wdbm/abstraction", 
-    "deborausujono/word2vecpy", 
-    "pablomelo/word2vec", 
-    "sanyam5/papers-per-week", 
-    "cran/PythonInR", 
-    "yandex/faster-rnnlm", 
-    "scottyli/faster-rnnlm", 
     "asu-labs/wordvec", 
+    "cran/PythonInR", 
+    "deborausujono/word2vecpy", 
+    "dhammack/Word2VecExample", 
     "izeye/ai", 
     "jesege/py-cbow", 
-    "mhjabreel/word2vec_theano"
+    "mhjabreel/word2vec_theano", 
+    "pablomelo/word2vec", 
+    "sanyam5/papers-per-week", 
+    "scottyli/faster-rnnlm", 
+    "wdbm/abstraction", 
+    "yandex/faster-rnnlm"
   ], 
   "citation": [
     "carpedm20/awesome-torch", 

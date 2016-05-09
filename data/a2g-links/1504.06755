@@ -1,6 +1,6 @@
 {
   "project": [
-    "pingmeix/TurkerGaze", 
-    "PrincetonVision/TurkerGaze"
+    "PrincetonVision/TurkerGaze", 
+    "pingmeix/TurkerGaze"
   ]
 }

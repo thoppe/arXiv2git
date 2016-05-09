@@ -1,6 +1,6 @@
 {
   "project": [
-    "medsec/riv", 
-    "lemire/clhash"
+    "lemire/clhash", 
+    "medsec/riv"
   ]
 }

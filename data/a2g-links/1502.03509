@@ -1,7 +1,7 @@
 {
   "project": [
-    "mgermain/MADE", 
-    "cottrell/mybin"
+    "cottrell/mybin", 
+    "mgermain/MADE"
   ], 
   "citation": [
     "KirkHadley/icml2015_papers"

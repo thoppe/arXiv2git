@@ -1,8 +1,8 @@
 {
   "project": [
-    "yaoli/GSN", 
-    "uchihashikenshi/GSNforEM", 
     "fengjiran/GSN", 
-    "peteykun/GSN"
+    "peteykun/GSN", 
+    "uchihashikenshi/GSNforEM", 
+    "yaoli/GSN"
   ]
 }
