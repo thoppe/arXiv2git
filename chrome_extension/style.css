@@ -1,0 +1,16 @@
+.arxiv2git {
+	background-color: #eee;
+	color: #000;
+	padding: .25em 0;
+	border-bottom: 1px solid #ccc;
+}
+
+.arxiv2git h1 {
+	margin: 0;
+	font-size: 1.1em;
+  padding: 0 0 .2em 20px;
+	font-weight: bold;
+	font-style: normal;
+  display: inline;
+}
+	
