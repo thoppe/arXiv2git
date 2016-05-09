@@ -1,5 +1,7 @@
 # arXiv2git
-Links the [arXiv](http://arxiv.org/) to github repos
+Links the [arXiv](http://arxiv.org/) to github repos. Implemented as a chrome extension, currently in alpha-status:
+
+[https://chrome.google.com/webstore/detail/gfhbipbocjiapodeflmklgnnnndplnpp/publish-delayed](https://chrome.google.com/webstore/detail/gfhbipbocjiapodeflmklgnnnndplnpp/publish-delayed)
 
 Why?
 
@@ -11,7 +13,9 @@ What?
 
 Citations (links to github) are automatically added (via a Chrome extension) directly to the arXiv site.
 
+-------------------------------------------------------------------------
 ![](writeup/example_screen.png)
+-------------------------------------------------------------------------
 
 What are `Projects`, `Citations`?
 
@@ -37,7 +41,8 @@ Sorted by github `stars`...
 - [x] Get code links to pull from github
 - [x] Fix missing projects?
 - [x] Handle missing references
-- [ ] Push project to chrome store
+- [x] Push project to chrome store
+- [ ] Test chrome install with other users
 
 ## Website roadmap
 
