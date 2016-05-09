@@ -1,4 +1,4 @@
-# <span style="text-transform: lowercase;">arXiv2git</span>
+# <span style="text-transform: lowercase;">ar<span style="text-transform: uppercase;">X</span>iv2git</span>
 
 ----------
 ### [Travis Hoppe](http://thoppe.github.io/)
