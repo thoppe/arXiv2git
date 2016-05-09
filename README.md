@@ -9,7 +9,9 @@ Why?
 
 What?
 
-Screenshot here
+Citations (links to github) are automatically added (via a Chrome extension) directly to the arXiv site.
+
+![](writeup/example_screen.png)
 
 What are `Projects`, `Citations`?
 
