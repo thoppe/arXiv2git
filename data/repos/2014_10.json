@@ -30,16 +30,16 @@
   {
     "description": "A Theano framework for building and training neural networks", 
     "language": "Python", 
-    "watchers_count": 786, 
+    "watchers_count": 788, 
     "created_at": "2014-10-06T00:08:32Z", 
     "forks_count": 232, 
-    "updated_at": "2016-05-06T00:19:36Z", 
-    "pushed_at": "2016-05-05T06:27:23Z", 
+    "updated_at": "2016-05-09T19:34:28Z", 
+    "pushed_at": "2016-05-09T19:20:37Z", 
     "git_url": "git://github.com/mila-udem/blocks.git", 
     "full_name": "mila-udem/blocks", 
-    "stargazers_count": 786, 
+    "stargazers_count": 788, 
     "id": 24829371, 
-    "size": 25939
+    "size": 25970
   }, 
   {
     "description": "ArXiv for negative scientific results.", 
@@ -118,12 +118,12 @@
     "created_at": "2014-10-17T20:14:31Z", 
     "forks_count": 19, 
     "updated_at": "2016-04-27T09:26:09Z", 
-    "pushed_at": "2016-05-05T15:47:17Z", 
+    "pushed_at": "2016-05-06T20:31:56Z", 
     "git_url": "git://github.com/seung-lab/znn-release.git", 
     "full_name": "seung-lab/znn-release", 
     "stargazers_count": 63, 
     "id": 25375276, 
-    "size": 140685
+    "size": 140726
   }, 
   {
     "description": "", 
@@ -170,28 +170,28 @@
   {
     "description": "Structured Edge Detection Toolbox", 
     "language": "Matlab", 
-    "watchers_count": 174, 
+    "watchers_count": 176, 
     "created_at": "2014-10-24T23:10:54Z", 
     "forks_count": 127, 
-    "updated_at": "2016-04-27T13:45:07Z", 
+    "updated_at": "2016-05-09T06:18:56Z", 
     "pushed_at": "2016-01-09T06:02:31Z", 
     "git_url": "git://github.com/pdollar/edges.git", 
     "full_name": "pdollar/edges", 
-    "stargazers_count": 174, 
+    "stargazers_count": 176, 
     "id": 25712432, 
     "size": 22382
   }, 
   {
     "description": " fastFM: A Library for Factorization Machines", 
     "language": "Python", 
-    "watchers_count": 169, 
+    "watchers_count": 170, 
     "created_at": "2014-10-27T12:25:51Z", 
-    "forks_count": 51, 
-    "updated_at": "2016-05-01T17:29:41Z", 
+    "forks_count": 52, 
+    "updated_at": "2016-05-09T10:14:27Z", 
     "pushed_at": "2016-04-12T20:52:01Z", 
     "git_url": "git://github.com/ibayer/fastFM.git", 
     "full_name": "ibayer/fastFM", 
-    "stargazers_count": 169, 
+    "stargazers_count": 170, 
     "id": 25817842, 
     "size": 2866
   }, 
@@ -244,12 +244,12 @@
     "created_at": "2014-10-16T14:06:03Z", 
     "forks_count": 1, 
     "updated_at": "2016-02-10T12:22:06Z", 
-    "pushed_at": "2016-05-02T15:31:10Z", 
+    "pushed_at": "2016-05-09T17:35:46Z", 
     "git_url": "git://github.com/pbastide/Phylogenetic-EM.git", 
     "full_name": "pbastide/Phylogenetic-EM", 
     "stargazers_count": 2, 
     "id": 25305011, 
-    "size": 717
+    "size": 753
   }, 
   {
     "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  HiDimMaxStable\u00a0\u2014\u00a0Inference\u00a0on\u00a0High\u00a0Dimensional\u00a0Max-Stable\u00a0Distributions.\u00a0Homepage:\u00a0http://arxiv.org/abs/1403.0065  ", 
@@ -282,14 +282,14 @@
   {
     "description": "Deep feature pyramids for various computer vision algorithms (DPMs, pyramid R-CNN, etc.) ", 
     "language": "Matlab", 
-    "watchers_count": 78, 
+    "watchers_count": 79, 
     "created_at": "2014-10-03T21:51:57Z", 
     "forks_count": 42, 
-    "updated_at": "2016-04-27T16:14:08Z", 
+    "updated_at": "2016-05-06T13:11:30Z", 
     "pushed_at": "2014-10-18T17:01:05Z", 
     "git_url": "git://github.com/rbgirshick/DeepPyramid.git", 
     "full_name": "rbgirshick/DeepPyramid", 
-    "stargazers_count": 78, 
+    "stargazers_count": 79, 
     "id": 24774992, 
     "size": 5362
   }, 
@@ -324,14 +324,14 @@
   {
     "description": "A Framework for the Volumetric Integration of Depth Images", 
     "language": "C++", 
-    "watchers_count": 118, 
+    "watchers_count": 119, 
     "created_at": "2014-10-06T11:30:27Z", 
     "forks_count": 73, 
-    "updated_at": "2016-05-05T12:43:14Z", 
+    "updated_at": "2016-05-06T08:12:43Z", 
     "pushed_at": "2016-04-29T08:06:03Z", 
     "git_url": "git://github.com/victorprad/InfiniTAM.git", 
     "full_name": "victorprad/InfiniTAM", 
-    "stargazers_count": 118, 
+    "stargazers_count": 119, 
     "id": 24843237, 
     "size": 1494
   }, 
@@ -352,14 +352,14 @@
   {
     "description": "CorEx or \"Correlation Explanation\" constructs a hierarchy of maximally informative representations of complex data.", 
     "language": "Python", 
-    "watchers_count": 85, 
+    "watchers_count": 86, 
     "created_at": "2014-10-10T16:11:01Z", 
     "forks_count": 11, 
-    "updated_at": "2016-05-05T14:21:58Z", 
+    "updated_at": "2016-05-08T22:56:59Z", 
     "pushed_at": "2016-02-26T16:24:58Z", 
     "git_url": "git://github.com/gregversteeg/CorEx.git", 
     "full_name": "gregversteeg/CorEx", 
-    "stargazers_count": 85, 
+    "stargazers_count": 86, 
     "id": 25043136, 
     "size": 19
   }, 
@@ -700,6 +700,20 @@
     "size": 204
   }, 
   {
+    "description": "Read-only release history for Biblio-Refbase", 
+    "language": "Perl", 
+    "watchers_count": 0, 
+    "created_at": "2014-10-26T06:03:23Z", 
+    "forks_count": 0, 
+    "updated_at": "2014-10-26T06:03:33Z", 
+    "pushed_at": "2014-10-26T06:03:40Z", 
+    "git_url": "git://github.com/gitpan/Biblio-Refbase.git", 
+    "full_name": "gitpan/Biblio-Refbase", 
+    "stargazers_count": 0, 
+    "id": 25759633, 
+    "size": 152
+  }, 
+  {
     "description": "A PCA-based strong lens finder in Matlab", 
     "language": "TeX", 
     "watchers_count": 0, 
@@ -726,20 +740,6 @@
     "stargazers_count": 1, 
     "id": 24675970, 
     "size": 256
-  }, 
-  {
-    "description": "Read-only release history for Biblio-Refbase", 
-    "language": "Perl", 
-    "watchers_count": 0, 
-    "created_at": "2014-10-26T06:03:23Z", 
-    "forks_count": 0, 
-    "updated_at": "2014-10-26T06:03:33Z", 
-    "pushed_at": "2014-10-26T06:03:40Z", 
-    "git_url": "git://github.com/gitpan/Biblio-Refbase.git", 
-    "full_name": "gitpan/Biblio-Refbase", 
-    "stargazers_count": 0, 
-    "id": 25759633, 
-    "size": 152
   }, 
   {
     "description": "Read-only release history for XML-Tape", 
@@ -912,14 +912,14 @@
   {
     "description": "A convenience R package for getting Wikipedia article access statistics (and more).", 
     "language": "HTML", 
-    "watchers_count": 29, 
+    "watchers_count": 30, 
     "created_at": "2014-10-07T19:16:48Z", 
     "forks_count": 1, 
-    "updated_at": "2016-05-02T11:42:05Z", 
+    "updated_at": "2016-05-09T15:52:12Z", 
     "pushed_at": "2016-04-12T05:19:52Z", 
     "git_url": "git://github.com/petermeissner/wikipediatrend.git", 
     "full_name": "petermeissner/wikipediatrend", 
-    "stargazers_count": 29, 
+    "stargazers_count": 30, 
     "id": 24907245, 
     "size": 8505
   }, 
@@ -1476,12 +1476,12 @@
     "created_at": "2014-10-20T17:29:18Z", 
     "forks_count": 0, 
     "updated_at": "2016-01-11T15:49:54Z", 
-    "pushed_at": "2016-05-05T13:50:19Z", 
+    "pushed_at": "2016-05-09T06:57:47Z", 
     "git_url": "git://github.com/wdbm/abstraction.git", 
     "full_name": "wdbm/abstraction", 
     "stargazers_count": 0, 
     "id": 25477912, 
-    "size": 69238
+    "size": 69755
   }, 
   {
     "description": "Creates optimal mapping functions for an oriented coarse-grained protein model using data from the Protein Data Bank.", 

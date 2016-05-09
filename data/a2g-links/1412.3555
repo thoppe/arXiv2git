@@ -3,8 +3,9 @@
     "yandex/faster-rnnlm", 
     "michaelfarrell76/End-To-End-Generative-Dialogue", 
     "izeye/ai", 
-    "scottyli/faster-rnnlm", 
-    "neoscode/GRU-recurrent-network"
+    "weixsong/faster_rnnlm", 
+    "neoscode/GRU-recurrent-network", 
+    "scottyli/faster-rnnlm"
   ], 
   "citation": [
     "Element-Research/rnn", 

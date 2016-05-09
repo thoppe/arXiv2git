@@ -1,0 +1,6 @@
+{
+  "read_at": 1462826663, 
+  "description": "A Python Multiple kernel learning library.", 
+  "README.md": "### Mklaren\n\nA Multiple kernel learning Python library.\n\n\n#### Features\n* Support for standard kernel functions (RBF, linear, polynomial, sigmoid)\n* Efficient interface to the kernel matrix\n* Low-rank kernel approximation methods (Incomplete Cholesky Decomposition, Cholesky with Side-information, the Nystrom method)\n* Multiple kernel learning methods based on centered alignment\n* Simultaneous multiple kernel learning and low-rank approximation base on least-angle regression (the Mklaren algorithm)\n\n\n#### Resources\n\n* Quick Start Guide [[jupyter notebook]](https://cdn.rawgit.com/mstrazar/mklaren/master/docs/quick_start.ipynb) [[html]](https://cdn.rawgit.com/mstrazar/mklaren/master/docs/quick_start.html)\n\n* Poster presentation [[png]](https://cdn.rawgit.com/mstrazar/mklaren/master/docs/poster.png)[[eps]](https://cdn.rawgit.com/mstrazar/mklaren/master/docs/poster.eps)\n\n* Mklaren method article [[arXiv]](http://arxiv.org/abs/1601.04366) [[.py scripts]](https://github.com/mstrazar/mklaren/wiki/Experiments-in-the-Mklaren-article)\n\n* Full documentation [[html]](https://cdn.rawgit.com/mstrazar/mklaren/master/docs/build/html/index.html)\n", 
+  "id": 57590995
+}

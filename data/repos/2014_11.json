@@ -114,14 +114,14 @@
   {
     "description": "Learning to Execute", 
     "language": "Lua", 
-    "watchers_count": 277, 
+    "watchers_count": 279, 
     "created_at": "2014-11-19T05:36:32Z", 
-    "forks_count": 72, 
-    "updated_at": "2016-04-29T06:05:45Z", 
+    "forks_count": 73, 
+    "updated_at": "2016-05-08T04:03:48Z", 
     "pushed_at": "2016-04-09T18:41:39Z", 
     "git_url": "git://github.com/wojciechz/learning_to_execute.git", 
     "full_name": "wojciechz/learning_to_execute", 
-    "stargazers_count": 277, 
+    "stargazers_count": 279, 
     "id": 26846294, 
     "size": 23
   }, 
@@ -156,14 +156,14 @@
   {
     "description": "Pedestrian detection", 
     "language": "C++", 
-    "watchers_count": 20, 
+    "watchers_count": 21, 
     "created_at": "2014-11-24T01:56:13Z", 
     "forks_count": 21, 
-    "updated_at": "2016-05-03T11:05:16Z", 
+    "updated_at": "2016-05-09T09:11:47Z", 
     "pushed_at": "2015-08-16T23:20:35Z", 
     "git_url": "git://github.com/chhshen/pedestrian-detection.git", 
     "full_name": "chhshen/pedestrian-detection", 
-    "stargazers_count": 20, 
+    "stargazers_count": 21, 
     "id": 27056295, 
     "size": 51539
   }, 
@@ -252,32 +252,32 @@
     "size": 647
   }, 
   {
+    "description": "Collective Knowledge - small, portable and customizable framework to share artifacts as reusable Python components with JSON API; quickly prototype experimental workflows (such as multi-objective autotuning); automate, crowdsource and reproduce experiments; unify predictive analytics (scikit-learn, R, DNN); enable interactive articles. Demo:", 
+    "language": "Python", 
+    "watchers_count": 37, 
+    "created_at": "2014-11-05T17:14:43Z", 
+    "forks_count": 6, 
+    "updated_at": "2016-05-07T05:11:05Z", 
+    "pushed_at": "2016-05-09T02:22:24Z", 
+    "git_url": "git://github.com/ctuning/ck.git", 
+    "full_name": "ctuning/ck", 
+    "stargazers_count": 37, 
+    "id": 26230485, 
+    "size": 1053
+  }, 
+  {
     "description": "Code for reproducing results of NIPS 2014 paper \"Semi-Supervised Learning with Deep Generative Models\"", 
     "language": "Python", 
-    "watchers_count": 144, 
+    "watchers_count": 145, 
     "created_at": "2014-11-06T11:17:53Z", 
     "forks_count": 51, 
-    "updated_at": "2016-04-24T10:11:05Z", 
+    "updated_at": "2016-05-09T05:36:53Z", 
     "pushed_at": "2015-01-25T14:04:59Z", 
     "git_url": "git://github.com/dpkingma/nips14-ssl.git", 
     "full_name": "dpkingma/nips14-ssl", 
-    "stargazers_count": 144, 
+    "stargazers_count": 145, 
     "id": 26266723, 
     "size": 167232
-  }, 
-  {
-    "description": "Collective Knowledge - small, portable and customizable framework to share artifacts as reusable Python components with JSON API; quickly prototype experimental workflows (such as multi-objective autotuning); automate, crowdsource and reproduce experiments; unify predictive analytics (scikit-learn, R, DNN); enable interactive articles. Demo:", 
-    "language": "Python", 
-    "watchers_count": 36, 
-    "created_at": "2014-11-05T17:14:43Z", 
-    "forks_count": 6, 
-    "updated_at": "2016-05-02T19:40:33Z", 
-    "pushed_at": "2016-05-05T17:01:31Z", 
-    "git_url": "git://github.com/ctuning/ck.git", 
-    "full_name": "ctuning/ck", 
-    "stargazers_count": 36, 
-    "id": 26230485, 
-    "size": 1047
   }, 
   {
     "description": "Numerical evaluation of the left passage probability", 
@@ -296,16 +296,16 @@
   {
     "description": "A powerful machine learning algorithm utilizing Q-Learning and Neural Networks, implemented using Torch and Lua.", 
     "language": "MoonScript", 
-    "watchers_count": 77, 
+    "watchers_count": 78, 
     "created_at": "2014-11-15T18:47:29Z", 
-    "forks_count": 33, 
-    "updated_at": "2016-04-30T02:24:38Z", 
-    "pushed_at": "2016-05-01T22:41:34Z", 
+    "forks_count": 34, 
+    "updated_at": "2016-05-09T14:56:57Z", 
+    "pushed_at": "2016-05-07T02:43:05Z", 
     "git_url": "git://github.com/blakeMilner/DeepQLearning.git", 
     "full_name": "blakeMilner/DeepQLearning", 
-    "stargazers_count": 77, 
+    "stargazers_count": 78, 
     "id": 26689899, 
-    "size": 25
+    "size": 27
   }, 
   {
     "description": "TrackMania is NP-complete", 
@@ -338,16 +338,16 @@
   {
     "description": "", 
     "language": "Python", 
-    "watchers_count": 22, 
+    "watchers_count": 23, 
     "created_at": "2014-11-06T11:36:36Z", 
     "forks_count": 11, 
-    "updated_at": "2016-05-04T22:02:10Z", 
-    "pushed_at": "2016-05-04T16:37:30Z", 
+    "updated_at": "2016-05-07T10:33:22Z", 
+    "pushed_at": "2016-05-09T08:55:42Z", 
     "git_url": "git://github.com/spectralDNS/spectralDNS.git", 
     "full_name": "spectralDNS/spectralDNS", 
-    "stargazers_count": 22, 
+    "stargazers_count": 23, 
     "id": 26267317, 
-    "size": 15644
+    "size": 15652
   }, 
   {
     "description": "Fitting of a line with errors in two dimensions", 
@@ -394,14 +394,14 @@
   {
     "description": "A CRDT library with \u03b4-CRDT support.", 
     "language": "Elixir", 
-    "watchers_count": 88, 
+    "watchers_count": 89, 
     "created_at": "2014-11-17T04:01:13Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-05-05T20:05:27Z", 
+    "forks_count": 2, 
+    "updated_at": "2016-05-09T16:48:00Z", 
     "pushed_at": "2015-02-26T19:14:46Z", 
     "git_url": "git://github.com/asonge/loom.git", 
     "full_name": "asonge/loom", 
-    "stargazers_count": 88, 
+    "stargazers_count": 89, 
     "id": 26739267, 
     "size": 348
   }, 
@@ -490,20 +490,6 @@
     "size": 37004
   }, 
   {
-    "description": "The implementation of Louvain Algorithm", 
-    "language": "C++", 
-    "watchers_count": 0, 
-    "created_at": "2014-11-12T21:07:01Z", 
-    "forks_count": 0, 
-    "updated_at": "2015-02-12T16:32:51Z", 
-    "pushed_at": "2014-11-25T04:28:37Z", 
-    "git_url": "git://github.com/RanningMan/LouvainAlgorithm.git", 
-    "full_name": "RanningMan/LouvainAlgorithm", 
-    "stargazers_count": 0, 
-    "id": 26556194, 
-    "size": 160
-  }, 
-  {
     "description": "Gaussian process regression demo in Javascript", 
     "language": "JavaScript", 
     "watchers_count": 6, 
@@ -516,6 +502,20 @@
     "stargazers_count": 6, 
     "id": 26684248, 
     "size": 196
+  }, 
+  {
+    "description": "The implementation of Louvain Algorithm", 
+    "language": "C++", 
+    "watchers_count": 0, 
+    "created_at": "2014-11-12T21:07:01Z", 
+    "forks_count": 0, 
+    "updated_at": "2015-02-12T16:32:51Z", 
+    "pushed_at": "2014-11-25T04:28:37Z", 
+    "git_url": "git://github.com/RanningMan/LouvainAlgorithm.git", 
+    "full_name": "RanningMan/LouvainAlgorithm", 
+    "stargazers_count": 0, 
+    "id": 26556194, 
+    "size": 160
   }, 
   {
     "description": "Matlab and Python toolbox for fast Total Variation proximity operators", 
@@ -658,20 +658,6 @@
     "size": 4460
   }, 
   {
-    "description": "Fast Forward Feature Selection", 
-    "language": "Python", 
-    "watchers_count": 3, 
-    "created_at": "2014-11-18T16:21:39Z", 
-    "forks_count": 1, 
-    "updated_at": "2015-11-30T02:06:36Z", 
-    "pushed_at": "2015-05-21T10:00:43Z", 
-    "git_url": "git://github.com/mfauvel/FFFS.git", 
-    "full_name": "mfauvel/FFFS", 
-    "stargazers_count": 3, 
-    "id": 26818191, 
-    "size": 216
-  }, 
-  {
     "description": "A path-integral quantum Monte Carlo code for simulating quantum annealing with arbitrary Ising Hamiltonians.", 
     "language": "Python", 
     "watchers_count": 4, 
@@ -684,6 +670,20 @@
     "stargazers_count": 4, 
     "id": 26322287, 
     "size": 1270
+  }, 
+  {
+    "description": "Fast Forward Feature Selection", 
+    "language": "Python", 
+    "watchers_count": 3, 
+    "created_at": "2014-11-18T16:21:39Z", 
+    "forks_count": 1, 
+    "updated_at": "2015-11-30T02:06:36Z", 
+    "pushed_at": "2015-05-21T10:00:43Z", 
+    "git_url": "git://github.com/mfauvel/FFFS.git", 
+    "full_name": "mfauvel/FFFS", 
+    "stargazers_count": 3, 
+    "id": 26818191, 
+    "size": 216
   }, 
   {
     "description": "A Golang consistent hashing proxy for statsd", 
@@ -742,20 +742,6 @@
     "size": 7972
   }, 
   {
-    "description": "Monte Carlo error analyses of Spearman\u2019s rank test", 
-    "language": "C", 
-    "watchers_count": 2, 
-    "created_at": "2014-11-03T03:43:02Z", 
-    "forks_count": 0, 
-    "updated_at": "2014-11-17T08:30:33Z", 
-    "pushed_at": "2015-05-29T04:47:23Z", 
-    "git_url": "git://github.com/PACurran/MCSpearman.git", 
-    "full_name": "PACurran/MCSpearman", 
-    "stargazers_count": 2, 
-    "id": 26102750, 
-    "size": 172
-  }, 
-  {
     "description": "A Learning System to Detect Fraudulent Abstracts in High Energy Physics", 
     "language": "Java", 
     "watchers_count": 1, 
@@ -768,6 +754,20 @@
     "stargazers_count": 1, 
     "id": 26133939, 
     "size": 7188
+  }, 
+  {
+    "description": "Monte Carlo error analyses of Spearman\u2019s rank test", 
+    "language": "C", 
+    "watchers_count": 2, 
+    "created_at": "2014-11-03T03:43:02Z", 
+    "forks_count": 0, 
+    "updated_at": "2014-11-17T08:30:33Z", 
+    "pushed_at": "2015-05-29T04:47:23Z", 
+    "git_url": "git://github.com/PACurran/MCSpearman.git", 
+    "full_name": "PACurran/MCSpearman", 
+    "stargazers_count": 2, 
+    "id": 26102750, 
+    "size": 172
   }, 
   {
     "description": "Project developed during Data Mining Course at AGH University of Science And Technology", 
@@ -1154,12 +1154,12 @@
     "created_at": "2014-11-21T17:36:43Z", 
     "forks_count": 0, 
     "updated_at": "2016-01-22T16:44:20Z", 
-    "pushed_at": "2016-04-28T20:37:31Z", 
+    "pushed_at": "2016-05-06T12:21:10Z", 
     "git_url": "git://github.com/wkusner/wkusner.github.io.git", 
     "full_name": "wkusner/wkusner.github.io", 
     "stargazers_count": 0, 
     "id": 26970545, 
-    "size": 52642
+    "size": 52645
   }, 
   {
     "description": "Nested Sampling for Javascript applications", 

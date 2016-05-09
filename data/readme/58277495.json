@@ -1,0 +1,6 @@
+{
+  "read_at": 1462826668, 
+  "description": "Flood fill entire board with same color using fewest possible number of \"flood fills\". (but using flood fill algorithm though!)", 
+  "README.md": "# Flood It \n\nIn development by Jihye Sofia Seo https://www.linkedin.com/in/jihyeseo\nforked from the code of Al Sweigart  \nhttp://inventwithpython.com/pygame/chapter10.html \nwhose books are very helpful for learning Python and PyGame. Many thanks!\n\nMain change is that his version uses flood fill algorithm, which could not run for large boards.\nThis file modified the algorithm. \n\n Flood-It is an NP hard problem http://arxiv.org/abs/1001.4420 for 3 colors or more. \n The goal of this project is to find an efficient algorithm for autoplay.\n \n", 
+  "id": 58277495
+}

@@ -1,8 +1,8 @@
 {
   "project": [
     "zhangxiangxiao/Crepe", 
-    "aichemzee/Crepe", 
-    "jacklanchantin/optimize"
+    "jacklanchantin/optimize", 
+    "aichemzee/Crepe"
   ], 
   "citation": [
     "dennybritz/deeplearning-papernotes", 

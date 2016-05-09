@@ -2,28 +2,28 @@
   {
     "description": "LSTM with associative memory cells (http://arxiv.org/abs/1602.03032)", 
     "language": "Python", 
-    "watchers_count": 64, 
+    "watchers_count": 65, 
     "created_at": "2016-04-10T13:10:49Z", 
     "forks_count": 13, 
-    "updated_at": "2016-05-05T22:03:18Z", 
+    "updated_at": "2016-05-09T10:10:21Z", 
     "pushed_at": "2016-05-01T11:52:07Z", 
     "git_url": "git://github.com/mohammadpz/Associative_LSTM.git", 
     "full_name": "mohammadpz/Associative_LSTM", 
-    "stargazers_count": 64, 
+    "stargazers_count": 65, 
     "id": 55899619, 
     "size": 1838
   }, 
   {
     "description": "Rewriting code for \"Deep Networks with Stochastic Depth\" http://arxiv.org/abs/1603.09382 in keras", 
     "language": "Python", 
-    "watchers_count": 93, 
+    "watchers_count": 94, 
     "created_at": "2016-04-06T15:11:09Z", 
-    "forks_count": 19, 
-    "updated_at": "2016-05-05T18:47:34Z", 
+    "forks_count": 20, 
+    "updated_at": "2016-05-06T21:34:39Z", 
     "pushed_at": "2016-04-14T12:47:27Z", 
     "git_url": "git://github.com/dblN/stochastic_depth_keras.git", 
     "full_name": "dblN/stochastic_depth_keras", 
-    "stargazers_count": 93, 
+    "stargazers_count": 94, 
     "id": 55616394, 
     "size": 34
   }, 
@@ -42,11 +42,25 @@
     "size": 45
   }, 
   {
+    "description": "Tensorflow and Numpy Implementation of Net2Net (http://arxiv.org/abs/1511.05641)", 
+    "language": "Python", 
+    "watchers_count": 3, 
+    "created_at": "2016-04-22T08:51:07Z", 
+    "forks_count": 2, 
+    "updated_at": "2016-05-07T15:50:56Z", 
+    "pushed_at": "2016-05-09T11:44:25Z", 
+    "git_url": "git://github.com/paengs/Net2Net.git", 
+    "full_name": "paengs/Net2Net", 
+    "stargazers_count": 3, 
+    "id": 56841235, 
+    "size": 29
+  }, 
+  {
     "description": "Torch implementation of LSUV weight init from http://arxiv.org/abs/1511.06422", 
     "language": "Lua", 
     "watchers_count": 8, 
     "created_at": "2016-04-09T23:11:45Z", 
-    "forks_count": 1, 
+    "forks_count": 2, 
     "updated_at": "2016-04-24T20:55:29Z", 
     "pushed_at": "2016-04-24T20:59:49Z", 
     "git_url": "git://github.com/yobibyte/torch-lsuv.git", 
@@ -54,20 +68,6 @@
     "stargazers_count": 8, 
     "id": 55871246, 
     "size": 26
-  }, 
-  {
-    "description": "Tensorflow and Numpy Implementation of Net2Net (http://arxiv.org/abs/1511.05641)", 
-    "language": "Python", 
-    "watchers_count": 2, 
-    "created_at": "2016-04-22T08:51:07Z", 
-    "forks_count": 2, 
-    "updated_at": "2016-05-06T01:07:22Z", 
-    "pushed_at": "2016-05-04T02:45:56Z", 
-    "git_url": "git://github.com/paengs/Net2Net.git", 
-    "full_name": "paengs/Net2Net", 
-    "stargazers_count": 2, 
-    "id": 56841235, 
-    "size": 25
   }, 
   {
     "description": "Python implementation of DMN", 
@@ -118,52 +118,66 @@
     "created_at": "2016-04-21T23:14:58Z", 
     "forks_count": 1, 
     "updated_at": "2016-05-05T14:49:02Z", 
-    "pushed_at": "2016-05-05T21:49:35Z", 
+    "pushed_at": "2016-05-07T00:55:33Z", 
     "git_url": "git://github.com/dansbecker/motion-tracking.git", 
     "full_name": "dansbecker/motion-tracking", 
     "stargazers_count": 3, 
     "id": 56811181, 
-    "size": 55
+    "size": 58
+  }, 
+  {
+    "description": "", 
+    "language": "Python", 
+    "watchers_count": 7, 
+    "created_at": "2016-04-23T22:43:01Z", 
+    "forks_count": 3, 
+    "updated_at": "2016-05-09T05:39:42Z", 
+    "pushed_at": "2016-04-25T22:46:48Z", 
+    "git_url": "git://github.com/wojzaremba/trpo.git", 
+    "full_name": "wojzaremba/trpo", 
+    "stargazers_count": 7, 
+    "id": 56944042, 
+    "size": 26
   }, 
   {
     "description": "", 
     "language": null, 
-    "watchers_count": 145, 
+    "watchers_count": 152, 
     "created_at": "2016-04-07T10:01:17Z", 
-    "forks_count": 56, 
-    "updated_at": "2016-05-06T03:11:16Z", 
+    "forks_count": 59, 
+    "updated_at": "2016-05-09T06:12:01Z", 
     "pushed_at": "2016-04-22T00:21:55Z", 
     "git_url": "git://github.com/TensorFlowKR/awesome_tensorflow_implementations.git", 
     "full_name": "TensorFlowKR/awesome_tensorflow_implementations", 
-    "stargazers_count": 145, 
+    "stargazers_count": 152, 
     "id": 55684021, 
     "size": 8
   }, 
   {
     "description": "Lasagne code for weight normalization", 
     "language": "Python", 
-    "watchers_count": 22, 
+    "watchers_count": 23, 
     "created_at": "2016-04-03T10:16:13Z", 
     "forks_count": 5, 
-    "updated_at": "2016-05-05T08:52:37Z", 
+    "updated_at": "2016-05-08T18:41:55Z", 
     "pushed_at": "2016-04-03T10:19:31Z", 
     "git_url": "git://github.com/TimSalimans/weight_norm.git", 
     "full_name": "TimSalimans/weight_norm", 
-    "stargazers_count": 22, 
+    "stargazers_count": 23, 
     "id": 55340710, 
     "size": 5
   }, 
   {
     "description": "Deep Residual Networks with 1K Layers", 
     "language": "Lua", 
-    "watchers_count": 147, 
+    "watchers_count": 148, 
     "created_at": "2016-04-05T02:50:30Z", 
     "forks_count": 34, 
-    "updated_at": "2016-05-06T02:30:39Z", 
+    "updated_at": "2016-05-08T13:55:03Z", 
     "pushed_at": "2016-04-13T03:28:20Z", 
     "git_url": "git://github.com/KaimingHe/resnet-1k-layers.git", 
     "full_name": "KaimingHe/resnet-1k-layers", 
-    "stargazers_count": 147, 
+    "stargazers_count": 148, 
     "id": 55462616, 
     "size": 4
   }, 
@@ -224,26 +238,12 @@
     "size": 4
   }, 
   {
-    "description": "", 
-    "language": "Python", 
-    "watchers_count": 6, 
-    "created_at": "2016-04-23T22:43:01Z", 
-    "forks_count": 3, 
-    "updated_at": "2016-04-28T04:48:52Z", 
-    "pushed_at": "2016-04-25T22:46:48Z", 
-    "git_url": "git://github.com/wojzaremba/trpo.git", 
-    "full_name": "wojzaremba/trpo", 
-    "stargazers_count": 6, 
-    "id": 56944042, 
-    "size": 26
-  }, 
-  {
     "description": "THE Deep Learning Benchmarks", 
     "language": null, 
     "watchers_count": 226, 
     "created_at": "2016-04-14T23:40:35Z", 
     "forks_count": 12, 
-    "updated_at": "2016-05-05T19:16:18Z", 
+    "updated_at": "2016-05-08T16:33:09Z", 
     "pushed_at": "2016-04-14T23:42:59Z", 
     "git_url": "git://github.com/DeepMark/deepmark.git", 
     "full_name": "DeepMark/deepmark", 
@@ -254,14 +254,14 @@
   {
     "description": "GRU4Rec is the cleaned & simplified implementation of the algorithm of the \"Session-based Recommendations with Recurrent Neural Networks\" paper, published at ICLR 2016. The code is stripped of features that we had found to be unhelpful in increasing accuracy.", 
     "language": "Python", 
-    "watchers_count": 31, 
+    "watchers_count": 32, 
     "created_at": "2016-04-07T16:56:33Z", 
-    "forks_count": 9, 
-    "updated_at": "2016-05-06T00:05:17Z", 
+    "forks_count": 10, 
+    "updated_at": "2016-05-06T12:07:20Z", 
     "pushed_at": "2016-05-03T21:17:45Z", 
     "git_url": "git://github.com/hidasib/GRU4Rec.git", 
     "full_name": "hidasib/GRU4Rec", 
-    "stargazers_count": 31, 
+    "stargazers_count": 32, 
     "id": 55712155, 
     "size": 23
   }, 
@@ -308,30 +308,16 @@
     "size": 1050
   }, 
   {
-    "description": "Neural Language Correction implemented on Tensorflow", 
-    "language": "Python", 
-    "watchers_count": 16, 
-    "created_at": "2016-04-15T17:10:37Z", 
-    "forks_count": 6, 
-    "updated_at": "2016-05-05T19:18:50Z", 
-    "pushed_at": "2016-05-05T22:19:43Z", 
-    "git_url": "git://github.com/avati/nlc.git", 
-    "full_name": "avati/nlc", 
-    "stargazers_count": 16, 
-    "id": 56336956, 
-    "size": 80
-  }, 
-  {
     "description": "Batch-Normalized LSTM (Recurrent Batch Normalization) implementation in Torch.", 
     "language": "Lua", 
-    "watchers_count": 35, 
+    "watchers_count": 36, 
     "created_at": "2016-04-09T19:32:51Z", 
-    "forks_count": 11, 
-    "updated_at": "2016-05-03T06:26:31Z", 
+    "forks_count": 12, 
+    "updated_at": "2016-05-07T14:49:16Z", 
     "pushed_at": "2016-04-28T18:15:00Z", 
     "git_url": "git://github.com/iassael/torch-bnlstm.git", 
     "full_name": "iassael/torch-bnlstm", 
-    "stargazers_count": 35, 
+    "stargazers_count": 36, 
     "id": 55863214, 
     "size": 6
   }, 
@@ -420,46 +406,74 @@
     "size": 2
   }, 
   {
-    "description": "Yining Wang's code for Tensor Decomposition via Sketching http://arxiv.org/abs/1506.04448", 
-    "language": "C++", 
-    "watchers_count": 0, 
-    "created_at": "2016-04-04T14:53:32Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-04T14:54:51Z", 
-    "pushed_at": "2016-04-04T14:54:50Z", 
-    "git_url": "git://github.com/jli05/fftlda.git", 
-    "full_name": "jli05/fftlda", 
-    "stargazers_count": 0, 
-    "id": 55419973, 
-    "size": 54
-  }, 
-  {
     "description": "Fast neural style in tensorflow based on http://arxiv.org/abs/1603.08155", 
     "language": "Python", 
     "watchers_count": 0, 
     "created_at": "2016-04-26T14:33:29Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-26T14:34:02Z", 
-    "pushed_at": "2016-05-03T10:18:07Z", 
+    "pushed_at": "2016-05-07T08:12:24Z", 
     "git_url": "git://github.com/OlavHN/fast-neural-style.git", 
     "full_name": "OlavHN/fast-neural-style", 
     "stargazers_count": 0, 
     "id": 57135396, 
-    "size": 11
+    "size": 99609
+  }, 
+  {
+    "description": "Neural Language Correction implemented on Tensorflow", 
+    "language": "Python", 
+    "watchers_count": 18, 
+    "created_at": "2016-04-15T17:10:37Z", 
+    "forks_count": 6, 
+    "updated_at": "2016-05-08T05:27:39Z", 
+    "pushed_at": "2016-05-06T23:33:04Z", 
+    "git_url": "git://github.com/sdlg/nlc.git", 
+    "full_name": "sdlg/nlc", 
+    "stargazers_count": 18, 
+    "id": 56336956, 
+    "size": 92
+  }, 
+  {
+    "description": "Implementation of TRPO and related algorithms", 
+    "language": "Python", 
+    "watchers_count": 22, 
+    "created_at": "2016-04-25T05:32:52Z", 
+    "forks_count": 5, 
+    "updated_at": "2016-05-09T12:53:19Z", 
+    "pushed_at": "2016-05-03T02:08:53Z", 
+    "git_url": "git://github.com/joschu/modular_rl.git", 
+    "full_name": "joschu/modular_rl", 
+    "stargazers_count": 22, 
+    "id": 57014181, 
+    "size": 54
   }, 
   {
     "description": "summaries and notes on neural language learning papers", 
     "language": null, 
-    "watchers_count": 3, 
+    "watchers_count": 4, 
     "created_at": "2016-04-03T21:51:30Z", 
     "forks_count": 0, 
-    "updated_at": "2016-04-28T19:36:11Z", 
+    "updated_at": "2016-05-08T18:40:07Z", 
     "pushed_at": "2016-04-28T19:56:02Z", 
     "git_url": "git://github.com/dykang/neurallanguage-notes.git", 
     "full_name": "dykang/neurallanguage-notes", 
-    "stargazers_count": 3, 
+    "stargazers_count": 4, 
     "id": 55370917, 
     "size": 15
+  }, 
+  {
+    "description": "Mixed Incremental Cross-Entropy REINFORCE ICLR 2016", 
+    "language": "Lua", 
+    "watchers_count": 82, 
+    "created_at": "2016-04-13T18:45:40Z", 
+    "forks_count": 8, 
+    "updated_at": "2016-05-09T19:18:04Z", 
+    "pushed_at": "2016-05-08T01:48:03Z", 
+    "git_url": "git://github.com/facebookresearch/MIXER.git", 
+    "full_name": "facebookresearch/MIXER", 
+    "stargazers_count": 82, 
+    "id": 56177401, 
+    "size": 35
   }, 
   {
     "description": "Automatic colorizaton of grayscale images using Deep Learning", 
@@ -476,30 +490,16 @@
     "size": 26
   }, 
   {
-    "description": "Implementation of TRPO and related algorithms", 
-    "language": "Python", 
-    "watchers_count": 20, 
-    "created_at": "2016-04-25T05:32:52Z", 
-    "forks_count": 3, 
-    "updated_at": "2016-05-06T01:18:56Z", 
-    "pushed_at": "2016-05-03T02:08:53Z", 
-    "git_url": "git://github.com/joschu/modular_rl.git", 
-    "full_name": "joschu/modular_rl", 
-    "stargazers_count": 20, 
-    "id": 57014181, 
-    "size": 54
-  }, 
-  {
     "description": "Using mxnet for face-related  algorithm.", 
     "language": "Python", 
-    "watchers_count": 29, 
+    "watchers_count": 31, 
     "created_at": "2016-04-29T01:07:13Z", 
-    "forks_count": 10, 
-    "updated_at": "2016-05-04T11:55:27Z", 
+    "forks_count": 11, 
+    "updated_at": "2016-05-08T07:35:04Z", 
     "pushed_at": "2016-04-29T04:58:03Z", 
     "git_url": "git://github.com/tornadomeet/mxnet-face.git", 
     "full_name": "tornadomeet/mxnet-face", 
-    "stargazers_count": 29, 
+    "stargazers_count": 31, 
     "id": 57344336, 
     "size": 18505
   }, 
@@ -566,12 +566,12 @@
     "created_at": "2016-04-04T04:51:32Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-30T08:19:31Z", 
-    "pushed_at": "2016-05-05T08:39:27Z", 
+    "pushed_at": "2016-05-09T16:12:46Z", 
     "git_url": "git://github.com/sugyan/face-generator.git", 
     "full_name": "sugyan/face-generator", 
     "stargazers_count": 0, 
     "id": 55385872, 
-    "size": 14
+    "size": 17
   }, 
   {
     "description": "", 
@@ -604,14 +604,14 @@
   {
     "description": "", 
     "language": "Python", 
-    "watchers_count": 20, 
+    "watchers_count": 37, 
     "created_at": "2016-04-06T18:29:54Z", 
-    "forks_count": 7, 
-    "updated_at": "2016-05-05T22:05:18Z", 
+    "forks_count": 8, 
+    "updated_at": "2016-05-09T10:50:35Z", 
     "pushed_at": "2016-04-30T06:30:47Z", 
     "git_url": "git://github.com/songhan/SqueezeNet-Deep-Compression.git", 
     "full_name": "songhan/SqueezeNet-Deep-Compression", 
-    "stargazers_count": 20, 
+    "stargazers_count": 37, 
     "id": 55631014, 
     "size": 576
   }, 
@@ -644,18 +644,32 @@
     "size": 1
   }, 
   {
+    "description": "", 
+    "language": "C++", 
+    "watchers_count": 3, 
+    "created_at": "2016-04-29T04:16:43Z", 
+    "forks_count": 5, 
+    "updated_at": "2016-05-08T23:46:51Z", 
+    "pushed_at": "2016-04-29T04:21:34Z", 
+    "git_url": "git://github.com/fyu/caffe-dilation.git", 
+    "full_name": "fyu/caffe-dilation", 
+    "stargazers_count": 3, 
+    "id": 57354124, 
+    "size": 32730
+  }, 
+  {
     "description": "Character-Level language models", 
     "language": "Python", 
     "watchers_count": 0, 
     "created_at": "2016-04-04T08:27:45Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-04T08:35:36Z", 
-    "pushed_at": "2016-05-04T15:13:23Z", 
+    "pushed_at": "2016-05-06T16:40:55Z", 
     "git_url": "git://github.com/indiejoseph/chinese-char-rnn.git", 
     "full_name": "indiejoseph/chinese-char-rnn", 
     "stargazers_count": 0, 
     "id": 55395840, 
-    "size": 61
+    "size": 65
   }, 
   {
     "description": "WIP: tensorflow implementation of U-Net", 
@@ -702,30 +716,44 @@
   {
     "description": "Sublinear memory optimization for deep learning, reduce GPU memory cost to train deeper nets", 
     "language": "Python", 
-    "watchers_count": 58, 
+    "watchers_count": 61, 
     "created_at": "2016-04-21T23:04:40Z", 
     "forks_count": 9, 
-    "updated_at": "2016-05-04T08:24:07Z", 
+    "updated_at": "2016-05-07T08:32:19Z", 
     "pushed_at": "2016-04-22T00:06:41Z", 
     "git_url": "git://github.com/dmlc/mxnet-memonger.git", 
     "full_name": "dmlc/mxnet-memonger", 
-    "stargazers_count": 58, 
+    "stargazers_count": 61, 
     "id": 56810814, 
     "size": 11
   }, 
   {
+    "description": "Volumetric CNN for feature extraction and object classification on 3D data.", 
+    "language": "Lua", 
+    "watchers_count": 8, 
+    "created_at": "2016-04-20T03:57:59Z", 
+    "forks_count": 4, 
+    "updated_at": "2016-05-09T10:43:56Z", 
+    "pushed_at": "2016-05-06T01:00:07Z", 
+    "git_url": "git://github.com/charlesq34/3dcnn.torch.git", 
+    "full_name": "charlesq34/3dcnn.torch", 
+    "stargazers_count": 8, 
+    "id": 56653925, 
+    "size": 1182
+  }, 
+  {
     "description": "Asynchronous Methods for Deep Reinforcement Learning", 
     "language": "Python", 
-    "watchers_count": 17, 
+    "watchers_count": 19, 
     "created_at": "2016-04-10T16:10:40Z", 
     "forks_count": 5, 
-    "updated_at": "2016-05-05T17:19:57Z", 
-    "pushed_at": "2016-05-05T20:28:45Z", 
+    "updated_at": "2016-05-09T20:09:59Z", 
+    "pushed_at": "2016-05-07T12:59:28Z", 
     "git_url": "git://github.com/miyosuda/async_deep_reinforce.git", 
     "full_name": "miyosuda/async_deep_reinforce", 
-    "stargazers_count": 17, 
+    "stargazers_count": 19, 
     "id": 55909050, 
-    "size": 50
+    "size": 43
   }, 
   {
     "description": "Rathmann and Ditlevsen (2016) helical shell model of turbulence", 
@@ -744,14 +772,14 @@
   {
     "description": "Code for \"Deep Networks with Stochastic Depth\"", 
     "language": "Lua", 
-    "watchers_count": 284, 
+    "watchers_count": 286, 
     "created_at": "2016-04-01T20:50:07Z", 
-    "forks_count": 49, 
-    "updated_at": "2016-05-04T03:03:11Z", 
+    "forks_count": 50, 
+    "updated_at": "2016-05-07T14:10:58Z", 
     "pushed_at": "2016-04-06T04:35:22Z", 
     "git_url": "git://github.com/yueatsprograms/Stochastic_Depth.git", 
     "full_name": "yueatsprograms/Stochastic_Depth", 
-    "stargazers_count": 284, 
+    "stargazers_count": 286, 
     "id": 55261515, 
     "size": 18
   }, 
@@ -768,20 +796,6 @@
     "stargazers_count": 0, 
     "id": 55560856, 
     "size": 4
-  }, 
-  {
-    "description": "Summaries  and notes of recent nlp field research paper or tutoria", 
-    "language": null, 
-    "watchers_count": 0, 
-    "created_at": "2016-04-14T12:46:47Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-14T12:46:47Z", 
-    "pushed_at": "2016-05-04T08:46:45Z", 
-    "git_url": "git://github.com/brucerain/nlp-papernotes.git", 
-    "full_name": "brucerain/nlp-papernotes", 
-    "stargazers_count": 0, 
-    "id": 56236673, 
-    "size": 2
   }, 
   {
     "description": "Visually informed embedding of word (VIEW) is a tool for transferring multimodal background knowledge to NLP algorithms.", 
@@ -812,20 +826,6 @@
     "size": 7
   }, 
   {
-    "description": "Source code for the paper \"Statistical Inference using the Morse-Smale Complex\"", 
-    "language": "R", 
-    "watchers_count": 0, 
-    "created_at": "2016-04-12T20:33:54Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-12T20:34:48Z", 
-    "pushed_at": "2016-04-12T20:39:51Z", 
-    "git_url": "git://github.com/yenchic/Morse_Smale.git", 
-    "full_name": "yenchic/Morse_Smale", 
-    "stargazers_count": 0, 
-    "id": 56095752, 
-    "size": 8
-  }, 
-  {
     "description": "An R implementation of Navid Dianati's GraphPruning algorithm", 
     "language": "R", 
     "watchers_count": 0, 
@@ -838,6 +838,20 @@
     "stargazers_count": 0, 
     "id": 55726931, 
     "size": 1
+  }, 
+  {
+    "description": "Source code for the paper \"Statistical Inference using the Morse-Smale Complex\"", 
+    "language": "R", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-12T20:33:54Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-12T20:34:48Z", 
+    "pushed_at": "2016-04-12T20:39:51Z", 
+    "git_url": "git://github.com/yenchic/Morse_Smale.git", 
+    "full_name": "yenchic/Morse_Smale", 
+    "stargazers_count": 0, 
+    "id": 56095752, 
+    "size": 8
   }, 
   {
     "description": "An aided linear integer programming (ALIP) non-intrusive load monitoring (NILM) algorithm.", 
@@ -868,6 +882,20 @@
     "size": 111
   }, 
   {
+    "description": "This repo consists of all the work currently being done regarding Memory Networks", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-07T22:02:22Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-27T17:43:30Z", 
+    "pushed_at": "2016-04-27T19:53:25Z", 
+    "git_url": "git://github.com/vivek201189/MemoryNetworks.git", 
+    "full_name": "vivek201189/MemoryNetworks", 
+    "stargazers_count": 0, 
+    "id": 55731148, 
+    "size": 6
+  }, 
+  {
     "description": "Squeeze using mxnet", 
     "language": "Python", 
     "watchers_count": 0, 
@@ -879,6 +907,34 @@
     "full_name": "styleNie/SqueezeNet", 
     "stargazers_count": 0, 
     "id": 57018351, 
+    "size": 2
+  }, 
+  {
+    "description": "", 
+    "language": "Python", 
+    "watchers_count": 1, 
+    "created_at": "2016-04-30T20:38:40Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-05-06T21:50:10Z", 
+    "pushed_at": "2016-05-07T11:28:50Z", 
+    "git_url": "git://github.com/denis-gordeev/CNN-aggression-RU.git", 
+    "full_name": "denis-gordeev/CNN-aggression-RU", 
+    "stargazers_count": 1, 
+    "id": 57460813, 
+    "size": 45069
+  }, 
+  {
+    "description": "Summaries  and notes of recent nlp field research paper or tutoria", 
+    "language": null, 
+    "watchers_count": 0, 
+    "created_at": "2016-04-14T12:46:47Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-14T12:46:47Z", 
+    "pushed_at": "2016-05-09T07:09:20Z", 
+    "git_url": "git://github.com/brucerain/nlp-papernotes.git", 
+    "full_name": "brucerain/nlp-papernotes", 
+    "stargazers_count": 0, 
+    "id": 56236673, 
     "size": 2
   }, 
   {
@@ -900,7 +956,7 @@
     "language": null, 
     "watchers_count": 3, 
     "created_at": "2016-04-11T03:10:22Z", 
-    "forks_count": 2, 
+    "forks_count": 3, 
     "updated_at": "2016-05-04T15:21:18Z", 
     "pushed_at": "2016-04-11T05:20:55Z", 
     "git_url": "git://github.com/jxfeb/Generative_QA.git", 
@@ -908,34 +964,6 @@
     "stargazers_count": 3, 
     "id": 55937787, 
     "size": 1
-  }, 
-  {
-    "description": "This repo consists of all the work currently being done regarding Memory Networks", 
-    "language": "Python", 
-    "watchers_count": 0, 
-    "created_at": "2016-04-07T22:02:22Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-27T17:43:30Z", 
-    "pushed_at": "2016-04-27T19:53:25Z", 
-    "git_url": "git://github.com/vivek201189/MemoryNetworks.git", 
-    "full_name": "vivek201189/MemoryNetworks", 
-    "stargazers_count": 0, 
-    "id": 55731148, 
-    "size": 6
-  }, 
-  {
-    "description": "Volumetric CNN for feature extraction and object classification on 3D data.", 
-    "language": "Lua", 
-    "watchers_count": 6, 
-    "created_at": "2016-04-20T03:57:59Z", 
-    "forks_count": 2, 
-    "updated_at": "2016-05-04T12:14:50Z", 
-    "pushed_at": "2016-05-06T01:00:07Z", 
-    "git_url": "git://github.com/charlesq34/3dcnn.torch.git", 
-    "full_name": "charlesq34/3dcnn.torch", 
-    "stargazers_count": 6, 
-    "id": 56653925, 
-    "size": 1182
   }, 
   {
     "description": "Neural Turing Machines just use numpy", 
@@ -966,18 +994,32 @@
     "size": 5
   }, 
   {
+    "description": "Using CNN to create 'famous painting' with Matlab code", 
+    "language": "HTML", 
+    "watchers_count": 6, 
+    "created_at": "2016-04-01T07:47:22Z", 
+    "forks_count": 2, 
+    "updated_at": "2016-05-06T22:28:50Z", 
+    "pushed_at": "2016-04-20T01:42:32Z", 
+    "git_url": "git://github.com/layumi/2016_Artist_Style.git", 
+    "full_name": "layumi/2016_Artist_Style", 
+    "stargazers_count": 6, 
+    "id": 55213626, 
+    "size": 12497
+  }, 
+  {
     "description": "deeplearning paper notes", 
     "language": null, 
     "watchers_count": 0, 
     "created_at": "2016-04-09T10:10:59Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-09T10:13:47Z", 
-    "pushed_at": "2016-05-05T09:05:53Z", 
+    "pushed_at": "2016-05-07T14:29:23Z", 
     "git_url": "git://github.com/styleNie/notes.git", 
     "full_name": "styleNie/notes", 
     "stargazers_count": 0, 
     "id": 55837918, 
-    "size": 13
+    "size": 17
   }, 
   {
     "description": "", 
@@ -996,16 +1038,16 @@
   {
     "description": "G2P with Tensorflow", 
     "language": "Python", 
-    "watchers_count": 10, 
+    "watchers_count": 12, 
     "created_at": "2016-04-25T12:53:41Z", 
     "forks_count": 3, 
-    "updated_at": "2016-05-05T15:15:27Z", 
-    "pushed_at": "2016-05-05T16:14:09Z", 
+    "updated_at": "2016-05-09T11:34:46Z", 
+    "pushed_at": "2016-05-06T13:30:46Z", 
     "git_url": "git://github.com/cmusphinx/g2p-seq2seq.git", 
     "full_name": "cmusphinx/g2p-seq2seq", 
-    "stargazers_count": 10, 
+    "stargazers_count": 12, 
     "id": 57041432, 
-    "size": 43
+    "size": 52
   }, 
   {
     "description": "", 
@@ -1014,7 +1056,7 @@
     "created_at": "2016-04-27T09:41:56Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-27T10:52:07Z", 
-    "pushed_at": "2016-05-03T09:45:07Z", 
+    "pushed_at": "2016-05-09T10:56:48Z", 
     "git_url": "git://github.com/hrantzsch/TripletEmbedding.git", 
     "full_name": "hrantzsch/TripletEmbedding", 
     "stargazers_count": 0, 
@@ -1024,14 +1066,14 @@
   {
     "description": "", 
     "language": "Matlab", 
-    "watchers_count": 3, 
+    "watchers_count": 4, 
     "created_at": "2016-04-09T04:13:40Z", 
     "forks_count": 2, 
-    "updated_at": "2016-05-03T18:02:06Z", 
+    "updated_at": "2016-05-06T07:26:01Z", 
     "pushed_at": "2016-04-09T04:21:53Z", 
     "git_url": "git://github.com/jiweil/mutual-information-for-neural-machine-translation.git", 
     "full_name": "jiweil/mutual-information-for-neural-machine-translation", 
-    "stargazers_count": 3, 
+    "stargazers_count": 4, 
     "id": 55825513, 
     "size": 481
   }, 
@@ -1080,14 +1122,14 @@
   {
     "description": "C library to pack and unpack short arrays of integers as fast as possible", 
     "language": "C", 
-    "watchers_count": 3, 
+    "watchers_count": 4, 
     "created_at": "2016-04-05T15:43:00Z", 
     "forks_count": 0, 
-    "updated_at": "2016-05-03T16:23:59Z", 
+    "updated_at": "2016-05-08T05:52:43Z", 
     "pushed_at": "2016-05-02T15:25:51Z", 
     "git_url": "git://github.com/lemire/LittleIntPacker.git", 
     "full_name": "lemire/LittleIntPacker", 
-    "stargazers_count": 3, 
+    "stargazers_count": 4, 
     "id": 55520750, 
     "size": 79
   }, 
@@ -1108,14 +1150,14 @@
   {
     "description": "", 
     "language": "Python", 
-    "watchers_count": 75, 
+    "watchers_count": 78, 
     "created_at": "2016-04-25T11:34:06Z", 
-    "forks_count": 11, 
-    "updated_at": "2016-05-04T06:35:43Z", 
+    "forks_count": 12, 
+    "updated_at": "2016-05-09T11:11:02Z", 
     "pushed_at": "2016-05-03T11:54:53Z", 
     "git_url": "git://github.com/heuritech/convnets-keras.git", 
     "full_name": "heuritech/convnets-keras", 
-    "stargazers_count": 75, 
+    "stargazers_count": 78, 
     "id": 57036682, 
     "size": 3663
   }, 
@@ -1190,32 +1232,18 @@
     "size": 18029
   }, 
   {
-    "description": "Using CNN to create 'famous painting' with Matlab code", 
-    "language": "HTML", 
-    "watchers_count": 4, 
-    "created_at": "2016-04-01T07:47:22Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-05-05T12:06:57Z", 
-    "pushed_at": "2016-04-20T01:42:32Z", 
-    "git_url": "git://github.com/layumi/2016_Artist_Style.git", 
-    "full_name": "layumi/2016_Artist_Style", 
-    "stargazers_count": 4, 
-    "id": 55213626, 
-    "size": 12497
-  }, 
-  {
     "description": "Command line OAI-PMH client and incremental harvester.", 
     "language": "Go", 
     "watchers_count": 2, 
     "created_at": "2016-04-16T13:18:58Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-25T11:48:20Z", 
-    "pushed_at": "2016-04-27T09:27:39Z", 
+    "pushed_at": "2016-05-09T15:33:31Z", 
     "git_url": "git://github.com/miku/metha.git", 
     "full_name": "miku/metha", 
     "stargazers_count": 2, 
     "id": 56384577, 
-    "size": 86
+    "size": 82
   }, 
   {
     "description": "Class project for COMP541 (Machine Learning) at Ko\u00e7 University", 
@@ -1238,19 +1266,19 @@
     "created_at": "2016-04-26T22:33:46Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-26T23:41:18Z", 
-    "pushed_at": "2016-05-05T02:08:44Z", 
+    "pushed_at": "2016-05-09T00:16:33Z", 
     "git_url": "git://github.com/yixi1992/segnet_play.git", 
     "full_name": "yixi1992/segnet_play", 
     "stargazers_count": 0, 
     "id": 57166404, 
-    "size": 15
+    "size": 11
   }, 
   {
     "description": "Adversarial Manipulation of Deep Representations", 
     "language": "Jupyter Notebook", 
     "watchers_count": 1, 
     "created_at": "2016-04-27T03:16:40Z", 
-    "forks_count": 0, 
+    "forks_count": 1, 
     "updated_at": "2016-05-03T14:45:22Z", 
     "pushed_at": "2016-04-27T03:17:09Z", 
     "git_url": "git://github.com/fartashf/under_convnet.git", 
@@ -1278,7 +1306,7 @@
     "language": "Python", 
     "watchers_count": 3, 
     "created_at": "2016-04-28T19:02:11Z", 
-    "forks_count": 0, 
+    "forks_count": 1, 
     "updated_at": "2016-05-05T15:04:33Z", 
     "pushed_at": "2016-05-02T20:18:23Z", 
     "git_url": "git://github.com/bretthandrews/flexCE.git", 
@@ -1286,20 +1314,6 @@
     "stargazers_count": 3, 
     "id": 57326818, 
     "size": 10291
-  }, 
-  {
-    "description": "python implementation of HbEMKM", 
-    "language": "Python", 
-    "watchers_count": 0, 
-    "created_at": "2016-04-05T14:59:51Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-05T15:03:25Z", 
-    "pushed_at": "2016-04-05T15:03:23Z", 
-    "git_url": "git://github.com/styleNie/HbEMKM.git", 
-    "full_name": "styleNie/HbEMKM", 
-    "stargazers_count": 0, 
-    "id": 55517373, 
-    "size": 1997
   }, 
   {
     "description": "", 
@@ -1328,6 +1342,34 @@
     "stargazers_count": 9, 
     "id": 55816520, 
     "size": 51479
+  }, 
+  {
+    "description": "Faster than real time visual odometry", 
+    "language": "C++", 
+    "watchers_count": 7, 
+    "created_at": "2016-04-07T03:17:25Z", 
+    "forks_count": 2, 
+    "updated_at": "2016-05-06T18:32:46Z", 
+    "pushed_at": "2016-04-25T17:45:30Z", 
+    "git_url": "git://github.com/halismai/bpvo.git", 
+    "full_name": "halismai/bpvo", 
+    "stargazers_count": 7, 
+    "id": 55660051, 
+    "size": 10558
+  }, 
+  {
+    "description": "python implementation of HbEMKM", 
+    "language": "Python", 
+    "watchers_count": 1, 
+    "created_at": "2016-04-05T14:59:51Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-05-08T18:35:27Z", 
+    "pushed_at": "2016-04-05T15:03:23Z", 
+    "git_url": "git://github.com/styleNie/HbEMKM.git", 
+    "full_name": "styleNie/HbEMKM", 
+    "stargazers_count": 1, 
+    "id": 55517373, 
+    "size": 1997
   }, 
   {
     "description": "C library implementing the ridiculously fast CLHash  hashing function", 
@@ -1416,20 +1458,6 @@
   {
     "description": "", 
     "language": "C++", 
-    "watchers_count": 106, 
-    "created_at": "2016-04-23T19:52:33Z", 
-    "forks_count": 8, 
-    "updated_at": "2016-05-05T22:41:28Z", 
-    "pushed_at": "2016-05-05T12:35:19Z", 
-    "git_url": "git://github.com/manuelruder/artistic-videos.git", 
-    "full_name": "manuelruder/artistic-videos", 
-    "stargazers_count": 106, 
-    "id": 56937993, 
-    "size": 10698
-  }, 
-  {
-    "description": "", 
-    "language": "C++", 
     "watchers_count": 0, 
     "created_at": "2016-04-05T14:17:47Z", 
     "forks_count": 0, 
@@ -1484,6 +1512,20 @@
     "size": 3261
   }, 
   {
+    "description": "CUDA-Acclerated ALS on mulitple GPUs", 
+    "language": "Cuda", 
+    "watchers_count": 25, 
+    "created_at": "2016-04-23T19:00:16Z", 
+    "forks_count": 6, 
+    "updated_at": "2016-05-09T17:56:29Z", 
+    "pushed_at": "2016-05-07T01:33:28Z", 
+    "git_url": "git://github.com/wei-tan/CuMF.git", 
+    "full_name": "wei-tan/CuMF", 
+    "stargazers_count": 25, 
+    "id": 56935872, 
+    "size": 252
+  }, 
+  {
     "description": "", 
     "language": null, 
     "watchers_count": 0, 
@@ -1526,18 +1568,46 @@
     "size": 4098
   }, 
   {
+    "description": "Hyper-parameter Optimization with DrMAD and Hypero", 
+    "language": "Lua", 
+    "watchers_count": 12, 
+    "created_at": "2016-04-13T02:30:05Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-05-09T02:37:32Z", 
+    "pushed_at": "2016-05-06T16:56:53Z", 
+    "git_url": "git://github.com/nicholas-leonard/drmad.git", 
+    "full_name": "nicholas-leonard/drmad", 
+    "stargazers_count": 12, 
+    "id": 56114362, 
+    "size": 14
+  }, 
+  {
     "description": "K2 Lightcurves for Stars in Pleiades", 
     "language": "Jupyter Notebook", 
     "watchers_count": 0, 
     "created_at": "2016-04-27T13:21:44Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-27T13:23:03Z", 
-    "pushed_at": "2016-04-29T13:42:18Z", 
+    "pushed_at": "2016-05-09T20:34:47Z", 
     "git_url": "git://github.com/farr/PleiadesStars.git", 
     "full_name": "farr/PleiadesStars", 
     "stargazers_count": 0, 
     "id": 57215066, 
-    "size": 14883
+    "size": 33815
+  }, 
+  {
+    "description": "Training the inception resnet v2 architecture in caffe", 
+    "language": null, 
+    "watchers_count": 2, 
+    "created_at": "2016-04-28T20:17:43Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-04-29T07:53:12Z", 
+    "pushed_at": "2016-05-09T06:27:41Z", 
+    "git_url": "git://github.com/revilokeb/inception_resnetv2_caffe.git", 
+    "full_name": "revilokeb/inception_resnetv2_caffe", 
+    "stargazers_count": 2, 
+    "id": 57331109, 
+    "size": 163
   }, 
   {
     "description": "Implementation of Generative Stochastic Networks in TensorFlow", 
@@ -1574,12 +1644,40 @@
     "created_at": "2016-04-20T20:19:36Z", 
     "forks_count": 1, 
     "updated_at": "2016-05-03T14:17:27Z", 
-    "pushed_at": "2016-05-05T20:03:20Z", 
+    "pushed_at": "2016-05-09T20:39:06Z", 
     "git_url": "git://github.com/ecohen56/424Final.git", 
     "full_name": "ecohen56/424Final", 
     "stargazers_count": 0, 
     "id": 56718312, 
-    "size": 3245472
+    "size": 3250060
+  }, 
+  {
+    "description": "Object Boundary Guided Semantic Segmentation", 
+    "language": null, 
+    "watchers_count": 0, 
+    "created_at": "2016-04-01T09:36:14Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-01T09:36:14Z", 
+    "pushed_at": "2016-04-01T09:49:42Z", 
+    "git_url": "git://github.com/HHH666/OBG_FCN.git", 
+    "full_name": "HHH666/OBG_FCN", 
+    "stargazers_count": 0, 
+    "id": 55220723, 
+    "size": 6
+  }, 
+  {
+    "description": "A theano-based project reproducing 'A Algorithm of Artistic Style'", 
+    "language": "Jupyter Notebook", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-20T08:19:58Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-21T17:53:21Z", 
+    "pushed_at": "2016-04-22T15:33:29Z", 
+    "git_url": "git://github.com/sihyun0826/theano_artistic_cnn.git", 
+    "full_name": "sihyun0826/theano_artistic_cnn", 
+    "stargazers_count": 0, 
+    "id": 56669071, 
+    "size": 15135
   }, 
   {
     "description": "Look up a bibliographic BiBTeX record by an ID", 
@@ -1624,32 +1722,18 @@
     "size": 19346
   }, 
   {
-    "description": "Object Boundary Guided Semantic Segmentation", 
-    "language": null, 
-    "watchers_count": 0, 
-    "created_at": "2016-04-01T09:36:14Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-01T09:36:14Z", 
-    "pushed_at": "2016-04-01T09:49:42Z", 
-    "git_url": "git://github.com/HHH666/OBG_FCN.git", 
-    "full_name": "HHH666/OBG_FCN", 
-    "stargazers_count": 0, 
-    "id": 55220723, 
-    "size": 6
-  }, 
-  {
-    "description": "A theano-based project reproducing 'A Algorithm of Artistic Style'", 
-    "language": "Jupyter Notebook", 
-    "watchers_count": 0, 
-    "created_at": "2016-04-20T08:19:58Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-21T17:53:21Z", 
-    "pushed_at": "2016-04-22T15:33:29Z", 
-    "git_url": "git://github.com/sihyun0826/theano_artistic_cnn.git", 
-    "full_name": "sihyun0826/theano_artistic_cnn", 
-    "stargazers_count": 0, 
-    "id": 56669071, 
-    "size": 15135
+    "description": "Torch implementation for the paper \"Artistic style transfer for videos\"", 
+    "language": "C++", 
+    "watchers_count": 126, 
+    "created_at": "2016-04-23T19:52:33Z", 
+    "forks_count": 9, 
+    "updated_at": "2016-05-09T16:07:18Z", 
+    "pushed_at": "2016-05-09T17:21:05Z", 
+    "git_url": "git://github.com/manuelruder/artistic-videos.git", 
+    "full_name": "manuelruder/artistic-videos", 
+    "stargazers_count": 126, 
+    "id": 56937993, 
+    "size": 10741
   }, 
   {
     "description": "", 
@@ -1658,12 +1742,12 @@
     "created_at": "2016-04-10T13:56:13Z", 
     "forks_count": 0, 
     "updated_at": "2016-05-01T08:44:21Z", 
-    "pushed_at": "2016-05-04T15:11:01Z", 
+    "pushed_at": "2016-05-08T18:35:48Z", 
     "git_url": "git://github.com/royee17/DS_Workshop.git", 
     "full_name": "royee17/DS_Workshop", 
     "stargazers_count": 0, 
     "id": 55901931, 
-    "size": 68
+    "size": 125
   }, 
   {
     "description": "A matlab implementation of nagadomi's waifu2x", 
@@ -1694,34 +1778,6 @@
     "size": 7571
   }, 
   {
-    "description": "Hyper-parameter Optimization with DrMAD and Hypero", 
-    "language": "Lua", 
-    "watchers_count": 4, 
-    "created_at": "2016-04-13T02:30:05Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-18T13:27:35Z", 
-    "pushed_at": "2016-05-03T16:15:43Z", 
-    "git_url": "git://github.com/nicholas-leonard/drmad.git", 
-    "full_name": "nicholas-leonard/drmad", 
-    "stargazers_count": 4, 
-    "id": 56114362, 
-    "size": 13
-  }, 
-  {
-    "description": "Training the inception resnet v2 architecture in caffe", 
-    "language": null, 
-    "watchers_count": 2, 
-    "created_at": "2016-04-28T20:17:43Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-04-29T07:53:12Z", 
-    "pushed_at": "2016-04-28T21:25:53Z", 
-    "git_url": "git://github.com/revilokeb/inception_resnetv2_caffe.git", 
-    "full_name": "revilokeb/inception_resnetv2_caffe", 
-    "stargazers_count": 2, 
-    "id": 57331109, 
-    "size": 80
-  }, 
-  {
     "description": "Analytic and compact perturbative expressions for neutrino oscillations in matter", 
     "language": "C++", 
     "watchers_count": 0, 
@@ -1734,20 +1790,6 @@
     "stargazers_count": 0, 
     "id": 56010693, 
     "size": 42
-  }, 
-  {
-    "description": "Faster than real time visual odometry", 
-    "language": "C++", 
-    "watchers_count": 6, 
-    "created_at": "2016-04-07T03:17:25Z", 
-    "forks_count": 2, 
-    "updated_at": "2016-04-16T17:18:48Z", 
-    "pushed_at": "2016-04-25T17:45:30Z", 
-    "git_url": "git://github.com/halismai/bpvo.git", 
-    "full_name": "halismai/bpvo", 
-    "stargazers_count": 6, 
-    "id": 55660051, 
-    "size": 10558
   }, 
   {
     "description": "Stochastic LBFGS", 
@@ -1807,17 +1849,17 @@
   }, 
   {
     "description": "Resources for RNN", 
-    "language": null, 
+    "language": "C++", 
     "watchers_count": 0, 
     "created_at": "2016-04-26T06:40:52Z", 
     "forks_count": 0, 
-    "updated_at": "2016-04-26T12:49:24Z", 
-    "pushed_at": "2016-05-06T01:18:03Z", 
+    "updated_at": "2016-05-09T03:29:37Z", 
+    "pushed_at": "2016-05-09T10:55:41Z", 
     "git_url": "git://github.com/BigeyeDestroyer/rnn-project.git", 
     "full_name": "BigeyeDestroyer/rnn-project", 
     "stargazers_count": 0, 
     "id": 57104383, 
-    "size": 2259
+    "size": 2639
   }, 
   {
     "description": "Deep Neural Network for Learning Language By Using a Simple Image.", 
@@ -1834,6 +1876,20 @@
     "size": 15
   }, 
   {
+    "description": "End-to-End Deep Learning for Person Search", 
+    "language": "Jupyter Notebook", 
+    "watchers_count": 6, 
+    "created_at": "2016-04-06T14:51:39Z", 
+    "forks_count": 2, 
+    "updated_at": "2016-04-29T12:32:35Z", 
+    "pushed_at": "2016-04-28T08:24:51Z", 
+    "git_url": "git://github.com/ShuangLI59/person_search.git", 
+    "full_name": "ShuangLI59/person_search", 
+    "stargazers_count": 6, 
+    "id": 55614709, 
+    "size": 7625
+  }, 
+  {
     "description": "Approximately balanced estimation of average treatment effects in high dimensions.", 
     "language": "R", 
     "watchers_count": 2, 
@@ -1846,34 +1902,6 @@
     "stargazers_count": 2, 
     "id": 55437944, 
     "size": 14
-  }, 
-  {
-    "description": "End-to-End Deep Learning for Person Search", 
-    "language": "Jupyter Notebook", 
-    "watchers_count": 6, 
-    "created_at": "2016-04-06T14:51:39Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-29T12:32:35Z", 
-    "pushed_at": "2016-04-28T08:24:51Z", 
-    "git_url": "git://github.com/ShuangLI59/person_search.git", 
-    "full_name": "ShuangLI59/person_search", 
-    "stargazers_count": 6, 
-    "id": 55614709, 
-    "size": 7625
-  }, 
-  {
-    "description": "CUDA-Acclerated ALS on mulitple GPUs", 
-    "language": "Cuda", 
-    "watchers_count": 7, 
-    "created_at": "2016-04-23T19:00:16Z", 
-    "forks_count": 2, 
-    "updated_at": "2016-05-06T03:39:15Z", 
-    "pushed_at": "2016-05-04T04:00:32Z", 
-    "git_url": "git://github.com/wei-tan/CuMF.git", 
-    "full_name": "wei-tan/CuMF", 
-    "stargazers_count": 7, 
-    "id": 56935872, 
-    "size": 250
   }, 
   {
     "description": "A software package that trains an MLP by maximizing a soft approximation of the F1 squared.", 
@@ -2016,32 +2044,32 @@
     "size": 402
   }, 
   {
-    "description": "Applying Dense-Sparse-Dense training methodology to SqueezeNet, DSD training improved the top-1 accuracy of SqueezeNet by 4.3% on ImageNet without changing the model architecture and model size. ", 
-    "language": null, 
-    "watchers_count": 4, 
-    "created_at": "2016-04-21T21:20:37Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-05-03T03:51:22Z", 
-    "pushed_at": "2016-05-04T01:59:20Z", 
-    "git_url": "git://github.com/songhan/SqueezeNet-DSD-Training.git", 
-    "full_name": "songhan/SqueezeNet-DSD-Training", 
-    "stargazers_count": 4, 
-    "id": 56806364, 
-    "size": 4575
-  }, 
-  {
     "description": "Caffe triplet loss implementation", 
     "language": "C++", 
     "watchers_count": 1, 
     "created_at": "2016-04-13T22:58:39Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-24T07:34:22Z", 
-    "pushed_at": "2016-05-05T11:42:10Z", 
+    "pushed_at": "2016-05-09T20:07:17Z", 
     "git_url": "git://github.com/pva701/caffe.git", 
     "full_name": "pva701/caffe", 
     "stargazers_count": 1, 
     "id": 56191507, 
-    "size": 103450
+    "size": 103468
+  }, 
+  {
+    "description": "Applying Dense-Sparse-Dense training methodology to SqueezeNet, DSD training improved the top-1 accuracy of SqueezeNet by 4.3% on ImageNet without changing the model architecture and model size. ", 
+    "language": null, 
+    "watchers_count": 5, 
+    "created_at": "2016-04-21T21:20:37Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-05-09T19:25:23Z", 
+    "pushed_at": "2016-05-04T01:59:20Z", 
+    "git_url": "git://github.com/songhan/SqueezeNet-DSD-Training.git", 
+    "full_name": "songhan/SqueezeNet-DSD-Training", 
+    "stargazers_count": 5, 
+    "id": 56806364, 
+    "size": 4575
   }, 
   {
     "description": "Convolutional encoder-decoder implementation in Caffe", 
@@ -2086,34 +2114,6 @@
     "size": 8431
   }, 
   {
-    "description": "Translating Videos to Natural Language Using Deep Recurrent Neural Networks", 
-    "language": "Julia", 
-    "watchers_count": 0, 
-    "created_at": "2016-04-09T20:24:17Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-05-01T21:46:16Z", 
-    "pushed_at": "2016-05-04T10:47:28Z", 
-    "git_url": "git://github.com/kaandemiroz/VideoTranslation.git", 
-    "full_name": "kaandemiroz/VideoTranslation", 
-    "stargazers_count": 0, 
-    "id": 55865356, 
-    "size": 44820
-  }, 
-  {
-    "description": "", 
-    "language": "C++", 
-    "watchers_count": 1, 
-    "created_at": "2016-04-29T04:16:43Z", 
-    "forks_count": 2, 
-    "updated_at": "2016-05-04T10:56:27Z", 
-    "pushed_at": "2016-04-29T04:21:34Z", 
-    "git_url": "git://github.com/fyu/caffe-dilation.git", 
-    "full_name": "fyu/caffe-dilation", 
-    "stargazers_count": 1, 
-    "id": 57354124, 
-    "size": 32730
-  }, 
-  {
     "description": "", 
     "language": "C++", 
     "watchers_count": 0, 
@@ -2140,6 +2140,20 @@
     "stargazers_count": 0, 
     "id": 56665551, 
     "size": 8916
+  }, 
+  {
+    "description": "Translating Videos to Natural Language Using Deep Recurrent Neural Networks", 
+    "language": "Julia", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-09T20:24:17Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-05-01T21:46:16Z", 
+    "pushed_at": "2016-05-09T08:19:30Z", 
+    "git_url": "git://github.com/kaandemiroz/VideoTranslation.git", 
+    "full_name": "kaandemiroz/VideoTranslation", 
+    "stargazers_count": 0, 
+    "id": 55865356, 
+    "size": 44803
   }, 
   {
     "description": "", 
@@ -2352,20 +2366,6 @@
     "size": 15
   }, 
   {
-    "description": "This folder contains an implementation of the temporal pooler of a HTM network in MATLAB. It's a student project and just to understand the concepts of temporal pooling.", 
-    "language": "Matlab", 
-    "watchers_count": 1, 
-    "created_at": "2016-04-23T15:28:47Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-25T15:20:03Z", 
-    "pushed_at": "2016-04-24T10:18:04Z", 
-    "git_url": "git://github.com/AndreasInVienna/Temporal-Pooler-in-Matlab.git", 
-    "full_name": "AndreasInVienna/Temporal-Pooler-in-Matlab", 
-    "stargazers_count": 1, 
-    "id": 56926301, 
-    "size": 1793
-  }, 
-  {
     "description": "caffe-gpu", 
     "language": "C++", 
     "watchers_count": 0, 
@@ -2386,12 +2386,12 @@
     "created_at": "2016-04-10T17:03:08Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-10T17:54:47Z", 
-    "pushed_at": "2016-05-02T22:12:21Z", 
+    "pushed_at": "2016-05-08T10:42:20Z", 
     "git_url": "git://github.com/jasonustc/caffe-multigpu.git", 
     "full_name": "jasonustc/caffe-multigpu", 
     "stargazers_count": 0, 
     "id": 55911629, 
-    "size": 38447
+    "size": 38400
   }, 
   {
     "description": "", 
@@ -2406,6 +2406,20 @@
     "stargazers_count": 0, 
     "id": 55635307, 
     "size": 6991
+  }, 
+  {
+    "description": "This folder contains an implementation of the temporal pooler of a HTM network in MATLAB. It's a student project and just to understand the concepts of temporal pooling.", 
+    "language": "Matlab", 
+    "watchers_count": 1, 
+    "created_at": "2016-04-23T15:28:47Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-25T15:20:03Z", 
+    "pushed_at": "2016-05-08T20:19:44Z", 
+    "git_url": "git://github.com/AndreasInVienna/Temporal-Pooler-in-Matlab.git", 
+    "full_name": "AndreasInVienna/Temporal-Pooler-in-Matlab", 
+    "stargazers_count": 1, 
+    "id": 56926301, 
+    "size": 1789
   }, 
   {
     "description": "", 
@@ -2448,20 +2462,6 @@
     "stargazers_count": 0, 
     "id": 56977705, 
     "size": 0
-  }, 
-  {
-    "description": "Audio Recording Device Identification ", 
-    "language": "Python", 
-    "watchers_count": 0, 
-    "created_at": "2016-04-23T10:20:58Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-23T10:24:11Z", 
-    "pushed_at": "2016-04-28T02:14:28Z", 
-    "git_url": "git://github.com/SMartQi/identification.git", 
-    "full_name": "SMartQi/identification", 
-    "stargazers_count": 0, 
-    "id": 56913446, 
-    "size": 110
   }, 
   {
     "description": "2D Fast Finite Shearlet Transforms (FFST)", 
@@ -2520,6 +2520,34 @@
     "size": 21089
   }, 
   {
+    "description": "Audio Recording Device Identification ", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-23T10:20:58Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-23T10:24:11Z", 
+    "pushed_at": "2016-04-28T02:14:28Z", 
+    "git_url": "git://github.com/SMartQi/identification.git", 
+    "full_name": "SMartQi/identification", 
+    "stargazers_count": 0, 
+    "id": 56913446, 
+    "size": 110
+  }, 
+  {
+    "description": "Source code for Deep Saliency with Encoded Low Level Distance Map and High Level Features, CVPR 2016.", 
+    "language": "Jupyter Notebook", 
+    "watchers_count": 1, 
+    "created_at": "2016-04-13T16:36:04Z", 
+    "forks_count": 2, 
+    "updated_at": "2016-04-21T02:40:36Z", 
+    "pushed_at": "2016-05-09T04:18:11Z", 
+    "git_url": "git://github.com/gylee1103/SaliencyELD.git", 
+    "full_name": "gylee1103/SaliencyELD", 
+    "stargazers_count": 1, 
+    "id": 56168767, 
+    "size": 25874
+  }, 
+  {
     "description": "oi idi nahui", 
     "language": null, 
     "watchers_count": 0, 
@@ -2540,12 +2568,12 @@
     "created_at": "2016-04-01T22:55:03Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-01T22:55:10Z", 
-    "pushed_at": "2016-05-04T08:09:45Z", 
+    "pushed_at": "2016-05-06T21:29:52Z", 
     "git_url": "git://github.com/dobriban/Spectrode-R.git", 
     "full_name": "dobriban/Spectrode-R", 
     "stargazers_count": 0, 
     "id": 55267006, 
-    "size": 76
+    "size": 77
   }, 
   {
     "description": "Fast Forward Features Selection", 
@@ -2554,12 +2582,12 @@
     "created_at": "2016-04-12T14:42:04Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-12T14:54:44Z", 
-    "pushed_at": "2016-04-27T13:30:09Z", 
+    "pushed_at": "2016-05-09T13:44:40Z", 
     "git_url": "git://github.com/Laadr/FFFS.git", 
     "full_name": "Laadr/FFFS", 
     "stargazers_count": 0, 
     "id": 56071422, 
-    "size": 63
+    "size": 28
   }, 
   {
     "description": "Matlab code for Analog to Information of Frequency Hopping signal based on Modulated Wideband Converter", 
@@ -2568,26 +2596,12 @@
     "created_at": "2016-04-23T13:43:00Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-24T15:55:07Z", 
-    "pushed_at": "2016-05-05T15:11:43Z", 
+    "pushed_at": "2016-05-09T15:47:46Z", 
     "git_url": "git://github.com/siguoyi/MWC.git", 
     "full_name": "siguoyi/MWC", 
     "stargazers_count": 0, 
     "id": 56921219, 
-    "size": 3953
-  }, 
-  {
-    "description": "", 
-    "language": "Jupyter Notebook", 
-    "watchers_count": 3, 
-    "created_at": "2016-04-21T19:29:48Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-05-05T06:14:33Z", 
-    "pushed_at": "2016-05-06T03:38:02Z", 
-    "git_url": "git://github.com/michaelfarrell76/End-To-End-Generative-Dialogue.git", 
-    "full_name": "michaelfarrell76/End-To-End-Generative-Dialogue", 
-    "stargazers_count": 3, 
-    "id": 56800398, 
-    "size": 10947
+    "size": 3970
   }, 
   {
     "description": " Backward Renormalization Priors and the Cortical Source Localization Problem with EEG or MEG", 
@@ -2660,34 +2674,6 @@
     "size": 35194
   }, 
   {
-    "description": "", 
-    "language": "Matlab", 
-    "watchers_count": 0, 
-    "created_at": "2016-04-08T14:03:01Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-11T01:36:37Z", 
-    "pushed_at": "2016-04-26T18:43:08Z", 
-    "git_url": "git://github.com/PrincetonUniversity/cwf_denoise.git", 
-    "full_name": "PrincetonUniversity/cwf_denoise", 
-    "stargazers_count": 0, 
-    "id": 55783264, 
-    "size": 1698
-  }, 
-  {
-    "description": "Eigenvalue Decay is a new option of weight regularizer to the deep learning practitioner that aims at maximum-margin learning.", 
-    "language": "Python", 
-    "watchers_count": 0, 
-    "created_at": "2016-04-26T00:54:36Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-05-02T14:55:17Z", 
-    "pushed_at": "2016-05-05T20:05:59Z", 
-    "git_url": "git://github.com/oswaldoludwig/Eigenvalue-Decay-Regularizer-for-Keras.git", 
-    "full_name": "oswaldoludwig/Eigenvalue-Decay-Regularizer-for-Keras", 
-    "stargazers_count": 0, 
-    "id": 57086367, 
-    "size": 14
-  }, 
-  {
     "description": "The MATLAB code used in the paper \"Support Consistency of Direct Sparse-Change Learning in Markov Networks\".", 
     "language": "Matlab", 
     "watchers_count": 0, 
@@ -2728,6 +2714,34 @@
     "stargazers_count": 3, 
     "id": 56067736, 
     "size": 122681
+  }, 
+  {
+    "description": "", 
+    "language": "Matlab", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-08T14:03:01Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-11T01:36:37Z", 
+    "pushed_at": "2016-04-26T18:43:08Z", 
+    "git_url": "git://github.com/PrincetonUniversity/cwf_denoise.git", 
+    "full_name": "PrincetonUniversity/cwf_denoise", 
+    "stargazers_count": 0, 
+    "id": 55783264, 
+    "size": 1698
+  }, 
+  {
+    "description": "Eigenvalue Decay is a new option of weight regularizer to the deep learning practitioner that aims at maximum-margin learning.", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-26T00:54:36Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-05-02T14:55:17Z", 
+    "pushed_at": "2016-05-05T20:05:59Z", 
+    "git_url": "git://github.com/oswaldoludwig/Eigenvalue-Decay-Regularizer-for-Keras.git", 
+    "full_name": "oswaldoludwig/Eigenvalue-Decay-Regularizer-for-Keras", 
+    "stargazers_count": 0, 
+    "id": 57086367, 
+    "size": 14
   }, 
   {
     "description": "Efficient Multi-Scale 3D Convolutional Neural Network for Brain Lesion Segmentation", 
@@ -2778,12 +2792,12 @@
     "created_at": "2016-04-13T09:28:27Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-13T09:30:06Z", 
-    "pushed_at": "2016-04-26T03:08:22Z", 
+    "pushed_at": "2016-05-07T14:06:17Z", 
     "git_url": "git://github.com/Coldmooon/CCF.git", 
     "full_name": "Coldmooon/CCF", 
     "stargazers_count": 0, 
     "id": 56138779, 
-    "size": 13660
+    "size": 13662
   }, 
   {
     "description": "Implementations of Stragegyproof Peer Selection Mechanisms", 
@@ -2884,6 +2898,20 @@
     "size": 40695
   }, 
   {
+    "description": "", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-02T20:44:06Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-02T20:44:37Z", 
+    "pushed_at": "2016-05-08T20:26:56Z", 
+    "git_url": "git://github.com/zverham/sys6016_final.git", 
+    "full_name": "zverham/sys6016_final", 
+    "stargazers_count": 0, 
+    "id": 55315322, 
+    "size": 32
+  }, 
+  {
     "description": "Contains programs for computing the Mobius function of the permutation poset", 
     "language": "Java", 
     "watchers_count": 0, 
@@ -2932,12 +2960,12 @@
     "created_at": "2016-04-24T02:56:15Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-24T05:23:30Z", 
-    "pushed_at": "2016-05-04T16:35:13Z", 
+    "pushed_at": "2016-05-08T04:13:54Z", 
     "git_url": "git://github.com/ysasaki6023/NeuralNetworkStudy.git", 
     "full_name": "ysasaki6023/NeuralNetworkStudy", 
     "stargazers_count": 0, 
     "id": 56951196, 
-    "size": 118702
+    "size": 118719
   }, 
   {
     "description": "", 
@@ -2952,6 +2980,20 @@
     "stargazers_count": 0, 
     "id": 55325025, 
     "size": 4396
+  }, 
+  {
+    "description": "", 
+    "language": "Jupyter Notebook", 
+    "watchers_count": 3, 
+    "created_at": "2016-04-21T19:29:48Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-05-05T06:14:33Z", 
+    "pushed_at": "2016-05-09T11:31:33Z", 
+    "git_url": "git://github.com/michaelfarrell76/End-To-End-Generative-Dialogue.git", 
+    "full_name": "michaelfarrell76/End-To-End-Generative-Dialogue", 
+    "stargazers_count": 3, 
+    "id": 56800398, 
+    "size": 11008
   }, 
   {
     "description": "Valence space interactions used in \"Ground and excited states of doubly open-shell nuclei from ab initio valence-space Hamiltonians\"", 
@@ -2987,7 +3029,7 @@
     "watchers_count": 1, 
     "created_at": "2016-04-22T21:27:19Z", 
     "forks_count": 1, 
-    "updated_at": "2016-05-04T04:20:21Z", 
+    "updated_at": "2016-05-06T19:31:27Z", 
     "pushed_at": "2016-04-29T00:16:30Z", 
     "git_url": "git://github.com/DL-Benchmarks/DL-Benchmarks.git", 
     "full_name": "DL-Benchmarks/DL-Benchmarks", 
@@ -3030,26 +3072,12 @@
     "created_at": "2016-04-25T15:10:26Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-26T14:14:17Z", 
-    "pushed_at": "2016-04-26T14:12:18Z", 
+    "pushed_at": "2016-05-09T20:34:48Z", 
     "git_url": "git://github.com/jbect/bss.git", 
     "full_name": "jbect/bss", 
     "stargazers_count": 1, 
     "id": 57051822, 
-    "size": 54
-  }, 
-  {
-    "description": "Awesome deep learning based NLP papers and survey, also some awesome machine learning/vision material", 
-    "language": null, 
-    "watchers_count": 1, 
-    "created_at": "2016-04-20T07:34:46Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-05-03T15:25:50Z", 
-    "pushed_at": "2016-05-05T03:18:47Z", 
-    "git_url": "git://github.com/ylqfp/awesome-deep-nlp.git", 
-    "full_name": "ylqfp/awesome-deep-nlp", 
-    "stargazers_count": 1, 
-    "id": 56665891, 
-    "size": 9
+    "size": 56
   }, 
   {
     "description": "tracking with gaussian kernel", 
@@ -3064,20 +3092,6 @@
     "stargazers_count": 0, 
     "id": 55850367, 
     "size": 45
-  }, 
-  {
-    "description": "Source code for Deep Saliency with Encoded Low Level Distance Map and High Level Features, CVPR 2016.", 
-    "language": "Jupyter Notebook", 
-    "watchers_count": 1, 
-    "created_at": "2016-04-13T16:36:04Z", 
-    "forks_count": 2, 
-    "updated_at": "2016-04-21T02:40:36Z", 
-    "pushed_at": "2016-04-20T05:37:55Z", 
-    "git_url": "git://github.com/gylee1103/SaliencyELD.git", 
-    "full_name": "gylee1103/SaliencyELD", 
-    "stargazers_count": 1, 
-    "id": 56168767, 
-    "size": 25872
   }, 
   {
     "description": "Soft attention mechanism for video caption generation", 
@@ -3136,20 +3150,6 @@
     "size": 28180
   }, 
   {
-    "description": "a web application developed for the TESOL 2016 Conference. Intended to assist students in working on revising their writing for articles (a/an/the).", 
-    "language": "JavaScript", 
-    "watchers_count": 0, 
-    "created_at": "2016-04-05T13:57:59Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-05T14:07:19Z", 
-    "pushed_at": "2016-04-20T05:29:33Z", 
-    "git_url": "git://github.com/lpmi-13/grammarbuffet.git", 
-    "full_name": "lpmi-13/grammarbuffet", 
-    "stargazers_count": 0, 
-    "id": 55512328, 
-    "size": 732
-  }, 
-  {
     "description": "A fast moment estimation for generalized Dirichlet latent variable model", 
     "language": "Python", 
     "watchers_count": 0, 
@@ -3162,6 +3162,34 @@
     "stargazers_count": 0, 
     "id": 56347828, 
     "size": 248
+  }, 
+  {
+    "description": "Graph clustering by Bayesian inference with cross-validation model assessment", 
+    "language": "Julia", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-18T14:25:36Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-05-08T06:10:29Z", 
+    "pushed_at": "2016-05-08T06:10:27Z", 
+    "git_url": "git://github.com/tatsuro-kawamoto/graphBIX.git", 
+    "full_name": "tatsuro-kawamoto/graphBIX", 
+    "stargazers_count": 0, 
+    "id": 56514505, 
+    "size": 19
+  }, 
+  {
+    "description": "a web application developed for the TESOL 2016 Conference. Intended to assist students in working on revising their writing for articles (a/an/the).", 
+    "language": "JavaScript", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-05T13:57:59Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-05T14:07:19Z", 
+    "pushed_at": "2016-05-09T06:00:00Z", 
+    "git_url": "git://github.com/lpmi-13/grammarbuffet.git", 
+    "full_name": "lpmi-13/grammarbuffet", 
+    "stargazers_count": 0, 
+    "id": 55512328, 
+    "size": 733
   }, 
   {
     "description": "A Python implementation of the spherical EMC algorithm -- An algorithm for intensity reconstruction in single-particle imaging experiments", 
@@ -3254,26 +3282,26 @@
     "created_at": "2016-04-26T07:39:24Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-26T12:14:00Z", 
-    "pushed_at": "2016-05-02T09:40:47Z", 
+    "pushed_at": "2016-05-09T06:29:50Z", 
     "git_url": "git://github.com/space-weather-KU/bbt-sw.git", 
     "full_name": "space-weather-KU/bbt-sw", 
     "stargazers_count": 0, 
     "id": 57108003, 
-    "size": 3887
+    "size": 3891
   }, 
   {
-    "description": "Dynamic Capacity Networks using Tensorflow", 
-    "language": "Python", 
-    "watchers_count": 23, 
-    "created_at": "2016-04-19T08:51:43Z", 
-    "forks_count": 6, 
-    "updated_at": "2016-05-05T15:42:18Z", 
-    "pushed_at": "2016-05-03T10:29:52Z", 
-    "git_url": "git://github.com/beopst/dcn.tf.git", 
-    "full_name": "beopst/dcn.tf", 
-    "stargazers_count": 23, 
-    "id": 56580797, 
-    "size": 45
+    "description": "Segment-CNN: A Framework for Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs", 
+    "language": "C++", 
+    "watchers_count": 3, 
+    "created_at": "2016-04-11T04:49:57Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-05-08T19:11:06Z", 
+    "pushed_at": "2016-04-29T16:52:29Z", 
+    "git_url": "git://github.com/zhengshou/scnn.git", 
+    "full_name": "zhengshou/scnn", 
+    "stargazers_count": 3, 
+    "id": 55942524, 
+    "size": 165336
   }, 
   {
     "description": "15-453 Final Project", 
@@ -3288,6 +3316,20 @@
     "stargazers_count": 0, 
     "id": 56189369, 
     "size": 7284
+  }, 
+  {
+    "description": "Dynamic Capacity Networks using Tensorflow", 
+    "language": "Python", 
+    "watchers_count": 25, 
+    "created_at": "2016-04-19T08:51:43Z", 
+    "forks_count": 7, 
+    "updated_at": "2016-05-09T10:08:13Z", 
+    "pushed_at": "2016-05-09T06:47:19Z", 
+    "git_url": "git://github.com/beopst/dcn.tf.git", 
+    "full_name": "beopst/dcn.tf", 
+    "stargazers_count": 25, 
+    "id": 56580797, 
+    "size": 46
   }, 
   {
     "description": "", 
@@ -3318,20 +3360,6 @@
     "size": 164
   }, 
   {
-    "description": "Wrappers and implementations of several domain adaptation / transfer learning / semi-supervised learning algorithms", 
-    "language": "Matlab", 
-    "watchers_count": 0, 
-    "created_at": "2016-04-24T06:10:42Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-24T07:14:34Z", 
-    "pushed_at": "2016-04-24T11:24:24Z", 
-    "git_url": "git://github.com/viggin/domain-adaptation-toolbox.git", 
-    "full_name": "viggin/domain-adaptation-toolbox", 
-    "stargazers_count": 0, 
-    "id": 56957013, 
-    "size": 32982
-  }, 
-  {
     "description": "", 
     "language": "Python", 
     "watchers_count": 0, 
@@ -3344,6 +3372,20 @@
     "stargazers_count": 0, 
     "id": 55522537, 
     "size": 140
+  }, 
+  {
+    "description": "Wrappers and implementations of several domain adaptation / transfer learning / semi-supervised learning algorithms", 
+    "language": "Matlab", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-24T06:10:42Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-24T07:14:34Z", 
+    "pushed_at": "2016-04-24T11:24:24Z", 
+    "git_url": "git://github.com/viggin/domain-adaptation-toolbox.git", 
+    "full_name": "viggin/domain-adaptation-toolbox", 
+    "stargazers_count": 0, 
+    "id": 56957013, 
+    "size": 32982
   }, 
   {
     "description": "", 
@@ -3374,6 +3416,20 @@
     "size": 126
   }, 
   {
+    "description": "Awesome deep learning based NLP papers and survey, also some awesome machine learning/vision material", 
+    "language": null, 
+    "watchers_count": 1, 
+    "created_at": "2016-04-20T07:34:46Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-05-03T15:25:50Z", 
+    "pushed_at": "2016-05-08T08:57:01Z", 
+    "git_url": "git://github.com/ylqfp/awesome-deep-nlp.git", 
+    "full_name": "ylqfp/awesome-deep-nlp", 
+    "stargazers_count": 1, 
+    "id": 56665891, 
+    "size": 7
+  }, 
+  {
     "description": "", 
     "language": "Python", 
     "watchers_count": 1, 
@@ -3388,18 +3444,18 @@
     "size": 20
   }, 
   {
-    "description": "", 
+    "description": "Continuous and High-Throughput Allocation of Digital Object Identifiers for Materials Data in the Materials Project", 
     "language": "Python", 
     "watchers_count": 0, 
-    "created_at": "2016-04-26T16:28:37Z", 
+    "created_at": "2016-04-01T05:44:34Z", 
     "forks_count": 0, 
-    "updated_at": "2016-04-26T16:30:04Z", 
-    "pushed_at": "2016-04-26T16:30:02Z", 
-    "git_url": "git://github.com/CamiloMorales/SME.git", 
-    "full_name": "CamiloMorales/SME", 
+    "updated_at": "2016-04-01T05:47:00Z", 
+    "pushed_at": "2016-05-07T06:10:40Z", 
+    "git_url": "git://github.com/materialsproject/MPCite.git", 
+    "full_name": "materialsproject/MPCite", 
     "stargazers_count": 0, 
-    "id": 57144304, 
-    "size": 7421
+    "id": 55206793, 
+    "size": 53
   }, 
   {
     "description": "", 
@@ -3414,6 +3470,20 @@
     "stargazers_count": 6, 
     "id": 55639037, 
     "size": 12339
+  }, 
+  {
+    "description": "", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-26T16:28:37Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-26T16:30:04Z", 
+    "pushed_at": "2016-04-26T16:30:02Z", 
+    "git_url": "git://github.com/CamiloMorales/SME.git", 
+    "full_name": "CamiloMorales/SME", 
+    "stargazers_count": 0, 
+    "id": 57144304, 
+    "size": 7421
   }, 
   {
     "description": "Line-of-sight integrals of arbitrary distributions against the Milky Way Interstellar Medium. ", 
@@ -3444,20 +3514,6 @@
     "size": 19
   }, 
   {
-    "description": "Segment-CNN: A Framework for Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs", 
-    "language": "C++", 
-    "watchers_count": 2, 
-    "created_at": "2016-04-11T04:49:57Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-05-04T06:55:40Z", 
-    "pushed_at": "2016-04-29T16:52:29Z", 
-    "git_url": "git://github.com/zhengshou/scnn.git", 
-    "full_name": "zhengshou/scnn", 
-    "stargazers_count": 2, 
-    "id": 55942524, 
-    "size": 165336
-  }, 
-  {
     "description": "An equilibrium condensation sequence calculator for planetary and exoplanetary applications ", 
     "language": "Python", 
     "watchers_count": 1, 
@@ -3478,12 +3534,12 @@
     "created_at": "2016-04-25T08:09:50Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-25T08:09:50Z", 
-    "pushed_at": "2016-05-04T16:09:53Z", 
+    "pushed_at": "2016-05-09T13:19:11Z", 
     "git_url": "git://github.com/nicolasSoares/Notes.git", 
     "full_name": "nicolasSoares/Notes", 
     "stargazers_count": 0, 
     "id": 57023529, 
-    "size": 16
+    "size": 20
   }, 
   {
     "description": "", 
@@ -3548,12 +3604,12 @@
     "created_at": "2016-04-07T07:25:32Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-12T18:28:38Z", 
-    "pushed_at": "2016-04-24T06:18:55Z", 
+    "pushed_at": "2016-05-09T17:11:51Z", 
     "git_url": "git://github.com/abhimat/AstroCoffee.git", 
     "full_name": "abhimat/AstroCoffee", 
     "stargazers_count": 1, 
     "id": 55673148, 
-    "size": 850
+    "size": 806
   }, 
   {
     "description": "Simple NuPIC C++ Spatial Pooler with Sparse Random Data Sets, Simple Classifier, and Random Noise", 
@@ -3590,12 +3646,12 @@
     "created_at": "2016-04-11T01:17:20Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-11T01:19:56Z", 
-    "pushed_at": "2016-05-01T03:11:26Z", 
+    "pushed_at": "2016-05-08T11:04:31Z", 
     "git_url": "git://github.com/zimenglan-sysu-512/pt-faster-rcnn.git", 
     "full_name": "zimenglan-sysu-512/pt-faster-rcnn", 
     "stargazers_count": 0, 
     "id": 55931850, 
-    "size": 7552
+    "size": 7553
   }, 
   {
     "description": "", 
@@ -3612,20 +3668,6 @@
     "size": 19909
   }, 
   {
-    "description": "Numerical Floquet scattering calculation of electronic waiting time distributions (WTDs)", 
-    "language": "C", 
-    "watchers_count": 0, 
-    "created_at": "2016-04-20T12:01:08Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-20T12:02:11Z", 
-    "pushed_at": "2016-04-20T13:27:29Z", 
-    "git_url": "git://github.com/sometea/floquetwtd.git", 
-    "full_name": "sometea/floquetwtd", 
-    "stargazers_count": 0, 
-    "id": 56683184, 
-    "size": 69
-  }, 
-  {
     "description": "WGFEM of solving Poisson equations", 
     "language": "Matlab", 
     "watchers_count": 0, 
@@ -3640,18 +3682,32 @@
     "size": 19
   }, 
   {
+    "description": "Numerical Floquet scattering calculation of electronic waiting time distributions (WTDs)", 
+    "language": "C", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-20T12:01:08Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-20T12:02:11Z", 
+    "pushed_at": "2016-04-20T13:27:29Z", 
+    "git_url": "git://github.com/sometea/floquetwtd.git", 
+    "full_name": "sometea/floquetwtd", 
+    "stargazers_count": 0, 
+    "id": 56683184, 
+    "size": 69
+  }, 
+  {
     "description": "A python PEG parser generator", 
     "language": "Python", 
     "watchers_count": 0, 
     "created_at": "2016-04-23T00:15:37Z", 
     "forks_count": 0, 
     "updated_at": "2016-04-27T21:20:09Z", 
-    "pushed_at": "2016-05-03T01:50:31Z", 
+    "pushed_at": "2016-05-09T19:33:27Z", 
     "git_url": "git://github.com/lisael/fastidious.git", 
     "full_name": "lisael/fastidious", 
     "stargazers_count": 0, 
     "id": 56892124, 
-    "size": 63
+    "size": 78
   }, 
   {
     "description": "A Mathematica Package for Finding Forbidden Minors of a Given Graph Property", 
@@ -3711,20 +3767,6 @@
   }, 
   {
     "description": "", 
-    "language": "Python", 
-    "watchers_count": 0, 
-    "created_at": "2016-04-25T18:24:41Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-25T19:31:34Z", 
-    "pushed_at": "2016-04-25T19:31:27Z", 
-    "git_url": "git://github.com/victkid/py-faster-rcnn.git", 
-    "full_name": "victkid/py-faster-rcnn", 
-    "stargazers_count": 0, 
-    "id": 57065539, 
-    "size": 1365
-  }, 
-  {
-    "description": "", 
     "language": "Jupyter Notebook", 
     "watchers_count": 0, 
     "created_at": "2016-04-29T04:29:19Z", 
@@ -3736,6 +3778,20 @@
     "stargazers_count": 0, 
     "id": 57354583, 
     "size": 8365
+  }, 
+  {
+    "description": "", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2016-04-25T18:24:41Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-25T19:31:34Z", 
+    "pushed_at": "2016-04-25T19:31:27Z", 
+    "git_url": "git://github.com/victkid/py-faster-rcnn.git", 
+    "full_name": "victkid/py-faster-rcnn", 
+    "stargazers_count": 0, 
+    "id": 57065539, 
+    "size": 1365
   }, 
   {
     "description": "", 

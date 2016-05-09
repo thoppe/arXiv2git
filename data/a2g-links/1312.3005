@@ -1,7 +1,8 @@
 {
   "project": [
     "yandex/faster-rnnlm", 
-    "scottyli/faster-rnnlm"
+    "scottyli/faster-rnnlm", 
+    "weixsong/faster_rnnlm"
   ], 
   "citation": []
 }

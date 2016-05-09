@@ -1,7 +1,8 @@
 {
   "project": [
     "ebenolson/kaggle-whale", 
-    "faizankshaikh/kaggle_right_whale"
+    "faizankshaikh/kaggle_right_whale", 
+    "pradyu1993/tensorflow-recombinator-networks"
   ], 
   "citation": []
 }

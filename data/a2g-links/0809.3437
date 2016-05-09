@@ -2,10 +2,10 @@
   "project": [
     "JohannesBuchner/PyMultiNest", 
     "rjw57/MultiNest", 
+    "j-faria/MultiNest", 
     "nick-ulle/2014-sta299-baines", 
     "kbarbary/NestedSampling.jl", 
-    "piero-ranalli/LFTools", 
-    "j-faria/MultiNest"
+    "piero-ranalli/LFTools"
   ], 
   "citation": []
 }

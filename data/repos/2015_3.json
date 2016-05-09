@@ -16,14 +16,14 @@
   {
     "description": "Deep Learning and applications in Startups, CV, Text Mining, NLP", 
     "language": null, 
-    "watchers_count": 74, 
+    "watchers_count": 77, 
     "created_at": "2015-03-09T01:36:44Z", 
-    "forks_count": 21, 
-    "updated_at": "2016-05-06T01:10:50Z", 
+    "forks_count": 22, 
+    "updated_at": "2016-05-09T04:13:45Z", 
     "pushed_at": "2016-05-02T17:49:44Z", 
     "git_url": "git://github.com/lipiji/app-dl.git", 
     "full_name": "lipiji/app-dl", 
-    "stargazers_count": 74, 
+    "stargazers_count": 77, 
     "id": 31873712, 
     "size": 33
   }, 
@@ -44,14 +44,14 @@
   {
     "description": "Implementation of the DRAW network in lasagne", 
     "language": "Python", 
-    "watchers_count": 138, 
+    "watchers_count": 137, 
     "created_at": "2015-03-31T18:36:43Z", 
     "forks_count": 29, 
-    "updated_at": "2016-04-27T14:36:58Z", 
+    "updated_at": "2016-05-09T03:14:26Z", 
     "pushed_at": "2015-11-08T22:15:03Z", 
     "git_url": "git://github.com/skaae/lasagne-draw.git", 
     "full_name": "skaae/lasagne-draw", 
-    "stargazers_count": 138, 
+    "stargazers_count": 137, 
     "id": 33202790, 
     "size": 14672
   }, 
@@ -226,28 +226,28 @@
   {
     "description": "Configure Caffe in one hour for Windows users.", 
     "language": "C++", 
-    "watchers_count": 513, 
+    "watchers_count": 519, 
     "created_at": "2015-03-31T06:53:33Z", 
     "forks_count": 262, 
-    "updated_at": "2016-05-06T01:44:42Z", 
-    "pushed_at": "2016-05-05T08:45:22Z", 
+    "updated_at": "2016-05-09T13:14:28Z", 
+    "pushed_at": "2016-05-09T18:59:08Z", 
     "git_url": "git://github.com/happynear/caffe-windows.git", 
     "full_name": "happynear/caffe-windows", 
-    "stargazers_count": 513, 
+    "stargazers_count": 519, 
     "id": 33169818, 
-    "size": 19587
+    "size": 42526
   }, 
   {
     "description": "This is the code used for the paper \"Inferring algorithmic patterns with a stack augmented recurrent network\", by Armand Joulin and Tomas Mikolov.", 
     "language": "C++", 
-    "watchers_count": 282, 
+    "watchers_count": 283, 
     "created_at": "2015-03-21T17:45:15Z", 
-    "forks_count": 49, 
-    "updated_at": "2016-05-05T17:28:12Z", 
+    "forks_count": 50, 
+    "updated_at": "2016-05-06T16:38:29Z", 
     "pushed_at": "2015-06-14T19:33:04Z", 
     "git_url": "git://github.com/facebook/Stack-RNN.git", 
     "full_name": "facebook/Stack-RNN", 
-    "stargazers_count": 282, 
+    "stargazers_count": 283, 
     "id": 32642854, 
     "size": 219
   }, 
@@ -310,44 +310,44 @@
   {
     "description": "Create, edit and display a journal article, entirely in GitHub", 
     "language": "HTML", 
-    "watchers_count": 554, 
+    "watchers_count": 556, 
     "created_at": "2015-03-05T10:01:32Z", 
     "forks_count": 76, 
-    "updated_at": "2016-05-04T16:23:20Z", 
+    "updated_at": "2016-05-09T13:31:01Z", 
     "pushed_at": "2016-02-21T19:24:33Z", 
     "git_url": "git://github.com/PeerJ/paper-now.git", 
     "full_name": "PeerJ/paper-now", 
-    "stargazers_count": 554, 
+    "stargazers_count": 556, 
     "id": 31707674, 
     "size": 7511
   }, 
   {
-    "description": "A highly extensible deep learning framework", 
-    "language": "Python", 
-    "watchers_count": 302, 
-    "created_at": "2015-03-25T05:24:42Z", 
-    "forks_count": 51, 
-    "updated_at": "2016-04-27T05:31:04Z", 
-    "pushed_at": "2016-02-25T07:58:58Z", 
-    "git_url": "git://github.com/zomux/deepy.git", 
-    "full_name": "zomux/deepy", 
-    "stargazers_count": 302, 
-    "id": 32844312, 
-    "size": 235231
-  }, 
-  {
     "description": "Character-level Convolutional Networks for Text Classification", 
     "language": "Lua", 
-    "watchers_count": 463, 
+    "watchers_count": 464, 
     "created_at": "2015-03-29T05:48:43Z", 
-    "forks_count": 136, 
-    "updated_at": "2016-05-05T07:54:07Z", 
+    "forks_count": 138, 
+    "updated_at": "2016-05-09T09:06:27Z", 
     "pushed_at": "2016-02-03T01:45:52Z", 
     "git_url": "git://github.com/zhangxiangxiao/Crepe.git", 
     "full_name": "zhangxiangxiao/Crepe", 
-    "stargazers_count": 463, 
+    "stargazers_count": 464, 
     "id": 33063103, 
     "size": 37
+  }, 
+  {
+    "description": "A highly extensible deep learning framework", 
+    "language": "Python", 
+    "watchers_count": 304, 
+    "created_at": "2015-03-25T05:24:42Z", 
+    "forks_count": 51, 
+    "updated_at": "2016-05-09T06:13:03Z", 
+    "pushed_at": "2016-02-25T07:58:58Z", 
+    "git_url": "git://github.com/zomux/deepy.git", 
+    "full_name": "zomux/deepy", 
+    "stargazers_count": 304, 
+    "id": 32844312, 
+    "size": 235231
   }, 
   {
     "description": "ClockworkRNN implementation using python and Theano", 
@@ -478,14 +478,14 @@
   {
     "description": "Regularized kernel canonical correlation analysis in Python", 
     "language": "HTML", 
-    "watchers_count": 15, 
+    "watchers_count": 16, 
     "created_at": "2015-03-05T01:20:46Z", 
     "forks_count": 5, 
-    "updated_at": "2016-05-03T05:59:11Z", 
+    "updated_at": "2016-05-08T22:10:54Z", 
     "pushed_at": "2015-10-16T01:12:58Z", 
     "git_url": "git://github.com/gallantlab/pyrcca.git", 
     "full_name": "gallantlab/pyrcca", 
-    "stargazers_count": 15, 
+    "stargazers_count": 16, 
     "id": 31689124, 
     "size": 29706
   }, 
@@ -504,20 +504,6 @@
     "size": 220
   }, 
   {
-    "description": "Fluctuating hydrodynamic code for GPUs", 
-    "language": "Cuda", 
-    "watchers_count": 1, 
-    "created_at": "2015-03-15T23:30:05Z", 
-    "forks_count": 3, 
-    "updated_at": "2015-06-07T21:21:50Z", 
-    "pushed_at": "2016-05-01T16:43:19Z", 
-    "git_url": "git://github.com/fbusabiaga/fluam.git", 
-    "full_name": "fbusabiaga/fluam", 
-    "stargazers_count": 1, 
-    "id": 32290068, 
-    "size": 5225
-  }, 
-  {
     "description": "Implementation of the constrained deconvolution spike inference algorithm in Matlab", 
     "language": "Matlab", 
     "watchers_count": 4, 
@@ -530,6 +516,20 @@
     "stargazers_count": 4, 
     "id": 31875950, 
     "size": 44
+  }, 
+  {
+    "description": "Fluctuating hydrodynamic code for GPUs", 
+    "language": "Cuda", 
+    "watchers_count": 1, 
+    "created_at": "2015-03-15T23:30:05Z", 
+    "forks_count": 3, 
+    "updated_at": "2015-06-07T21:21:50Z", 
+    "pushed_at": "2016-05-01T16:43:19Z", 
+    "git_url": "git://github.com/fbusabiaga/fluam.git", 
+    "full_name": "fbusabiaga/fluam", 
+    "stargazers_count": 1, 
+    "id": 32290068, 
+    "size": 5225
   }, 
   {
     "description": "", 
@@ -714,34 +714,6 @@
     "size": 604
   }, 
   {
-    "description": "The Louvain method for community detection in large networks", 
-    "language": "Go", 
-    "watchers_count": 0, 
-    "created_at": "2015-03-01T06:54:56Z", 
-    "forks_count": 1, 
-    "updated_at": "2015-03-12T13:53:56Z", 
-    "pushed_at": "2015-03-12T13:53:56Z", 
-    "git_url": "git://github.com/ledyba/go-louvain.git", 
-    "full_name": "ledyba/go-louvain", 
-    "stargazers_count": 0, 
-    "id": 31489334, 
-    "size": 164
-  }, 
-  {
-    "description": "Geodesics, means, and variances in tau-space.", 
-    "language": "Java", 
-    "watchers_count": 0, 
-    "created_at": "2015-03-20T03:20:31Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-01-18T20:24:50Z", 
-    "pushed_at": "2016-03-07T21:41:10Z", 
-    "git_url": "git://github.com/gavruskin/tauGeodesic.git", 
-    "full_name": "gavruskin/tauGeodesic", 
-    "stargazers_count": 0, 
-    "id": 32560021, 
-    "size": 15471
-  }, 
-  {
     "description": "Jump Consistent Hash implementation in Go", 
     "language": "Go", 
     "watchers_count": 4, 
@@ -782,6 +754,34 @@
     "stargazers_count": 0, 
     "id": 32302451, 
     "size": 368
+  }, 
+  {
+    "description": "The Louvain method for community detection in large networks", 
+    "language": "Go", 
+    "watchers_count": 0, 
+    "created_at": "2015-03-01T06:54:56Z", 
+    "forks_count": 1, 
+    "updated_at": "2015-03-12T13:53:56Z", 
+    "pushed_at": "2015-03-12T13:53:56Z", 
+    "git_url": "git://github.com/ledyba/go-louvain.git", 
+    "full_name": "ledyba/go-louvain", 
+    "stargazers_count": 0, 
+    "id": 31489334, 
+    "size": 164
+  }, 
+  {
+    "description": "Geodesics, means, and variances in tau-space.", 
+    "language": "Java", 
+    "watchers_count": 0, 
+    "created_at": "2015-03-20T03:20:31Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-01-18T20:24:50Z", 
+    "pushed_at": "2016-03-07T21:41:10Z", 
+    "git_url": "git://github.com/gavruskin/tauGeodesic.git", 
+    "full_name": "gavruskin/tauGeodesic", 
+    "stargazers_count": 0, 
+    "id": 32560021, 
+    "size": 15471
   }, 
   {
     "description": "Paper that highlights technical details about the game puzzl,", 
@@ -842,16 +842,16 @@
   {
     "description": "Recurrent Neural Network library for Torch7's nn", 
     "language": "Lua", 
-    "watchers_count": 457, 
+    "watchers_count": 465, 
     "created_at": "2015-03-19T03:23:26Z", 
-    "forks_count": 165, 
-    "updated_at": "2016-05-05T04:38:59Z", 
-    "pushed_at": "2016-05-05T06:30:23Z", 
+    "forks_count": 169, 
+    "updated_at": "2016-05-09T16:40:12Z", 
+    "pushed_at": "2016-05-09T19:22:09Z", 
     "git_url": "git://github.com/Element-Research/rnn.git", 
     "full_name": "Element-Research/rnn", 
-    "stargazers_count": 457, 
+    "stargazers_count": 465, 
     "id": 32498520, 
-    "size": 1818
+    "size": 1854
   }, 
   {
     "description": "Presentation for the Two2Many Systems Biology conference in Weizmann Institute, March 2015", 
@@ -966,20 +966,6 @@
     "size": 144
   }, 
   {
-    "description": "Representation based multi label classification with many labels", 
-    "language": "Python", 
-    "watchers_count": 6, 
-    "created_at": "2015-03-20T03:58:16Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-04-24T09:04:13Z", 
-    "pushed_at": "2016-01-29T09:05:49Z", 
-    "git_url": "git://github.com/algorithmdog/Representation-based-Multilabel-Learning.git", 
-    "full_name": "algorithmdog/Representation-based-Multilabel-Learning", 
-    "stargazers_count": 6, 
-    "id": 32561472, 
-    "size": 119
-  }, 
-  {
     "description": "Climate Prediction Market", 
     "language": "HTML", 
     "watchers_count": 2, 
@@ -992,6 +978,20 @@
     "stargazers_count": 2, 
     "id": 31863834, 
     "size": 41027
+  }, 
+  {
+    "description": "Representation based multi label classification with many labels", 
+    "language": "Python", 
+    "watchers_count": 6, 
+    "created_at": "2015-03-20T03:58:16Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-04-24T09:04:13Z", 
+    "pushed_at": "2016-01-29T09:05:49Z", 
+    "git_url": "git://github.com/algorithmdog/Representation-based-Multilabel-Learning.git", 
+    "full_name": "algorithmdog/Representation-based-Multilabel-Learning", 
+    "stargazers_count": 6, 
+    "id": 32561472, 
+    "size": 119
   }, 
   {
     "description": "A public repository for the code L-PICOLA", 
@@ -1022,20 +1022,6 @@
     "size": 184
   }, 
   {
-    "description": "A reference implementation of the 'Dancing Links' algorithm", 
-    "language": "C++", 
-    "watchers_count": 0, 
-    "created_at": "2015-03-10T23:50:58Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-03-10T23:16:50Z", 
-    "pushed_at": "2016-03-14T22:51:24Z", 
-    "git_url": "git://github.com/jwg4/Dantz.git", 
-    "full_name": "jwg4/Dantz", 
-    "stargazers_count": 0, 
-    "id": 31988258, 
-    "size": 14
-  }, 
-  {
     "description": "Code generation algorithm and code for the PGF ODE, SIR paradigm. ", 
     "language": "HTML", 
     "watchers_count": 0, 
@@ -1062,6 +1048,20 @@
     "stargazers_count": 2, 
     "id": 32108154, 
     "size": 2536
+  }, 
+  {
+    "description": "A reference implementation of the 'Dancing Links' algorithm", 
+    "language": "C++", 
+    "watchers_count": 0, 
+    "created_at": "2015-03-10T23:50:58Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-03-10T23:16:50Z", 
+    "pushed_at": "2016-03-14T22:51:24Z", 
+    "git_url": "git://github.com/jwg4/Dantz.git", 
+    "full_name": "jwg4/Dantz", 
+    "stargazers_count": 0, 
+    "id": 31988258, 
+    "size": 14
   }, 
   {
     "description": "Specification of RNF (Read Naming Format).", 
@@ -1414,34 +1414,6 @@
     "size": 4932
   }, 
   {
-    "description": "", 
-    "language": "Python", 
-    "watchers_count": 1, 
-    "created_at": "2015-03-27T04:48:50Z", 
-    "forks_count": 1, 
-    "updated_at": "2015-08-19T16:00:27Z", 
-    "pushed_at": "2015-04-16T05:29:56Z", 
-    "git_url": "git://github.com/chenzeyu/stock_pred.git", 
-    "full_name": "chenzeyu/stock_pred", 
-    "stargazers_count": 1, 
-    "id": 32968214, 
-    "size": 3716
-  }, 
-  {
-    "description": "Kilobot simulator in C", 
-    "language": "C", 
-    "watchers_count": 4, 
-    "created_at": "2015-03-09T17:20:02Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-01-27T09:39:27Z", 
-    "pushed_at": "2016-03-04T09:24:42Z", 
-    "git_url": "git://github.com/JIC-CSB/kilombo.git", 
-    "full_name": "JIC-CSB/kilombo", 
-    "stargazers_count": 4, 
-    "id": 31912159, 
-    "size": 485
-  }, 
-  {
     "description": "anal turing machine implementation", 
     "language": null, 
     "watchers_count": 1, 
@@ -1468,6 +1440,34 @@
     "stargazers_count": 0, 
     "id": 33041841, 
     "size": 172
+  }, 
+  {
+    "description": "", 
+    "language": "Python", 
+    "watchers_count": 1, 
+    "created_at": "2015-03-27T04:48:50Z", 
+    "forks_count": 1, 
+    "updated_at": "2015-08-19T16:00:27Z", 
+    "pushed_at": "2015-04-16T05:29:56Z", 
+    "git_url": "git://github.com/chenzeyu/stock_pred.git", 
+    "full_name": "chenzeyu/stock_pred", 
+    "stargazers_count": 1, 
+    "id": 32968214, 
+    "size": 3716
+  }, 
+  {
+    "description": "Kilobot simulator in C", 
+    "language": "C", 
+    "watchers_count": 4, 
+    "created_at": "2015-03-09T17:20:02Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-01-27T09:39:27Z", 
+    "pushed_at": "2016-05-09T13:59:17Z", 
+    "git_url": "git://github.com/JIC-CSB/kilombo.git", 
+    "full_name": "JIC-CSB/kilombo", 
+    "stargazers_count": 4, 
+    "id": 31912159, 
+    "size": 489
   }, 
   {
     "description": "Optimized implementation of the Louvain Method", 
@@ -1498,20 +1498,6 @@
     "size": 18406
   }, 
   {
-    "description": "A reading list for the Continuous Wide-Band Machine Translation project", 
-    "language": null, 
-    "watchers_count": 1, 
-    "created_at": "2015-03-07T00:09:24Z", 
-    "forks_count": 0, 
-    "updated_at": "2015-06-25T15:31:57Z", 
-    "pushed_at": "2015-07-13T06:53:45Z", 
-    "git_url": "git://github.com/jiyfeng/DiscoMT.git", 
-    "full_name": "jiyfeng/DiscoMT", 
-    "stargazers_count": 1, 
-    "id": 31794883, 
-    "size": 152
-  }, 
-  {
     "description": "Automatically exported from code.google.com/p/bgone", 
     "language": "C++", 
     "watchers_count": 0, 
@@ -1530,7 +1516,7 @@
     "language": "Python", 
     "watchers_count": 0, 
     "created_at": "2015-03-31T11:36:10Z", 
-    "forks_count": 1, 
+    "forks_count": 2, 
     "updated_at": "2016-03-26T08:01:06Z", 
     "pushed_at": "2016-03-26T08:03:01Z", 
     "git_url": "git://github.com/rlouf/patterns-of-segregation.git", 
@@ -1538,6 +1524,20 @@
     "stargazers_count": 0, 
     "id": 33181961, 
     "size": 6094
+  }, 
+  {
+    "description": "A reading list for the Continuous Wide-Band Machine Translation project", 
+    "language": null, 
+    "watchers_count": 1, 
+    "created_at": "2015-03-07T00:09:24Z", 
+    "forks_count": 0, 
+    "updated_at": "2015-06-25T15:31:57Z", 
+    "pushed_at": "2015-07-13T06:53:45Z", 
+    "git_url": "git://github.com/jiyfeng/DiscoMT.git", 
+    "full_name": "jiyfeng/DiscoMT", 
+    "stargazers_count": 1, 
+    "id": 31794883, 
+    "size": 152
   }, 
   {
     "description": "Persistent Homology Datasets", 
@@ -1978,7 +1978,7 @@
     "language": "R", 
     "watchers_count": 10, 
     "created_at": "2015-03-03T19:22:20Z", 
-    "forks_count": 1, 
+    "forks_count": 2, 
     "updated_at": "2016-04-29T02:58:43Z", 
     "pushed_at": "2016-05-03T15:46:11Z", 
     "git_url": "git://github.com/thibautjombart/treescape.git", 
@@ -2078,12 +2078,12 @@
     "created_at": "2015-03-21T11:23:22Z", 
     "forks_count": 0, 
     "updated_at": "2016-02-12T19:44:20Z", 
-    "pushed_at": "2016-02-05T15:46:59Z", 
+    "pushed_at": "2016-05-06T17:43:18Z", 
     "git_url": "git://github.com/BioMachinesLab/jbotevolver.git", 
     "full_name": "BioMachinesLab/jbotevolver", 
     "stargazers_count": 2, 
     "id": 32629728, 
-    "size": 10153
+    "size": 10162
   }, 
   {
     "description": "Presentation openscienceASAP meets DIY-Biolab Montreal", 

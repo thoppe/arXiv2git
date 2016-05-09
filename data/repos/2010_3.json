@@ -16,14 +16,14 @@
   {
     "description": "A python interface to the computer algebra package LiE, for computations with Lie groups, representations, etc..", 
     "language": null, 
-    "watchers_count": 14, 
+    "watchers_count": 15, 
     "created_at": "2010-03-31T00:10:16Z", 
-    "forks_count": 3, 
-    "updated_at": "2016-04-27T08:11:09Z", 
+    "forks_count": 4, 
+    "updated_at": "2016-05-09T08:43:55Z", 
     "pushed_at": "2010-03-31T05:17:44Z", 
     "git_url": "git://github.com/davidsd/lie.git", 
     "full_name": "davidsd/lie", 
-    "stargazers_count": 14, 
+    "stargazers_count": 15, 
     "id": 587586, 
     "size": 516
   }, 

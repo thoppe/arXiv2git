@@ -3,7 +3,8 @@
     "yandex/faster-rnnlm", 
     "jordipons/DRNN4ASS", 
     "mohammadpz/Identity_RNN", 
-    "scottyli/faster-rnnlm"
+    "scottyli/faster-rnnlm", 
+    "weixsong/faster_rnnlm"
   ], 
   "citation": [
     "dykang/neurallanguage-notes", 

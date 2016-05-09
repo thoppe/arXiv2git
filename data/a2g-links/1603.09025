@@ -2,6 +2,7 @@
   "project": [
     "iassael/torch-bnlstm", 
     "cooijmanstim/recurrent-batch-normalization", 
+    "musyoku/recurrent-batch-normalization", 
     "taey16/lstm"
   ], 
   "citation": [

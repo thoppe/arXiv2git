@@ -5,9 +5,9 @@
     "soumith/dcgan.torch", 
     "stitchfix/fauxtograph", 
     "jacobgil/keras-dcgan", 
-    "space-weather-KU/bbt-sw", 
+    "kiyomaro927/dmg", 
     "sugyan/face-generator", 
-    "kiyomaro927/dmg"
+    "space-weather-KU/bbt-sw"
   ], 
   "citation": [
     "dennybritz/deeplearning-papernotes", 

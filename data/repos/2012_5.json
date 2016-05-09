@@ -44,14 +44,14 @@
   {
     "description": "Stanford Network Analysis Platform (SNAP) is a general purpose network analysis and graph mining library.", 
     "language": "C++", 
-    "watchers_count": 423, 
+    "watchers_count": 424, 
     "created_at": "2012-05-10T18:43:17Z", 
-    "forks_count": 224, 
-    "updated_at": "2016-05-02T10:39:09Z", 
+    "forks_count": 225, 
+    "updated_at": "2016-05-09T08:40:22Z", 
     "pushed_at": "2016-04-28T17:02:22Z", 
     "git_url": "git://github.com/snap-stanford/snap.git", 
     "full_name": "snap-stanford/snap", 
-    "stargazers_count": 423, 
+    "stargazers_count": 424, 
     "id": 4288357, 
     "size": 90690
   }, 
@@ -168,20 +168,6 @@
     "size": 872
   }, 
   {
-    "description": "My Ph.D. dissertation (LaTeX)", 
-    "language": "Python", 
-    "watchers_count": 1, 
-    "created_at": "2012-05-03T20:38:36Z", 
-    "forks_count": 0, 
-    "updated_at": "2013-10-28T10:04:00Z", 
-    "pushed_at": "2012-05-24T15:40:25Z", 
-    "git_url": "git://github.com/jklukas/gradthesis.git", 
-    "full_name": "jklukas/gradthesis", 
-    "stargazers_count": 1, 
-    "id": 4218556, 
-    "size": 191980
-  }, 
-  {
     "description": "Comprehensive environment for using and managing documents", 
     "language": null, 
     "watchers_count": 1, 
@@ -194,6 +180,20 @@
     "stargazers_count": 1, 
     "id": 4423582, 
     "size": 92
+  }, 
+  {
+    "description": "My Ph.D. dissertation (LaTeX)", 
+    "language": "Python", 
+    "watchers_count": 1, 
+    "created_at": "2012-05-03T20:38:36Z", 
+    "forks_count": 0, 
+    "updated_at": "2013-10-28T10:04:00Z", 
+    "pushed_at": "2012-05-24T15:40:25Z", 
+    "git_url": "git://github.com/jklukas/gradthesis.git", 
+    "full_name": "jklukas/gradthesis", 
+    "stargazers_count": 1, 
+    "id": 4218556, 
+    "size": 191980
   }, 
   {
     "description": "Repository for my course task. Winnow algorithm in P2P.", 

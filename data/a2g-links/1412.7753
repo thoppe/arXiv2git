@@ -3,6 +3,7 @@
     "yandex/faster-rnnlm", 
     "facebook/SCRNNs", 
     "uhub/awesome-lua", 
+    "weixsong/faster_rnnlm", 
     "fiskio/PiHKAL"
   ], 
   "citation": [

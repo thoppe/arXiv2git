@@ -7,6 +7,7 @@
     "cran/PythonInR", 
     "izeye/ai", 
     "sanyam5/papers-per-week", 
+    "weixsong/faster_rnnlm", 
     "wdbm/abstraction", 
     "jesege/py-cbow", 
     "asu-labs/wordvec", 

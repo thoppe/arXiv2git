@@ -1,6 +1,7 @@
 {
   "project": [], 
   "citation": [
+    "talismanbrandi/MCFM-v6.8-ggZZ", 
     "cms-externals/MCFM", 
     "MSchiavi/MCFM-7.0_Bahrah_Matt"
   ]

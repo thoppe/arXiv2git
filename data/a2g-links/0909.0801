@@ -1,7 +1,7 @@
 {
   "project": [
-    "moridinamael/mc-aixi", 
     "gkassel/pyaixi", 
+    "moridinamael/mc-aixi", 
     "dissipate/mc-aixi-vs-paq", 
     "Warbo/mc-aixi-ctw"
   ], 

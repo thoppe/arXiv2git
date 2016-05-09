@@ -256,7 +256,7 @@
     "language": "Matlab", 
     "watchers_count": 46, 
     "created_at": "2014-08-22T14:15:40Z", 
-    "forks_count": 34, 
+    "forks_count": 35, 
     "updated_at": "2016-04-12T21:42:29Z", 
     "pushed_at": "2016-02-17T13:36:59Z", 
     "git_url": "git://github.com/batra-mlp-lab/object-proposals.git", 
@@ -342,12 +342,12 @@
     "created_at": "2014-08-28T12:06:26Z", 
     "forks_count": 17, 
     "updated_at": "2016-04-17T15:32:52Z", 
-    "pushed_at": "2016-05-04T19:06:07Z", 
+    "pushed_at": "2016-05-09T07:30:38Z", 
     "git_url": "git://github.com/gpstuff-dev/gpstuff.git", 
     "full_name": "gpstuff-dev/gpstuff", 
     "stargazers_count": 27, 
     "id": 23426387, 
-    "size": 64582
+    "size": 64742
   }, 
   {
     "description": "An implementation of demixed Principal Component Analysis (a supervised linear dimensionality reduction technique)", 
@@ -452,7 +452,7 @@
     "language": "Logos", 
     "watchers_count": 2, 
     "created_at": "2014-08-14T21:09:28Z", 
-    "forks_count": 0, 
+    "forks_count": 1, 
     "updated_at": "2016-02-16T12:00:14Z", 
     "pushed_at": "2016-04-22T10:10:55Z", 
     "git_url": "git://github.com/sebastien-bratieres/pygpstruct.git", 

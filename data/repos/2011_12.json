@@ -14,18 +14,18 @@
     "size": 190
   }, 
   {
-    "description": "An implementation of the time dependent variational principle for matrix product states. Developed at the Institute for Theoretical Physics, Leibniz Universit\u00e4t Hannover.", 
+    "description": "An implementation of the time dependent variational principle for matrix product states", 
     "language": "Python", 
     "watchers_count": 14, 
     "created_at": "2011-12-05T10:12:26Z", 
     "forks_count": 8, 
-    "updated_at": "2016-04-29T21:56:28Z", 
-    "pushed_at": "2016-04-29T22:28:54Z", 
+    "updated_at": "2016-05-09T14:52:25Z", 
+    "pushed_at": "2016-05-09T15:18:05Z", 
     "git_url": "git://github.com/amilsted/evoMPS.git", 
     "full_name": "amilsted/evoMPS", 
     "stargazers_count": 14, 
     "id": 2915677, 
-    "size": 5112
+    "size": 5138
   }, 
   {
     "description": "knot theory and computational algebra software", 

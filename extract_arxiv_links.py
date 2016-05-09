@@ -190,7 +190,12 @@ for js in json_iterator():
         if text is None: continue
         
         xid = find_arxiv_links(text)
-        item = repo_lookup[js['id']]
+
+        id = js['id']
+        if id not in repo_lookup:
+            print "Can't find id {}".format(id)
+            continue
+        item = repo_lookup[id]
         
         ax_type = 'project'
         # Code with > 5 links are classififed as a citation

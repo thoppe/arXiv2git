@@ -2,16 +2,16 @@
   {
     "description": "Torch implementation of ResNet from http://arxiv.org/abs/1512.03385 and training scripts", 
     "language": "Lua", 
-    "watchers_count": 482, 
+    "watchers_count": 489, 
     "created_at": "2016-01-12T20:29:16Z", 
-    "forks_count": 120, 
-    "updated_at": "2016-05-06T02:30:37Z", 
-    "pushed_at": "2016-05-03T02:27:08Z", 
+    "forks_count": 123, 
+    "updated_at": "2016-05-09T05:06:06Z", 
+    "pushed_at": "2016-05-09T15:43:04Z", 
     "git_url": "git://github.com/facebook/fb.resnet.torch.git", 
     "full_name": "facebook/fb.resnet.torch", 
-    "stargazers_count": 482, 
+    "stargazers_count": 489, 
     "id": 49527035, 
-    "size": 55
+    "size": 59
   }, 
   {
     "description": "http://arxiv.org/pdf/1502.02367v4.pdf", 
@@ -58,14 +58,14 @@
   {
     "description": "Political Speech Generator", 
     "language": "OpenEdge ABL", 
-    "watchers_count": 297, 
+    "watchers_count": 296, 
     "created_at": "2016-01-13T16:33:30Z", 
     "forks_count": 55, 
-    "updated_at": "2016-04-27T03:58:59Z", 
+    "updated_at": "2016-05-07T00:27:31Z", 
     "pushed_at": "2016-01-31T10:55:24Z", 
     "git_url": "git://github.com/valentin012/conspeech.git", 
     "full_name": "valentin012/conspeech", 
-    "stargazers_count": 297, 
+    "stargazers_count": 296, 
     "id": 49586528, 
     "size": 1441
   }, 
@@ -114,30 +114,16 @@
   {
     "description": "A track of papers I read and papers I collect to read in future", 
     "language": null, 
-    "watchers_count": 12, 
+    "watchers_count": 13, 
     "created_at": "2016-01-26T07:30:54Z", 
-    "forks_count": 7, 
-    "updated_at": "2016-04-24T22:48:01Z", 
+    "forks_count": 8, 
+    "updated_at": "2016-05-09T08:08:25Z", 
     "pushed_at": "2016-04-09T09:00:49Z", 
     "git_url": "git://github.com/sunshineatnoon/Paper-Collection.git", 
     "full_name": "sunshineatnoon/Paper-Collection", 
-    "stargazers_count": 12, 
+    "stargazers_count": 13, 
     "id": 50411671, 
     "size": 2707
-  }, 
-  {
-    "description": "Conjoined Triple Deep Network for Learning Local Image Descriptors", 
-    "language": "Lua", 
-    "watchers_count": 16, 
-    "created_at": "2016-01-19T18:09:59Z", 
-    "forks_count": 16, 
-    "updated_at": "2016-05-03T08:43:21Z", 
-    "pushed_at": "2016-05-01T19:26:09Z", 
-    "git_url": "git://github.com/vbalnt/pnnet.git", 
-    "full_name": "vbalnt/pnnet", 
-    "stargazers_count": 16, 
-    "id": 49972499, 
-    "size": 27371
   }, 
   {
     "description": "Create tar files ready for upload to arxiv", 
@@ -172,7 +158,7 @@
     "language": "Python", 
     "watchers_count": 12, 
     "created_at": "2016-01-14T20:26:40Z", 
-    "forks_count": 6, 
+    "forks_count": 7, 
     "updated_at": "2016-05-04T15:40:33Z", 
     "pushed_at": "2016-03-14T23:12:16Z", 
     "git_url": "git://github.com/pbashivan/EEGLearn.git", 
@@ -184,14 +170,14 @@
   {
     "description": "Implementation of PoseNet", 
     "language": "C++", 
-    "watchers_count": 59, 
+    "watchers_count": 60, 
     "created_at": "2016-01-16T01:26:51Z", 
-    "forks_count": 26, 
-    "updated_at": "2016-04-22T09:04:00Z", 
+    "forks_count": 28, 
+    "updated_at": "2016-05-07T03:43:12Z", 
     "pushed_at": "2016-03-10T14:47:42Z", 
     "git_url": "git://github.com/alexgkendall/caffe-posenet.git", 
     "full_name": "alexgkendall/caffe-posenet", 
-    "stargazers_count": 59, 
+    "stargazers_count": 60, 
     "id": 49753917, 
     "size": 34045
   }, 
@@ -208,6 +194,20 @@
     "stargazers_count": 6, 
     "id": 49800702, 
     "size": 10531
+  }, 
+  {
+    "description": "Conjoined Triple Deep Network for Learning Local Image Descriptors", 
+    "language": "Lua", 
+    "watchers_count": 16, 
+    "created_at": "2016-01-19T18:09:59Z", 
+    "forks_count": 16, 
+    "updated_at": "2016-05-03T08:43:21Z", 
+    "pushed_at": "2016-05-09T12:20:43Z", 
+    "git_url": "git://github.com/vbalnt/pnnet.git", 
+    "full_name": "vbalnt/pnnet", 
+    "stargazers_count": 16, 
+    "id": 49972499, 
+    "size": 67645
   }, 
   {
     "description": "A Faster Pseudopolynomial Time Algorithm for Subset Sum http://arxiv.org/pdf/1507.02318v1.pdf", 
@@ -238,6 +238,20 @@
     "size": 44596
   }, 
   {
+    "description": "Lightweight framework for learning with side information, based on Theano and Lasagne. For more info on learning with side information see http://arxiv.org/abs/1511.06429", 
+    "language": "Jupyter Notebook", 
+    "watchers_count": 2, 
+    "created_at": "2016-01-04T15:42:02Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-05-02T14:48:51Z", 
+    "pushed_at": "2016-05-03T09:10:03Z", 
+    "git_url": "git://github.com/tu-rbo/concarne.git", 
+    "full_name": "tu-rbo/concarne", 
+    "stargazers_count": 2, 
+    "id": 49006215, 
+    "size": 402
+  }, 
+  {
     "description": "Generator for exclusive processes - see description in http://arxiv.org/abs/1411.6035", 
     "language": "C++", 
     "watchers_count": 0, 
@@ -266,18 +280,18 @@
     "size": 8
   }, 
   {
-    "description": "Lightweight framework for learning with side information, based on Theano and Lasagne. For more info on learning with side information see http://arxiv.org/abs/1511.06429", 
-    "language": "Jupyter Notebook", 
-    "watchers_count": 2, 
-    "created_at": "2016-01-04T15:42:02Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-05-02T14:48:51Z", 
-    "pushed_at": "2016-05-03T09:10:03Z", 
-    "git_url": "git://github.com/tu-rbo/concarne.git", 
-    "full_name": "tu-rbo/concarne", 
-    "stargazers_count": 2, 
-    "id": 49006215, 
-    "size": 402
+    "description": "Seq2Seq LSTM Autoencoder", 
+    "language": "Lua", 
+    "watchers_count": 30, 
+    "created_at": "2016-01-08T11:51:31Z", 
+    "forks_count": 9, 
+    "updated_at": "2016-05-09T08:57:40Z", 
+    "pushed_at": "2016-01-24T18:44:03Z", 
+    "git_url": "git://github.com/cheng6076/LSTM-Autoencoder.git", 
+    "full_name": "cheng6076/LSTM-Autoencoder", 
+    "stargazers_count": 30, 
+    "id": 49269345, 
+    "size": 15
   }, 
   {
     "description": "Summaries of papers on deep learning.", 
@@ -294,12 +308,26 @@
     "size": 35
   }, 
   {
+    "description": "", 
+    "language": "Lua", 
+    "watchers_count": 16, 
+    "created_at": "2016-01-05T11:23:03Z", 
+    "forks_count": 5, 
+    "updated_at": "2016-05-09T07:28:58Z", 
+    "pushed_at": "2016-01-10T17:26:50Z", 
+    "git_url": "git://github.com/arunpatala/residual.mnist.git", 
+    "full_name": "arunpatala/residual.mnist", 
+    "stargazers_count": 16, 
+    "id": 49061578, 
+    "size": 4
+  }, 
+  {
     "description": "DPPnet: Image Question Answering using Convolutional Neural Network  with Dynamic Parameter Prediction", 
     "language": "Lua", 
     "watchers_count": 45, 
     "created_at": "2016-01-17T14:08:40Z", 
     "forks_count": 20, 
-    "updated_at": "2016-05-03T07:48:16Z", 
+    "updated_at": "2016-05-08T17:43:45Z", 
     "pushed_at": "2016-04-20T13:25:25Z", 
     "git_url": "git://github.com/HyeonwooNoh/DPPnet.git", 
     "full_name": "HyeonwooNoh/DPPnet", 
@@ -312,7 +340,7 @@
     "language": "Python", 
     "watchers_count": 17, 
     "created_at": "2016-01-16T00:21:29Z", 
-    "forks_count": 4, 
+    "forks_count": 5, 
     "updated_at": "2016-03-19T01:53:43Z", 
     "pushed_at": "2016-03-11T15:38:13Z", 
     "git_url": "git://github.com/Avmb/lowrank-gru.git", 
@@ -352,14 +380,14 @@
   {
     "description": "End-To-End Memory Networks for bAbI question-answering tasks", 
     "language": "Python", 
-    "watchers_count": 175, 
+    "watchers_count": 177, 
     "created_at": "2016-01-10T06:56:50Z", 
-    "forks_count": 37, 
-    "updated_at": "2016-05-02T04:23:36Z", 
+    "forks_count": 38, 
+    "updated_at": "2016-05-09T05:35:54Z", 
     "pushed_at": "2016-01-19T03:47:05Z", 
     "git_url": "git://github.com/vinhkhuc/MemN2N-babi-python.git", 
     "full_name": "vinhkhuc/MemN2N-babi-python", 
-    "stargazers_count": 175, 
+    "stargazers_count": 177, 
     "id": 49356897, 
     "size": 16392
   }, 
@@ -378,20 +406,6 @@
     "size": 2
   }, 
   {
-    "description": "", 
-    "language": "Lua", 
-    "watchers_count": 15, 
-    "created_at": "2016-01-05T11:23:03Z", 
-    "forks_count": 5, 
-    "updated_at": "2016-05-01T19:20:39Z", 
-    "pushed_at": "2016-01-10T17:26:50Z", 
-    "git_url": "git://github.com/arunpatala/residual.mnist.git", 
-    "full_name": "arunpatala/residual.mnist", 
-    "stargazers_count": 15, 
-    "id": 49061578, 
-    "size": 4
-  }, 
-  {
     "description": "Caffe with NNPACK integration", 
     "language": "C++", 
     "watchers_count": 11, 
@@ -404,20 +418,6 @@
     "stargazers_count": 11, 
     "id": 50535971, 
     "size": 39116
-  }, 
-  {
-    "description": "Software to calculate the Higgs boson lineshape. Can be used to restore the results from the paper arXiv:1509.02406 [hep-ph]", 
-    "language": "C++", 
-    "watchers_count": 0, 
-    "created_at": "2016-01-11T14:37:39Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-01-11T14:44:15Z", 
-    "pushed_at": "2016-04-15T10:10:57Z", 
-    "git_url": "git://github.com/rkycia/HiggsLineshapeCalculator.git", 
-    "full_name": "rkycia/HiggsLineshapeCalculator", 
-    "stargazers_count": 0, 
-    "id": 49432084, 
-    "size": 30
   }, 
   {
     "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  prototest\u00a0\u2014\u00a0Inference\u00a0on\u00a0Prototypes\u00a0from\u00a0Clusters\u00a0of\u00a0Features.\u00a0Homepage:\u00a0http://arxiv.org/abs/1511.07839  ", 
@@ -434,32 +434,32 @@
     "size": 59
   }, 
   {
-    "description": "A curated list of awesome deep learning applications in the field of computational biology", 
-    "language": null, 
-    "watchers_count": 48, 
-    "created_at": "2016-01-20T10:22:16Z", 
-    "forks_count": 7, 
-    "updated_at": "2016-05-01T19:40:37Z", 
-    "pushed_at": "2016-04-16T22:31:14Z", 
-    "git_url": "git://github.com/gokceneraslan/awesome-deepbio.git", 
-    "full_name": "gokceneraslan/awesome-deepbio", 
-    "stargazers_count": 48, 
-    "id": 50022436, 
-    "size": 7
+    "description": "Software to calculate the Higgs boson lineshape. Can be used to restore the results from the paper arXiv:1509.02406 [hep-ph]", 
+    "language": "C++", 
+    "watchers_count": 0, 
+    "created_at": "2016-01-11T14:37:39Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-01-11T14:44:15Z", 
+    "pushed_at": "2016-04-15T10:10:57Z", 
+    "git_url": "git://github.com/rkycia/HiggsLineshapeCalculator.git", 
+    "full_name": "rkycia/HiggsLineshapeCalculator", 
+    "stargazers_count": 0, 
+    "id": 49432084, 
+    "size": 30
   }, 
   {
-    "description": "Seq2Seq LSTM Autoencoder", 
-    "language": "Lua", 
-    "watchers_count": 14, 
-    "created_at": "2016-01-08T11:51:31Z", 
-    "forks_count": 2, 
-    "updated_at": "2016-05-06T03:35:07Z", 
-    "pushed_at": "2016-01-24T18:44:03Z", 
-    "git_url": "git://github.com/cheng6076/LSTM-Autoencoder.git", 
-    "full_name": "cheng6076/LSTM-Autoencoder", 
-    "stargazers_count": 14, 
-    "id": 49269345, 
-    "size": 15
+    "description": "A curated list of awesome deep learning applications in the field of computational biology", 
+    "language": null, 
+    "watchers_count": 49, 
+    "created_at": "2016-01-20T10:22:16Z", 
+    "forks_count": 7, 
+    "updated_at": "2016-05-08T05:50:39Z", 
+    "pushed_at": "2016-05-09T04:48:52Z", 
+    "git_url": "git://github.com/gokceneraslan/awesome-deepbio.git", 
+    "full_name": "gokceneraslan/awesome-deepbio", 
+    "stargazers_count": 49, 
+    "id": 50022436, 
+    "size": 10
   }, 
   {
     "description": "Open a web search in your terminal.", 
@@ -467,13 +467,27 @@
     "watchers_count": 1377, 
     "created_at": "2016-01-24T03:44:07Z", 
     "forks_count": 71, 
-    "updated_at": "2016-05-04T17:16:42Z", 
-    "pushed_at": "2016-05-06T03:10:37Z", 
+    "updated_at": "2016-05-08T19:53:28Z", 
+    "pushed_at": "2016-05-06T23:57:19Z", 
     "git_url": "git://github.com/zquestz/s.git", 
     "full_name": "zquestz/s", 
     "stargazers_count": 1377, 
     "id": 50270924, 
-    "size": 2115
+    "size": 2112
+  }, 
+  {
+    "description": "Implementation of search-convolutional neural networks (SCNNs)", 
+    "language": "Python", 
+    "watchers_count": 27, 
+    "created_at": "2016-01-14T13:44:13Z", 
+    "forks_count": 5, 
+    "updated_at": "2016-05-08T15:13:02Z", 
+    "pushed_at": "2016-05-03T17:01:40Z", 
+    "git_url": "git://github.com/jcatw/scnn.git", 
+    "full_name": "jcatw/scnn", 
+    "stargazers_count": 27, 
+    "id": 49649732, 
+    "size": 22913
   }, 
   {
     "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  covsep\u00a0\u2014\u00a0Tests\u00a0for\u00a0Determining\u00a0if\u00a0the\u00a0Covariance\u00a0Structure\u00a0of\u00a02-Dimensional\u00a0Data\u00a0is\u00a0Separable.\u00a0Homepage:\u00a0http://arxiv.org/abs/1505.02023  ", 
@@ -492,14 +506,14 @@
   {
     "description": "List of resources to get started with Deep Learning for NLP.", 
     "language": null, 
-    "watchers_count": 114, 
+    "watchers_count": 116, 
     "created_at": "2016-01-09T13:18:19Z", 
     "forks_count": 35, 
-    "updated_at": "2016-05-05T12:58:34Z", 
+    "updated_at": "2016-05-09T02:53:44Z", 
     "pushed_at": "2016-04-21T18:38:41Z", 
     "git_url": "git://github.com/shashankg7/Deep-Learning-for-NLP-Resources.git", 
     "full_name": "shashankg7/Deep-Learning-for-NLP-Resources", 
-    "stargazers_count": 114, 
+    "stargazers_count": 116, 
     "id": 49324956, 
     "size": 20166
   }, 
@@ -576,30 +590,16 @@
   {
     "description": "Learning Multi-Domain Convolutional Neural Networks for Visual Tracking", 
     "language": "C++", 
-    "watchers_count": 45, 
+    "watchers_count": 46, 
     "created_at": "2016-01-15T05:12:16Z", 
     "forks_count": 19, 
-    "updated_at": "2016-05-04T16:30:29Z", 
+    "updated_at": "2016-05-09T11:39:41Z", 
     "pushed_at": "2016-01-20T10:56:20Z", 
     "git_url": "git://github.com/HyeonseobNam/MDNet.git", 
     "full_name": "HyeonseobNam/MDNet", 
-    "stargazers_count": 45, 
+    "stargazers_count": 46, 
     "id": 49697841, 
     "size": 132171
-  }, 
-  {
-    "description": "Implementation of search-convolutional neural networks (SCNNs)", 
-    "language": "Python", 
-    "watchers_count": 24, 
-    "created_at": "2016-01-14T13:44:13Z", 
-    "forks_count": 5, 
-    "updated_at": "2016-05-05T14:47:20Z", 
-    "pushed_at": "2016-05-03T17:01:40Z", 
-    "git_url": "git://github.com/jcatw/scnn.git", 
-    "full_name": "jcatw/scnn", 
-    "stargazers_count": 24, 
-    "id": 49649732, 
-    "size": 22913
   }, 
   {
     "description": "GRU recurrent network in javascript. GRU is a powerful model in sequential modeling. you may stack it to do some interesting things( generate articles, musics, etc).  http://arxiv.org/pdf/1412.3555v1.pdf  http://ir.hit.edu.cn/~jguo/docs/notes/bptt.pdf  ", 
@@ -648,7 +648,7 @@
     "language": "C++", 
     "watchers_count": 13, 
     "created_at": "2016-01-02T12:55:49Z", 
-    "forks_count": 12, 
+    "forks_count": 13, 
     "updated_at": "2016-05-03T12:18:19Z", 
     "pushed_at": "2016-01-06T23:59:26Z", 
     "git_url": "git://github.com/MingMingCheng/SalBenchmark.git", 
@@ -740,6 +740,20 @@
     "stargazers_count": 4, 
     "id": 50658073, 
     "size": 2669
+  }, 
+  {
+    "description": "R package to perform Bayesian screening for genomic data", 
+    "language": "R", 
+    "watchers_count": 4, 
+    "created_at": "2016-01-17T01:32:30Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-05-08T07:00:13Z", 
+    "pushed_at": "2016-05-02T20:44:06Z", 
+    "git_url": "git://github.com/lockEF/BayesianScreening.git", 
+    "full_name": "lockEF/BayesianScreening", 
+    "stargazers_count": 4, 
+    "id": 49798414, 
+    "size": 26
   }, 
   {
     "description": "", 
@@ -882,20 +896,6 @@
     "size": 3002
   }, 
   {
-    "description": "sp2016", 
-    "language": "CSS", 
-    "watchers_count": 0, 
-    "created_at": "2016-01-21T20:34:11Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-05-03T17:27:05Z", 
-    "pushed_at": "2016-05-03T17:27:04Z", 
-    "git_url": "git://github.com/eyeccc/CS766_Project.git", 
-    "full_name": "eyeccc/CS766_Project", 
-    "stargazers_count": 0, 
-    "id": 50134955, 
-    "size": 1934
-  }, 
-  {
     "description": "", 
     "language": "Python", 
     "watchers_count": 0, 
@@ -986,12 +986,12 @@
     "created_at": "2016-01-21T03:22:10Z", 
     "forks_count": 14, 
     "updated_at": "2016-05-03T13:04:08Z", 
-    "pushed_at": "2016-05-06T00:58:08Z", 
+    "pushed_at": "2016-05-09T00:12:57Z", 
     "git_url": "git://github.com/brmson/dataset-sts.git", 
     "full_name": "brmson/dataset-sts", 
     "stargazers_count": 30, 
     "id": 50079006, 
-    "size": 109812
+    "size": 110250
   }, 
   {
     "description": "Numerical experiments for continuous-time quantum search on balanced binary trees", 
@@ -1020,20 +1020,6 @@
     "stargazers_count": 0, 
     "id": 49546956, 
     "size": 46
-  }, 
-  {
-    "description": "", 
-    "language": "Python", 
-    "watchers_count": 1, 
-    "created_at": "2016-01-14T09:24:42Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-01-14T09:27:57Z", 
-    "pushed_at": "2016-01-21T07:37:51Z", 
-    "git_url": "git://github.com/JP-Ellis/arxiv-wrapper.git", 
-    "full_name": "JP-Ellis/arxiv-wrapper", 
-    "stargazers_count": 1, 
-    "id": 49636884, 
-    "size": 33
   }, 
   {
     "description": "A Python script to enumerate influential people based on wikipedia.", 
@@ -1065,6 +1051,20 @@
   }, 
   {
     "description": "", 
+    "language": "Python", 
+    "watchers_count": 1, 
+    "created_at": "2016-01-14T09:24:42Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-01-14T09:27:57Z", 
+    "pushed_at": "2016-05-09T02:06:21Z", 
+    "git_url": "git://github.com/JP-Ellis/arxiv-wrapper.git", 
+    "full_name": "JP-Ellis/arxiv-wrapper", 
+    "stargazers_count": 1, 
+    "id": 49636884, 
+    "size": 23
+  }, 
+  {
+    "description": "", 
     "language": null, 
     "watchers_count": 0, 
     "created_at": "2016-01-21T00:20:47Z", 
@@ -1078,18 +1078,18 @@
     "size": 3
   }, 
   {
-    "description": "R package to perform Bayesian screening for genomic data", 
-    "language": "R", 
-    "watchers_count": 1, 
-    "created_at": "2016-01-17T01:32:30Z", 
+    "description": "Platforms participating in experiment crowdsourcing, and their features", 
+    "language": null, 
+    "watchers_count": 0, 
+    "created_at": "2016-01-26T14:09:29Z", 
     "forks_count": 0, 
-    "updated_at": "2016-05-02T07:30:16Z", 
-    "pushed_at": "2016-05-02T20:44:06Z", 
-    "git_url": "git://github.com/lockEF/BayesianScreening.git", 
-    "full_name": "lockEF/BayesianScreening", 
-    "stargazers_count": 1, 
-    "id": 49798414, 
-    "size": 26
+    "updated_at": "2016-01-26T14:09:29Z", 
+    "pushed_at": "2016-04-30T16:45:17Z", 
+    "git_url": "git://github.com/ctuning/ck-crowdtuning-platforms.git", 
+    "full_name": "ctuning/ck-crowdtuning-platforms", 
+    "stargazers_count": 0, 
+    "id": 50432734, 
+    "size": 286
   }, 
   {
     "description": "VU Science 2.0 WS15/16", 
@@ -1176,20 +1176,6 @@
     "size": 4
   }, 
   {
-    "description": "Platforms participating in experiment crowdsourcing, and their features", 
-    "language": null, 
-    "watchers_count": 0, 
-    "created_at": "2016-01-26T14:09:29Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-01-26T14:09:29Z", 
-    "pushed_at": "2016-04-30T16:45:17Z", 
-    "git_url": "git://github.com/ctuning/ck-crowdtuning-platforms.git", 
-    "full_name": "ctuning/ck-crowdtuning-platforms", 
-    "stargazers_count": 0, 
-    "id": 50432734, 
-    "size": 286
-  }, 
-  {
     "description": "Extract bibliographic references from (High-Energy Physics) articles.", 
     "language": "Python", 
     "watchers_count": 3, 
@@ -1218,20 +1204,6 @@
     "size": 1385
   }, 
   {
-    "description": "Processes scientific papers and determines regions of interest in them.  ", 
-    "language": "Python", 
-    "watchers_count": 0, 
-    "created_at": "2016-01-19T15:45:39Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-12T20:59:17Z", 
-    "pushed_at": "2016-04-12T13:54:19Z", 
-    "git_url": "git://github.com/Ameobea/paper_parser.git", 
-    "full_name": "Ameobea/paper_parser", 
-    "stargazers_count": 0, 
-    "id": 49963138, 
-    "size": 2739
-  }, 
-  {
     "description": "Code for implementing DMD in an autoregressive setting", 
     "language": "Matlab", 
     "watchers_count": 0, 
@@ -1246,6 +1218,20 @@
     "size": 26514
   }, 
   {
+    "description": "Processes scientific papers and determines regions of interest in them.  ", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2016-01-19T15:45:39Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-12T20:59:17Z", 
+    "pushed_at": "2016-04-12T13:54:19Z", 
+    "git_url": "git://github.com/Ameobea/paper_parser.git", 
+    "full_name": "Ameobea/paper_parser", 
+    "stargazers_count": 0, 
+    "id": 49963138, 
+    "size": 2739
+  }, 
+  {
     "description": "Paedic Topic Models", 
     "language": "OpenEdge ABL", 
     "watchers_count": 0, 
@@ -1258,6 +1244,20 @@
     "stargazers_count": 0, 
     "id": 50066992, 
     "size": 3903
+  }, 
+  {
+    "description": "This is a GitHub archive for the best known solutions and solvers of the low autocorrelation binary sequence (labs) problem. It also is a testbed for rigorous, transparent, and reproducible performance testing of labs solvers. Maintained by Borko Bo\u0161kovi\u0107, Faculty of Electrical Engineering and Computer Science, University of Maribor, Slovenia.", 
+    "language": "HTML", 
+    "watchers_count": 0, 
+    "created_at": "2016-01-27T08:30:11Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-04-08T09:17:22Z", 
+    "pushed_at": "2016-04-08T09:18:37Z", 
+    "git_url": "git://github.com/borkob/git_labs.git", 
+    "full_name": "borkob/git_labs", 
+    "stargazers_count": 0, 
+    "id": 50493186, 
+    "size": 212
   }, 
   {
     "description": "Data analyses from \"Co-clustering directed graphs to discover asymmetries and directional communities\" by Rohe, Qin, and Yu", 
@@ -1286,20 +1286,6 @@
     "stargazers_count": 0, 
     "id": 50279102, 
     "size": 66
-  }, 
-  {
-    "description": "This is a GitHub archive for the best known solutions and solvers of the low autocorrelation binary sequence (labs) problem. It also is a testbed for rigorous, transparent, and reproducible performance testing of labs solvers. Maintained by Borko Bo\u0161kovi\u0107, Faculty of Electrical Engineering and Computer Science, University of Maribor, Slovenia.", 
-    "language": "HTML", 
-    "watchers_count": 0, 
-    "created_at": "2016-01-27T08:30:11Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-08T09:17:22Z", 
-    "pushed_at": "2016-04-08T09:18:37Z", 
-    "git_url": "git://github.com/borkob/git_labs.git", 
-    "full_name": "borkob/git_labs", 
-    "stargazers_count": 0, 
-    "id": 50493186, 
-    "size": 212
   }, 
   {
     "description": "", 
@@ -1332,14 +1318,14 @@
   {
     "description": "", 
     "language": "C++", 
-    "watchers_count": 3, 
+    "watchers_count": 4, 
     "created_at": "2016-01-28T19:47:00Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-02-21T07:45:46Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-05-09T09:38:34Z", 
     "pushed_at": "2016-04-29T15:49:33Z", 
     "git_url": "git://github.com/clab/language-universal-parser.git", 
     "full_name": "clab/language-universal-parser", 
-    "stargazers_count": 3, 
+    "stargazers_count": 4, 
     "id": 50608837, 
     "size": 1093
   }, 
@@ -1356,6 +1342,20 @@
     "stargazers_count": 3, 
     "id": 50696239, 
     "size": 23
+  }, 
+  {
+    "description": "Theano implementation of T1-T2 gradient-based method for tuning continuous hyperparameters.", 
+    "language": "Python", 
+    "watchers_count": 2, 
+    "created_at": "2016-01-15T02:45:32Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-05-06T18:32:02Z", 
+    "pushed_at": "2016-03-11T14:36:09Z", 
+    "git_url": "git://github.com/jelennal/t1t2.git", 
+    "full_name": "jelennal/t1t2", 
+    "stargazers_count": 2, 
+    "id": 49691887, 
+    "size": 182529
   }, 
   {
     "description": "Adding cccp layer to caffe for using of openblas", 
@@ -1470,6 +1470,34 @@
     "size": 8020
   }, 
   {
+    "description": "Caffe version used by Render for CNN. See https://github.com/BVLC/caffe for updated original version.", 
+    "language": "C++", 
+    "watchers_count": 0, 
+    "created_at": "2016-01-28T22:05:28Z", 
+    "forks_count": 3, 
+    "updated_at": "2016-01-28T22:11:45Z", 
+    "pushed_at": "2016-01-28T22:17:00Z", 
+    "git_url": "git://github.com/charlesq34/caffe-render-for-cnn.git", 
+    "full_name": "charlesq34/caffe-render-for-cnn", 
+    "stargazers_count": 0, 
+    "id": 50617213, 
+    "size": 28356
+  }, 
+  {
+    "description": "", 
+    "language": "C++", 
+    "watchers_count": 0, 
+    "created_at": "2016-01-27T14:32:59Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-01-27T17:09:04Z", 
+    "pushed_at": "2016-02-01T08:24:09Z", 
+    "git_url": "git://github.com/Charleen777/caffecode.git", 
+    "full_name": "Charleen777/caffecode", 
+    "stargazers_count": 0, 
+    "id": 50513168, 
+    "size": 2360
+  }, 
+  {
     "description": "", 
     "language": "C++", 
     "watchers_count": 0, 
@@ -1496,34 +1524,6 @@
     "stargazers_count": 0, 
     "id": 50491352, 
     "size": 327954
-  }, 
-  {
-    "description": "", 
-    "language": "C++", 
-    "watchers_count": 0, 
-    "created_at": "2016-01-27T14:32:59Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-01-27T17:09:04Z", 
-    "pushed_at": "2016-02-01T08:24:09Z", 
-    "git_url": "git://github.com/Charleen777/caffecode.git", 
-    "full_name": "Charleen777/caffecode", 
-    "stargazers_count": 0, 
-    "id": 50513168, 
-    "size": 2360
-  }, 
-  {
-    "description": "Caffe version used by Render for CNN. See https://github.com/BVLC/caffe for updated original version.", 
-    "language": "C++", 
-    "watchers_count": 0, 
-    "created_at": "2016-01-28T22:05:28Z", 
-    "forks_count": 2, 
-    "updated_at": "2016-01-28T22:11:45Z", 
-    "pushed_at": "2016-01-28T22:17:00Z", 
-    "git_url": "git://github.com/charlesq34/caffe-render-for-cnn.git", 
-    "full_name": "charlesq34/caffe-render-for-cnn", 
-    "stargazers_count": 0, 
-    "id": 50617213, 
-    "size": 28356
   }, 
   {
     "description": "Caffe: a fast open framework for deep learning. http://caffe.berkeleyvision.org/", 
@@ -1558,7 +1558,7 @@
     "language": "C++", 
     "watchers_count": 1, 
     "created_at": "2016-01-08T03:04:50Z", 
-    "forks_count": 2, 
+    "forks_count": 3, 
     "updated_at": "2016-04-18T15:03:41Z", 
     "pushed_at": "2016-03-07T06:02:48Z", 
     "git_url": "git://github.com/MelodyHai/caffe-yolo.git", 
@@ -1602,12 +1602,12 @@
     "created_at": "2016-01-21T08:00:23Z", 
     "forks_count": 0, 
     "updated_at": "2016-01-21T08:31:08Z", 
-    "pushed_at": "2016-04-22T06:47:47Z", 
+    "pushed_at": "2016-05-09T09:50:46Z", 
     "git_url": "git://github.com/swift-n-brutal/caffe.git", 
     "full_name": "swift-n-brutal/caffe", 
     "stargazers_count": 0, 
     "id": 50091720, 
-    "size": 32795
+    "size": 32803
   }, 
   {
     "description": "HFSS does high-quality 3D E&M simulations, and Matlab is a scripting language...why not combine them?!", 
@@ -1806,20 +1806,6 @@
     "size": 3
   }, 
   {
-    "description": "Theano implementation of T1-T2 gradient-based method for tuning continuous hyperparameters.", 
-    "language": "Python", 
-    "watchers_count": 1, 
-    "created_at": "2016-01-15T02:45:32Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-01T12:56:30Z", 
-    "pushed_at": "2016-03-11T14:36:09Z", 
-    "git_url": "git://github.com/jelennal/t1t2.git", 
-    "full_name": "jelennal/t1t2", 
-    "stargazers_count": 1, 
-    "id": 49691887, 
-    "size": 182529
-  }, 
-  {
     "description": "", 
     "language": null, 
     "watchers_count": 0, 
@@ -1946,6 +1932,20 @@
     "size": 1581
   }, 
   {
+    "description": "Samu (Hanshon) experiencing with the Stroop effect", 
+    "language": "C++", 
+    "watchers_count": 0, 
+    "created_at": "2016-01-16T10:18:35Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-01-16T10:38:06Z", 
+    "pushed_at": "2016-02-22T13:11:43Z", 
+    "git_url": "git://github.com/nbatfai/SamuStroop.git", 
+    "full_name": "nbatfai/SamuStroop", 
+    "stargazers_count": 0, 
+    "id": 49768765, 
+    "size": 30
+  }, 
+  {
     "description": "A project to find cliques in a social network.", 
     "language": "C#", 
     "watchers_count": 0, 
@@ -1974,18 +1974,18 @@
     "size": 17035
   }, 
   {
-    "description": "Samu (Hanshon) experiencing with the Stroop effect", 
-    "language": "C++", 
+    "description": "sp2016", 
+    "language": "Matlab", 
     "watchers_count": 0, 
-    "created_at": "2016-01-16T10:18:35Z", 
+    "created_at": "2016-01-21T20:34:11Z", 
     "forks_count": 1, 
-    "updated_at": "2016-01-16T10:38:06Z", 
-    "pushed_at": "2016-02-22T13:11:43Z", 
-    "git_url": "git://github.com/nbatfai/SamuStroop.git", 
-    "full_name": "nbatfai/SamuStroop", 
+    "updated_at": "2016-05-07T04:32:31Z", 
+    "pushed_at": "2016-05-07T04:34:49Z", 
+    "git_url": "git://github.com/eyeccc/CS766_Project.git", 
+    "full_name": "eyeccc/CS766_Project", 
     "stargazers_count": 0, 
-    "id": 49768765, 
-    "size": 30
+    "id": 50134955, 
+    "size": 11811
   }, 
   {
     "description": "", 
@@ -2100,20 +2100,6 @@
     "size": 90668
   }, 
   {
-    "description": "Assignment 1 deals with motion models and path planning.", 
-    "language": "C++", 
-    "watchers_count": 2, 
-    "created_at": "2016-01-29T19:55:21Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-01-29T22:16:58Z", 
-    "pushed_at": "2016-02-08T22:57:27Z", 
-    "git_url": "git://github.com/Danserminator/Assignment1.git", 
-    "full_name": "Danserminator/Assignment1", 
-    "stargazers_count": 2, 
-    "id": 50687573, 
-    "size": 651696
-  }, 
-  {
     "description": "Support Vector Machines - High Energy Physics Interface", 
     "language": "C++", 
     "watchers_count": 4, 
@@ -2126,6 +2112,20 @@
     "stargazers_count": 4, 
     "id": 49420833, 
     "size": 149
+  }, 
+  {
+    "description": "Assignment 1 deals with motion models and path planning.", 
+    "language": "C++", 
+    "watchers_count": 2, 
+    "created_at": "2016-01-29T19:55:21Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-01-29T22:16:58Z", 
+    "pushed_at": "2016-02-08T22:57:27Z", 
+    "git_url": "git://github.com/Danserminator/Assignment1.git", 
+    "full_name": "Danserminator/Assignment1", 
+    "stargazers_count": 2, 
+    "id": 50687573, 
+    "size": 651696
   }, 
   {
     "description": "Multilevel Graph Sparsifier based on algebraic distances on graphs", 
@@ -2142,20 +2142,6 @@
     "size": 5577
   }, 
   {
-    "description": "An attempt to extract style and content from music in a separable way", 
-    "language": "Python", 
-    "watchers_count": 0, 
-    "created_at": "2016-01-13T03:19:22Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-01-13T03:19:40Z", 
-    "pushed_at": "2016-01-13T03:19:38Z", 
-    "git_url": "git://github.com/bschreck/learning-music-style.git", 
-    "full_name": "bschreck/learning-music-style", 
-    "stargazers_count": 0, 
-    "id": 49546349, 
-    "size": 18
-  }, 
-  {
     "description": "Samu (Nahshon) has captured a movie.", 
     "language": "C++", 
     "watchers_count": 0, 
@@ -2168,6 +2154,20 @@
     "stargazers_count": 0, 
     "id": 49330809, 
     "size": 30
+  }, 
+  {
+    "description": "An attempt to extract style and content from music in a separable way", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2016-01-13T03:19:22Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-01-13T03:19:40Z", 
+    "pushed_at": "2016-01-13T03:19:38Z", 
+    "git_url": "git://github.com/bschreck/learning-music-style.git", 
+    "full_name": "bschreck/learning-music-style", 
+    "stargazers_count": 0, 
+    "id": 49546349, 
+    "size": 18
   }, 
   {
     "description": "Files and notebooks related to Feiden (2016, A&A)", 
@@ -2204,12 +2204,12 @@
     "created_at": "2016-01-26T13:44:25Z", 
     "forks_count": 0, 
     "updated_at": "2016-01-26T14:14:12Z", 
-    "pushed_at": "2016-05-05T09:44:39Z", 
+    "pushed_at": "2016-05-09T11:15:11Z", 
     "git_url": "git://github.com/bthorne93/PySM.git", 
     "full_name": "bthorne93/PySM", 
     "stargazers_count": 0, 
     "id": 50431196, 
-    "size": 946701
+    "size": 1295887
   }, 
   {
     "description": "List of resources I would like to read/watch/listen to in 2016 and my progress at doing so.", 
@@ -2238,6 +2238,20 @@
     "stargazers_count": 0, 
     "id": 50314670, 
     "size": 32
+  }, 
+  {
+    "description": "", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2016-01-22T10:11:07Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-01-29T14:03:04Z", 
+    "pushed_at": "2016-02-03T10:01:05Z", 
+    "git_url": "git://github.com/v-m/GDGNC.git", 
+    "full_name": "v-m/GDGNC", 
+    "stargazers_count": 0, 
+    "id": 50173705, 
+    "size": 37951
   }, 
   {
     "description": "Implementation in Python of the one sided mean kernel and other kernels for sequences.", 
@@ -2296,20 +2310,6 @@
     "size": 721
   }, 
   {
-    "description": "", 
-    "language": "Python", 
-    "watchers_count": 0, 
-    "created_at": "2016-01-22T10:11:07Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-01-29T14:03:04Z", 
-    "pushed_at": "2016-02-03T10:01:05Z", 
-    "git_url": "git://github.com/v-m/GDGNC.git", 
-    "full_name": "v-m/GDGNC", 
-    "stargazers_count": 0, 
-    "id": 50173705, 
-    "size": 37951
-  }, 
-  {
     "description": null, 
     "language": "Python", 
     "watchers_count": 0, 
@@ -2344,12 +2344,12 @@
     "created_at": "2016-01-13T16:52:36Z", 
     "forks_count": 0, 
     "updated_at": "2016-01-20T17:44:03Z", 
-    "pushed_at": "2016-05-06T01:50:36Z", 
+    "pushed_at": "2016-05-09T02:01:38Z", 
     "git_url": "git://github.com/ihh/indelhistorian.git", 
     "full_name": "ihh/indelhistorian", 
     "stargazers_count": 0, 
     "id": 49587685, 
-    "size": 960
+    "size": 834
   }, 
   {
     "description": "Functions of Multiple Instances and Extended Functions of Multiple Instances", 
@@ -2368,14 +2368,14 @@
   {
     "description": "Short challenge paper for ACM JDIQ on challenge of software citation", 
     "language": "TeX", 
-    "watchers_count": 0, 
+    "watchers_count": 1, 
     "created_at": "2016-01-05T05:50:51Z", 
     "forks_count": 0, 
-    "updated_at": "2016-05-05T17:39:54Z", 
+    "updated_at": "2016-05-06T11:08:18Z", 
     "pushed_at": "2016-04-10T20:52:45Z", 
     "git_url": "git://github.com/kyleniemeyer/software-citation-challenge-paper.git", 
     "full_name": "kyleniemeyer/software-citation-challenge-paper", 
-    "stargazers_count": 0, 
+    "stargazers_count": 1, 
     "id": 49045062, 
     "size": 167
   }, 
@@ -2454,7 +2454,7 @@
     "language": "C++", 
     "watchers_count": 1, 
     "created_at": "2016-01-30T19:06:44Z", 
-    "forks_count": 3, 
+    "forks_count": 4, 
     "updated_at": "2016-03-24T17:15:18Z", 
     "pushed_at": "2016-04-10T13:24:32Z", 
     "git_url": "git://github.com/nbatfai/SamuBrain.git", 
@@ -2478,20 +2478,6 @@
     "size": 118
   }, 
   {
-    "description": "German Credit Classifier", 
-    "language": "Python", 
-    "watchers_count": 0, 
-    "created_at": "2016-01-17T10:31:06Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-01-17T10:33:30Z", 
-    "pushed_at": "2016-01-26T11:05:25Z", 
-    "git_url": "git://github.com/andpol5/credit-classifier.git", 
-    "full_name": "andpol5/credit-classifier", 
-    "stargazers_count": 0, 
-    "id": 49812876, 
-    "size": 1078
-  }, 
-  {
     "description": "Solution to the subset sum problem via a heap-ordered tree structure consisting of n-length subsets of a set", 
     "language": "Java", 
     "watchers_count": 0, 
@@ -2504,6 +2490,20 @@
     "stargazers_count": 0, 
     "id": 50211686, 
     "size": 6
+  }, 
+  {
+    "description": "German Credit Classifier", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2016-01-17T10:31:06Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-01-17T10:33:30Z", 
+    "pushed_at": "2016-05-08T17:40:12Z", 
+    "git_url": "git://github.com/andpol5/credit-classifier.git", 
+    "full_name": "andpol5/credit-classifier", 
+    "stargazers_count": 0, 
+    "id": 49812876, 
+    "size": 1075
   }, 
   {
     "description": "Bayesian machine learning reading group, stats dept., Oxford", 
@@ -2568,12 +2568,12 @@
     "created_at": "2016-01-26T18:55:09Z", 
     "forks_count": 0, 
     "updated_at": "2016-01-26T20:46:44Z", 
-    "pushed_at": "2016-05-06T00:21:07Z", 
+    "pushed_at": "2016-05-09T00:44:49Z", 
     "git_url": "git://github.com/tabakg/potapov_interpolation.git", 
     "full_name": "tabakg/potapov_interpolation", 
     "stargazers_count": 0, 
     "id": 50451288, 
-    "size": 11196
+    "size": 8815
   }, 
   {
     "description": "IBD Simulation with Diploids", 

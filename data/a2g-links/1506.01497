@@ -6,6 +6,7 @@
     "songzheng/faster-rcnn", 
     "chenxistephen/faster-rcnn-matlab-macosx", 
     "CptSteven/faster-rcnn-mod", 
+    "RuibinMa/bottle-detection", 
     "hongzhenwang/faster-rcnn-", 
     "svebk/py-faster-rcnn", 
     "lbin/faster-rcnn", 
@@ -17,7 +18,6 @@
     "yuhan210/py-faster-rcnn", 
     "chaitu2289/py-faster-rcnn", 
     "victkid/py-faster-rcnn", 
-    "RuibinMa/bottle-detection", 
     "rohitgirdhar-cmu-experimental/py-faster-rcnn-cpu", 
     "qxin/learnLocalization", 
     "ly015/JointAttribute_FasterRCNN"

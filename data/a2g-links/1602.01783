@@ -3,7 +3,8 @@
     "Zeta36/Asynchronous-Methods-for-Deep-Reinforcement-Learning", 
     "miyosuda/async_deep_reinforce", 
     "muupan/async-rl", 
-    "wulfebw/async_rl"
+    "wulfebw/async_rl", 
+    "traai/async-deep-rl"
   ], 
   "citation": [
     "junhyukoh/deep-reinforcement-learning-papers", 

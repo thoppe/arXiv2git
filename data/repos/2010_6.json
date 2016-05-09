@@ -16,14 +16,14 @@
   {
     "description": "An EXTREMELY FAST portable thread caching malloc implementation written in C for multiple threads without lock contention based on dlmalloc. Optimised for x86 and x64. Compatible with C++. Can patch itself into existing binaries on Windows.", 
     "language": "C", 
-    "watchers_count": 163, 
+    "watchers_count": 162, 
     "created_at": "2010-06-12T00:33:41Z", 
     "forks_count": 68, 
-    "updated_at": "2016-05-02T15:46:55Z", 
+    "updated_at": "2016-05-09T04:03:41Z", 
     "pushed_at": "2014-07-05T14:00:28Z", 
     "git_url": "git://github.com/ned14/nedmalloc.git", 
     "full_name": "ned14/nedmalloc", 
-    "stargazers_count": 163, 
+    "stargazers_count": 162, 
     "id": 716736, 
     "size": 3264
   }, 

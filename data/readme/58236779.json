@@ -1,0 +1,6 @@
+{
+  "read_at": 1462826646, 
+  "description": "", 
+  "README.md": "# Test Anchor Words\n\nThis is a test implementation of the Anchor Word algorithm from:\n\nhttp://arxiv.org/pdf/1212.4777v1.pdf\n\nIt is more for my learning than anything, so understand that I don't expect\nit to be useful for much else.\n", 
+  "id": 58236779
+}

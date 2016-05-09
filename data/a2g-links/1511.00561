@@ -3,6 +3,7 @@
     "alexgkendall/caffe-segnet", 
     "alexgkendall/SegNet-Tutorial", 
     "pradyu1993/segnet", 
+    "yixi1992/caffe-segnet-yixi", 
     "gogartom/caffe-textmaps", 
     "yixi1992/segnet_play"
   ], 

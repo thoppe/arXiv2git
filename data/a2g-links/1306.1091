@@ -2,8 +2,8 @@
   "project": [
     "yaoli/GSN", 
     "peteykun/GSN", 
-    "uchihashikenshi/GSNforEM", 
-    "fengjiran/GSN"
+    "fengjiran/GSN", 
+    "uchihashikenshi/GSNforEM"
   ], 
   "citation": []
 }

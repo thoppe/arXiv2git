@@ -144,7 +144,7 @@
     "language": "Python", 
     "watchers_count": 120, 
     "created_at": "2014-07-14T17:25:15Z", 
-    "forks_count": 34, 
+    "forks_count": 35, 
     "updated_at": "2016-05-04T21:20:03Z", 
     "pushed_at": "2016-02-23T08:30:00Z", 
     "git_url": "git://github.com/balajiln/mondrianforest.git", 
@@ -184,16 +184,16 @@
   {
     "description": "Roaring bitmaps in Go (golang)", 
     "language": "Go", 
-    "watchers_count": 118, 
+    "watchers_count": 119, 
     "created_at": "2014-07-10T20:14:34Z", 
     "forks_count": 18, 
-    "updated_at": "2016-05-02T19:06:20Z", 
-    "pushed_at": "2016-05-06T02:56:11Z", 
+    "updated_at": "2016-05-08T10:05:12Z", 
+    "pushed_at": "2016-05-06T19:05:07Z", 
     "git_url": "git://github.com/RoaringBitmap/roaring.git", 
     "full_name": "RoaringBitmap/roaring", 
-    "stargazers_count": 118, 
+    "stargazers_count": 119, 
     "id": 21708754, 
-    "size": 397
+    "size": 401
   }, 
   {
     "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  bootSVD\u00a0\u2014\u00a0Fast,\u00a0Exact\u00a0Bootstrap\u00a0Principal\u00a0Component\u00a0Analysis\u00a0for\u00a0High\u00a0Dimensional\u00a0Data.\u00a0Homepage:\u00a0http://arxiv.org/abs/1405.0922  ", 
@@ -212,14 +212,14 @@
   {
     "description": "Implement feature hashing with R", 
     "language": "C++", 
-    "watchers_count": 43, 
+    "watchers_count": 45, 
     "created_at": "2014-07-31T16:37:05Z", 
     "forks_count": 22, 
-    "updated_at": "2016-05-03T00:10:03Z", 
+    "updated_at": "2016-05-08T07:35:27Z", 
     "pushed_at": "2016-04-28T08:58:40Z", 
     "git_url": "git://github.com/wush978/FeatureHashing.git", 
     "full_name": "wush978/FeatureHashing", 
-    "stargazers_count": 43, 
+    "stargazers_count": 45, 
     "id": 22476756, 
     "size": 49617
   }, 
@@ -244,12 +244,12 @@
     "created_at": "2014-07-21T15:52:35Z", 
     "forks_count": 3, 
     "updated_at": "2016-04-05T12:36:38Z", 
-    "pushed_at": "2016-05-05T00:05:43Z", 
+    "pushed_at": "2016-05-09T17:32:53Z", 
     "git_url": "git://github.com/resibots/limbo.git", 
     "full_name": "resibots/limbo", 
     "stargazers_count": 4, 
     "id": 22070431, 
-    "size": 5675
+    "size": 5859
   }, 
   {
     "description": "Repository for the paper produced by students at the recomputation summer school https://blogs.cs.st-andrews.ac.uk/emcsr2014/", 
@@ -520,28 +520,28 @@
   {
     "description": "Reference implementations of state-based CRDTs that offer deltas for all mutations.", 
     "language": "C++", 
-    "watchers_count": 91, 
+    "watchers_count": 92, 
     "created_at": "2014-07-01T16:52:59Z", 
     "forks_count": 9, 
-    "updated_at": "2016-05-02T09:47:39Z", 
+    "updated_at": "2016-05-07T10:37:54Z", 
     "pushed_at": "2016-01-05T11:53:23Z", 
     "git_url": "git://github.com/CBaquero/delta-enabled-crdts.git", 
     "full_name": "CBaquero/delta-enabled-crdts", 
-    "stargazers_count": 91, 
+    "stargazers_count": 92, 
     "id": 21395444, 
     "size": 828
   }, 
   {
     "description": "Efficient and Robust Bayesian Inference", 
     "language": "FORTRAN", 
-    "watchers_count": 0, 
+    "watchers_count": 1, 
     "created_at": "2014-07-16T22:46:49Z", 
-    "forks_count": 0, 
-    "updated_at": "2015-03-02T19:38:06Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-05-09T11:41:36Z", 
     "pushed_at": "2015-10-05T13:07:13Z", 
     "git_url": "git://github.com/j-faria/MultiNest.git", 
     "full_name": "j-faria/MultiNest", 
-    "stargazers_count": 0, 
+    "stargazers_count": 1, 
     "id": 21920810, 
     "size": 448
   }, 
@@ -574,20 +574,6 @@
     "size": 160
   }, 
   {
-    "description": "A MATLAB function for computing the diamond norm (completely bounded induced 1-norm on linear superoperators)", 
-    "language": "Matlab", 
-    "watchers_count": 0, 
-    "created_at": "2014-07-25T19:06:39Z", 
-    "forks_count": 0, 
-    "updated_at": "2015-02-16T22:35:25Z", 
-    "pushed_at": "2015-02-16T22:35:24Z", 
-    "git_url": "git://github.com/BBN-Q/matlab-diamond-norm.git", 
-    "full_name": "BBN-Q/matlab-diamond-norm", 
-    "stargazers_count": 0, 
-    "id": 22267641, 
-    "size": 180
-  }, 
-  {
     "description": "A python wrapper for the Altmetric API", 
     "language": "Python", 
     "watchers_count": 2, 
@@ -614,6 +600,20 @@
     "stargazers_count": 1, 
     "id": 22218640, 
     "size": 2161
+  }, 
+  {
+    "description": "A MATLAB function for computing the diamond norm (completely bounded induced 1-norm on linear superoperators)", 
+    "language": "Matlab", 
+    "watchers_count": 0, 
+    "created_at": "2014-07-25T19:06:39Z", 
+    "forks_count": 0, 
+    "updated_at": "2015-02-16T22:35:25Z", 
+    "pushed_at": "2015-02-16T22:35:24Z", 
+    "git_url": "git://github.com/BBN-Q/matlab-diamond-norm.git", 
+    "full_name": "BBN-Q/matlab-diamond-norm", 
+    "stargazers_count": 0, 
+    "id": 22267641, 
+    "size": 180
   }, 
   {
     "description": "BLInk Tree logic - storage and locking experiment", 
@@ -874,11 +874,11 @@
     "created_at": "2014-07-09T00:42:47Z", 
     "forks_count": 0, 
     "updated_at": "2016-01-21T18:19:00Z", 
-    "pushed_at": "2016-05-04T21:00:17Z", 
+    "pushed_at": "2016-05-08T21:00:11Z", 
     "git_url": "git://github.com/veprbl/herafitter.git", 
     "full_name": "veprbl/herafitter", 
     "stargazers_count": 0, 
     "id": 21634070, 
-    "size": 588491
+    "size": 588428
   }
 ]

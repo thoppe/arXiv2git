@@ -44,14 +44,14 @@
   {
     "description": "Pythonic Bayesian Belief Network Package, supporting creation of and exact inference on Bayesian Belief Networks specified as pure python functions.", 
     "language": "Python", 
-    "watchers_count": 630, 
+    "watchers_count": 632, 
     "created_at": "2013-08-01T17:27:40Z", 
-    "forks_count": 121, 
-    "updated_at": "2016-05-04T09:58:25Z", 
+    "forks_count": 122, 
+    "updated_at": "2016-05-09T06:21:32Z", 
     "pushed_at": "2016-05-02T01:48:37Z", 
     "git_url": "git://github.com/eBay/bayesian-belief-networks.git", 
     "full_name": "eBay/bayesian-belief-networks", 
-    "stargazers_count": 630, 
+    "stargazers_count": 632, 
     "id": 11823122, 
     "size": 2854
   }, 
@@ -146,12 +146,12 @@
     "created_at": "2013-08-14T19:44:57Z", 
     "forks_count": 10, 
     "updated_at": "2016-04-09T14:22:32Z", 
-    "pushed_at": "2016-05-04T01:42:18Z", 
+    "pushed_at": "2016-05-08T20:46:02Z", 
     "git_url": "git://github.com/ValeevGroup/tiledarray.git", 
     "full_name": "ValeevGroup/tiledarray", 
     "stargazers_count": 19, 
     "id": 12117855, 
-    "size": 16108
+    "size": 16113
   }, 
   {
     "description": "Scripts for preparing manuscripts for astronomical journals.", 
@@ -222,6 +222,20 @@
     "stargazers_count": 2, 
     "id": 11853298, 
     "size": 548
+  }, 
+  {
+    "description": null, 
+    "language": "Jupyter Notebook", 
+    "watchers_count": 5, 
+    "created_at": "2013-08-09T16:32:57Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-02-16T18:46:49Z", 
+    "pushed_at": "2016-05-09T11:57:24Z", 
+    "git_url": "git://github.com/jona-sassenhagen/statfail.git", 
+    "full_name": "jona-sassenhagen/statfail", 
+    "stargazers_count": 5, 
+    "id": 12005538, 
+    "size": 2757
   }, 
   {
     "description": "A list of potential research topics and project ideas for Jacobs University students", 

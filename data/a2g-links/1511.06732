@@ -1,5 +1,7 @@
 {
-  "project": [], 
+  "project": [
+    "facebookresearch/MIXER"
+  ], 
   "citation": [
     "dennybritz/deeplearning-papernotes"
   ]

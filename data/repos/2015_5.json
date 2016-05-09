@@ -16,16 +16,16 @@
   {
     "description": "A curated list of deep learning resources for computer vision ", 
     "language": null, 
-    "watchers_count": 1302, 
+    "watchers_count": 1335, 
     "created_at": "2015-05-18T11:02:08Z", 
-    "forks_count": 412, 
-    "updated_at": "2016-05-06T01:47:48Z", 
-    "pushed_at": "2016-04-25T07:47:12Z", 
+    "forks_count": 422, 
+    "updated_at": "2016-05-09T18:45:00Z", 
+    "pushed_at": "2016-05-08T07:36:16Z", 
     "git_url": "git://github.com/kjw0612/awesome-deep-vision.git", 
     "full_name": "kjw0612/awesome-deep-vision", 
-    "stargazers_count": 1302, 
+    "stargazers_count": 1335, 
     "id": 35812923, 
-    "size": 306
+    "size": 313
   }, 
   {
     "description": "Deep GPs with GPy", 
@@ -102,7 +102,7 @@
     "language": "Python", 
     "watchers_count": 243, 
     "created_at": "2015-05-06T05:49:44Z", 
-    "forks_count": 116, 
+    "forks_count": 118, 
     "updated_at": "2016-05-04T21:48:04Z", 
     "pushed_at": "2016-01-08T16:54:02Z", 
     "git_url": "git://github.com/kelvinxu/arctic-captions.git", 
@@ -226,14 +226,14 @@
   {
     "description": "Implementation of the method proposed in the papers \" TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild\" and \"Object Proposals for Text Extraction in the Wild\" (Gomez & Karatzas), 2016 and 2015 respectively.", 
     "language": "C++", 
-    "watchers_count": 41, 
+    "watchers_count": 42, 
     "created_at": "2015-05-30T16:58:15Z", 
     "forks_count": 24, 
-    "updated_at": "2016-05-05T13:49:53Z", 
+    "updated_at": "2016-05-07T06:45:21Z", 
     "pushed_at": "2016-04-12T06:51:36Z", 
     "git_url": "git://github.com/lluisgomez/TextProposals.git", 
     "full_name": "lluisgomez/TextProposals", 
-    "stargazers_count": 41, 
+    "stargazers_count": 42, 
     "id": 36567091, 
     "size": 968
   }, 
@@ -252,18 +252,32 @@
     "size": 142
   }, 
   {
+    "description": "The information sieve for discrete variables.", 
+    "language": "Python", 
+    "watchers_count": 13, 
+    "created_at": "2015-05-26T00:29:24Z", 
+    "forks_count": 4, 
+    "updated_at": "2016-05-09T13:11:02Z", 
+    "pushed_at": "2016-04-29T19:19:55Z", 
+    "git_url": "git://github.com/gregversteeg/discrete_sieve.git", 
+    "full_name": "gregversteeg/discrete_sieve", 
+    "stargazers_count": 13, 
+    "id": 36261986, 
+    "size": 36
+  }, 
+  {
     "description": "Image Super-Resolution for Anime-Style Art", 
     "language": "Lua", 
-    "watchers_count": 5721, 
+    "watchers_count": 5737, 
     "created_at": "2015-05-17T07:29:15Z", 
-    "forks_count": 662, 
-    "updated_at": "2016-05-05T20:34:49Z", 
-    "pushed_at": "2016-05-05T17:57:45Z", 
+    "forks_count": 664, 
+    "updated_at": "2016-05-09T14:54:09Z", 
+    "pushed_at": "2016-05-06T12:50:32Z", 
     "git_url": "git://github.com/nagadomi/waifu2x.git", 
     "full_name": "nagadomi/waifu2x", 
-    "stargazers_count": 5721, 
+    "stargazers_count": 5737, 
     "id": 35756351, 
-    "size": 168088
+    "size": 168089
   }, 
   {
     "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  RPEnsemble\u00a0\u2014\u00a0Random\u00a0Projection\u00a0Ensemble\u00a0Classification.\u00a0Homepage:\u00a0http://arxiv.org/abs/1504.04595,\u00a0http://www.statslab.cam.ac.uk/~tc325/  ", 
@@ -322,20 +336,6 @@
     "size": 400
   }, 
   {
-    "description": "C++ library to pack and unpack vectors of integers having a small range of values using a technique called Frame of Reference (Goldstein et al. 1998).  It should run fast even though it is written in simple C++.", 
-    "language": "C++", 
-    "watchers_count": 7, 
-    "created_at": "2015-05-01T13:52:44Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-04-26T19:23:07Z", 
-    "pushed_at": "2016-05-02T15:26:35Z", 
-    "git_url": "git://github.com/lemire/FrameOfReference.git", 
-    "full_name": "lemire/FrameOfReference", 
-    "stargazers_count": 7, 
-    "id": 34905043, 
-    "size": 39
-  }, 
-  {
     "description": "TableMultHPEC paper", 
     "language": "TeX", 
     "watchers_count": 0, 
@@ -348,6 +348,20 @@
     "stargazers_count": 0, 
     "id": 35357465, 
     "size": 5810
+  }, 
+  {
+    "description": "C++ library to pack and unpack vectors of integers having a small range of values using a technique called Frame of Reference (Goldstein et al. 1998).  It should run fast even though it is written in simple C++.", 
+    "language": "C++", 
+    "watchers_count": 7, 
+    "created_at": "2015-05-01T13:52:44Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-04-26T19:23:07Z", 
+    "pushed_at": "2016-05-02T15:26:35Z", 
+    "git_url": "git://github.com/lemire/FrameOfReference.git", 
+    "full_name": "lemire/FrameOfReference", 
+    "stargazers_count": 7, 
+    "id": 34905043, 
+    "size": 39
   }, 
   {
     "description": "GRB hosts through cosmic time", 
@@ -392,20 +406,6 @@
     "size": 3473
   }, 
   {
-    "description": "** Sferes2 module ** MAP-Elites module for Sferes2", 
-    "language": "C++", 
-    "watchers_count": 4, 
-    "created_at": "2015-05-07T16:45:50Z", 
-    "forks_count": 3, 
-    "updated_at": "2016-02-23T12:40:08Z", 
-    "pushed_at": "2016-05-04T08:52:07Z", 
-    "git_url": "git://github.com/sferes2/map_elites.git", 
-    "full_name": "sferes2/map_elites", 
-    "stargazers_count": 4, 
-    "id": 35231820, 
-    "size": 44
-  }, 
-  {
     "description": "Python implementation of softImpute", 
     "language": "Python", 
     "watchers_count": 12, 
@@ -418,6 +418,20 @@
     "stargazers_count": 12, 
     "id": 35550475, 
     "size": 164
+  }, 
+  {
+    "description": "** Sferes2 module ** MAP-Elites module for Sferes2", 
+    "language": "C++", 
+    "watchers_count": 4, 
+    "created_at": "2015-05-07T16:45:50Z", 
+    "forks_count": 3, 
+    "updated_at": "2016-02-23T12:40:08Z", 
+    "pushed_at": "2016-05-04T08:52:07Z", 
+    "git_url": "git://github.com/sferes2/map_elites.git", 
+    "full_name": "sferes2/map_elites", 
+    "stargazers_count": 4, 
+    "id": 35231820, 
+    "size": 44
   }, 
   {
     "description": "Code for the manuscript 'Modelling the conditional regulatory activity of methylated and bivalent promoters'", 
@@ -588,20 +602,6 @@
     "size": 682
   }, 
   {
-    "description": "Python reimplementation of optimBench (https://github.com/IoannisAntonoglou/optimBench)", 
-    "language": "Python", 
-    "watchers_count": 0, 
-    "created_at": "2015-05-01T06:29:46Z", 
-    "forks_count": 0, 
-    "updated_at": "2015-05-01T06:32:40Z", 
-    "pushed_at": "2015-05-01T06:32:40Z", 
-    "git_url": "git://github.com/tomjaspers/sobencher.git", 
-    "full_name": "tomjaspers/sobencher", 
-    "stargazers_count": 0, 
-    "id": 34892231, 
-    "size": 100
-  }, 
-  {
     "description": "Implementing Spin the Bottle and Annealing Sorts for CS223 Final Project", 
     "language": "OpenEdge ABL", 
     "watchers_count": 0, 
@@ -630,6 +630,20 @@
     "size": 497
   }, 
   {
+    "description": "Python reimplementation of optimBench (https://github.com/IoannisAntonoglou/optimBench)", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2015-05-01T06:29:46Z", 
+    "forks_count": 0, 
+    "updated_at": "2015-05-01T06:32:40Z", 
+    "pushed_at": "2015-05-01T06:32:40Z", 
+    "git_url": "git://github.com/tomjaspers/sobencher.git", 
+    "full_name": "tomjaspers/sobencher", 
+    "stargazers_count": 0, 
+    "id": 34892231, 
+    "size": 100
+  }, 
+  {
     "description": "Bayesian Separation of Close Sources", 
     "language": "R", 
     "watchers_count": 2, 
@@ -650,12 +664,12 @@
     "created_at": "2015-05-19T08:08:45Z", 
     "forks_count": 10, 
     "updated_at": "2016-04-19T09:17:09Z", 
-    "pushed_at": "2016-04-28T13:08:59Z", 
+    "pushed_at": "2016-05-09T12:07:30Z", 
     "git_url": "git://github.com/OpenDreamKit/OpenDreamKit.git", 
     "full_name": "OpenDreamKit/OpenDreamKit", 
     "stargazers_count": 30, 
     "id": 35868316, 
-    "size": 135139
+    "size": 135147
   }, 
   {
     "description": "montecarlo sampling method to calculate metalicity from flux data", 
@@ -664,38 +678,24 @@
     "created_at": "2015-05-20T18:43:54Z", 
     "forks_count": 6, 
     "updated_at": "2016-02-04T04:11:47Z", 
-    "pushed_at": "2016-04-18T19:54:31Z", 
+    "pushed_at": "2016-05-07T16:55:55Z", 
     "git_url": "git://github.com/nyusngroup/pyMCZ.git", 
     "full_name": "nyusngroup/pyMCZ", 
     "stargazers_count": 2, 
     "id": 35967196, 
-    "size": 45516
-  }, 
-  {
-    "description": "The information sieve for discrete variables.", 
-    "language": "Python", 
-    "watchers_count": 4, 
-    "created_at": "2015-05-26T00:29:24Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-05-02T17:58:12Z", 
-    "pushed_at": "2016-04-29T19:19:55Z", 
-    "git_url": "git://github.com/gregversteeg/discrete_sieve.git", 
-    "full_name": "gregversteeg/discrete_sieve", 
-    "stargazers_count": 4, 
-    "id": 36261986, 
-    "size": 36
+    "size": 45706
   }, 
   {
     "description": "Bayesian System IDentification ", 
     "language": "Matlab", 
-    "watchers_count": 0, 
+    "watchers_count": 1, 
     "created_at": "2015-05-11T21:19:24Z", 
     "forks_count": 0, 
-    "updated_at": "2015-05-11T21:34:10Z", 
+    "updated_at": "2016-05-06T05:58:22Z", 
     "pushed_at": "2015-05-28T19:38:04Z", 
     "git_url": "git://github.com/panweihit/BSID.git", 
     "full_name": "panweihit/BSID", 
-    "stargazers_count": 0, 
+    "stargazers_count": 1, 
     "id": 35450664, 
     "size": 356
   }, 
@@ -756,6 +756,20 @@
     "size": 464
   }, 
   {
+    "description": "Python port of B. Kelly's LINMIX_ERR IDL package", 
+    "language": "IDL", 
+    "watchers_count": 5, 
+    "created_at": "2015-05-01T22:53:36Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-05-07T11:03:36Z", 
+    "pushed_at": "2016-01-17T04:03:47Z", 
+    "git_url": "git://github.com/jmeyers314/linmix.git", 
+    "full_name": "jmeyers314/linmix", 
+    "stargazers_count": 5, 
+    "id": 34927801, 
+    "size": 535
+  }, 
+  {
     "description": "Calculate the mode mixing matrix for power spectrum analysis on the sphere.", 
     "language": "C", 
     "watchers_count": 0, 
@@ -798,18 +812,18 @@
     "size": 109
   }, 
   {
-    "description": "Python port of B. Kelly's LINMIX_ERR IDL package", 
-    "language": "IDL", 
-    "watchers_count": 4, 
-    "created_at": "2015-05-01T22:53:36Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-22T21:19:28Z", 
-    "pushed_at": "2016-01-17T04:03:47Z", 
-    "git_url": "git://github.com/jmeyers314/linmix.git", 
-    "full_name": "jmeyers314/linmix", 
-    "stargazers_count": 4, 
-    "id": 34927801, 
-    "size": 535
+    "description": "tweeting titles of nonsense science articles", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2015-05-27T02:05:58Z", 
+    "forks_count": 1, 
+    "updated_at": "2015-05-27T23:40:38Z", 
+    "pushed_at": "2015-05-27T23:14:05Z", 
+    "git_url": "git://github.com/mobeets/FakeScienceBot.git", 
+    "full_name": "mobeets/FakeScienceBot", 
+    "stargazers_count": 0, 
+    "id": 36336430, 
+    "size": 6278
   }, 
   {
     "description": "Matrix-valued quantum Boltzmann equation for the nonintegrable Hubbard chain", 
@@ -824,20 +838,6 @@
     "stargazers_count": 0, 
     "id": 34973634, 
     "size": 5628
-  }, 
-  {
-    "description": "tweeting titles of nonsense science articles", 
-    "language": "Python", 
-    "watchers_count": 0, 
-    "created_at": "2015-05-27T02:05:58Z", 
-    "forks_count": 1, 
-    "updated_at": "2015-05-27T23:40:38Z", 
-    "pushed_at": "2015-05-27T23:14:05Z", 
-    "git_url": "git://github.com/mobeets/FakeScienceBot.git", 
-    "full_name": "mobeets/FakeScienceBot", 
-    "stargazers_count": 0, 
-    "id": 36336430, 
-    "size": 6278
   }, 
   {
     "description": "", 
@@ -1346,16 +1346,16 @@
   {
     "description": "A library of scalable Bayesian generalised linear models with fancy features", 
     "language": "Python", 
-    "watchers_count": 8, 
+    "watchers_count": 9, 
     "created_at": "2015-05-18T02:29:52Z", 
     "forks_count": 1, 
-    "updated_at": "2016-04-29T06:47:16Z", 
-    "pushed_at": "2016-05-05T07:00:14Z", 
+    "updated_at": "2016-05-06T05:44:42Z", 
+    "pushed_at": "2016-05-09T12:53:05Z", 
     "git_url": "git://github.com/NICTA/revrand.git", 
     "full_name": "NICTA/revrand", 
-    "stargazers_count": 8, 
+    "stargazers_count": 9, 
     "id": 35792686, 
-    "size": 27821
+    "size": 27769
   }, 
   {
     "description": "Crowdtuning (crowdsourcing experiments, auto tuning and machine learning)", 
@@ -1428,6 +1428,20 @@
     "size": 152
   }, 
   {
+    "description": "64-bit maximally equidistributed Mersenne Twisters", 
+    "language": "C", 
+    "watchers_count": 1, 
+    "created_at": "2015-05-24T11:50:54Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-03-20T00:18:22Z", 
+    "pushed_at": "2016-05-09T16:28:47Z", 
+    "git_url": "git://github.com/sharase/memt-64.git", 
+    "full_name": "sharase/memt-64", 
+    "stargazers_count": 1, 
+    "id": 36169996, 
+    "size": 334
+  }, 
+  {
     "description": "Using Drosophila melanogaster spike-in data to refine diferential expression algorithms", 
     "language": null, 
     "watchers_count": 0, 
@@ -1468,6 +1482,20 @@
     "stargazers_count": 0, 
     "id": 35255253, 
     "size": 3560
+  }, 
+  {
+    "description": "An expert system for optimization problems", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2015-05-05T17:55:22Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-02-11T19:26:08Z", 
+    "pushed_at": "2016-02-18T20:54:42Z", 
+    "git_url": "git://github.com/royaurko/ask-minmax.git", 
+    "full_name": "royaurko/ask-minmax", 
+    "stargazers_count": 0, 
+    "id": 35115250, 
+    "size": 859976
   }, 
   {
     "description": "Eazymp", 
@@ -1524,20 +1552,6 @@
     "stargazers_count": 1, 
     "id": 34911787, 
     "size": 657
-  }, 
-  {
-    "description": "An expert system for optimization problems", 
-    "language": "Python", 
-    "watchers_count": 0, 
-    "created_at": "2015-05-05T17:55:22Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-02-11T19:26:08Z", 
-    "pushed_at": "2016-02-18T20:54:42Z", 
-    "git_url": "git://github.com/royaurko/ask-minmax.git", 
-    "full_name": "royaurko/ask-minmax", 
-    "stargazers_count": 0, 
-    "id": 35115250, 
-    "size": 859976
   }, 
   {
     "description": "Computation of the Dimofte-Garoufalidis n-loop invariant.", 
@@ -1806,6 +1820,20 @@
     "size": 1808
   }, 
   {
+    "description": "Source code for non-linear power spectrum prediction, discussed in Mead et al. (2015)", 
+    "language": "FORTRAN", 
+    "watchers_count": 2, 
+    "created_at": "2015-05-28T13:51:37Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-05-06T05:39:40Z", 
+    "pushed_at": "2016-03-10T06:00:11Z", 
+    "git_url": "git://github.com/alexander-mead/HMcode.git", 
+    "full_name": "alexander-mead/HMcode", 
+    "stargazers_count": 2, 
+    "id": 36441562, 
+    "size": 175
+  }, 
+  {
     "description": "Multi-Frequency Sparse Radio Interferometric imaging", 
     "language": "Julia", 
     "watchers_count": 0, 
@@ -1832,20 +1860,6 @@
     "stargazers_count": 0, 
     "id": 35040346, 
     "size": 43
-  }, 
-  {
-    "description": "Source code for non-linear power spectrum prediction, discussed in Mead et al. (2015)", 
-    "language": "FORTRAN", 
-    "watchers_count": 1, 
-    "created_at": "2015-05-28T13:51:37Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-05-06T02:07:55Z", 
-    "pushed_at": "2016-03-10T06:00:11Z", 
-    "git_url": "git://github.com/alexander-mead/HMcode.git", 
-    "full_name": "alexander-mead/HMcode", 
-    "stargazers_count": 1, 
-    "id": 36441562, 
-    "size": 175
   }, 
   {
     "description": "Tensor Factorization via Matrix Factorization", 

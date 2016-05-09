@@ -1,7 +1,7 @@
 {
   "project": [
-    "trungngv/gprn", 
-    "NICTA/revrand"
+    "NICTA/revrand", 
+    "trungngv/gprn"
   ], 
   "citation": []
 }

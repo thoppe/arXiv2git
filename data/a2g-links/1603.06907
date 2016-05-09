@@ -1,6 +1,7 @@
 {
   "project": [
-    "fakenmc/micompr"
+    "fakenmc/micompr", 
+    "cran/micompr"
   ], 
   "citation": []
 }

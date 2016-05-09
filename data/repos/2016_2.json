@@ -2,28 +2,28 @@
   {
     "description": "Implementation of Dynamic memory networks by Kumar et al. http://arxiv.org/abs/1506.07285", 
     "language": "Python", 
-    "watchers_count": 102, 
+    "watchers_count": 105, 
     "created_at": "2016-02-05T22:37:48Z", 
     "forks_count": 27, 
-    "updated_at": "2016-05-03T15:09:10Z", 
+    "updated_at": "2016-05-09T08:51:58Z", 
     "pushed_at": "2016-05-05T06:56:02Z", 
     "git_url": "git://github.com/YerevaNN/Dynamic-memory-networks-in-Theano.git", 
     "full_name": "YerevaNN/Dynamic-memory-networks-in-Theano", 
-    "stargazers_count": 102, 
+    "stargazers_count": 105, 
     "id": 51178496, 
     "size": 2244
   }, 
   {
     "description": "Implementation of the Vanilla CNN described in the paper: Yue Wu and Tal Hassner, \"Facial Landmark Detection with Tweaked Convolutional Neural Networks\", arXiv preprint arXiv:1511.04031, 12 Nov. 2015. See project page for more information about this project. http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/  Written by Ishay Tubi : ishay2b [at] gmail [dot] com       https://www.l", 
     "language": "Jupyter Notebook", 
-    "watchers_count": 31, 
+    "watchers_count": 32, 
     "created_at": "2016-02-19T19:41:49Z", 
     "forks_count": 20, 
-    "updated_at": "2016-04-29T03:57:27Z", 
+    "updated_at": "2016-05-06T08:24:53Z", 
     "pushed_at": "2016-02-28T20:38:24Z", 
     "git_url": "git://github.com/ishay2b/VanillaCNN.git", 
     "full_name": "ishay2b/VanillaCNN", 
-    "stargazers_count": 31, 
+    "stargazers_count": 32, 
     "id": 52111953, 
     "size": 539
   }, 
@@ -72,14 +72,14 @@
   {
     "description": "Deep Residual Learning for Image Recognition ", 
     "language": null, 
-    "watchers_count": 787, 
+    "watchers_count": 791, 
     "created_at": "2016-02-01T13:07:00Z", 
-    "forks_count": 228, 
-    "updated_at": "2016-05-06T02:32:10Z", 
+    "forks_count": 235, 
+    "updated_at": "2016-05-09T08:18:42Z", 
     "pushed_at": "2016-04-22T04:03:45Z", 
     "git_url": "git://github.com/KaimingHe/deep-residual-networks.git", 
     "full_name": "KaimingHe/deep-residual-networks", 
-    "stargazers_count": 787, 
+    "stargazers_count": 791, 
     "id": 50839932, 
     "size": 33
   }, 
@@ -182,20 +182,6 @@
     "size": 38
   }, 
   {
-    "description": "Implementation for the LDA model in Tensor Decompositions for Learning Latent Variable Models http://arxiv.org/abs/1210.7559", 
-    "language": "Scala", 
-    "watchers_count": 0, 
-    "created_at": "2016-02-20T08:44:03Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-02-24T23:24:58Z", 
-    "pushed_at": "2016-03-10T19:57:39Z", 
-    "git_url": "git://github.com/jli05/Spectral_LDA.git", 
-    "full_name": "jli05/Spectral_LDA", 
-    "stargazers_count": 0, 
-    "id": 52144530, 
-    "size": 23
-  }, 
-  {
     "description": "Python implementation of [arXiv:1410.2596] Matrix Completion and Low-Rank SVD via Fast Alternating Least Squares", 
     "language": "R", 
     "watchers_count": 0, 
@@ -208,6 +194,20 @@
     "stargazers_count": 0, 
     "id": 52191495, 
     "size": 50847
+  }, 
+  {
+    "description": "Implementation for the LDA model in Tensor Decompositions for Learning Latent Variable Models http://arxiv.org/abs/1210.7559", 
+    "language": "Scala", 
+    "watchers_count": 0, 
+    "created_at": "2016-02-20T08:44:03Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-02-24T23:24:58Z", 
+    "pushed_at": "2016-05-06T14:09:30Z", 
+    "git_url": "git://github.com/jli05/Spectral_LDA.git", 
+    "full_name": "jli05/Spectral_LDA", 
+    "stargazers_count": 0, 
+    "id": 52144530, 
+    "size": 22
   }, 
   {
     "description": "High-performance (C++) implementation of the leapfrog-triejoin algorithm by Todd Veldhuizen (http://arxiv.org/abs/1210.0481)", 
@@ -240,14 +240,14 @@
   {
     "description": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters", 
     "language": null, 
-    "watchers_count": 166, 
+    "watchers_count": 176, 
     "created_at": "2016-02-22T22:20:49Z", 
-    "forks_count": 59, 
-    "updated_at": "2016-05-06T01:30:03Z", 
+    "forks_count": 62, 
+    "updated_at": "2016-05-09T01:20:11Z", 
     "pushed_at": "2016-04-25T20:54:41Z", 
     "git_url": "git://github.com/DeepScale/SqueezeNet.git", 
     "full_name": "DeepScale/SqueezeNet", 
-    "stargazers_count": 166, 
+    "stargazers_count": 176, 
     "id": 52310392, 
     "size": 9045
   }, 
@@ -268,14 +268,14 @@
   {
     "description": "Simple online and realtime tracking", 
     "language": "Python", 
-    "watchers_count": 31, 
+    "watchers_count": 32, 
     "created_at": "2016-02-03T03:16:23Z", 
     "forks_count": 13, 
-    "updated_at": "2016-04-27T16:17:20Z", 
+    "updated_at": "2016-05-06T12:30:49Z", 
     "pushed_at": "2016-03-29T13:31:28Z", 
     "git_url": "git://github.com/abewley/sort.git", 
     "full_name": "abewley/sort", 
-    "stargazers_count": 31, 
+    "stargazers_count": 32, 
     "id": 50970509, 
     "size": 1120
   }, 
@@ -336,18 +336,32 @@
     "size": 573
   }, 
   {
-    "description": "Blue Brain Python Optimisation Library", 
+    "description": "Train a deep learning net with OpenStreetMap features and satellite imagery.", 
     "language": "Python", 
-    "watchers_count": 13, 
-    "created_at": "2016-02-15T13:16:19Z", 
-    "forks_count": 5, 
-    "updated_at": "2016-04-22T15:04:15Z", 
-    "pushed_at": "2016-05-03T17:10:07Z", 
-    "git_url": "git://github.com/BlueBrain/BluePyOpt.git", 
-    "full_name": "BlueBrain/BluePyOpt", 
-    "stargazers_count": 13, 
-    "id": 51756569, 
-    "size": 10317
+    "watchers_count": 60, 
+    "created_at": "2016-02-14T22:30:33Z", 
+    "forks_count": 8, 
+    "updated_at": "2016-05-09T19:31:32Z", 
+    "pushed_at": "2016-05-09T07:47:41Z", 
+    "git_url": "git://github.com/trailbehind/DeepOSM.git", 
+    "full_name": "trailbehind/DeepOSM", 
+    "stargazers_count": 60, 
+    "id": 51717338, 
+    "size": 518
+  }, 
+  {
+    "description": "The implementation of Word2Vec (SkipGram - and CBOW) models using theano and numpy", 
+    "language": "Jupyter Notebook", 
+    "watchers_count": 4, 
+    "created_at": "2016-02-17T16:21:11Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-05-07T12:52:33Z", 
+    "pushed_at": "2016-02-17T16:52:27Z", 
+    "git_url": "git://github.com/mhjabreel/word2vec_theano.git", 
+    "full_name": "mhjabreel/word2vec_theano", 
+    "stargazers_count": 4, 
+    "id": 51936506, 
+    "size": 50
   }, 
   {
     "description": "WordRank: Learning Word Embeddings via Robust Ranking", 
@@ -406,20 +420,6 @@
     "size": 10848
   }, 
   {
-    "description": "RNN for producing text to handwriting image", 
-    "language": "Lua", 
-    "watchers_count": 21, 
-    "created_at": "2016-02-25T17:17:53Z", 
-    "forks_count": 5, 
-    "updated_at": "2016-05-01T10:25:57Z", 
-    "pushed_at": "2016-02-25T20:30:46Z", 
-    "git_url": "git://github.com/jarmstrong2/handwritingnet.git", 
-    "full_name": "jarmstrong2/handwritingnet", 
-    "stargazers_count": 21, 
-    "id": 52542812, 
-    "size": 30661
-  }, 
-  {
     "description": "ResNet Implementation in TensorFlow", 
     "language": "Python", 
     "watchers_count": 5, 
@@ -432,6 +432,20 @@
     "stargazers_count": 5, 
     "id": 51680410, 
     "size": 9
+  }, 
+  {
+    "description": "RNN for producing text to handwriting image", 
+    "language": "Lua", 
+    "watchers_count": 21, 
+    "created_at": "2016-02-25T17:17:53Z", 
+    "forks_count": 5, 
+    "updated_at": "2016-05-01T10:25:57Z", 
+    "pushed_at": "2016-02-25T20:30:46Z", 
+    "git_url": "git://github.com/jarmstrong2/handwritingnet.git", 
+    "full_name": "jarmstrong2/handwritingnet", 
+    "stargazers_count": 21, 
+    "id": 52542812, 
+    "size": 30661
   }, 
   {
     "description": "Preconditioning Kernel Matrices", 
@@ -462,18 +476,18 @@
     "size": 38
   }, 
   {
-    "description": "The implementation of Word2Vec (SkipGram - and CBOW) models using theano and numpy", 
-    "language": "Jupyter Notebook", 
-    "watchers_count": 3, 
-    "created_at": "2016-02-17T16:21:11Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-04-21T17:57:52Z", 
-    "pushed_at": "2016-02-17T16:52:27Z", 
-    "git_url": "git://github.com/mhjabreel/word2vec_theano.git", 
-    "full_name": "mhjabreel/word2vec_theano", 
-    "stargazers_count": 3, 
-    "id": 51936506, 
-    "size": 50
+    "description": "A lightweight library to build and train Deep Reinforcement Learning agents using Theano+Lasagne", 
+    "language": "Python", 
+    "watchers_count": 45, 
+    "created_at": "2016-02-28T16:42:28Z", 
+    "forks_count": 6, 
+    "updated_at": "2016-05-08T14:33:43Z", 
+    "pushed_at": "2016-05-09T12:28:51Z", 
+    "git_url": "git://github.com/yandexdataschool/AgentNet.git", 
+    "full_name": "yandexdataschool/AgentNet", 
+    "stargazers_count": 45, 
+    "id": 52731535, 
+    "size": 186809
   }, 
   {
     "description": "", 
@@ -504,18 +518,18 @@
     "size": 5
   }, 
   {
-    "description": "Train a deep learning net with OpenStreetMap features and satellite imagery.", 
+    "description": "DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks", 
     "language": "Python", 
-    "watchers_count": 18, 
-    "created_at": "2016-02-14T22:30:33Z", 
-    "forks_count": 4, 
-    "updated_at": "2016-05-05T23:35:06Z", 
-    "pushed_at": "2016-05-05T18:32:35Z", 
-    "git_url": "git://github.com/trailbehind/DeepOSM.git", 
-    "full_name": "trailbehind/DeepOSM", 
-    "stargazers_count": 18, 
-    "id": 51717338, 
-    "size": 417
+    "watchers_count": 24, 
+    "created_at": "2016-02-16T02:11:35Z", 
+    "forks_count": 3, 
+    "updated_at": "2016-05-06T02:07:36Z", 
+    "pushed_at": "2016-05-08T02:30:38Z", 
+    "git_url": "git://github.com/bigaidream-projects/drmad.git", 
+    "full_name": "bigaidream-projects/drmad", 
+    "stargazers_count": 24, 
+    "id": 51800865, 
+    "size": 3482
   }, 
   {
     "description": "Reconstructing cosmological velocity fields", 
@@ -560,32 +574,32 @@
     "size": 182
   }, 
   {
+    "description": "Physics Engine in Python", 
+    "language": "Python", 
+    "watchers_count": 2, 
+    "created_at": "2016-02-25T08:51:58Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-05-08T15:13:23Z", 
+    "pushed_at": "2016-02-25T08:58:31Z", 
+    "git_url": "git://github.com/pulkitag/pyphy-engine.git", 
+    "full_name": "pulkitag/pyphy-engine", 
+    "stargazers_count": 2, 
+    "id": 52510407, 
+    "size": 60
+  }, 
+  {
     "description": "Cross-dimensional weighting for aggregated deep convolutional features.", 
     "language": "Python", 
-    "watchers_count": 13, 
+    "watchers_count": 14, 
     "created_at": "2016-02-24T15:15:18Z", 
     "forks_count": 13, 
-    "updated_at": "2016-04-14T12:45:51Z", 
+    "updated_at": "2016-05-09T15:14:49Z", 
     "pushed_at": "2016-02-26T02:41:24Z", 
     "git_url": "git://github.com/yahoo/crow.git", 
     "full_name": "yahoo/crow", 
-    "stargazers_count": 13, 
+    "stargazers_count": 14, 
     "id": 52451631, 
     "size": 17
-  }, 
-  {
-    "description": "A lightweight library to build and train Deep Reinforcement Learning agents using Theano+Lasagne", 
-    "language": "Python", 
-    "watchers_count": 42, 
-    "created_at": "2016-02-28T16:42:28Z", 
-    "forks_count": 5, 
-    "updated_at": "2016-05-05T13:17:38Z", 
-    "pushed_at": "2016-05-04T18:41:21Z", 
-    "git_url": "git://github.com/yandexdataschool/AgentNet.git", 
-    "full_name": "yandexdataschool/AgentNet", 
-    "stargazers_count": 42, 
-    "id": 52731535, 
-    "size": 178497
   }, 
   {
     "description": "experimental binary net implementation in chainer", 
@@ -618,14 +632,14 @@
   {
     "description": "The Language-Integrated Quantum Operations (LIQUi|>) Simulator", 
     "language": "F#", 
-    "watchers_count": 18, 
+    "watchers_count": 22, 
     "created_at": "2016-02-25T21:58:15Z", 
     "forks_count": 2, 
-    "updated_at": "2016-05-05T18:28:44Z", 
+    "updated_at": "2016-05-08T17:44:04Z", 
     "pushed_at": "2016-05-04T17:04:30Z", 
     "git_url": "git://github.com/StationQ/Liquid.git", 
     "full_name": "StationQ/Liquid", 
-    "stargazers_count": 18, 
+    "stargazers_count": 22, 
     "id": 52559848, 
     "size": 11187
   }, 
@@ -658,20 +672,6 @@
     "size": 6939
   }, 
   {
-    "description": "Extract Text and Data from PDF Documents", 
-    "language": "C++", 
-    "watchers_count": 41, 
-    "created_at": "2016-02-23T18:43:46Z", 
-    "forks_count": 3, 
-    "updated_at": "2016-04-26T01:26:15Z", 
-    "pushed_at": "2016-04-28T21:47:12Z", 
-    "git_url": "git://github.com/ropensci/pdftools.git", 
-    "full_name": "ropensci/pdftools", 
-    "stargazers_count": 41, 
-    "id": 52382813, 
-    "size": 52
-  }, 
-  {
     "description": "Combination of multiple Miyamoto-Nagai negative discs to fit galactic potential/density profiles", 
     "language": "Python", 
     "watchers_count": 0, 
@@ -684,6 +684,20 @@
     "stargazers_count": 0, 
     "id": 52613762, 
     "size": 3924
+  }, 
+  {
+    "description": "Extract Text and Data from PDF Documents", 
+    "language": "C++", 
+    "watchers_count": 42, 
+    "created_at": "2016-02-23T18:43:46Z", 
+    "forks_count": 4, 
+    "updated_at": "2016-05-08T12:44:57Z", 
+    "pushed_at": "2016-04-28T21:47:12Z", 
+    "git_url": "git://github.com/ropensci/pdftools.git", 
+    "full_name": "ropensci/pdftools", 
+    "stargazers_count": 42, 
+    "id": 52382813, 
+    "size": 52
   }, 
   {
     "description": "question answering model", 
@@ -702,14 +716,14 @@
   {
     "description": "A guide to reading scientific papers", 
     "language": null, 
-    "watchers_count": 131, 
+    "watchers_count": 132, 
     "created_at": "2016-02-09T18:56:30Z", 
-    "forks_count": 22, 
-    "updated_at": "2016-05-03T08:23:12Z", 
+    "forks_count": 23, 
+    "updated_at": "2016-05-06T08:55:35Z", 
     "pushed_at": "2016-02-09T18:56:55Z", 
     "git_url": "git://github.com/jtleek/readingpapers.git", 
     "full_name": "jtleek/readingpapers", 
-    "stargazers_count": 131, 
+    "stargazers_count": 132, 
     "id": 51390717, 
     "size": 4
   }, 
@@ -728,6 +742,20 @@
     "size": 4869
   }, 
   {
+    "description": "Blue Brain Python Optimisation Library", 
+    "language": "Python", 
+    "watchers_count": 14, 
+    "created_at": "2016-02-15T13:16:19Z", 
+    "forks_count": 7, 
+    "updated_at": "2016-05-09T14:15:20Z", 
+    "pushed_at": "2016-05-09T09:32:02Z", 
+    "git_url": "git://github.com/BlueBrain/BluePyOpt.git", 
+    "full_name": "BlueBrain/BluePyOpt", 
+    "stargazers_count": 14, 
+    "id": 51756569, 
+    "size": 10327
+  }, 
+  {
     "description": "LSTM to generate drum tracks based on Metallica's midi drum tracks", 
     "language": "Python", 
     "watchers_count": 13, 
@@ -740,34 +768,6 @@
     "stargazers_count": 13, 
     "id": 52348005, 
     "size": 150
-  }, 
-  {
-    "description": "Prebuilt caffe binaries for windows", 
-    "language": null, 
-    "watchers_count": 0, 
-    "created_at": "2016-02-06T23:00:57Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-02-06T23:00:57Z", 
-    "pushed_at": "2016-02-07T00:04:43Z", 
-    "git_url": "git://github.com/nakosung/caffe-windows-build.git", 
-    "full_name": "nakosung/caffe-windows-build", 
-    "stargazers_count": 0, 
-    "id": 51226327, 
-    "size": 16565
-  }, 
-  {
-    "description": "", 
-    "language": "Matlab", 
-    "watchers_count": 4, 
-    "created_at": "2016-02-17T23:07:18Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-05-03T18:28:14Z", 
-    "pushed_at": "2016-02-19T04:28:33Z", 
-    "git_url": "git://github.com/jiweil/RST_Discourse_Parsing.git", 
-    "full_name": "jiweil/RST_Discourse_Parsing", 
-    "stargazers_count": 4, 
-    "id": 51962256, 
-    "size": 19
   }, 
   {
     "description": "A general-purpose Java library for performing structured learning.", 
@@ -810,6 +810,34 @@
     "stargazers_count": 1, 
     "id": 52530676, 
     "size": 39
+  }, 
+  {
+    "description": "Prebuilt caffe binaries for windows", 
+    "language": null, 
+    "watchers_count": 0, 
+    "created_at": "2016-02-06T23:00:57Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-02-06T23:00:57Z", 
+    "pushed_at": "2016-02-07T00:04:43Z", 
+    "git_url": "git://github.com/nakosung/caffe-windows-build.git", 
+    "full_name": "nakosung/caffe-windows-build", 
+    "stargazers_count": 0, 
+    "id": 51226327, 
+    "size": 16565
+  }, 
+  {
+    "description": "", 
+    "language": "Matlab", 
+    "watchers_count": 4, 
+    "created_at": "2016-02-17T23:07:18Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-05-03T18:28:14Z", 
+    "pushed_at": "2016-02-19T04:28:33Z", 
+    "git_url": "git://github.com/jiweil/RST_Discourse_Parsing.git", 
+    "full_name": "jiweil/RST_Discourse_Parsing", 
+    "stargazers_count": 4, 
+    "id": 51962256, 
+    "size": 19
   }, 
   {
     "description": "a fork of the densecrf package implementing alternative inference scheme", 
@@ -882,20 +910,6 @@
     "size": 28
   }, 
   {
-    "description": "Physics Engine in Python", 
-    "language": "Python", 
-    "watchers_count": 1, 
-    "created_at": "2016-02-25T08:51:58Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-05-04T12:03:10Z", 
-    "pushed_at": "2016-02-25T08:58:31Z", 
-    "git_url": "git://github.com/pulkitag/pyphy-engine.git", 
-    "full_name": "pulkitag/pyphy-engine", 
-    "stargazers_count": 1, 
-    "id": 52510407, 
-    "size": 60
-  }, 
-  {
     "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  murphydiagram\u00a0\u2014\u00a0Murphy\u00a0Diagrams\u00a0for\u00a0Forecast\u00a0Comparisons.\u00a0Homepage:\u00a0https://sites.google.com/site/fk83research/code  ", 
     "language": "R", 
     "watchers_count": 0, 
@@ -924,20 +938,6 @@
     "size": 12052
   }, 
   {
-    "description": "", 
-    "language": "Matlab", 
-    "watchers_count": 2, 
-    "created_at": "2016-02-25T07:52:25Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-02-29T08:07:30Z", 
-    "pushed_at": "2016-05-01T10:04:02Z", 
-    "git_url": "git://github.com/JiaRenChang/residual-learning-for-matconvnet.git", 
-    "full_name": "JiaRenChang/residual-learning-for-matconvnet", 
-    "stargazers_count": 2, 
-    "id": 52506889, 
-    "size": 8
-  }, 
-  {
     "description": "Reference implementation of the NVIL algorithm for a simple Gaussian Mixture Model ", 
     "language": "Jupyter Notebook", 
     "watchers_count": 3, 
@@ -950,6 +950,20 @@
     "stargazers_count": 3, 
     "id": 52062224, 
     "size": 582
+  }, 
+  {
+    "description": "", 
+    "language": "Matlab", 
+    "watchers_count": 2, 
+    "created_at": "2016-02-25T07:52:25Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-02-29T08:07:30Z", 
+    "pushed_at": "2016-05-01T10:04:02Z", 
+    "git_url": "git://github.com/JiaRenChang/residual-learning-for-matconvnet.git", 
+    "full_name": "JiaRenChang/residual-learning-for-matconvnet", 
+    "stargazers_count": 2, 
+    "id": 52506889, 
+    "size": 8
   }, 
   {
     "description": "rmarkdown template for IMS journal articles", 
@@ -992,20 +1006,6 @@
     "stargazers_count": 0, 
     "id": 52440194, 
     "size": 1046
-  }, 
-  {
-    "description": "DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks", 
-    "language": "Python", 
-    "watchers_count": 24, 
-    "created_at": "2016-02-16T02:11:35Z", 
-    "forks_count": 3, 
-    "updated_at": "2016-05-06T02:07:36Z", 
-    "pushed_at": "2016-04-21T02:17:06Z", 
-    "git_url": "git://github.com/bigaidream-projects/drmad.git", 
-    "full_name": "bigaidream-projects/drmad", 
-    "stargazers_count": 24, 
-    "id": 51800865, 
-    "size": 3477
   }, 
   {
     "description": "", 
@@ -1078,20 +1078,6 @@
     "size": 362017
   }, 
   {
-    "description": "Scientific library for high-precision computations and research", 
-    "language": "C", 
-    "watchers_count": 19, 
-    "created_at": "2016-02-21T21:38:02Z", 
-    "forks_count": 2, 
-    "updated_at": "2016-04-23T18:20:58Z", 
-    "pushed_at": "2016-03-03T16:05:17Z", 
-    "git_url": "git://github.com/Maratyszcza/FPplus.git", 
-    "full_name": "Maratyszcza/FPplus", 
-    "stargazers_count": 19, 
-    "id": 52229375, 
-    "size": 70
-  }, 
-  {
     "description": "Samu (Nahshon) is learning words.This extends the project SamuTicker.", 
     "language": "C++", 
     "watchers_count": 1, 
@@ -1104,6 +1090,20 @@
     "stargazers_count": 1, 
     "id": 52166842, 
     "size": 67
+  }, 
+  {
+    "description": "Scientific library for high-precision computations and research", 
+    "language": "C", 
+    "watchers_count": 19, 
+    "created_at": "2016-02-21T21:38:02Z", 
+    "forks_count": 2, 
+    "updated_at": "2016-04-23T18:20:58Z", 
+    "pushed_at": "2016-03-03T16:05:17Z", 
+    "git_url": "git://github.com/Maratyszcza/FPplus.git", 
+    "full_name": "Maratyszcza/FPplus", 
+    "stargazers_count": 19, 
+    "id": 52229375, 
+    "size": 70
   }, 
   {
     "description": "GAP Safe Screening Rules for Sparse-Group Lasso.", 
@@ -1120,20 +1120,6 @@
     "size": 121
   }, 
   {
-    "description": "Modifications to ParseNet", 
-    "language": "C++", 
-    "watchers_count": 1, 
-    "created_at": "2016-02-25T01:40:12Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-05-03T19:43:24Z", 
-    "pushed_at": "2016-03-25T17:01:26Z", 
-    "git_url": "git://github.com/debidatta/caffe-parsenet.git", 
-    "full_name": "debidatta/caffe-parsenet", 
-    "stargazers_count": 1, 
-    "id": 52487963, 
-    "size": 31589
-  }, 
-  {
     "description": "iTEBD algorithm for one-dimensional infinite-size quantum lattice systems ", 
     "language": "C++", 
     "watchers_count": 0, 
@@ -1146,20 +1132,6 @@
     "stargazers_count": 0, 
     "id": 51366889, 
     "size": 20
-  }, 
-  {
-    "description": "A loss function based on the distances between anchor, positive and negative embeddings used in FaceNet", 
-    "language": "Cuda", 
-    "watchers_count": 9, 
-    "created_at": "2016-02-24T04:20:02Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-04-04T12:16:31Z", 
-    "pushed_at": "2016-03-21T14:48:39Z", 
-    "git_url": "git://github.com/jhjin/triplet-criterion.git", 
-    "full_name": "jhjin/triplet-criterion", 
-    "stargazers_count": 9, 
-    "id": 52413942, 
-    "size": 8
   }, 
   {
     "description": "Source code and obtained results for \"Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants\"", 
@@ -1188,6 +1160,34 @@
     "stargazers_count": 0, 
     "id": 51394323, 
     "size": 232
+  }, 
+  {
+    "description": "A loss function based on the distances between anchor, positive and negative embeddings used in FaceNet", 
+    "language": "Cuda", 
+    "watchers_count": 10, 
+    "created_at": "2016-02-24T04:20:02Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-05-07T13:26:01Z", 
+    "pushed_at": "2016-03-21T14:48:39Z", 
+    "git_url": "git://github.com/jhjin/triplet-criterion.git", 
+    "full_name": "jhjin/triplet-criterion", 
+    "stargazers_count": 10, 
+    "id": 52413942, 
+    "size": 8
+  }, 
+  {
+    "description": "Modifications to ParseNet", 
+    "language": "C++", 
+    "watchers_count": 1, 
+    "created_at": "2016-02-25T01:40:12Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-05-03T19:43:24Z", 
+    "pushed_at": "2016-03-25T17:01:26Z", 
+    "git_url": "git://github.com/debidatta/caffe-parsenet.git", 
+    "full_name": "debidatta/caffe-parsenet", 
+    "stargazers_count": 1, 
+    "id": 52487963, 
+    "size": 31589
   }, 
   {
     "description": "A CUDA-C implementation of FOFE and FSMN", 
@@ -1316,20 +1316,6 @@
     "size": 271
   }, 
   {
-    "description": "My machine learning paper notes", 
-    "language": null, 
-    "watchers_count": 2, 
-    "created_at": "2016-02-01T20:57:51Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-02-14T15:08:01Z", 
-    "pushed_at": "2016-02-22T22:26:57Z", 
-    "git_url": "git://github.com/mihaelacr/paper-notes.git", 
-    "full_name": "mihaelacr/paper-notes", 
-    "stargazers_count": 2, 
-    "id": 50870539, 
-    "size": 7
-  }, 
-  {
     "description": "", 
     "language": "Mathematica", 
     "watchers_count": 0, 
@@ -1342,6 +1328,20 @@
     "stargazers_count": 0, 
     "id": 51966473, 
     "size": 67593
+  }, 
+  {
+    "description": "My machine learning paper notes", 
+    "language": null, 
+    "watchers_count": 2, 
+    "created_at": "2016-02-01T20:57:51Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-02-14T15:08:01Z", 
+    "pushed_at": "2016-02-22T22:26:57Z", 
+    "git_url": "git://github.com/mihaelacr/paper-notes.git", 
+    "full_name": "mihaelacr/paper-notes", 
+    "stargazers_count": 2, 
+    "id": 50870539, 
+    "size": 7
   }, 
   {
     "description": "", 
@@ -1499,20 +1499,6 @@
   }, 
   {
     "description": "", 
-    "language": "Python", 
-    "watchers_count": 0, 
-    "created_at": "2016-02-17T19:17:04Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-02-17T19:17:32Z", 
-    "pushed_at": "2016-03-10T08:41:39Z", 
-    "git_url": "git://github.com/xiaolonw/fast-rcnn-normal.git", 
-    "full_name": "xiaolonw/fast-rcnn-normal", 
-    "stargazers_count": 0, 
-    "id": 51948265, 
-    "size": 94
-  }, 
-  {
-    "description": "", 
     "language": "C++", 
     "watchers_count": 0, 
     "created_at": "2016-02-18T13:15:20Z", 
@@ -1544,7 +1530,7 @@
     "language": "Python", 
     "watchers_count": 0, 
     "created_at": "2016-02-01T20:34:32Z", 
-    "forks_count": 0, 
+    "forks_count": 1, 
     "updated_at": "2016-02-29T03:57:42Z", 
     "pushed_at": "2016-04-19T03:45:52Z", 
     "git_url": "git://github.com/jpilaul/IFT6266_project.git", 
@@ -1566,6 +1552,20 @@
     "stargazers_count": 4, 
     "id": 51770279, 
     "size": 3446
+  }, 
+  {
+    "description": "", 
+    "language": "Python", 
+    "watchers_count": 0, 
+    "created_at": "2016-02-17T19:17:04Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-02-17T19:17:32Z", 
+    "pushed_at": "2016-03-10T08:41:39Z", 
+    "git_url": "git://github.com/xiaolonw/fast-rcnn-normal.git", 
+    "full_name": "xiaolonw/fast-rcnn-normal", 
+    "stargazers_count": 0, 
+    "id": 51948265, 
+    "size": 94
   }, 
   {
     "description": "", 
@@ -1670,7 +1670,7 @@
     "language": "Python", 
     "watchers_count": 5, 
     "created_at": "2016-02-29T09:38:26Z", 
-    "forks_count": 1, 
+    "forks_count": 2, 
     "updated_at": "2016-05-05T12:12:20Z", 
     "pushed_at": "2016-03-17T07:36:37Z", 
     "git_url": "git://github.com/mp2893/doctorai.git", 
@@ -1678,20 +1678,6 @@
     "stargazers_count": 5, 
     "id": 52780146, 
     "size": 18
-  }, 
-  {
-    "description": "Repository for Med2Vec project", 
-    "language": "Python", 
-    "watchers_count": 4, 
-    "created_at": "2016-02-12T10:07:07Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-05-05T12:02:22Z", 
-    "pushed_at": "2016-02-29T10:28:05Z", 
-    "git_url": "git://github.com/mp2893/med2vec.git", 
-    "full_name": "mp2893/med2vec", 
-    "stargazers_count": 4, 
-    "id": 51579745, 
-    "size": 16
   }, 
   {
     "description": null, 
@@ -1778,6 +1764,20 @@
     "size": 644
   }, 
   {
+    "description": "Repository for Med2Vec project", 
+    "language": "Python", 
+    "watchers_count": 4, 
+    "created_at": "2016-02-12T10:07:07Z", 
+    "forks_count": 2, 
+    "updated_at": "2016-05-05T12:02:22Z", 
+    "pushed_at": "2016-02-29T10:28:05Z", 
+    "git_url": "git://github.com/mp2893/med2vec.git", 
+    "full_name": "mp2893/med2vec", 
+    "stargazers_count": 4, 
+    "id": 51579745, 
+    "size": 16
+  }, 
+  {
     "description": "Inspired by the Oyelade,Oladipupo and Obagbuwa's paper on the application of the k-Means Clustering algorithm for the prediction of Students\u2019 Academic Performance, I decided to put it to practice.", 
     "language": "Java", 
     "watchers_count": 0, 
@@ -1840,12 +1840,12 @@
     "created_at": "2016-02-22T03:56:24Z", 
     "forks_count": 0, 
     "updated_at": "2016-03-02T01:16:49Z", 
-    "pushed_at": "2016-05-05T14:54:38Z", 
+    "pushed_at": "2016-05-06T12:54:05Z", 
     "git_url": "git://github.com/masaki-y/translation-by-rnn.git", 
     "full_name": "masaki-y/translation-by-rnn", 
     "stargazers_count": 0, 
     "id": 52245696, 
-    "size": 985
+    "size": 987
   }, 
   {
     "description": "Automatically exported from code.google.com/p/dc-lib", 
@@ -2002,6 +2002,20 @@
     "size": 45790
   }, 
   {
+    "description": "", 
+    "language": "Java", 
+    "watchers_count": 0, 
+    "created_at": "2016-02-03T15:34:50Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-02-03T15:47:16Z", 
+    "pushed_at": "2016-04-29T11:36:08Z", 
+    "git_url": "git://github.com/Spirals-Team/bandit-repair.git", 
+    "full_name": "Spirals-Team/bandit-repair", 
+    "stargazers_count": 0, 
+    "id": 51009361, 
+    "size": 232
+  }, 
+  {
     "description": null, 
     "language": "C++", 
     "watchers_count": 0, 
@@ -2072,20 +2086,6 @@
     "size": 21518
   }, 
   {
-    "description": "", 
-    "language": "Java", 
-    "watchers_count": 0, 
-    "created_at": "2016-02-03T15:34:50Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-02-03T15:47:16Z", 
-    "pushed_at": "2016-04-29T11:36:08Z", 
-    "git_url": "git://github.com/Spirals-Team/bandit-repair.git", 
-    "full_name": "Spirals-Team/bandit-repair", 
-    "stargazers_count": 0, 
-    "id": 51009361, 
-    "size": 232
-  }, 
-  {
     "description": "\u8fd9\u4e2a\u4ed3\u5e93\u653e\u4e0e\u8fd9\u4e2a\u95ee\u9898\u76f8\u5173\u7684\u4ee3\u7801\u3002\u5927\u81f4\u7b54\u6848\u5c31\u662freadme.md\u91cc\u6240\u8ff0", 
     "language": "Python", 
     "watchers_count": 0, 
@@ -2114,20 +2114,6 @@
     "size": 7
   }, 
   {
-    "description": "", 
-    "language": "C++", 
-    "watchers_count": 0, 
-    "created_at": "2016-02-29T13:40:34Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-02-29T13:44:51Z", 
-    "pushed_at": "2016-02-29T13:44:49Z", 
-    "git_url": "git://github.com/zbwglory/caffe_labelVec.git", 
-    "full_name": "zbwglory/caffe_labelVec", 
-    "stargazers_count": 0, 
-    "id": 52793827, 
-    "size": 7047
-  }, 
-  {
     "description": "Search from terminal", 
     "language": "Shell", 
     "watchers_count": 0, 
@@ -2140,6 +2126,20 @@
     "stargazers_count": 0, 
     "id": 52657067, 
     "size": 6
+  }, 
+  {
+    "description": "", 
+    "language": "C++", 
+    "watchers_count": 0, 
+    "created_at": "2016-02-29T13:40:34Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-02-29T13:44:51Z", 
+    "pushed_at": "2016-02-29T13:44:49Z", 
+    "git_url": "git://github.com/zbwglory/caffe_labelVec.git", 
+    "full_name": "zbwglory/caffe_labelVec", 
+    "stargazers_count": 0, 
+    "id": 52793827, 
+    "size": 7047
   }, 
   {
     "description": "", 
@@ -2464,6 +2464,20 @@
     "size": 35
   }, 
   {
+    "description": "git clone git://anonscm.debian.org/surfraw/surfraw.git", 
+    "language": "Shell", 
+    "watchers_count": 0, 
+    "created_at": "2016-02-13T12:04:37Z", 
+    "forks_count": 0, 
+    "updated_at": "2016-02-13T12:05:37Z", 
+    "pushed_at": "2016-02-13T12:05:22Z", 
+    "git_url": "git://github.com/aerth/surfraw.git", 
+    "full_name": "aerth/surfraw", 
+    "stargazers_count": 0, 
+    "id": 51644257, 
+    "size": 681
+  }, 
+  {
     "description": "", 
     "language": "Python", 
     "watchers_count": 0, 
@@ -2490,20 +2504,6 @@
     "stargazers_count": 1, 
     "id": 52033073, 
     "size": 26931
-  }, 
-  {
-    "description": "git clone git://anonscm.debian.org/surfraw/surfraw.git", 
-    "language": "Shell", 
-    "watchers_count": 0, 
-    "created_at": "2016-02-13T12:04:37Z", 
-    "forks_count": 0, 
-    "updated_at": "2016-02-13T12:05:37Z", 
-    "pushed_at": "2016-02-13T12:05:22Z", 
-    "git_url": "git://github.com/aerth/surfraw.git", 
-    "full_name": "aerth/surfraw", 
-    "stargazers_count": 0, 
-    "id": 51644257, 
-    "size": 681
   }, 
   {
     "description": "Lux is an integrative hierarchical Bayesian model for analyzing any combination of BS-seq/oxBS-seq/TAB-seq/fCAB-seq/CAB-seq/redBS-seq/MAB-seq/etc data enabling accurate and unbiased quantification of different cytosine modifications (C/5mC/5hmC/5fC/5cac) and differential methylation at individual cytosines or loci, with or without replicates, while taking imperfect experimental parameters into account.", 

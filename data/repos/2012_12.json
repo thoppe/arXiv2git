@@ -2,16 +2,16 @@
   {
     "description": "header only, dependency-free deep learning framework in C++11", 
     "language": "C++", 
-    "watchers_count": 584, 
+    "watchers_count": 588, 
     "created_at": "2012-12-17T14:08:06Z", 
-    "forks_count": 298, 
-    "updated_at": "2016-05-05T14:53:59Z", 
-    "pushed_at": "2016-05-05T14:33:21Z", 
+    "forks_count": 303, 
+    "updated_at": "2016-05-09T08:54:18Z", 
+    "pushed_at": "2016-05-08T13:57:57Z", 
     "git_url": "git://github.com/nyanp/tiny-cnn.git", 
     "full_name": "nyanp/tiny-cnn", 
-    "stargazers_count": 584, 
+    "stargazers_count": 588, 
     "id": 7205740, 
-    "size": 15225
+    "size": 15210
   }, 
   {
     "description": "", 

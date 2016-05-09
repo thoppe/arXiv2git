@@ -16,10 +16,10 @@
     "freesouls/Deep-Residual-Network-For-MXNet", 
     "JiaRenChang/residual-learning-for-matconvnet", 
     "dnlcrl/deep-residual-networks-pyfunt", 
+    "mks0601/Residual_network", 
     "panpanpanpan/Machine-Learning", 
     "PyDataOkinawa/meetup008", 
-    "Seth-Park/fundus-diabetes-detection", 
-    "mks0601/Residual_network"
+    "Seth-Park/fundus-diabetes-detection"
   ], 
   "citation": [
     "kjw0612/awesome-deep-vision", 

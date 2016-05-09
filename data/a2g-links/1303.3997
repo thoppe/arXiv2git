@@ -3,11 +3,11 @@
     "lh3/bwa", 
     "sjackman/white-spruce-organelles-paper", 
     "TGenNorth/ISGPipeline", 
-    "evolvedmicrobe/BWA-Sharp", 
     "dattagargi/MutationAnalysisPipeline", 
+    "evolvedmicrobe/BWA-Sharp", 
     "yinlonghui/bwa-fmeas", 
-    "StijnBertrand/BwaForCrayXMT", 
     "hexpunK/bwa-parallel", 
+    "StijnBertrand/BwaForCrayXMT", 
     "turner11/BWA"
   ], 
   "citation": []

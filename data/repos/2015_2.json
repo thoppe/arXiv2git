@@ -44,42 +44,42 @@
   {
     "description": "", 
     "language": "Lua", 
-    "watchers_count": 300, 
+    "watchers_count": 303, 
     "created_at": "2015-02-13T17:20:46Z", 
-    "forks_count": 134, 
-    "updated_at": "2016-04-29T15:09:06Z", 
+    "forks_count": 136, 
+    "updated_at": "2016-05-08T04:04:24Z", 
     "pushed_at": "2015-10-26T09:13:35Z", 
     "git_url": "git://github.com/wojzaremba/lstm.git", 
     "full_name": "wojzaremba/lstm", 
-    "stargazers_count": 300, 
+    "stargazers_count": 303, 
     "id": 30767013, 
     "size": 2267
   }, 
   {
     "description": "A data pipeline framework for machine learning", 
     "language": "Python", 
-    "watchers_count": 353, 
+    "watchers_count": 354, 
     "created_at": "2015-02-12T20:42:44Z", 
     "forks_count": 140, 
-    "updated_at": "2016-05-03T11:15:22Z", 
-    "pushed_at": "2016-05-03T14:17:41Z", 
+    "updated_at": "2016-05-07T01:13:26Z", 
+    "pushed_at": "2016-05-07T22:23:57Z", 
     "git_url": "git://github.com/mila-udem/fuel.git", 
     "full_name": "mila-udem/fuel", 
-    "stargazers_count": 353, 
+    "stargazers_count": 354, 
     "id": 30722866, 
-    "size": 1592
+    "size": 1715
   }, 
   {
     "description": "Lisa Anne's public caffe code.", 
     "language": "C++", 
-    "watchers_count": 38, 
+    "watchers_count": 39, 
     "created_at": "2015-02-25T04:47:49Z", 
     "forks_count": 55, 
-    "updated_at": "2016-04-29T07:23:52Z", 
+    "updated_at": "2016-05-09T02:21:21Z", 
     "pushed_at": "2016-05-02T04:30:49Z", 
     "git_url": "git://github.com/LisaAnne/lisa-caffe-public.git", 
     "full_name": "LisaAnne/lisa-caffe-public", 
-    "stargazers_count": 38, 
+    "stargazers_count": 39, 
     "id": 31297705, 
     "size": 171541
   }, 
@@ -130,7 +130,7 @@
     "language": "C", 
     "watchers_count": 28, 
     "created_at": "2015-02-26T14:12:01Z", 
-    "forks_count": 18, 
+    "forks_count": 19, 
     "updated_at": "2016-05-02T20:56:58Z", 
     "pushed_at": "2016-01-26T11:57:25Z", 
     "git_url": "git://github.com/gouwsmeister/bilbowa.git", 
@@ -198,14 +198,14 @@
   {
     "description": "gSLICr: Real-time super-pixel segmentation", 
     "language": "C++", 
-    "watchers_count": 60, 
+    "watchers_count": 62, 
     "created_at": "2015-02-02T18:50:06Z", 
-    "forks_count": 37, 
-    "updated_at": "2016-05-05T01:37:52Z", 
+    "forks_count": 38, 
+    "updated_at": "2016-05-09T17:21:05Z", 
     "pushed_at": "2016-03-27T09:27:47Z", 
     "git_url": "git://github.com/carlren/gSLICr.git", 
     "full_name": "carlren/gSLICr", 
-    "stargazers_count": 60, 
+    "stargazers_count": 62, 
     "id": 30202354, 
     "size": 604
   }, 
@@ -240,14 +240,14 @@
   {
     "description": "Python implementation of CBOW and skip-gram word vector models, and hierarchical softmax and negative sampling learning algorithms", 
     "language": "Python", 
-    "watchers_count": 7, 
+    "watchers_count": 8, 
     "created_at": "2015-02-21T03:07:51Z", 
     "forks_count": 9, 
-    "updated_at": "2016-04-27T14:04:47Z", 
+    "updated_at": "2016-05-08T06:00:21Z", 
     "pushed_at": "2015-03-03T20:32:12Z", 
     "git_url": "git://github.com/deborausujono/word2vecpy.git", 
     "full_name": "deborausujono/word2vecpy", 
-    "stargazers_count": 7, 
+    "stargazers_count": 8, 
     "id": 31113711, 
     "size": 148
   }, 
@@ -350,20 +350,6 @@
     "size": 667
   }, 
   {
-    "description": "LaTeX package for randomizing author order based on a public seed.", 
-    "language": "TeX", 
-    "watchers_count": 10, 
-    "created_at": "2015-02-11T21:50:44Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-04-26T10:37:07Z", 
-    "pushed_at": "2015-02-13T01:58:18Z", 
-    "git_url": "git://github.com/HIPS/author-roulette.git", 
-    "full_name": "HIPS/author-roulette", 
-    "stargazers_count": 10, 
-    "id": 30671579, 
-    "size": 304
-  }, 
-  {
     "description": "A simple c++ implementation of the (anti)kt jet clustering algorithm", 
     "language": "C++", 
     "watchers_count": 0, 
@@ -392,18 +378,32 @@
     "size": 1188
   }, 
   {
+    "description": "LaTeX package for randomizing author order based on a public seed.", 
+    "language": "TeX", 
+    "watchers_count": 10, 
+    "created_at": "2015-02-11T21:50:44Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-04-26T10:37:07Z", 
+    "pushed_at": "2015-02-13T01:58:18Z", 
+    "git_url": "git://github.com/HIPS/author-roulette.git", 
+    "full_name": "HIPS/author-roulette", 
+    "stargazers_count": 10, 
+    "id": 30671579, 
+    "size": 304
+  }, 
+  {
     "description": "A PDF Evolution Library", 
     "language": "FORTRAN", 
     "watchers_count": 2, 
     "created_at": "2015-02-22T14:21:17Z", 
     "forks_count": 2, 
     "updated_at": "2016-01-17T17:44:22Z", 
-    "pushed_at": "2016-04-28T14:11:46Z", 
+    "pushed_at": "2016-05-09T16:12:44Z", 
     "git_url": "git://github.com/scarrazza/apfel.git", 
     "full_name": "scarrazza/apfel", 
     "stargazers_count": 2, 
     "id": 31165215, 
-    "size": 29051
+    "size": 30297
   }, 
   {
     "description": "Superconformal index computations", 
@@ -700,20 +700,6 @@
     "size": 70988
   }, 
   {
-    "description": "Lowered Isothermal Model Explorer in Python", 
-    "language": "Jupyter Notebook", 
-    "watchers_count": 0, 
-    "created_at": "2015-02-20T18:04:08Z", 
-    "forks_count": 2, 
-    "updated_at": "2016-02-05T07:14:17Z", 
-    "pushed_at": "2016-02-08T12:46:08Z", 
-    "git_url": "git://github.com/mgieles/limepy.git", 
-    "full_name": "mgieles/limepy", 
-    "stargazers_count": 0, 
-    "id": 31077456, 
-    "size": 433
-  }, 
-  {
     "description": "Study residential segregation.", 
     "language": "Python", 
     "watchers_count": 2, 
@@ -726,6 +712,20 @@
     "stargazers_count": 2, 
     "id": 30863656, 
     "size": 926
+  }, 
+  {
+    "description": "Lowered Isothermal Model Explorer in Python", 
+    "language": "Jupyter Notebook", 
+    "watchers_count": 0, 
+    "created_at": "2015-02-20T18:04:08Z", 
+    "forks_count": 2, 
+    "updated_at": "2016-02-05T07:14:17Z", 
+    "pushed_at": "2016-02-08T12:46:08Z", 
+    "git_url": "git://github.com/mgieles/limepy.git", 
+    "full_name": "mgieles/limepy", 
+    "stargazers_count": 0, 
+    "id": 31077456, 
+    "size": 433
   }, 
   {
     "description": "This is a journal club presentation I gave to the Mullins Lab on 20 Jan 2015.", 
@@ -742,20 +742,6 @@
     "size": 9744
   }, 
   {
-    "description": "Experimental Design for Gaussian Process Regression in Python", 
-    "language": "Python", 
-    "watchers_count": 2, 
-    "created_at": "2015-02-19T19:08:04Z", 
-    "forks_count": 1, 
-    "updated_at": "2016-03-22T22:09:43Z", 
-    "pushed_at": "2016-03-22T22:09:41Z", 
-    "git_url": "git://github.com/goroda/GPEXP.git", 
-    "full_name": "goroda/GPEXP", 
-    "stargazers_count": 2, 
-    "id": 31031640, 
-    "size": 70
-  }, 
-  {
     "description": "General implementation of diagram semigroups based on partitioned binary relations.", 
     "language": "Clojure", 
     "watchers_count": 0, 
@@ -768,6 +754,20 @@
     "stargazers_count": 0, 
     "id": 30452190, 
     "size": 139
+  }, 
+  {
+    "description": "Experimental Design for Gaussian Process Regression in Python", 
+    "language": "Python", 
+    "watchers_count": 2, 
+    "created_at": "2015-02-19T19:08:04Z", 
+    "forks_count": 1, 
+    "updated_at": "2016-03-22T22:09:43Z", 
+    "pushed_at": "2016-03-22T22:09:41Z", 
+    "git_url": "git://github.com/goroda/GPEXP.git", 
+    "full_name": "goroda/GPEXP", 
+    "stargazers_count": 2, 
+    "id": 31031640, 
+    "size": 70
   }, 
   {
     "description": "", 
@@ -874,12 +874,12 @@
     "created_at": "2015-02-17T10:34:25Z", 
     "forks_count": 3, 
     "updated_at": "2016-02-11T14:50:37Z", 
-    "pushed_at": "2016-05-02T13:26:37Z", 
+    "pushed_at": "2016-05-06T14:57:41Z", 
     "git_url": "git://github.com/afedynitch/MCEq.git", 
     "full_name": "afedynitch/MCEq", 
     "stargazers_count": 2, 
     "id": 30912522, 
-    "size": 80616
+    "size": 80630
   }, 
   {
     "description": "Smoothness of Loewner slits", 
@@ -1098,12 +1098,12 @@
     "created_at": "2015-02-22T21:24:56Z", 
     "forks_count": 1, 
     "updated_at": "2016-01-27T04:04:26Z", 
-    "pushed_at": "2016-04-29T20:59:09Z", 
+    "pushed_at": "2016-05-07T15:30:19Z", 
     "git_url": "git://github.com/mindriot101/ttvfast-python.git", 
     "full_name": "mindriot101/ttvfast-python", 
     "stargazers_count": 1, 
     "id": 31181321, 
-    "size": 200
+    "size": 206
   }, 
   {
     "description": "Unified Confidence Intervals", 
@@ -1118,20 +1118,6 @@
     "stargazers_count": 0, 
     "id": 30352600, 
     "size": 240
-  }, 
-  {
-    "description": "mirror of Vanessa Wei Feng's RST-style discourse parser (Version 1.01 and 2.01)", 
-    "language": "Python", 
-    "watchers_count": 1, 
-    "created_at": "2015-02-24T16:23:11Z", 
-    "forks_count": 2, 
-    "updated_at": "2015-02-24T20:01:42Z", 
-    "pushed_at": "2015-02-24T16:43:26Z", 
-    "git_url": "git://github.com/arne-cl/rst_discourse_parser.git", 
-    "full_name": "arne-cl/rst_discourse_parser", 
-    "stargazers_count": 1, 
-    "id": 31269082, 
-    "size": 110164
   }, 
   {
     "description": "", 
@@ -1160,6 +1146,20 @@
     "stargazers_count": 2, 
     "id": 30451425, 
     "size": 7030
+  }, 
+  {
+    "description": "mirror of Vanessa Wei Feng's RST-style discourse parser (Version 1.01 and 2.01)", 
+    "language": "Python", 
+    "watchers_count": 1, 
+    "created_at": "2015-02-24T16:23:11Z", 
+    "forks_count": 2, 
+    "updated_at": "2015-02-24T20:01:42Z", 
+    "pushed_at": "2015-02-24T16:43:26Z", 
+    "git_url": "git://github.com/arne-cl/rst_discourse_parser.git", 
+    "full_name": "arne-cl/rst_discourse_parser", 
+    "stargazers_count": 1, 
+    "id": 31269082, 
+    "size": 110164
   }, 
   {
     "description": "toolbox for analysis of the gmane database", 

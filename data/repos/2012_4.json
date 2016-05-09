@@ -89,13 +89,13 @@
     "watchers_count": 3, 
     "created_at": "2012-04-15T04:57:18Z", 
     "forks_count": 1, 
-    "updated_at": "2014-05-18T15:31:21Z", 
-    "pushed_at": "2014-05-18T15:31:21Z", 
+    "updated_at": "2016-05-09T00:31:21Z", 
+    "pushed_at": "2016-05-09T00:31:20Z", 
     "git_url": "git://github.com/jonathansick/MoAstro.git", 
     "full_name": "jonathansick/MoAstro", 
     "stargazers_count": 3, 
     "id": 4029930, 
-    "size": 313
+    "size": 158
   }, 
   {
     "description": "Java Partial Information Decomposition toolkit", 

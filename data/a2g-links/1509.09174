@@ -1,6 +1,7 @@
 {
   "project": [
     "fakenmc/micompm", 
+    "cran/micompr", 
     "fakenmc/simoututils", 
     "fakenmc/micompr", 
     "fakenmc/pphpc"

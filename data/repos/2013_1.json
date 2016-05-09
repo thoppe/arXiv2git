@@ -182,20 +182,6 @@
     "size": 2865
   }, 
   {
-    "description": "Research on the energetic predictions of METE", 
-    "language": "Python", 
-    "watchers_count": 1, 
-    "created_at": "2013-01-20T03:55:02Z", 
-    "forks_count": 3, 
-    "updated_at": "2014-09-11T05:43:28Z", 
-    "pushed_at": "2014-09-17T02:18:26Z", 
-    "git_url": "git://github.com/weecology/mete-energy.git", 
-    "full_name": "weecology/mete-energy", 
-    "stargazers_count": 1, 
-    "id": 7712369, 
-    "size": 4293
-  }, 
-  {
     "description": "Heteroscedastic Matrix Factorization ", 
     "language": "Python", 
     "watchers_count": 0, 
@@ -208,6 +194,20 @@
     "stargazers_count": 0, 
     "id": 7801875, 
     "size": 152
+  }, 
+  {
+    "description": "Research on the energetic predictions of METE", 
+    "language": "Python", 
+    "watchers_count": 1, 
+    "created_at": "2013-01-20T03:55:02Z", 
+    "forks_count": 3, 
+    "updated_at": "2014-09-11T05:43:28Z", 
+    "pushed_at": "2014-09-17T02:18:26Z", 
+    "git_url": "git://github.com/weecology/mete-energy.git", 
+    "full_name": "weecology/mete-energy", 
+    "stargazers_count": 1, 
+    "id": 7712369, 
+    "size": 4293
   }, 
   {
     "description": "NIFTY - Numerical Information Field Theory", 

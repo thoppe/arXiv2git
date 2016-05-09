@@ -28,20 +28,6 @@
     "size": 96
   }, 
   {
-    "description": "", 
-    "language": "C++", 
-    "watchers_count": 2, 
-    "created_at": "2012-03-17T14:49:55Z", 
-    "forks_count": 0, 
-    "updated_at": "2015-07-15T14:48:26Z", 
-    "pushed_at": "2012-03-25T05:30:38Z", 
-    "git_url": "git://github.com/elib/GalaxyMap.git", 
-    "full_name": "elib/GalaxyMap", 
-    "stargazers_count": 2, 
-    "id": 3748293, 
-    "size": 300
-  }, 
-  {
     "description": "Time Warp algorithm implemented in Erlang", 
     "language": "Erlang", 
     "watchers_count": 10, 
@@ -54,6 +40,20 @@
     "stargazers_count": 10, 
     "id": 3716889, 
     "size": 213
+  }, 
+  {
+    "description": "", 
+    "language": "C++", 
+    "watchers_count": 2, 
+    "created_at": "2012-03-17T14:49:55Z", 
+    "forks_count": 0, 
+    "updated_at": "2015-07-15T14:48:26Z", 
+    "pushed_at": "2012-03-25T05:30:38Z", 
+    "git_url": "git://github.com/elib/GalaxyMap.git", 
+    "full_name": "elib/GalaxyMap", 
+    "stargazers_count": 2, 
+    "id": 3748293, 
+    "size": 300
   }, 
   {
     "description": "Induced Suffix Array with LCP construction (Mirror)", 
@@ -174,12 +174,12 @@
     "created_at": "2012-03-09T18:06:08Z", 
     "forks_count": 9, 
     "updated_at": "2016-05-05T18:37:52Z", 
-    "pushed_at": "2016-05-03T21:07:32Z", 
+    "pushed_at": "2016-05-07T19:54:55Z", 
     "git_url": "git://github.com/drphilmarshall/Pangloss.git", 
     "full_name": "drphilmarshall/Pangloss", 
     "stargazers_count": 4, 
     "id": 3673302, 
-    "size": 219230
+    "size": 219253
   }, 
   {
     "description": "Saves a tree in a table, fast. Official version moved to https://github.com/grzlus/acts_as_nested_interval", 
