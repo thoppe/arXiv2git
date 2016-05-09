@@ -31,7 +31,6 @@ function build_linkblock(name, A) {
         
     }); 
 
-    //$("body").prepend(X);
     $("body").append(X);
 
     return A.length;
@@ -48,6 +47,10 @@ $.getJSON(a2g_url, function(json) {
 
     if(total_items) {
 
+        X = $("<div>").addClass("arxiv2git");
+        X.html('<h1><a href="https://github.com/thoppe/arXiv2git">arXiv2git</a></h1> extension by <h1><a href="http://thoppe.github.io/">Travis Hoppe</a></h1>');
+        $("body").append(X);
+        
     }
     
 });
