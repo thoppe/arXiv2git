@@ -47,3 +47,7 @@ Sorted by github `stars`...
 - [ ] Notification for arXiv
 - [ ] Feed for discovery
 
+
+## Attributions
+  
++ Icon made by [Freepik](http://www.flaticon.com/authors/freepik) from [www.flaticon.com](www.flaticon.com) under a Creative Commons 3.0 license.

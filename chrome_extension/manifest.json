@@ -2,7 +2,8 @@
     "manifest_version": 2,
     "name": "arXiv2git",
     "version": "0.01",
-    "description": "Looks for github links from arXiv pages. https://github.com/thoppe/arXiv2git",
+    "description": "Looks for github links from arXiv pages.",
+    "homepage_url" : "https://github.com/thoppe/arXiv2git",
 
     "content_scripts": [
         {
@@ -19,4 +20,11 @@
             ]
         }
     ]
+
+    "icons": {
+        "16" : "pencils16.png",
+        "48" : "pencils48.png",
+        "128": "pencils128.png"
+    },
+
 }
