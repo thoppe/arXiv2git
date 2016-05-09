@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "arXiv2git",
-    "version": "1.00",
+    "version": "1.0",
     "description": "Looks for github links from arXiv pages.",
     "homepage_url" : "https://github.com/thoppe/arXiv2git",
 
