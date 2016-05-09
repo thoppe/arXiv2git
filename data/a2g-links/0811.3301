@@ -1,6 +1,7 @@
 {
   "project": [
-    "felixr/dtw_lbimproved", 
-    "lemire/lbimproved"
-  ]
+    "lemire/lbimproved", 
+    "felixr/dtw_lbimproved"
+  ], 
+  "citation": []
 }

@@ -1,19 +1,20 @@
 {
   "project": [
-    "BeardOfDoom/amminadabtest", 
-    "mordn/samuinjava", 
-    "nbatfai/SamuBrain", 
-    "nbatfai/SamuCopy", 
-    "nbatfai/SamuKnows", 
-    "nbatfai/amminadab", 
-    "nbatfai/hezron", 
     "nbatfai/isaac", 
-    "nbatfai/jacob", 
-    "nbatfai/judah", 
+    "nbatfai/amminadab", 
     "nbatfai/nahshon", 
-    "nbatfai/perez", 
-    "nbatfai/ram", 
+    "nbatfai/SamuBrain", 
     "nbatfai/samu", 
-    "nbatfai/super-judah"
-  ]
+    "mordn/samuinjava", 
+    "nbatfai/jacob", 
+    "nbatfai/SamuCopy", 
+    "nbatfai/hezron", 
+    "nbatfai/super-judah", 
+    "nbatfai/perez", 
+    "nbatfai/judah", 
+    "nbatfai/ram", 
+    "nbatfai/SamuKnows", 
+    "BeardOfDoom/amminadabtest"
+  ], 
+  "citation": []
 }

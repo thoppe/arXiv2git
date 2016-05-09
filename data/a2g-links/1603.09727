@@ -3,8 +3,8 @@
     "avati/nlc"
   ], 
   "citation": [
-    "brucerain/nlp-papernotes", 
     "dennybritz/deeplearning-papernotes", 
-    "dykang/neurallanguage-notes"
+    "dykang/neurallanguage-notes", 
+    "brucerain/nlp-papernotes"
   ]
 }

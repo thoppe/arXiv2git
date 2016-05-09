@@ -1,6 +1,7 @@
 {
   "project": [
-    "pja/three-body", 
-    "sunsistemo/sunsistemo"
-  ]
+    "sunsistemo/sunsistemo", 
+    "pja/three-body"
+  ], 
+  "citation": []
 }

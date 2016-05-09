@@ -1,5 +1,6 @@
 {
   "project": [
     "mschauer/BayesEstDiffusion.jl"
-  ]
+  ], 
+  "citation": []
 }

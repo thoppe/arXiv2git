@@ -3,5 +3,6 @@
     "sergei-romanenko/agda-normalization", 
     "sergei-romanenko/chapman-big-step-normalization", 
     "sergei-romanenko/chapman-normalization-delay-monad"
-  ]
+  ], 
+  "citation": []
 }

@@ -1,6 +1,7 @@
 {
   "project": [
-    "AMGoldsborough/TNR", 
-    "mhauru/NCon.jl"
-  ]
+    "mhauru/NCon.jl", 
+    "AMGoldsborough/TNR"
+  ], 
+  "citation": []
 }

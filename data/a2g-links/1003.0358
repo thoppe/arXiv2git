@@ -1,7 +1,8 @@
 {
   "project": [
+    "avulanov/ann-benchmark", 
     "CalculatedContent/big_deep_simple_mlp", 
-    "KyotoSunshine/CNN-for-handwritten-kanji", 
-    "avulanov/ann-benchmark"
-  ]
+    "KyotoSunshine/CNN-for-handwritten-kanji"
+  ], 
+  "citation": []
 }

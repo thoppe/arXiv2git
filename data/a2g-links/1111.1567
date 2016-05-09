@@ -1,8 +1,9 @@
 {
   "project": [
     "jackdawjackdaw/game-o-life", 
-    "rumangerst/ae_smoothlife", 
     "s271/cuMagic", 
-    "sznurek/CalmLife"
-  ]
+    "sznurek/CalmLife", 
+    "rumangerst/ae_smoothlife"
+  ], 
+  "citation": []
 }

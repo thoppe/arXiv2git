@@ -1,6 +1,7 @@
 {
   "project": [
-    "danxhuber/galclassify", 
-    "danxhuber/k2epic"
-  ]
+    "danxhuber/k2epic", 
+    "danxhuber/galclassify"
+  ], 
+  "citation": []
 }

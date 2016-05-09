@@ -1,8 +1,9 @@
 {
   "project": [
-    "krzwolk/Comparable-Corpora-Builder", 
-    "krzwolk/Differential-Parallel-Corpora-Cleaning-Tool", 
+    "krzwolk/Wikipedia-Captions-Download-Tool", 
     "krzwolk/TED-Talks-Crawler", 
-    "krzwolk/Wikipedia-Captions-Download-Tool"
-  ]
+    "krzwolk/Differential-Parallel-Corpora-Cleaning-Tool", 
+    "krzwolk/Comparable-Corpora-Builder"
+  ], 
+  "citation": []
 }

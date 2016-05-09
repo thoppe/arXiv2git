@@ -1,8 +1,8 @@
 {
   "project": [
-    "cheng6076/LSTM-Autoencoder", 
     "jiweil/Hierarchical-Neural-Autoencoder", 
-    "lipiji/hierarchical-encoder-decoder"
+    "lipiji/hierarchical-encoder-decoder", 
+    "cheng6076/LSTM-Autoencoder"
   ], 
   "citation": [
     "kjw0612/awesome-rnn"

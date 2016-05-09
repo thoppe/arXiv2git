@@ -1,9 +1,10 @@
 {
   "project": [
-    "guoxin/fix.all.imp", 
+    "guoxin/pan.on.fix", 
     "guoxin/lip.gen", 
-    "guoxin/new.data", 
     "guoxin/pan.all.trn", 
-    "guoxin/pan.on.fix"
-  ]
+    "guoxin/fix.all.imp", 
+    "guoxin/new.data"
+  ], 
+  "citation": []
 }

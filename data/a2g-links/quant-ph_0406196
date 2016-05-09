@@ -1,7 +1,8 @@
 {
   "project": [
     "StationQ/Liquid", 
-    "griest024/LiquidProject", 
-    "rharper2/Juqst"
-  ]
+    "rharper2/Juqst", 
+    "griest024/LiquidProject"
+  ], 
+  "citation": []
 }

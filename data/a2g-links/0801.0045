@@ -1,6 +1,7 @@
 {
   "project": [
-    "benoleary/LesHouchesParserClasses_CPP", 
-    "jterning/MCSSMTools"
-  ]
+    "jterning/MCSSMTools", 
+    "benoleary/LesHouchesParserClasses_CPP"
+  ], 
+  "citation": []
 }

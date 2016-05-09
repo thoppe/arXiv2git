@@ -1,6 +1,7 @@
 {
   "project": [
-    "andersbll/autoencoding_beyond_pixels", 
-    "stitchfix/fauxtograph"
-  ]
+    "stitchfix/fauxtograph", 
+    "andersbll/autoencoding_beyond_pixels"
+  ], 
+  "citation": []
 }

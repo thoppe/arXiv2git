@@ -1,13 +1,13 @@
 {
   "project": [
-    "akolishchak/vae", 
-    "casperkaae/parmesan", 
-    "clinicalml/dgm", 
-    "lim0606/lasagne-vae", 
-    "skaae/vaeblog", 
-    "sokazaki/Deep-Generative-Models", 
     "stitchfix/fauxtograph", 
-    "takerum/vae"
+    "casperkaae/parmesan", 
+    "skaae/vaeblog", 
+    "lim0606/lasagne-vae", 
+    "clinicalml/dgm", 
+    "takerum/vae", 
+    "sokazaki/Deep-Generative-Models", 
+    "akolishchak/vae"
   ], 
   "citation": [
     "kastnerkyle/PyGotham2015", 

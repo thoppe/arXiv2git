@@ -1,7 +1,8 @@
 {
   "project": [
+    "tehtechguy/mHTM", 
     "muratkrty/htm-robotics-and-math-papers", 
-    "pluto-skaalhelarsen/ClassifiedNoise", 
-    "tehtechguy/mHTM"
-  ]
+    "pluto-skaalhelarsen/ClassifiedNoise"
+  ], 
+  "citation": []
 }

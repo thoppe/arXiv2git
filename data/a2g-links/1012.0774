@@ -1,6 +1,7 @@
 {
   "project": [
-    "tbuehler/OneSpectralClustering", 
-    "tbuehler/sparsePCA"
-  ]
+    "tbuehler/sparsePCA", 
+    "tbuehler/OneSpectralClustering"
+  ], 
+  "citation": []
 }

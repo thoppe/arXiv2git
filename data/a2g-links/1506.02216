@@ -1,7 +1,7 @@
 {
   "project": [
-    "clab/knowledge", 
     "jych/nips2015_vrnn", 
+    "clab/knowledge", 
     "kastnerkyle/vrnn-samples"
   ], 
   "citation": [

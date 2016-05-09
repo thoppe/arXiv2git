@@ -4,8 +4,8 @@
     "ml-lab/grid-lstm"
   ], 
   "citation": [
+    "kjw0612/awesome-rnn", 
     "carpedm20/awesome-torch", 
-    "coreylynch/grid-lstm", 
-    "kjw0612/awesome-rnn"
+    "coreylynch/grid-lstm"
   ]
 }

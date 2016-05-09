@@ -1,10 +1,10 @@
 {
   "project": [
-    "wosel/SAN", 
-    "zcyang/imageqa-san"
+    "zcyang/imageqa-san", 
+    "wosel/SAN"
   ], 
   "citation": [
-    "abhshkdz/papers", 
-    "kjw0612/awesome-deep-vision"
+    "kjw0612/awesome-deep-vision", 
+    "abhshkdz/papers"
   ]
 }

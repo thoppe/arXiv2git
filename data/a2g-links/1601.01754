@@ -1,6 +1,7 @@
 {
   "project": [
-    "KyushuUniversityMathematics/iPad-ProbeDeformer", 
-    "shizuo-kaji/DualComplexNumbers"
-  ]
+    "shizuo-kaji/DualComplexNumbers", 
+    "KyushuUniversityMathematics/iPad-ProbeDeformer"
+  ], 
+  "citation": []
 }

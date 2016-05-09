@@ -1,6 +1,7 @@
 {
   "project": [
-    "svenkreiss/decouple", 
-    "svenkreiss/decoupledDemo"
-  ]
+    "svenkreiss/decoupledDemo", 
+    "svenkreiss/decouple"
+  ], 
+  "citation": []
 }

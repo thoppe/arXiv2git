@@ -1,6 +1,7 @@
 {
   "project": [
-    "karel-brinda/rnf-spec", 
-    "karel-brinda/rnftools"
-  ]
+    "karel-brinda/rnftools", 
+    "karel-brinda/rnf-spec"
+  ], 
+  "citation": []
 }

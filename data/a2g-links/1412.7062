@@ -1,16 +1,16 @@
 {
   "project": [
-    "GoYchen/deeplab", 
-    "ITLab-Vision/ITLab-Vision-deeplab", 
-    "Robotertechnik/Deep-Lab", 
     "TheLegendAli/DeepLab-Context", 
     "cdmh/deeplab-public", 
-    "fanxu/deeplab", 
-    "futurely/deeplab-public", 
-    "gadkins/deeplab", 
-    "iqbalu/DeepLab", 
+    "pathak22/ccnn", 
     "pathak22/caffe-ccnn", 
-    "pathak22/ccnn"
+    "Robotertechnik/Deep-Lab", 
+    "ITLab-Vision/ITLab-Vision-deeplab", 
+    "GoYchen/deeplab", 
+    "futurely/deeplab-public", 
+    "iqbalu/DeepLab", 
+    "gadkins/deeplab", 
+    "fanxu/deeplab"
   ], 
   "citation": [
     "imatge-upc/readcv"

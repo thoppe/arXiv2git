@@ -4,7 +4,7 @@
     "ulucs/rlntm"
   ], 
   "citation": [
-    "dennybritz/deeplearning-papernotes", 
-    "kjw0612/awesome-rnn"
+    "kjw0612/awesome-rnn", 
+    "dennybritz/deeplearning-papernotes"
   ]
 }

@@ -1,7 +1,8 @@
 {
   "project": [
     "jonathansick/MoAstro", 
-    "jonathansick/skyoffset", 
-    "jonathansick/skysubpub"
-  ]
+    "jonathansick/skysubpub", 
+    "jonathansick/skyoffset"
+  ], 
+  "citation": []
 }

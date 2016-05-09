@@ -1,7 +1,8 @@
 {
   "project": [
     "fakenmc/perfandpubtools", 
-    "fakenmc/pphpc", 
-    "fakenmc/simoututils"
-  ]
+    "fakenmc/simoututils", 
+    "fakenmc/pphpc"
+  ], 
+  "citation": []
 }

@@ -1,6 +1,7 @@
 {
   "project": [
-    "dvanhorn/oaam", 
-    "gasche/icfp2013-papers"
-  ]
+    "gasche/icfp2013-papers", 
+    "dvanhorn/oaam"
+  ], 
+  "citation": []
 }

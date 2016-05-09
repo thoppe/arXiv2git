@@ -1,12 +1,12 @@
 {
   "project": [
-    "facebook/learningSimpleAlgorithms", 
-    "wojzaremba/algorithm-learning"
+    "wojzaremba/algorithm-learning", 
+    "facebook/learningSimpleAlgorithms"
   ], 
   "citation": [
-    "carpedm20/awesome-torch", 
-    "dennybritz/deeplearning-papernotes", 
+    "kjw0612/awesome-rnn", 
     "junhyukoh/deep-reinforcement-learning-papers", 
-    "kjw0612/awesome-rnn"
+    "dennybritz/deeplearning-papernotes", 
+    "carpedm20/awesome-torch"
   ]
 }

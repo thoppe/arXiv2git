@@ -1,6 +1,7 @@
 {
   "project": [
-    "dylan-harries/summerschol-fs-project", 
-    "pathron/SM-code"
-  ]
+    "pathron/SM-code", 
+    "dylan-harries/summerschol-fs-project"
+  ], 
+  "citation": []
 }

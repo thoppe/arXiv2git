@@ -1,8 +1,9 @@
 {
   "project": [
-    "Warbo/mc-aixi-ctw", 
-    "dissipate/mc-aixi-vs-paq", 
+    "moridinamael/mc-aixi", 
     "gkassel/pyaixi", 
-    "moridinamael/mc-aixi"
-  ]
+    "dissipate/mc-aixi-vs-paq", 
+    "Warbo/mc-aixi-ctw"
+  ], 
+  "citation": []
 }

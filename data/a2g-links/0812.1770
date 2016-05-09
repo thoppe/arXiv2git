@@ -1,6 +1,7 @@
 {
   "project": [
-    "buzzlumberjack/Communities-Detection", 
-    "michaelschaub/PartitionStability"
-  ]
+    "michaelschaub/PartitionStability", 
+    "buzzlumberjack/Communities-Detection"
+  ], 
+  "citation": []
 }

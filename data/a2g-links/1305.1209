@@ -1,6 +1,7 @@
 {
   "project": [
-    "cmendl/fluct-hydro-chains", 
-    "cmendl/hardpoint-systems"
-  ]
+    "cmendl/hardpoint-systems", 
+    "cmendl/fluct-hydro-chains"
+  ], 
+  "citation": []
 }

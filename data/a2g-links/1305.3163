@@ -1,7 +1,8 @@
 {
   "project": [
     "acieroid/aac-ml", 
-    "deeglaze/pushdown-shift-reset", 
-    "jensnicolay/aac"
-  ]
+    "jensnicolay/aac", 
+    "deeglaze/pushdown-shift-reset"
+  ], 
+  "citation": []
 }

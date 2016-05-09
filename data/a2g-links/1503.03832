@@ -1,11 +1,11 @@
 {
   "project": [
-    "Strateus/TripletChain", 
-    "jhjin/triplet-criterion"
+    "jhjin/triplet-criterion", 
+    "Strateus/TripletChain"
   ], 
   "citation": [
-    "DrLSimon/KPBiblio", 
+    "kjw0612/awesome-deep-vision", 
     "carpedm20/awesome-torch", 
-    "kjw0612/awesome-deep-vision"
+    "DrLSimon/KPBiblio"
   ]
 }

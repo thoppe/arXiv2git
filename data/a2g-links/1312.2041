@@ -1,6 +1,7 @@
 {
   "project": [
-    "StoreyLab/lfa", 
-    "StoreyLab/reading"
-  ]
+    "StoreyLab/reading", 
+    "StoreyLab/lfa"
+  ], 
+  "citation": []
 }

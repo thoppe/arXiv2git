@@ -1,7 +1,8 @@
 {
   "project": [
+    "sphinxteam/LowRAMP.jl", 
     "krzakala/LowRAMP", 
-    "krzakala/LowRAMP_julia", 
-    "sphinxteam/LowRAMP.jl"
-  ]
+    "krzakala/LowRAMP_julia"
+  ], 
+  "citation": []
 }

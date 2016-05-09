@@ -1,5 +1,6 @@
 {
   "project": [
     "ParallelDots/WordEmbeddingAutoencoder"
-  ]
+  ], 
+  "citation": []
 }

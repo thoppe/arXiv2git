@@ -4,8 +4,8 @@
     "shyamalschandra/visual-attention-multiple-objects"
   ], 
   "citation": [
-    "dennybritz/deeplearning-papernotes", 
     "kjw0612/awesome-deep-vision", 
+    "dennybritz/deeplearning-papernotes", 
     "ry/deep_learning_glossary"
   ]
 }

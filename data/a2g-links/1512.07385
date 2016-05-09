@@ -1,7 +1,8 @@
 {
   "project": [
     "mcreel/ABCAuction.jl", 
-    "mcreel/ABCDSGE", 
-    "mcreel/QuantileIV.jl"
-  ]
+    "mcreel/QuantileIV.jl", 
+    "mcreel/ABCDSGE"
+  ], 
+  "citation": []
 }

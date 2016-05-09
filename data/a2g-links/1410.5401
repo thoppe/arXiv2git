@@ -1,19 +1,19 @@
 {
   "project": [
-    "JanTkacik/NTM", 
-    "chiggum/Neural-Turing-Machines", 
-    "fumin/ntm", 
-    "gcgibson/NTM", 
     "shawntan/neural-turing-machines", 
+    "fumin/ntm", 
+    "JanTkacik/NTM", 
+    "gcgibson/NTM", 
+    "chiggum/Neural-Turing-Machines", 
     "shyamalschandra/neural-turing-machines", 
-    "yeoedward/Neural-Turing-Machine", 
-    "zhuyong0000/nmt_python"
+    "zhuyong0000/nmt_python", 
+    "yeoedward/Neural-Turing-Machine"
   ], 
   "citation": [
-    "carpedm20/awesome-torch", 
-    "dennybritz/deeplearning-papernotes", 
-    "kastnerkyle/PyGotham2015", 
     "kjw0612/awesome-rnn", 
+    "dennybritz/deeplearning-papernotes", 
+    "carpedm20/awesome-torch", 
+    "kastnerkyle/PyGotham2015", 
     "steven2358/mlx"
   ]
 }

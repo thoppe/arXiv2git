@@ -1,8 +1,9 @@
 {
   "project": [
-    "gbrammer/pygrism", 
-    "gbrammer/threedhst", 
+    "themiyan/threedhst", 
     "gbrammer/unicorn", 
-    "themiyan/threedhst"
-  ]
+    "gbrammer/pygrism", 
+    "gbrammer/threedhst"
+  ], 
+  "citation": []
 }

@@ -1,10 +1,10 @@
 {
   "project": [
-    "bwgroff/SemanticZip", 
+    "tungpd/sentence2vec", 
+    "nishoknm/Censorship-Prediction-Doc2Vec", 
     "g-strou/NLPChallenge", 
     "nisarg64/Sentiment-Analysis-Word2Vec", 
-    "nishoknm/Censorship-Prediction-Doc2Vec", 
-    "tungpd/sentence2vec"
+    "bwgroff/SemanticZip"
   ], 
   "citation": [
     "dennybritz/deeplearning-papernotes", 

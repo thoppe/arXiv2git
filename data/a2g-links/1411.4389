@@ -1,12 +1,12 @@
 {
   "project": [
-    "TronicLT/lrcn_activity_recognition", 
-    "didw/lstm.torch"
+    "didw/lstm.torch", 
+    "TronicLT/lrcn_activity_recognition"
   ], 
   "citation": [
-    "NVTUANHUT/deeplearning", 
-    "kjw0612/awesome-deep-vision", 
     "kjw0612/awesome-rnn", 
-    "shudct/studying-RNN"
+    "kjw0612/awesome-deep-vision", 
+    "shudct/studying-RNN", 
+    "NVTUANHUT/deeplearning"
   ]
 }

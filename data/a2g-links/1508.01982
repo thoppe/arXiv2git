@@ -2,5 +2,6 @@
   "project": [
     "JuliaOpt/JuMP.jl", 
     "JuliaPackageMirrors/JuMP.jl"
-  ]
+  ], 
+  "citation": []
 }

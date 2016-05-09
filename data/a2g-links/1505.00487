@@ -3,9 +3,9 @@
     "vsubhashini/caption-eval"
   ], 
   "citation": [
-    "TensorFlowKR/awesome_tensorflow_implementations", 
-    "kjw0612/awesome-deep-vision", 
     "kjw0612/awesome-rnn", 
+    "kjw0612/awesome-deep-vision", 
+    "TensorFlowKR/awesome_tensorflow_implementations", 
     "shudct/studying-RNN"
   ]
 }

@@ -1,9 +1,10 @@
 {
   "project": [
-    "cocoaaa/powerlaw", 
     "jeffalstott/powerlaw", 
     "roxyboy/powerlaw", 
-    "volconix/powerlaw", 
-    "yiyuezhuo/zhihu-distribution-test"
-  ]
+    "cocoaaa/powerlaw", 
+    "yiyuezhuo/zhihu-distribution-test", 
+    "volconix/powerlaw"
+  ], 
+  "citation": []
 }

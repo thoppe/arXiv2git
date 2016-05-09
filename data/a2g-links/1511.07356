@@ -2,5 +2,6 @@
   "project": [
     "ebenolson/kaggle-whale", 
     "faizankshaikh/kaggle_right_whale"
-  ]
+  ], 
+  "citation": []
 }

@@ -2,5 +2,6 @@
   "project": [
     "stavros0/bitcoin-price-prediction", 
     "westrik/bitcoin"
-  ]
+  ], 
+  "citation": []
 }

@@ -2,5 +2,6 @@
   "project": [
     "alexandrebarachant/bci-challenge-ner-2015", 
     "alexandrebarachant/pyRiemann"
-  ]
+  ], 
+  "citation": []
 }

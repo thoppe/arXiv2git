@@ -1,7 +1,8 @@
 {
   "project": [
+    "Jutho/TensorOperations.jl", 
     "AMGoldsborough/TNR", 
-    "JuliaPackageMirrors/TensorOperations.jl", 
-    "Jutho/TensorOperations.jl"
-  ]
+    "JuliaPackageMirrors/TensorOperations.jl"
+  ], 
+  "citation": []
 }

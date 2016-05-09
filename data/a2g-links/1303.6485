@@ -1,6 +1,7 @@
 {
   "project": [
-    "cawthorne/beebs_greg", 
-    "mageec/beebs"
-  ]
+    "mageec/beebs", 
+    "cawthorne/beebs_greg"
+  ], 
+  "citation": []
 }

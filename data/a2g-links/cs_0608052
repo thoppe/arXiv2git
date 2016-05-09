@@ -2,5 +2,6 @@
   "project": [
     "sylvchev/dataset-ssvep-exoskeleton", 
     "sylvchev/dataset-ssvep-led"
-  ]
+  ], 
+  "citation": []
 }

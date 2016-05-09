@@ -1,6 +1,7 @@
 {
   "project": [
-    "keerath/Code-Summarization", 
-    "mast-group/tassal"
-  ]
+    "mast-group/tassal", 
+    "keerath/Code-Summarization"
+  ], 
+  "citation": []
 }

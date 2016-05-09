@@ -1,7 +1,8 @@
 {
   "project": [
     "alexviiia/DomStratStats", 
-    "alexviiia/RandProt", 
-    "alexviiia/dpuc2"
-  ]
+    "alexviiia/dpuc2", 
+    "alexviiia/RandProt"
+  ], 
+  "citation": []
 }

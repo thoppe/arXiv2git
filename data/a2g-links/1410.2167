@@ -1,7 +1,8 @@
 {
   "project": [
-    "nickkw/slambench", 
     "pamela-project/slambench", 
+    "nickkw/slambench", 
     "yun-li/SLAMBench"
-  ]
+  ], 
+  "citation": []
 }

@@ -1,5 +1,6 @@
 {
   "project": [
     "revilokeb/inception_resnetv2_caffe"
-  ]
+  ], 
+  "citation": []
 }

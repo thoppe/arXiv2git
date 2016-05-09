@@ -1,6 +1,7 @@
 {
   "project": [
-    "JuliaPackageMirrors/RandomMatrices.jl", 
-    "jiahao/RandomMatrices.jl"
-  ]
+    "jiahao/RandomMatrices.jl", 
+    "JuliaPackageMirrors/RandomMatrices.jl"
+  ], 
+  "citation": []
 }

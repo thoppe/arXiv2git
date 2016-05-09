@@ -2,5 +2,6 @@
   "project": [
     "ctuning/ck", 
     "gfursin/research-paper-title-generator-for-android"
-  ]
+  ], 
+  "citation": []
 }

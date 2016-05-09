@@ -1,9 +1,10 @@
 {
   "project": [
-    "cocoaaa/powerlaw", 
-    "jdelmolino/power-law", 
     "jeffalstott/powerlaw", 
     "roxyboy/powerlaw", 
+    "jdelmolino/power-law", 
+    "cocoaaa/powerlaw", 
     "volconix/powerlaw"
-  ]
+  ], 
+  "citation": []
 }

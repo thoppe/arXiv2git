@@ -1,5 +1,6 @@
 {
   "project": [
     "rastarobbie/mnist-adversarial-examples"
-  ]
+  ], 
+  "citation": []
 }

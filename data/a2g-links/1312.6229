@@ -1,11 +1,11 @@
 {
   "project": [
-    "adamyedidia/small_tms", 
-    "sermanet/OverFeat"
+    "sermanet/OverFeat", 
+    "adamyedidia/small_tms"
   ], 
   "citation": [
+    "kjw0612/awesome-deep-vision", 
     "carpedm20/awesome-torch", 
-    "kastnerkyle/PyGotham2015", 
-    "kjw0612/awesome-deep-vision"
+    "kastnerkyle/PyGotham2015"
   ]
 }

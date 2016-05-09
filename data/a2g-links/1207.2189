@@ -1,6 +1,7 @@
 {
   "project": [
-    "lemire/SimpleVortex", 
-    "lemire/rowreorderingjavalibrary"
-  ]
+    "lemire/rowreorderingjavalibrary", 
+    "lemire/SimpleVortex"
+  ], 
+  "citation": []
 }

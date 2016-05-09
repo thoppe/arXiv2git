@@ -1,6 +1,7 @@
 {
   "project": [
-    "codles/MinMaxFilter.jl", 
-    "lemire/runningmaxmin"
-  ]
+    "lemire/runningmaxmin", 
+    "codles/MinMaxFilter.jl"
+  ], 
+  "citation": []
 }

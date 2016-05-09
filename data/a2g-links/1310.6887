@@ -1,6 +1,7 @@
 {
   "project": [
-    "ISMiller101/vpsolver", 
-    "fdabrandao/vpsolver"
-  ]
+    "fdabrandao/vpsolver", 
+    "ISMiller101/vpsolver"
+  ], 
+  "citation": []
 }

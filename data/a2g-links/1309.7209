@@ -1,6 +1,7 @@
 {
   "project": [
-    "compops/phd-thesis", 
-    "compops/pmmh-correlated2015"
-  ]
+    "compops/pmmh-correlated2015", 
+    "compops/phd-thesis"
+  ], 
+  "citation": []
 }

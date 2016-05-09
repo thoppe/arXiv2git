@@ -1,7 +1,8 @@
 {
   "project": [
-    "Amarchuk/primes-freq-50kk", 
     "lvnguyen/prime_tuples", 
-    "timeeeee/consecutive-prime-distribution"
-  ]
+    "timeeeee/consecutive-prime-distribution", 
+    "Amarchuk/primes-freq-50kk"
+  ], 
+  "citation": []
 }

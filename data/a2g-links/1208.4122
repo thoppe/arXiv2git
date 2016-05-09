@@ -1,6 +1,7 @@
 {
   "project": [
-    "evanbiederstedt/HMF2.0", 
-    "sbailey/empca"
-  ]
+    "sbailey/empca", 
+    "evanbiederstedt/HMF2.0"
+  ], 
+  "citation": []
 }

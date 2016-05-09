@@ -1,15 +1,15 @@
 {
   "project": [
-    "MasazI/Spatial_Transformer_Network", 
-    "daviddao/spatial-transformer-tensorflow", 
     "qassemoquab/stnbhwd", 
-    "skaae/transformer_network"
+    "skaae/transformer_network", 
+    "daviddao/spatial-transformer-tensorflow", 
+    "MasazI/Spatial_Transformer_Network"
   ], 
   "citation": [
-    "abhshkdz/papers", 
     "dennybritz/deeplearning-papernotes", 
-    "johnny5550822/awesome-neat-rnn", 
     "kristjankorjus/applied-deep-learning-resources", 
+    "abhshkdz/papers", 
+    "johnny5550822/awesome-neat-rnn", 
     "steven2358/mlx"
   ]
 }

@@ -1,5 +1,6 @@
 {
   "project": [
     "BinRoot/GaussianGraphicalModel"
-  ]
+  ], 
+  "citation": []
 }

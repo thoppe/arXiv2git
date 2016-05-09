@@ -1,7 +1,8 @@
 {
   "project": [
+    "dobriban/pweight", 
     "cran/pweight", 
-    "dobriban/pvalue_weighting_matlab", 
-    "dobriban/pweight"
-  ]
+    "dobriban/pvalue_weighting_matlab"
+  ], 
+  "citation": []
 }

@@ -1,6 +1,7 @@
 {
   "project": [
-    "joftius/fstep-tchi", 
-    "selective-inference/Python-software"
-  ]
+    "selective-inference/Python-software", 
+    "joftius/fstep-tchi"
+  ], 
+  "citation": []
 }

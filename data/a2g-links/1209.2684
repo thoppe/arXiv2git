@@ -1,6 +1,7 @@
 {
   "project": [
-    "kristyspatel/Netsimile", 
-    "sagarjauhari/graph_anomaly_detect"
-  ]
+    "sagarjauhari/graph_anomaly_detect", 
+    "kristyspatel/Netsimile"
+  ], 
+  "citation": []
 }

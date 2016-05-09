@@ -1,10 +1,10 @@
 {
   "project": [
-    "Avmb/lowrank-highwaynetwork", 
-    "ZhangBanger/highway-vs-gradnet", 
-    "bnsh/highwaytest", 
+    "zomux/deepy", 
     "flukeskywalker/highway-networks", 
-    "zomux/deepy"
+    "ZhangBanger/highway-vs-gradnet", 
+    "Avmb/lowrank-highwaynetwork", 
+    "bnsh/highwaytest"
   ], 
   "citation": [
     "coreylynch/grid-lstm", 

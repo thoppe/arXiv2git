@@ -1,8 +1,8 @@
 {
   "project": [
-    "Nanne/ClassModel", 
     "pengsun/MatlabCNN", 
-    "xieguotian/visualize_dl"
+    "xieguotian/visualize_dl", 
+    "Nanne/ClassModel"
   ], 
   "citation": [
     "abhshkdz/papers", 

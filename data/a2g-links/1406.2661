@@ -1,17 +1,17 @@
 {
   "project": [
+    "skaae/vaeblog", 
+    "clab/knowledge", 
     "MatthieuBizien/AdversarialNetworks", 
     "WenchenLi/PhotoRestoration", 
-    "clab/knowledge", 
-    "skaae/vaeblog", 
     "sokazaki/Deep-Generative-Models", 
     "wrb0312/gan"
   ], 
   "citation": [
-    "dennybritz/deeplearning-papernotes", 
-    "kastnerkyle/PyGotham2015", 
     "kjw0612/awesome-deep-vision", 
-    "mihaelacr/paper-notes", 
-    "ry/deep_learning_glossary"
+    "dennybritz/deeplearning-papernotes", 
+    "ry/deep_learning_glossary", 
+    "kastnerkyle/PyGotham2015", 
+    "mihaelacr/paper-notes"
   ]
 }

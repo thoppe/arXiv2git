@@ -1,6 +1,7 @@
 {
   "project": [
-    "rlouf/patterns-of-segregation", 
-    "scities/marble"
-  ]
+    "scities/marble", 
+    "rlouf/patterns-of-segregation"
+  ], 
+  "citation": []
 }

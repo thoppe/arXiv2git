@@ -1,6 +1,7 @@
 {
   "project": [
-    "arnaudporet/enhance_my_Boolean", 
-    "nodys/logml"
-  ]
+    "nodys/logml", 
+    "arnaudporet/enhance_my_Boolean"
+  ], 
+  "citation": []
 }

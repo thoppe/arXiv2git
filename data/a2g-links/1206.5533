@@ -1,8 +1,8 @@
 {
   "project": [
+    "nyanp/tiny-cnn", 
     "Anode1/SMBPANN", 
-    "daijialun/tiny_cnn", 
-    "nyanp/tiny-cnn"
+    "daijialun/tiny_cnn"
   ], 
   "citation": [
     "sunshineatnoon/Paper-Collection"

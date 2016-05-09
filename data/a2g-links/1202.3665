@@ -1,7 +1,8 @@
 {
   "project": [
-    "dfm/clda", 
+    "mattpitkin/yamm", 
     "eggplantbren/StretchR", 
-    "mattpitkin/yamm"
-  ]
+    "dfm/clda"
+  ], 
+  "citation": []
 }

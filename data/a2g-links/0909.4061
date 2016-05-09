@@ -1,10 +1,11 @@
 {
   "project": [
-    "ajverster/FastPCA", 
-    "allenlu95/matrix-factorization-algorithms", 
     "ccsevers/scalding-linalg", 
-    "mrgloom/PCA-and-SVD-Evaluation", 
     "rustandruin/NystromBestiary", 
-    "ryotat/TKML10"
-  ]
+    "mrgloom/PCA-and-SVD-Evaluation", 
+    "ryotat/TKML10", 
+    "allenlu95/matrix-factorization-algorithms", 
+    "ajverster/FastPCA"
+  ], 
+  "citation": []
 }

@@ -1,6 +1,7 @@
 {
   "project": [
-    "Paschalis/adapt16_benchmarks", 
-    "ctuning/reproduce-adapt16"
-  ]
+    "ctuning/reproduce-adapt16", 
+    "Paschalis/adapt16_benchmarks"
+  ], 
+  "citation": []
 }

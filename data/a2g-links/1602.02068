@@ -1,5 +1,6 @@
 {
   "project": [
     "gokceneraslan/SparseMax.torch"
-  ]
+  ], 
+  "citation": []
 }

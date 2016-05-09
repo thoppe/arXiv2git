@@ -1,6 +1,7 @@
 {
   "project": [
-    "CosmoStat/MRS3D", 
-    "ixkael/3DEX"
-  ]
+    "ixkael/3DEX", 
+    "CosmoStat/MRS3D"
+  ], 
+  "citation": []
 }

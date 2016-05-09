@@ -1,6 +1,7 @@
 {
   "project": [
-    "fujun-liu/CNN-Prediction", 
-    "mjpekala/bio-segmentation"
-  ]
+    "mjpekala/bio-segmentation", 
+    "fujun-liu/CNN-Prediction"
+  ], 
+  "citation": []
 }

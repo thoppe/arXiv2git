@@ -1,8 +1,9 @@
 {
   "project": [
-    "abhijeetsane/dc-lib", 
-    "dgu123/dc-lib", 
     "kuettler/dc-lib", 
-    "mpw/dc-lib"
-  ]
+    "dgu123/dc-lib", 
+    "mpw/dc-lib", 
+    "abhijeetsane/dc-lib"
+  ], 
+  "citation": []
 }

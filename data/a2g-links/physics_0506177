@@ -2,5 +2,6 @@
   "project": [
     "cffk/orientation", 
     "latrocinia/rotation_sets"
-  ]
+  ], 
+  "citation": []
 }

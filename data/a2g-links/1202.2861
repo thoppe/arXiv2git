@@ -1,6 +1,7 @@
 {
   "project": [
-    "astro-informatics/comb", 
-    "astro-informatics/s2fil"
-  ]
+    "astro-informatics/s2fil", 
+    "astro-informatics/comb"
+  ], 
+  "citation": []
 }

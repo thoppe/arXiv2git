@@ -1,6 +1,7 @@
 {
   "project": [
-    "lemire/fasthashing", 
-    "lemire/rollinghashcpp"
-  ]
+    "lemire/rollinghashcpp", 
+    "lemire/fasthashing"
+  ], 
+  "citation": []
 }

@@ -1,5 +1,6 @@
 {
   "project": [
     "cran/disclapmix"
-  ]
+  ], 
+  "citation": []
 }

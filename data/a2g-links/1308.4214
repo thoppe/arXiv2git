@@ -1,10 +1,11 @@
 {
   "project": [
-    "CKehl/pylearn2", 
+    "lisa-lab/pylearn2", 
     "JesseLivezey/plankton", 
     "KennethPierce/pylearnk", 
     "gdesjardins/pylearn2_bio", 
-    "hyqneuron/pylearn2-maxsom", 
-    "lisa-lab/pylearn2"
-  ]
+    "CKehl/pylearn2", 
+    "hyqneuron/pylearn2-maxsom"
+  ], 
+  "citation": []
 }

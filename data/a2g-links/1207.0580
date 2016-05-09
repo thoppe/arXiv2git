@@ -1,16 +1,16 @@
 {
   "project": [
-    "FlyingSpringrol/C.-Elegance", 
+    "jostmey/DeepNeuralClassifier", 
+    "mdenil/dropout", 
+    "maddin79/darch", 
+    "skaae/rbm_toolbox_lua", 
+    "skaae/rbm_toolbox", 
+    "keithzhou/NeuralNets", 
+    "pengsun/MatlabCNN", 
     "FrederikDiehl/NNForSKLearn", 
     "SYChienIsGod/hw1", 
     "jackkitte/DeepLearnDropOut", 
-    "jostmey/DeepNeuralClassifier", 
-    "keithzhou/NeuralNets", 
-    "maddin79/darch", 
-    "mdenil/dropout", 
-    "pengsun/MatlabCNN", 
-    "skaae/rbm_toolbox", 
-    "skaae/rbm_toolbox_lua"
+    "FlyingSpringrol/C.-Elegance"
   ], 
   "citation": [
     "Element-Research/dpnn"

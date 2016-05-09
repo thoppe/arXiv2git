@@ -1,6 +1,7 @@
 {
   "project": [
-    "echi/Sudoku", 
-    "francisengelmann/mcmc"
-  ]
+    "francisengelmann/mcmc", 
+    "echi/Sudoku"
+  ], 
+  "citation": []
 }

@@ -1,6 +1,7 @@
 {
   "project": [
-    "hdbn/bgone", 
-    "pombredanne/bgone"
-  ]
+    "pombredanne/bgone", 
+    "hdbn/bgone"
+  ], 
+  "citation": []
 }

@@ -1,9 +1,9 @@
 {
   "project": [
+    "shashankg7/Deep-Learning-for-NLP-Resources", 
     "npow/ubottu", 
-    "npow/ubuntu-corpus", 
     "ryan-lowe/Ubuntu-Dialogue-Generationv2", 
-    "shashankg7/Deep-Learning-for-NLP-Resources"
+    "npow/ubuntu-corpus"
   ], 
   "citation": [
     "kjw0612/awesome-rnn"

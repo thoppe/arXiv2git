@@ -2,5 +2,6 @@
   "project": [
     "Argonne-National-Laboratory/ProMC", 
     "HEPcodes/Delphes3"
-  ]
+  ], 
+  "citation": []
 }

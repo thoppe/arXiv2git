@@ -1,6 +1,7 @@
 {
   "project": [
-    "chagaz/SamSpecCoEN", 
-    "mararie/LIONESSR"
-  ]
+    "mararie/LIONESSR", 
+    "chagaz/SamSpecCoEN"
+  ], 
+  "citation": []
 }

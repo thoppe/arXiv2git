@@ -1,6 +1,7 @@
 {
   "project": [
-    "JuliaPackageMirrors/FastTransforms.jl", 
-    "MikaelSlevinsky/FastTransforms.jl"
-  ]
+    "MikaelSlevinsky/FastTransforms.jl", 
+    "JuliaPackageMirrors/FastTransforms.jl"
+  ], 
+  "citation": []
 }

@@ -2,7 +2,8 @@
   "project": [
     "Ldpe2G/PCANet", 
     "Wangyida/PCANet_Yida", 
-    "mrgloom/Two-layer-network", 
-    "styleNie/PCANet_python"
-  ]
+    "styleNie/PCANet_python", 
+    "mrgloom/Two-layer-network"
+  ], 
+  "citation": []
 }

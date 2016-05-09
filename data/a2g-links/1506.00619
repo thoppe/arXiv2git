@@ -1,7 +1,8 @@
 {
   "project": [
-    "jpilaul/IFT6266_project", 
     "mila-udem/blocks", 
-    "mila-udem/fuel"
-  ]
+    "mila-udem/fuel", 
+    "jpilaul/IFT6266_project"
+  ], 
+  "citation": []
 }

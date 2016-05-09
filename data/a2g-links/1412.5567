@@ -1,7 +1,8 @@
 {
   "project": [
-    "KayneWest/DeepSpeech", 
     "hycis/bidirectional_RNN", 
+    "KayneWest/DeepSpeech", 
     "mikljohansson/webtv-transcriber"
-  ]
+  ], 
+  "citation": []
 }

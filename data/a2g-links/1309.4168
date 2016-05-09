@@ -1,10 +1,10 @@
 {
   "project": [
-    "Juik/law-dictionary", 
-    "PragmaticLab/EmbeddingMapper", 
     "c0der1337/Word-Embedding-Translation-Matrix", 
-    "pablomelo/word2vec", 
-    "wdbm/abstraction"
+    "Juik/law-dictionary", 
+    "wdbm/abstraction", 
+    "PragmaticLab/EmbeddingMapper", 
+    "pablomelo/word2vec"
   ], 
   "citation": [
     "dennybritz/deeplearning-papernotes", 

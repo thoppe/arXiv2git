@@ -1,6 +1,7 @@
 {
   "project": [
-    "CliqueCounter/QkCount", 
-    "fmalinowski/RamseyNumber"
-  ]
+    "fmalinowski/RamseyNumber", 
+    "CliqueCounter/QkCount"
+  ], 
+  "citation": []
 }

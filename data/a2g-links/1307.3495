@@ -1,6 +1,7 @@
 {
   "project": [
-    "cran/FDRreg", 
-    "jgscott/FDRreg"
-  ]
+    "jgscott/FDRreg", 
+    "cran/FDRreg"
+  ], 
+  "citation": []
 }

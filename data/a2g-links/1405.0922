@@ -1,7 +1,8 @@
 {
   "project": [
-    "aaronjfisher/2014_JSM_bootSVD_demo", 
     "aaronjfisher/bootSVD", 
-    "cran/bootSVD"
-  ]
+    "cran/bootSVD", 
+    "aaronjfisher/2014_JSM_bootSVD_demo"
+  ], 
+  "citation": []
 }

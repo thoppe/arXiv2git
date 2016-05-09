@@ -1,6 +1,7 @@
 {
   "project": [
-    "cran/tailloss", 
-    "igollini/tailloss"
-  ]
+    "igollini/tailloss", 
+    "cran/tailloss"
+  ], 
+  "citation": []
 }

@@ -2,8 +2,8 @@
   "project": [
     "HyeonwooNoh/DeconvNet", 
     "HyeonwooNoh/caffe", 
-    "matthieudelaro/caffe", 
-    "viorik/caffe-float"
+    "viorik/caffe-float", 
+    "matthieudelaro/caffe"
   ], 
   "citation": [
     "kjw0612/awesome-deep-vision"

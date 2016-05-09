@@ -6,6 +6,14 @@ Why?
 + It's hard to search for papers like ["t \bar{t} W production and decay at NLO"](http://arxiv.org/abs/1204.5678).
 + Some papers have a lot of links [Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385) and it may be hard to find all of them.
 + It builds a database of links for other uses
+
+What?
+
+Screenshot here
+
+What are `Projects`, `Citations`?
+
+Sorted by github `stars`...
   
 
 ## Starter roadmap
@@ -25,8 +33,7 @@ Why?
 
 - [x] Write working chrome extension (empty project)
 - [x] Get code links to pull from github
-- [ ] Fix missing projects?
-  
+- [x] Fix missing projects? 
 - [ ] Push project to chrome store
 
 ## Website roadmap

@@ -2,5 +2,6 @@
   "project": [
     "farbodf/Conditional_Markov_Trajecotry_Entropy", 
     "mou7/entropy-markov-trajectory-"
-  ]
+  ], 
+  "citation": []
 }

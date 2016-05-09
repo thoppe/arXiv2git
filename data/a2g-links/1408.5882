@@ -1,20 +1,20 @@
 {
   "project": [
-    "ericrincon/CNNW2V", 
     "flipkart-incubator/optimus", 
-    "hadyelsahar/CNN-RelationExtraction", 
-    "lavishyadav/Question-Classification", 
-    "nestle1993/SE16-Task6-Stance-Detection", 
-    "ppaanngggg/ConvSent", 
-    "r-terada/cnn_sentence_chainer", 
     "vsl9/Sentiment-Analysis-with-Convolutional-Networks", 
+    "hadyelsahar/CNN-RelationExtraction", 
     "yuhaozhang/sentence-convnet", 
+    "nestle1993/SE16-Task6-Stance-Detection", 
+    "lavishyadav/Question-Classification", 
+    "ericrincon/CNNW2V", 
+    "r-terada/cnn_sentence_chainer", 
+    "ppaanngggg/ConvSent", 
     "zted/TBIR_Proj"
   ], 
   "citation": [
-    "abhshkdz/papers", 
     "dennybritz/deeplearning-papernotes", 
     "lipiji/app-dl", 
+    "abhshkdz/papers", 
     "styleNie/notes"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "project": [
-    "pawarren/neurofusion", 
-    "pbashivan/EEGLearn"
-  ]
+    "pbashivan/EEGLearn", 
+    "pawarren/neurofusion"
+  ], 
+  "citation": []
 }

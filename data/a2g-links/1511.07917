@@ -1,5 +1,6 @@
 {
   "project": [
     "aosokin/cnn_head_detection"
-  ]
+  ], 
+  "citation": []
 }

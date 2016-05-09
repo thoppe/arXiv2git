@@ -1,9 +1,10 @@
 {
   "project": [
-    "NTCColumbia/ntc_CNMF", 
-    "YishGene/ca_source_extraction", 
-    "agiovann/Constrained_NMF", 
     "epnev/ca_source_extraction", 
-    "epnev/constrained-foopsi"
-  ]
+    "agiovann/Constrained_NMF", 
+    "epnev/constrained-foopsi", 
+    "YishGene/ca_source_extraction", 
+    "NTCColumbia/ntc_CNMF"
+  ], 
+  "citation": []
 }

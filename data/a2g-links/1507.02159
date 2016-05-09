@@ -1,10 +1,11 @@
 {
   "project": [
-    "bearpaw/caffe_mpi", 
-    "mathrho/action_recog", 
     "skylian/caffe-action", 
-    "zbwglory/DeepLearningUtils", 
+    "mathrho/action_recog", 
+    "zbwglory/kd", 
     "zbwglory/caffe_labelVec", 
-    "zbwglory/kd"
-  ]
+    "zbwglory/DeepLearningUtils", 
+    "bearpaw/caffe_mpi"
+  ], 
+  "citation": []
 }

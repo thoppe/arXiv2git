@@ -1,11 +1,11 @@
 {
   "project": [
-    "ZENGXH/segmentCaffe", 
     "torrvision/crfasrnn", 
-    "yixi1992/rnn"
+    "yixi1992/rnn", 
+    "ZENGXH/segmentCaffe"
   ], 
   "citation": [
-    "kjw0612/awesome-deep-vision", 
-    "kjw0612/awesome-rnn"
+    "kjw0612/awesome-rnn", 
+    "kjw0612/awesome-deep-vision"
   ]
 }

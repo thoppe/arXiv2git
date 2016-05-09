@@ -2,5 +2,6 @@
   "project": [
     "suomela/median-filter", 
     "suomela/median-filter-js"
-  ]
+  ], 
+  "citation": []
 }

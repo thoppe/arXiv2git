@@ -1,6 +1,7 @@
 {
   "project": [
-    "JuliaPackageMirrors/SparseGrids.jl", 
-    "robertdj/SparseGrids.jl"
-  ]
+    "robertdj/SparseGrids.jl", 
+    "JuliaPackageMirrors/SparseGrids.jl"
+  ], 
+  "citation": []
 }

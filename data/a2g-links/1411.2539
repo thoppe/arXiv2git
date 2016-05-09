@@ -3,8 +3,8 @@
     "ryankiros/visual-semantic-embedding"
   ], 
   "citation": [
-    "kjw0612/awesome-deep-vision", 
     "kjw0612/awesome-rnn", 
+    "kjw0612/awesome-deep-vision", 
     "shudct/studying-RNN"
   ]
 }

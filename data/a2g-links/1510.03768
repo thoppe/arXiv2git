@@ -2,5 +2,6 @@
   "project": [
     "hariseldon99/dtwa_quantum_spins", 
     "hariseldon99/lindblad_phasepoints"
-  ]
+  ], 
+  "citation": []
 }

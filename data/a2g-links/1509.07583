@@ -1,6 +1,7 @@
 {
   "project": [
-    "cran/mplot", 
-    "garthtarr/mplot"
-  ]
+    "garthtarr/mplot", 
+    "cran/mplot"
+  ], 
+  "citation": []
 }

@@ -1,5 +1,6 @@
 {
   "project": [
     "andyreagan/julia-openfoam"
-  ]
+  ], 
+  "citation": []
 }

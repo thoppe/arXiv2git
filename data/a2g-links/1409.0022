@@ -1,6 +1,7 @@
 {
   "project": [
-    "iurnus/SediFoam", 
-    "xiaoh/sediFoam"
-  ]
+    "xiaoh/sediFoam", 
+    "iurnus/SediFoam"
+  ], 
+  "citation": []
 }

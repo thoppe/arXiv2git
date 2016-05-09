@@ -1,6 +1,7 @@
 {
   "project": [
-    "RabadanLab/TARGet", 
-    "RabadanLab/ph_datasets"
-  ]
+    "RabadanLab/ph_datasets", 
+    "RabadanLab/TARGet"
+  ], 
+  "citation": []
 }

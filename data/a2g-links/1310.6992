@@ -1,6 +1,7 @@
 {
   "project": [
-    "guptalab/dnacloud", 
-    "shalinshah1993/DNACloud"
-  ]
+    "shalinshah1993/DNACloud", 
+    "guptalab/dnacloud"
+  ], 
+  "citation": []
 }

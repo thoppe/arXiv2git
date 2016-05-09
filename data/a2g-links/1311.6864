@@ -1,5 +1,6 @@
 {
   "project": [
     "epnev/continuous_time_ca_sampler"
-  ]
+  ], 
+  "citation": []
 }

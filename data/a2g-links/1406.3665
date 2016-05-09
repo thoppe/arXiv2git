@@ -1,6 +1,7 @@
 {
   "project": [
-    "meisamr/ParallelGroupLassowithRenyiClassifier", 
-    "meisamr/Parallel_Lasso_Solver"
-  ]
+    "meisamr/Parallel_Lasso_Solver", 
+    "meisamr/ParallelGroupLassowithRenyiClassifier"
+  ], 
+  "citation": []
 }

@@ -2,5 +2,6 @@
   "project": [
     "Thorsten2k3/GraphDiameterApproximator", 
     "bobbthebuilder/GraphDiameterApproximator"
-  ]
+  ], 
+  "citation": []
 }

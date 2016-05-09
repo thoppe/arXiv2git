@@ -1,7 +1,8 @@
 {
   "project": [
-    "ProfessorBrunner/bayes-detect", 
+    "rjw57/MultiNest", 
     "j-faria/MultiNest", 
-    "rjw57/MultiNest"
-  ]
+    "ProfessorBrunner/bayes-detect"
+  ], 
+  "citation": []
 }

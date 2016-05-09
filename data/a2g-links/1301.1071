@@ -1,8 +1,9 @@
 {
   "project": [
+    "ccsevers/scalding-linalg", 
     "NovanHsiu/ITSQR-Hadoop", 
-    "NovanHsiu/ITSQR-Spark", 
     "NovanHsiu/JTSQR", 
-    "ccsevers/scalding-linalg"
-  ]
+    "NovanHsiu/ITSQR-Spark"
+  ], 
+  "citation": []
 }

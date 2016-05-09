@@ -1,6 +1,7 @@
 {
   "project": [
-    "schroeder-dewitt/leapfrog-triejoin", 
-    "xwzhu/two-joins"
-  ]
+    "xwzhu/two-joins", 
+    "schroeder-dewitt/leapfrog-triejoin"
+  ], 
+  "citation": []
 }

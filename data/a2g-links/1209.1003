@@ -1,6 +1,7 @@
 {
   "project": [
-    "byzhang/cpp-array", 
-    "guyz/cpp-array"
-  ]
+    "guyz/cpp-array", 
+    "byzhang/cpp-array"
+  ], 
+  "citation": []
 }

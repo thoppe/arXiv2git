@@ -1,5 +1,6 @@
 {
   "project": [
     "dufaux/defects4j-evosuite-nopol"
-  ]
+  ], 
+  "citation": []
 }

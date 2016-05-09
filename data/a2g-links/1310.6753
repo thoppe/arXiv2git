@@ -1,7 +1,8 @@
 {
   "project": [
-    "AdamGluck/dispersion-tie", 
+    "hdngr/dispersion", 
     "ManasiRaje/Graph-and-Network-Flows---Friendship-Graphs", 
-    "hdngr/dispersion"
-  ]
+    "AdamGluck/dispersion-tie"
+  ], 
+  "citation": []
 }

@@ -1,7 +1,8 @@
 {
   "project": [
-    "astro-informatics/flag", 
+    "astro-informatics/ssht", 
     "astro-informatics/s2let", 
-    "astro-informatics/ssht"
-  ]
+    "astro-informatics/flag"
+  ], 
+  "citation": []
 }

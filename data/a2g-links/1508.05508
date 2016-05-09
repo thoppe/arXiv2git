@@ -3,7 +3,7 @@
     "YerevaNN/Dynamic-memory-networks-in-Theano"
   ], 
   "citation": [
-    "eiso/awesome-data-science", 
-    "lipiji/app-dl"
+    "lipiji/app-dl", 
+    "eiso/awesome-data-science"
   ]
 }

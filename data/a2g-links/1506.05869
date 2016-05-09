@@ -4,9 +4,9 @@
     "lumenrobot/lumen-trainer"
   ], 
   "citation": [
-    "TensorFlowKR/awesome_tensorflow_implementations", 
-    "dennybritz/deeplearning-papernotes", 
     "kjw0612/awesome-rnn", 
+    "dennybritz/deeplearning-papernotes", 
+    "TensorFlowKR/awesome_tensorflow_implementations", 
     "neuralconcept/DrWhoAI"
   ]
 }

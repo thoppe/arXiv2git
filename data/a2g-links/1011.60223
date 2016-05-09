@@ -1,6 +1,7 @@
 {
   "project": [
-    "CorticalComputer/DXNN", 
-    "CorticalComputer/DXNN2"
-  ]
+    "CorticalComputer/DXNN2", 
+    "CorticalComputer/DXNN"
+  ], 
+  "citation": []
 }

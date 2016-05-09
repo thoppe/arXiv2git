@@ -1,13 +1,13 @@
 {
   "project": [
     "Kaixhin/nninit", 
-    "SYChienIsGod/hw1", 
+    "lim0606/ndsb", 
     "jordipons/DRNN4ASS", 
-    "lim0606/ndsb"
+    "SYChienIsGod/hw1"
   ], 
   "citation": [
-    "auroraxie/Kaggle-NDSB", 
     "kjw0612/awesome-deep-vision", 
-    "ry/deep_learning_glossary"
+    "ry/deep_learning_glossary", 
+    "auroraxie/Kaggle-NDSB"
   ]
 }

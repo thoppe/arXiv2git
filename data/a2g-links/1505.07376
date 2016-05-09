@@ -1,8 +1,9 @@
 {
   "project": [
-    "deepcharles/DeepArt", 
-    "jruales/Reading-List-2016", 
     "leongatys/DeepTextures", 
-    "xiao281926365/FontGen"
-  ]
+    "deepcharles/DeepArt", 
+    "xiao281926365/FontGen", 
+    "jruales/Reading-List-2016"
+  ], 
+  "citation": []
 }

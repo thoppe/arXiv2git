@@ -1,6 +1,7 @@
 {
   "project": [
-    "dobriban/EigenEdge", 
-    "dobriban/Spectrode-R"
-  ]
+    "dobriban/Spectrode-R", 
+    "dobriban/EigenEdge"
+  ], 
+  "citation": []
 }

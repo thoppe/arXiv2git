@@ -1,5 +1,6 @@
 {
   "project": [
     "Twinklebear/eigen_vec3.ispc"
-  ]
+  ], 
+  "citation": []
 }

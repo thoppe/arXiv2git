@@ -2,5 +2,6 @@
   "project": [
     "PrincetonVision/TurkerGaze", 
     "pingmeix/TurkerGaze"
-  ]
+  ], 
+  "citation": []
 }

@@ -1,5 +1,6 @@
 {
   "project": [
     "jpiironen/rstan-varsel"
-  ]
+  ], 
+  "citation": []
 }

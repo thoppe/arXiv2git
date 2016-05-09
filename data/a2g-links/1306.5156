@@ -1,6 +1,7 @@
 {
   "project": [
-    "cryodex/cryodex", 
-    "symeapp/syme"
-  ]
+    "symeapp/syme", 
+    "cryodex/cryodex"
+  ], 
+  "citation": []
 }

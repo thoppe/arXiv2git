@@ -1,11 +1,11 @@
 {
   "project": [
+    "zhangxiangxiao/Crepe", 
     "aichemzee/Crepe", 
-    "jacklanchantin/optimize", 
-    "zhangxiangxiao/Crepe"
+    "jacklanchantin/optimize"
   ], 
   "citation": [
-    "carpedm20/awesome-torch", 
-    "dennybritz/deeplearning-papernotes"
+    "dennybritz/deeplearning-papernotes", 
+    "carpedm20/awesome-torch"
   ]
 }

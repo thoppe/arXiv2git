@@ -1,6 +1,7 @@
 {
   "project": [
-    "gbeliako/bcnrand", 
-    "gbeliako/bcnrandom"
-  ]
+    "gbeliako/bcnrandom", 
+    "gbeliako/bcnrand"
+  ], 
+  "citation": []
 }

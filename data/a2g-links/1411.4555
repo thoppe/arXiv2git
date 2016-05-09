@@ -1,17 +1,17 @@
 {
   "project": [
-    "Sghilas/DNN-LLI", 
-    "apple2373/chainer_caption_generation", 
-    "benglard/symtorch", 
-    "ducminhkhoi/Image-Captioning", 
     "jazzsaxmafia/show_and_tell.tensorflow", 
-    "samim23/neuraltalkTheano"
+    "apple2373/chainer_caption_generation", 
+    "samim23/neuraltalkTheano", 
+    "benglard/symtorch", 
+    "Sghilas/DNN-LLI", 
+    "ducminhkhoi/Image-Captioning"
   ], 
   "citation": [
-    "TensorFlowKR/awesome_tensorflow_implementations", 
-    "carpedm20/awesome-torch", 
-    "kjw0612/awesome-deep-vision", 
     "kjw0612/awesome-rnn", 
+    "kjw0612/awesome-deep-vision", 
+    "carpedm20/awesome-torch", 
+    "TensorFlowKR/awesome_tensorflow_implementations", 
     "shudct/studying-RNN"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "project": [
-    "fbusabiaga/fluam", 
-    "stochasticHydroTools/FIB"
-  ]
+    "stochasticHydroTools/FIB", 
+    "fbusabiaga/fluam"
+  ], 
+  "citation": []
 }

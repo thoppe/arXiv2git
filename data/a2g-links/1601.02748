@@ -1,7 +1,8 @@
 {
   "project": [
-    "GGiecold/Cluster_Ensembles", 
     "GGiecold/Density_Sampling", 
+    "GGiecold/Cluster_Ensembles", 
     "GGiecold/ECLAIR"
-  ]
+  ], 
+  "citation": []
 }

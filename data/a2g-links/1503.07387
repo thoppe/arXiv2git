@@ -1,13 +1,14 @@
 {
   "project": [
+    "lemire/FastPFor", 
+    "lemire/JavaFastPFOR", 
+    "lemire/simdcomp", 
+    "lemire/SIMDCompressionAndIntersection", 
     "cruppstahl/libfor", 
     "cruppstahl/libvbyte", 
-    "lemire/FastPFor", 
-    "lemire/FrameOfReference", 
-    "lemire/JavaFastPFOR", 
-    "lemire/LittleIntPacker", 
     "lemire/MaskedVByte", 
-    "lemire/SIMDCompressionAndIntersection", 
-    "lemire/simdcomp"
-  ]
+    "lemire/FrameOfReference", 
+    "lemire/LittleIntPacker"
+  ], 
+  "citation": []
 }

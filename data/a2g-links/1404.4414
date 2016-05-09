@@ -1,6 +1,7 @@
 {
   "project": [
-    "cran/kdecopula", 
-    "tnagler/kdecopula"
-  ]
+    "tnagler/kdecopula", 
+    "cran/kdecopula"
+  ], 
+  "citation": []
 }

@@ -1,5 +1,6 @@
 {
   "project": [
     "GPU-correlators/xGPU"
-  ]
+  ], 
+  "citation": []
 }

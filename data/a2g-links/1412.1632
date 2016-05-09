@@ -1,6 +1,7 @@
 {
   "project": [
-    "brmson/Sentence-selection", 
-    "brmson/dataset-sts"
-  ]
+    "brmson/dataset-sts", 
+    "brmson/Sentence-selection"
+  ], 
+  "citation": []
 }

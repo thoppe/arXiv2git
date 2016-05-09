@@ -1,6 +1,7 @@
 {
   "project": [
-    "nchrys/haskell-sequence-kernels", 
-    "nchrys/python-sequence-kernels"
-  ]
+    "nchrys/python-sequence-kernels", 
+    "nchrys/haskell-sequence-kernels"
+  ], 
+  "citation": []
 }

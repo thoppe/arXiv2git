@@ -1,7 +1,7 @@
 {
   "project": [
-    "Seth-Park/fundus-diabetes-detection", 
-    "soumith/kaggle_retinopathy_starter.torch"
+    "soumith/kaggle_retinopathy_starter.torch", 
+    "Seth-Park/fundus-diabetes-detection"
   ], 
   "citation": [
     "abhshkdz/papers"

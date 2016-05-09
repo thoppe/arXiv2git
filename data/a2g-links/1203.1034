@@ -2,5 +2,6 @@
   "project": [
     "giordano/PolynomialRoots.jl", 
     "giordano/cmplx-roots-sg"
-  ]
+  ], 
+  "citation": []
 }

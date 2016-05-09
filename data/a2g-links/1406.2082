@@ -1,6 +1,7 @@
 {
   "project": [
-    "JuliaPackageMirrors/Lasso.jl", 
-    "simonster/Lasso.jl"
-  ]
+    "simonster/Lasso.jl", 
+    "JuliaPackageMirrors/Lasso.jl"
+  ], 
+  "citation": []
 }

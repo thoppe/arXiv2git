@@ -4,7 +4,7 @@
     "uhub/awesome-lua"
   ], 
   "citation": [
-    "carpedm20/awesome-torch", 
-    "kjw0612/awesome-rnn"
+    "kjw0612/awesome-rnn", 
+    "carpedm20/awesome-torch"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "project": [
-    "cran/additivityTests", 
-    "simecek/additivityTests"
-  ]
+    "simecek/additivityTests", 
+    "cran/additivityTests"
+  ], 
+  "citation": []
 }

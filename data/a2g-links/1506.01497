@@ -1,31 +1,31 @@
 {
   "project": [
-    "CptSteven/faster-rcnn-mod", 
-    "CptSteven/repotest", 
-    "RuibinMa/bottle-detection", 
-    "ShaoqingRen/faster_rcnn", 
-    "btp10/faster_rcnn_rock_detection", 
-    "chaitu2289/py-faster-rcnn", 
-    "chenxistephen/faster-rcnn-matlab-macosx", 
-    "debidatta/py-faster-rcnn", 
-    "hongzhenwang/faster-rcnn-", 
-    "hvy/chainer-faster-rcnn", 
-    "joeking11829/py-faster-rcnn-tk1", 
-    "lbin/faster-rcnn", 
-    "ly015/JointAttribute_FasterRCNN", 
-    "qxin/learnLocalization", 
     "rbgirshick/py-faster-rcnn", 
-    "rohitgirdhar-cmu-experimental/py-faster-rcnn-cpu", 
+    "ShaoqingRen/faster_rcnn", 
+    "hvy/chainer-faster-rcnn", 
     "songzheng/faster-rcnn", 
+    "chenxistephen/faster-rcnn-matlab-macosx", 
+    "CptSteven/faster-rcnn-mod", 
+    "hongzhenwang/faster-rcnn-", 
     "svebk/py-faster-rcnn", 
-    "victkid/py-faster-rcnn", 
+    "lbin/faster-rcnn", 
+    "btp10/faster_rcnn_rock_detection", 
+    "joeking11829/py-faster-rcnn-tk1", 
+    "CptSteven/repotest", 
+    "debidatta/py-faster-rcnn", 
+    "zimenglan-sysu-512/pt-faster-rcnn", 
     "yuhan210/py-faster-rcnn", 
-    "zimenglan-sysu-512/pt-faster-rcnn"
+    "chaitu2289/py-faster-rcnn", 
+    "victkid/py-faster-rcnn", 
+    "RuibinMa/bottle-detection", 
+    "rohitgirdhar-cmu-experimental/py-faster-rcnn-cpu", 
+    "qxin/learnLocalization", 
+    "ly015/JointAttribute_FasterRCNN"
   ], 
   "citation": [
-    "NVTUANHUT/deeplearning", 
     "kjw0612/awesome-deep-vision", 
     "kristjankorjus/applied-deep-learning-resources", 
-    "sunshineatnoon/Paper-Collection"
+    "sunshineatnoon/Paper-Collection", 
+    "NVTUANHUT/deeplearning"
   ]
 }

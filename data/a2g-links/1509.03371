@@ -1,7 +1,8 @@
 {
   "project": [
-    "mjpekala/bio-segmentation", 
     "naibaf7/caffe_neural_models", 
-    "naibaf7/caffe_neural_tool"
-  ]
+    "naibaf7/caffe_neural_tool", 
+    "mjpekala/bio-segmentation"
+  ], 
+  "citation": []
 }

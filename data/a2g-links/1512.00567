@@ -5,7 +5,7 @@
   ], 
   "citation": [
     "dennybritz/deeplearning-papernotes", 
-    "kristjankorjus/applied-deep-learning-resources", 
-    "ry/deep_learning_glossary"
+    "ry/deep_learning_glossary", 
+    "kristjankorjus/applied-deep-learning-resources"
   ]
 }

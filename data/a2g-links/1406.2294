@@ -1,17 +1,18 @@
 {
   "project": [
-    "TWinsnes/SharpJmphash", 
-    "anachronistic/jump-consistent-hash", 
-    "beefsack/go-jch", 
-    "blacklabeldata/ring", 
-    "jamutton/pyjumphash", 
-    "jjneely/statsrelay", 
-    "lazybeaver/jmpconsistenthash", 
-    "lts123124/jumphash", 
     "renstrom/go-jump-consistent-hash", 
+    "anachronistic/jump-consistent-hash", 
+    "jjneely/statsrelay", 
     "renstrom/python-jump-consistent-hash", 
-    "ssedano/jump-consistent-hash", 
     "streametry/jumphash", 
-    "swiftkick-io/ring"
-  ]
+    "ssedano/jump-consistent-hash", 
+    "beefsack/go-jch", 
+    "swiftkick-io/ring", 
+    "lts123124/jumphash", 
+    "lazybeaver/jmpconsistenthash", 
+    "blacklabeldata/ring", 
+    "TWinsnes/SharpJmphash", 
+    "jamutton/pyjumphash"
+  ], 
+  "citation": []
 }

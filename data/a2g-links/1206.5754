@@ -1,5 +1,6 @@
 {
   "project": [
     "gpstuff-dev/gpstuff"
-  ]
+  ], 
+  "citation": []
 }

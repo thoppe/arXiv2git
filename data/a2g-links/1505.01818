@@ -1,6 +1,7 @@
 {
   "project": [
-    "cran/wikipediatrend", 
-    "petermeissner/wikipediatrend"
-  ]
+    "petermeissner/wikipediatrend", 
+    "cran/wikipediatrend"
+  ], 
+  "citation": []
 }

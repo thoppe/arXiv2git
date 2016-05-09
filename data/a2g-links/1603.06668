@@ -2,5 +2,6 @@
   "project": [
     "ackimball/autocolorization", 
     "gustavla/autocolorize"
-  ]
+  ], 
+  "citation": []
 }

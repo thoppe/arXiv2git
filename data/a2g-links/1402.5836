@@ -1,6 +1,7 @@
 {
   "project": [
-    "duvenaud/additive-gps", 
-    "duvenaud/deep-limits"
-  ]
+    "duvenaud/deep-limits", 
+    "duvenaud/additive-gps"
+  ], 
+  "citation": []
 }

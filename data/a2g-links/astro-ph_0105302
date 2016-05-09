@@ -1,6 +1,7 @@
 {
   "project": [
-    "bsteinbach/modemixingmatrix", 
-    "damonge/NaMaster"
-  ]
+    "damonge/NaMaster", 
+    "bsteinbach/modemixingmatrix"
+  ], 
+  "citation": []
 }

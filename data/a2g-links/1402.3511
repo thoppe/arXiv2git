@@ -1,6 +1,7 @@
 {
   "project": [
-    "iaroslav-ai/recurrent", 
-    "makistsantekidis/clockworkrnn"
-  ]
+    "makistsantekidis/clockworkrnn", 
+    "iaroslav-ai/recurrent"
+  ], 
+  "citation": []
 }

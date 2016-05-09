@@ -1,6 +1,7 @@
 {
   "project": [
-    "huangqx/image_shape_align", 
-    "opengm/opengm"
-  ]
+    "opengm/opengm", 
+    "huangqx/image_shape_align"
+  ], 
+  "citation": []
 }

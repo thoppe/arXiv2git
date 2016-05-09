@@ -1,6 +1,7 @@
 {
   "project": [
-    "mskwark/PlmDCA", 
-    "pagnani/PlmDCA"
-  ]
+    "pagnani/PlmDCA", 
+    "mskwark/PlmDCA"
+  ], 
+  "citation": []
 }

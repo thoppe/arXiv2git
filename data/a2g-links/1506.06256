@@ -2,13 +2,14 @@
   "project": [
     "ctuning/ck", 
     "ctuning/ck-autotuning", 
-    "ctuning/ck-crowdtuning", 
-    "ctuning/ck-crowdtuning-platforms", 
-    "ctuning/ctuning-datasets-min", 
-    "ctuning/ctuning-programs", 
-    "ctuning/reproduce-adapt16", 
     "ctuning/reproduce-ck-paper", 
     "ctuning/reproduce-ck-paper-large-experiments", 
-    "ctuning/reproduce-milepost-project"
-  ]
+    "ctuning/ctuning-datasets-min", 
+    "ctuning/reproduce-adapt16", 
+    "ctuning/ctuning-programs", 
+    "ctuning/ck-crowdtuning", 
+    "ctuning/reproduce-milepost-project", 
+    "ctuning/ck-crowdtuning-platforms"
+  ], 
+  "citation": []
 }

@@ -1,12 +1,12 @@
 {
   "project": [
-    "HyeonwooNoh/DecoupledNet", 
     "HyeonwooNoh/caffe", 
+    "HyeonwooNoh/DecoupledNet", 
     "matthieudelaro/caffe", 
     "viorik/caffe-float"
   ], 
   "citation": [
-    "imatge-upc/readcv", 
-    "kjw0612/awesome-deep-vision"
+    "kjw0612/awesome-deep-vision", 
+    "imatge-upc/readcv"
   ]
 }

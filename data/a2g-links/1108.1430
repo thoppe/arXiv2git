@@ -2,5 +2,6 @@
   "project": [
     "bhmm/bhmm", 
     "kkapsner/hiddenMarkovModel"
-  ]
+  ], 
+  "citation": []
 }

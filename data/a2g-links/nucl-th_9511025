@@ -1,5 +1,6 @@
 {
   "project": [
     "psi-squared/libSU3"
-  ]
+  ], 
+  "citation": []
 }

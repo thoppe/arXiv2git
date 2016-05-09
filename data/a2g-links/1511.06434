@@ -1,17 +1,17 @@
 {
   "project": [
     "Newmu/dcgan_code", 
-    "jacobgil/keras-dcgan", 
-    "kiyomaro927/dmg", 
     "mattya/chainer-DCGAN", 
     "soumith/dcgan.torch", 
-    "space-weather-KU/bbt-sw", 
     "stitchfix/fauxtograph", 
-    "sugyan/face-generator"
+    "jacobgil/keras-dcgan", 
+    "space-weather-KU/bbt-sw", 
+    "sugyan/face-generator", 
+    "kiyomaro927/dmg"
   ], 
   "citation": [
-    "TensorFlowKR/awesome_tensorflow_implementations", 
+    "dennybritz/deeplearning-papernotes", 
     "carpedm20/awesome-torch", 
-    "dennybritz/deeplearning-papernotes"
+    "TensorFlowKR/awesome_tensorflow_implementations"
   ]
 }

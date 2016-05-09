@@ -1,14 +1,14 @@
 {
   "project": [
-    "jli05/cs224n-project", 
-    "kyunghyuncho/skip-thoughts", 
-    "luzc08/skip-thought", 
     "ryankiros/neural-storyteller", 
     "ryankiros/skip-thoughts", 
-    "zuiwufenghua/Sequence-To-Sequence-Generation-Skip-Thoughts-"
+    "kyunghyuncho/skip-thoughts", 
+    "jli05/cs224n-project", 
+    "zuiwufenghua/Sequence-To-Sequence-Generation-Skip-Thoughts-", 
+    "luzc08/skip-thought"
   ], 
   "citation": [
-    "dennybritz/deeplearning-papernotes", 
-    "kjw0612/awesome-rnn"
+    "kjw0612/awesome-rnn", 
+    "dennybritz/deeplearning-papernotes"
   ]
 }

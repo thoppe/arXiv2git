@@ -1,6 +1,7 @@
 {
   "project": [
-    "kakitone/XphasedMultiBridging", 
-    "kakitone/finishingTool"
-  ]
+    "kakitone/finishingTool", 
+    "kakitone/XphasedMultiBridging"
+  ], 
+  "citation": []
 }

@@ -1,6 +1,7 @@
 {
   "project": [
-    "AndrewDotson/StochasticPoolingRegionSelection", 
-    "szagoruyko/imagine-nn"
-  ]
+    "szagoruyko/imagine-nn", 
+    "AndrewDotson/StochasticPoolingRegionSelection"
+  ], 
+  "citation": []
 }

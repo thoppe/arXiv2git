@@ -1,6 +1,7 @@
 {
   "project": [
-    "DEKHTIARJonathan/PhD-Thesis", 
-    "glouppe/phd-thesis"
-  ]
+    "glouppe/phd-thesis", 
+    "DEKHTIARJonathan/PhD-Thesis"
+  ], 
+  "citation": []
 }

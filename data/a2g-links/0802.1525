@@ -1,5 +1,6 @@
 {
   "project": [
     "telegraphic/PyGSM"
-  ]
+  ], 
+  "citation": []
 }

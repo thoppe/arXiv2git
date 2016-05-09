@@ -2,9 +2,9 @@
   "project": [
     "KaimingHe/resnet-1k-layers", 
     "alrojo/lasagne_residual_network", 
-    "dnlcrl/deep-residual-networks-pyfunt", 
     "mike-bowles/hdDeepLearningStudy", 
     "n3011/Deep_Residual_Network", 
+    "dnlcrl/deep-residual-networks-pyfunt", 
     "panpanpanpan/Machine-Learning"
   ], 
   "citation": [

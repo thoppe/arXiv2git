@@ -1,10 +1,10 @@
 {
   "project": [
     "DeepScale/SqueezeNet", 
-    "songhan/SqueezeNet-DSD-Training", 
     "songhan/SqueezeNet-Deep-Compression", 
-    "songhan/SqueezeNet-Generator", 
     "songhan/SqueezeNet-Residual", 
+    "songhan/SqueezeNet-DSD-Training", 
+    "songhan/SqueezeNet-Generator", 
     "styleNie/SqueezeNet"
   ], 
   "citation": [

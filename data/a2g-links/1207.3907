@@ -1,5 +1,6 @@
 {
   "project": [
     "ekg/freebayes"
-  ]
+  ], 
+  "citation": []
 }

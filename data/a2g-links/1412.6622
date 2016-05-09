@@ -1,7 +1,7 @@
 {
   "project": [
-    "ICapalija/TN", 
     "eladhoffer/TripletNet", 
+    "ICapalija/TN", 
     "hrantzsch/TripletEmbedding"
   ], 
   "citation": [

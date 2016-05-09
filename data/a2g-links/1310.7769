@@ -1,6 +1,7 @@
 {
   "project": [
-    "ttm/articleStabilityInteractionNetworks", 
-    "ttm/gmaneLegacy"
-  ]
+    "ttm/gmaneLegacy", 
+    "ttm/articleStabilityInteractionNetworks"
+  ], 
+  "citation": []
 }

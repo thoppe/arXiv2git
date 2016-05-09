@@ -1,20 +1,20 @@
 {
   "project": [
-    "facebook/fb.resnet.torch", 
     "kaishengtai/neuralart", 
+    "facebook/fb.resnet.torch", 
     "lim0606/caffe-googlenet-bn", 
-    "lim0606/caffe-googlenet-bn-experiment", 
-    "lim0606/lasagne-googlenet"
+    "lim0606/lasagne-googlenet", 
+    "lim0606/caffe-googlenet-bn-experiment"
   ], 
   "citation": [
+    "kjw0612/awesome-deep-vision", 
+    "dennybritz/deeplearning-papernotes", 
+    "ry/deep_learning_glossary", 
+    "carpedm20/awesome-torch", 
     "Element-Research/dpnn", 
+    "kristjankorjus/applied-deep-learning-resources", 
     "abhshkdz/papers", 
     "auroraxie/Kaggle-NDSB", 
-    "carpedm20/awesome-torch", 
-    "dennybritz/deeplearning-papernotes", 
-    "kastnerkyle/PyGotham2015", 
-    "kjw0612/awesome-deep-vision", 
-    "kristjankorjus/applied-deep-learning-resources", 
-    "ry/deep_learning_glossary"
+    "kastnerkyle/PyGotham2015"
   ]
 }

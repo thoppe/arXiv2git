@@ -1,11 +1,12 @@
 {
   "project": [
-    "AmanMander123/MarketSentimentFromBusinessWeek", 
-    "RobBlackwell/cl-sentiment", 
     "eiriks/Afinn-for-Norsk", 
-    "manoelrmj/afinn", 
-    "masonwan/tweentiment", 
     "sptz45/sse-sentiment", 
-    "syzer/sentiment-analyser"
-  ]
+    "syzer/sentiment-analyser", 
+    "masonwan/tweentiment", 
+    "RobBlackwell/cl-sentiment", 
+    "AmanMander123/MarketSentimentFromBusinessWeek", 
+    "manoelrmj/afinn"
+  ], 
+  "citation": []
 }

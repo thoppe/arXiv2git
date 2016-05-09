@@ -1,6 +1,7 @@
 {
   "project": [
-    "dmurfet/cutsystems", 
-    "dmurfet/mf"
-  ]
+    "dmurfet/mf", 
+    "dmurfet/cutsystems"
+  ], 
+  "citation": []
 }

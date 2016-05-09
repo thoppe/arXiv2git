@@ -1,6 +1,7 @@
 {
   "project": [
-    "carrasqu/corner_transfer_renormalization_group", 
-    "josephinius/CTMRG"
-  ]
+    "josephinius/CTMRG", 
+    "carrasqu/corner_transfer_renormalization_group"
+  ], 
+  "citation": []
 }

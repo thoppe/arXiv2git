@@ -1,6 +1,7 @@
 {
   "project": [
-    "SichengXiong/ActiveLearning", 
-    "peiy/ActiveLearning"
-  ]
+    "peiy/ActiveLearning", 
+    "SichengXiong/ActiveLearning"
+  ], 
+  "citation": []
 }

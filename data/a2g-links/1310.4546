@@ -1,9 +1,10 @@
 {
   "project": [
-    "mhjabreel/word2vec_theano", 
-    "pablomelo/word2vec", 
-    "s4weng/word2phrase", 
+    "travisbrady/word2phrase", 
     "seomoz/vocab", 
-    "travisbrady/word2phrase"
-  ]
+    "mhjabreel/word2vec_theano", 
+    "s4weng/word2phrase", 
+    "pablomelo/word2vec"
+  ], 
+  "citation": []
 }

@@ -1,6 +1,7 @@
 {
   "project": [
-    "cmccoy/fit-star", 
-    "cmccoy/startreerenaissance"
-  ]
+    "cmccoy/startreerenaissance", 
+    "cmccoy/fit-star"
+  ], 
+  "citation": []
 }

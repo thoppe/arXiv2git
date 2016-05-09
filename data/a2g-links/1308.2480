@@ -1,7 +1,8 @@
 {
   "project": [
-    "meshadaptation/meshadaptation.github.io", 
     "meshadaptation/pragmatic", 
+    "meshadaptation/meshadaptation.github.io", 
     "taupalosaurus/pragmatic"
-  ]
+  ], 
+  "citation": []
 }

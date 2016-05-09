@@ -1,7 +1,7 @@
 {
   "project": [
-    "PFCM/weightnorm", 
-    "TimSalimans/weight_norm"
+    "TimSalimans/weight_norm", 
+    "PFCM/weightnorm"
   ], 
   "citation": [
     "dennybritz/deeplearning-papernotes", 

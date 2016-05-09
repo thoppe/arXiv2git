@@ -2,5 +2,6 @@
   "project": [
     "ElkhartGroup/varian", 
     "cran/varian"
-  ]
+  ], 
+  "citation": []
 }

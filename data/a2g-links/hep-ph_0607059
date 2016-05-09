@@ -1,8 +1,9 @@
 {
   "project": [
+    "restrepo/micrOMEGAs", 
     "jotadram6/micrOMEGAs", 
-    "phyytang/micro_omega_4", 
     "phyytang/omega_decay", 
-    "restrepo/micrOMEGAs"
-  ]
+    "phyytang/micro_omega_4"
+  ], 
+  "citation": []
 }

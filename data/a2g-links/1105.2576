@@ -1,5 +1,6 @@
 {
   "project": [
     "coruus/openpgp-semantics"
-  ]
+  ], 
+  "citation": []
 }

@@ -1,15 +1,15 @@
 {
   "project": [
-    "akolishchak/hard-attention", 
     "danfischetti/shape-classifier", 
+    "shyamalschandra/recurrent-models-of-visual-attention", 
     "lim0606/lasagne-ram", 
-    "lukevs/ram", 
-    "shyamalschandra/recurrent-models-of-visual-attention"
+    "akolishchak/hard-attention", 
+    "lukevs/ram"
   ], 
   "citation": [
-    "dennybritz/deeplearning-papernotes", 
-    "johnny5550822/awesome-neat-rnn", 
     "kjw0612/awesome-rnn", 
-    "ry/deep_learning_glossary"
+    "dennybritz/deeplearning-papernotes", 
+    "ry/deep_learning_glossary", 
+    "johnny5550822/awesome-neat-rnn"
   ]
 }

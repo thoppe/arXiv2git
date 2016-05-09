@@ -1,6 +1,7 @@
 {
   "project": [
-    "cran/treescape", 
-    "thibautjombart/treescape"
-  ]
+    "thibautjombart/treescape", 
+    "cran/treescape"
+  ], 
+  "citation": []
 }

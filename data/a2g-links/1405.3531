@@ -1,5 +1,6 @@
 {
   "project": [
     "predictors/VGG_S_Image_Labeler"
-  ]
+  ], 
+  "citation": []
 }

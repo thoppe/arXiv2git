@@ -1,6 +1,7 @@
 {
   "project": [
-    "ahmadia/wssspe", 
-    "rgaiacs/presentations"
-  ]
+    "rgaiacs/presentations", 
+    "ahmadia/wssspe"
+  ], 
+  "citation": []
 }

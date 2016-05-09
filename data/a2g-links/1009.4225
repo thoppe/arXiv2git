@@ -1,8 +1,9 @@
 {
   "project": [
     "JuliaLang/Combinatorics.jl", 
-    "JuliaPackageMirrors/Catalan.jl", 
+    "andrioni/Catalan.jl", 
     "JuliaPackageMirrors/Combinatorics.jl", 
-    "andrioni/Catalan.jl"
-  ]
+    "JuliaPackageMirrors/Catalan.jl"
+  ], 
+  "citation": []
 }

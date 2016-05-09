@@ -1,12 +1,12 @@
 {
   "project": [
+    "yandex/faster-rnnlm", 
     "facebook/SCRNNs", 
-    "fiskio/PiHKAL", 
     "uhub/awesome-lua", 
-    "yandex/faster-rnnlm"
+    "fiskio/PiHKAL"
   ], 
   "citation": [
-    "carpedm20/awesome-torch", 
-    "dennybritz/deeplearning-papernotes"
+    "dennybritz/deeplearning-papernotes", 
+    "carpedm20/awesome-torch"
   ]
 }

@@ -3,7 +3,7 @@
     "hongyuan88/NeuralWalker"
   ], 
   "citation": [
-    "junhyukoh/deep-reinforcement-learning-papers", 
-    "kjw0612/awesome-rnn"
+    "kjw0612/awesome-rnn", 
+    "junhyukoh/deep-reinforcement-learning-papers"
   ]
 }

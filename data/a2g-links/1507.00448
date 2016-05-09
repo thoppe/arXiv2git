@@ -1,11 +1,12 @@
 {
   "project": [
-    "xiaolonw/fast-rcnn-backup", 
     "xiaolonw/fast-rcnn-depth", 
+    "xiaolonw/fast-rcnn-normg", 
     "xiaolonw/fast-rcnn-distillation", 
-    "xiaolonw/fast-rcnn-hha", 
-    "xiaolonw/fast-rcnn-norm2", 
     "xiaolonw/fast-rcnn-normal", 
-    "xiaolonw/fast-rcnn-normg"
-  ]
+    "xiaolonw/fast-rcnn-norm2", 
+    "xiaolonw/fast-rcnn-backup", 
+    "xiaolonw/fast-rcnn-hha"
+  ], 
+  "citation": []
 }

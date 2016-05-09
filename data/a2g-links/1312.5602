@@ -1,20 +1,20 @@
 {
   "project": [
-    "AhmedHani/Deep-Q-Learning", 
-    "amonnphillip/nnexp2", 
-    "amonnphillip/nnexp3", 
+    "ugo-nama-kun/DQN-chainer", 
     "blakeMilner/DeepQLearning", 
     "brian473/neural_rl", 
     "cuayahuitl/SimpleDS", 
+    "AhmedHani/Deep-Q-Learning", 
     "ijosc/Deep_Reinforcement_Learning", 
-    "joplapp/deep-blobby", 
-    "ndrabins/2048-AI-Player", 
     "paulorauber/rlnn", 
+    "joplapp/deep-blobby", 
     "shyamalschandra/playing-atari-with-deep-reinforcement-learning", 
     "smartsystems4u/deep_exchange", 
+    "ndrabins/2048-AI-Player", 
+    "amonnphillip/nnexp3", 
+    "zergler/inverted-pendulum", 
     "space-weather-KU/bbt-sw", 
-    "ugo-nama-kun/DQN-chainer", 
-    "zergler/inverted-pendulum"
+    "amonnphillip/nnexp2"
   ], 
   "citation": [
     "TensorFlowKR/awesome_tensorflow_implementations", 

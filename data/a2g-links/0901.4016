@@ -1,11 +1,12 @@
 {
   "project": [
-    "Fil/proquint-php", 
-    "SUNET/python-proquint", 
-    "bjjb/proquint", 
     "dominictarr/d64", 
     "dsw/proquint", 
+    "bjjb/proquint", 
+    "thepirat000/Proquint.NET", 
     "phillord/identitas", 
-    "thepirat000/Proquint.NET"
-  ]
+    "Fil/proquint-php", 
+    "SUNET/python-proquint"
+  ], 
+  "citation": []
 }

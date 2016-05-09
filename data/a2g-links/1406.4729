@@ -1,11 +1,11 @@
 {
   "project": [
-    "ekyurdakul/Comp541-Term-Project", 
-    "szagoruyko/imagine-nn"
+    "szagoruyko/imagine-nn", 
+    "ekyurdakul/Comp541-Term-Project"
   ], 
   "citation": [
-    "auroraxie/Kaggle-NDSB", 
     "kjw0612/awesome-deep-vision", 
+    "auroraxie/Kaggle-NDSB", 
     "sunshineatnoon/Paper-Collection"
   ]
 }

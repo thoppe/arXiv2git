@@ -1,11 +1,11 @@
 {
   "project": [
-    "ikostrikov/torch-neural-gpu", 
     "lukaszkaiser/NeuralGPU", 
+    "ikostrikov/torch-neural-gpu", 
     "tristandeleu/neural-gpu"
   ], 
   "citation": [
-    "dennybritz/deeplearning-papernotes", 
-    "kjw0612/awesome-rnn"
+    "kjw0612/awesome-rnn", 
+    "dennybritz/deeplearning-papernotes"
   ]
 }

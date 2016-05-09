@@ -4,8 +4,8 @@
     "keunwoochoi/Auralisation"
   ], 
   "citation": [
-    "abhshkdz/papers", 
     "dennybritz/deeplearning-papernotes", 
-    "ry/deep_learning_glossary"
+    "ry/deep_learning_glossary", 
+    "abhshkdz/papers"
   ]
 }

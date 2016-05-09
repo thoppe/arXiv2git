@@ -3,18 +3,19 @@ import os
 import json
 import string
 import collections
-import tqdm
 
 F_JSON = sorted(glob.glob("data/readme/*.json"))
 F_REPO = sorted(glob.glob("data/repos/*.json"))
 output_dir = 'a2g-links'
 
+# Build a lookup table
 repo_lookup = {}
 for f in F_REPO:
     with open(f) as FIN:
         js = json.loads(FIN.read())
     for item in js:
-        repo_lookup[item['id']] = item['full_name']
+        val = item['full_name'], item['stargazers_count']
+        repo_lookup[item['id']] = val
 
 def json_iterator():
     for f in F_JSON:
@@ -147,7 +148,6 @@ def find_arxiv_links(text):
 
     # Find locations of all tokens with 'arxiv'
     loc = [i for i,w in enumerate(tokens) if 'arxiv' in w]
-
     xid = []
 
     for i in loc:
@@ -155,7 +155,6 @@ def find_arxiv_links(text):
         if link:
             xid.append(link)
             tokens[i] = ""
-            #print link
             
         link = find_arxiv_link_in_str(tokens[i])
         if link:
@@ -191,35 +190,47 @@ for js in json_iterator():
         if text is None: continue
         
         xid = find_arxiv_links(text)
-        repo = repo_lookup[js['id']]
+        item = repo_lookup[js['id']]
         
         ax_type = 'project'
-        # Code with > 5 links are classififed as citations        
+        # Code with > 5 links are classififed as a citation
         if len(xid)>5:
             ax_type = 'citation'
 
         for x in xid:
-            AX[ax_type][x].append(repo)
-
+            AX[ax_type][x].append(item)
 
             
 os.system('mkdir -p data data/'+output_dir)
 
-all_ID = set([key for key in AX[ax_type] for ax_type in AX])
+for ax_type in AX:
+    for key in AX[ax_type]:
+
+        # Only keep unique items
+        vals = list(set(AX[ax_type][key]))
+
+        # Sort by stargazers_count
+        vals = sorted(vals, key=lambda x: -x[1])
+
+        # Only keep the name
+        vals = [x[0] for x in vals]
+
+        AX[ax_type][key] = vals
+
+
+all_ID = AX['project'].keys() + AX['citation'].keys()
 all_ID = sorted(list(all_ID))
 
-for key in tqdm.tqdm(all_ID):
+for key in all_ID:
     
     # Can't have slashes in filenames
     f_name = os.path.join('data',output_dir, key.replace('/','_'))
 
-    data = {}
+    data = {
+        'citation' : AX['citation'][key],
+        'project'  : AX['project'][key],
+    }
     
-    for ax_type in AX:
-        if key in AX[ax_type]:
-            data[ax_type] = sorted(list(set(AX[ax_type][key])))
-
-
     with open(f_name,'w') as FOUT:
         js = json.dumps(data,indent=2)
         FOUT.write(js)

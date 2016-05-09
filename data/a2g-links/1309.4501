@@ -2,5 +2,6 @@
   "project": [
     "holdenlee/theorem-prover", 
     "semorrison/proofs"
-  ]
+  ], 
+  "citation": []
 }

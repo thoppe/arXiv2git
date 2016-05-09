@@ -3,7 +3,7 @@
     "XingxingZhang/td-treelstm"
   ], 
   "citation": [
-    "dykang/neurallanguage-notes", 
-    "kjw0612/awesome-rnn"
+    "kjw0612/awesome-rnn", 
+    "dykang/neurallanguage-notes"
   ]
 }

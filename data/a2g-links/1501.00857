@@ -1,6 +1,7 @@
 {
   "project": [
-    "Laadr/FFFS", 
-    "mfauvel/FFFS"
-  ]
+    "mfauvel/FFFS", 
+    "Laadr/FFFS"
+  ], 
+  "citation": []
 }

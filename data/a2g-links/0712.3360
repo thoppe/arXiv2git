@@ -1,6 +1,7 @@
 {
   "project": [
-    "olydis/vlg_matching", 
-    "simongog/sdsl-lite"
-  ]
+    "simongog/sdsl-lite", 
+    "olydis/vlg_matching"
+  ], 
+  "citation": []
 }

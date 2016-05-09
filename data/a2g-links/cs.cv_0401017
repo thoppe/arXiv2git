@@ -1,6 +1,7 @@
 {
   "project": [
-    "gyk/bgs-gcut", 
-    "gyk/fgseg"
-  ]
+    "gyk/fgseg", 
+    "gyk/bgs-gcut"
+  ], 
+  "citation": []
 }

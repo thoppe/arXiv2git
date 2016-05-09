@@ -1,7 +1,8 @@
 {
   "project": [
-    "WenchenLi/PhotoRestoration", 
     "kevinlin311tw/Caffe-DeepBinaryCode", 
+    "WenchenLi/PhotoRestoration", 
     "zexihan/caffe-SSDH"
-  ]
+  ], 
+  "citation": []
 }

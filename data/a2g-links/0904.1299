@@ -1,6 +1,7 @@
 {
   "project": [
-    "SGWissInfo/pyfmflib", 
-    "SGWissInfo/simplefmf"
-  ]
+    "SGWissInfo/simplefmf", 
+    "SGWissInfo/pyfmflib"
+  ], 
+  "citation": []
 }

@@ -1,6 +1,7 @@
 {
   "project": [
-    "daijialun/tiny_cnn", 
-    "nyanp/tiny-cnn"
-  ]
+    "nyanp/tiny-cnn", 
+    "daijialun/tiny_cnn"
+  ], 
+  "citation": []
 }

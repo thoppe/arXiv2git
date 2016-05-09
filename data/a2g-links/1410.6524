@@ -1,5 +1,6 @@
 {
   "project": [
     "stochasticHydroTools/MixingIBAMR"
-  ]
+  ], 
+  "citation": []
 }

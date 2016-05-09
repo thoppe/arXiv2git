@@ -1,7 +1,8 @@
 {
   "project": [
     "ajschumacher/lists", 
-    "arunpatala/face2place", 
-    "wulfebw/LittlePlaNet-Models"
-  ]
+    "wulfebw/LittlePlaNet-Models", 
+    "arunpatala/face2place"
+  ], 
+  "citation": []
 }

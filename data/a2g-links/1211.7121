@@ -1,9 +1,10 @@
 {
   "project": [
-    "OpenExoplanetCatalogue/oec_tables", 
-    "OpenExoplanetCatalogue/oec_web", 
     "OpenExoplanetCatalogue/open_exoplanet_catalogue", 
+    "OpenExoplanetCatalogue/oec_web", 
+    "OpenExoplanetCatalogue/oec_tables", 
     "hannorein/oec_outreach", 
     "sporter399/ExoPlanetCatologue"
-  ]
+  ], 
+  "citation": []
 }

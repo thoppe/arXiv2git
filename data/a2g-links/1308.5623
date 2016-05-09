@@ -1,7 +1,8 @@
 {
   "project": [
     "TaddyLab/gamlr", 
-    "TaddyLab/pose", 
-    "cran/gamlr"
-  ]
+    "cran/gamlr", 
+    "TaddyLab/pose"
+  ], 
+  "citation": []
 }

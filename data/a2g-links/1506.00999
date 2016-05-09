@@ -1,6 +1,7 @@
 {
   "project": [
-    "CamiloMorales/SME", 
-    "glorotxa/SME"
-  ]
+    "glorotxa/SME", 
+    "CamiloMorales/SME"
+  ], 
+  "citation": []
 }

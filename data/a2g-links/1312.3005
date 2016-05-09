@@ -1,6 +1,7 @@
 {
   "project": [
-    "scottyli/faster-rnnlm", 
-    "yandex/faster-rnnlm"
-  ]
+    "yandex/faster-rnnlm", 
+    "scottyli/faster-rnnlm"
+  ], 
+  "citation": []
 }

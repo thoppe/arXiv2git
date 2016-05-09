@@ -2,5 +2,6 @@
   "project": [
     "glouppe/kaggle-higgs", 
     "wdbm/abstraction"
-  ]
+  ], 
+  "citation": []
 }
