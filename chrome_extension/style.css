@@ -13,4 +13,10 @@
 	font-style: normal;
   display: inline;
 }
-	
+
+
+.arxiv2git a {
+	  font-weight: bold;
+    font-size: 90%;
+}
+
