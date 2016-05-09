@@ -1,14 +1,18 @@
 .arxiv2git {
 	background-color: #eee;
 	color: #000;
-	padding: .25em 0;
-	border-bottom: 1px solid #ccc;
+  font-size: 90%;
+
+  margin: 1em 0 0 0;
+	padding: .7em;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+ 
 }
 
 .arxiv2git h1 {
 	margin: 0;
-	font-size: 1.1em;
-  padding: 0 0 .2em 20px;
+	font-size: 100%;
 	font-weight: bold;
 	font-style: normal;
   display: inline;
@@ -16,7 +20,6 @@
 
 
 .arxiv2git a {
-	  font-weight: bold;
-    font-size: 90%;
+	  /* font-weight: bold; */
 }
 

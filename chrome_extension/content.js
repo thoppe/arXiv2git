@@ -12,10 +12,11 @@ function build_linkblock(name, A) {
     var base_url = "https://github.com/";
 
     if(!A.length) {
-        return false;
+        return 0;
     }
 
-    header = $("<h1>").append(name, " (",A.length,"): ");
+    header_text = name + " (" + A.length + "): ";
+    header = $("<h1>").append(header_text);
 
     X = $("<div>").addClass("arxiv2git");
     X.append(header);
@@ -29,8 +30,11 @@ function build_linkblock(name, A) {
         }
         
     }); 
-    $("body").prepend(X);
 
+    //$("body").prepend(X);
+    $("body").append(X);
+
+    return A.length;
 };
 
 
@@ -38,11 +42,14 @@ $.getJSON(a2g_url, function(json) {
 
     console.log(json);
     
+    var total_items = 0;
+    total_items += build_linkblock("github projects", json.project);
+    total_items += build_linkblock("github citations", json.citation);
+
+    if(total_items) {
+
+    }
     
-
-    build_linkblock("Projects", json.project);
-    build_linkblock("Citations", json.citation);
-
 });
 
 
