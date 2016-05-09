@@ -1,7 +1,7 @@
 # arXiv2git
 Links the [arXiv](http://arxiv.org/) to github repos. Implemented as a chrome extension, currently in alpha-status:
 
-[https://chrome.google.com/webstore/detail/gfhbipbocjiapodeflmklgnnnndplnpp/publish-delayed](https://chrome.google.com/webstore/detail/gfhbipbocjiapodeflmklgnnnndplnpp/publish-delayed)
+[https://chrome.google.com/webstore/detail/arXiv2git](https://chrome.google.com/webstore/detail/gfhbipbocjiapodeflmklgnnnndplnpp)
 
 Why?
 
