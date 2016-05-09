@@ -1,0 +1,11 @@
+{
+  "project": [], 
+  "citation": [
+    "kjw0612/awesome-rnn", 
+    "dennybritz/deeplearning-papernotes", 
+    "carpedm20/awesome-torch", 
+    "TensorFlowKR/awesome_tensorflow_implementations", 
+    "johnny5550822/awesome-neat-rnn", 
+    "mihaelacr/paper-notes"
+  ]
+}
