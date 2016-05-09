@@ -23,7 +23,11 @@ function build_linkblock(name, A) {
     $.each(A, function(idx,val) {
         item = $("<a>").html(val).attr("href",base_url+val)
         X.append(item);
-        X.append(", ");
+
+        if(idx+1 != A.length) {
+            X.append(", ");
+        }
+        
     }); 
     $("body").prepend(X);
 
