@@ -19,12 +19,12 @@
                 "style.css"
             ]
         }
-    ]
+    ],
 
     "icons": {
         "16" : "pencils16.png",
         "48" : "pencils48.png",
         "128": "pencils128.png"
-    },
+    }
 
 }
