@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550080, 
-  "description": "Reinforcement learning with artificial neural networks in python", 
-  "README.txt": "About\n-----\nReinforcement learning with artificial neural networks in python. \n\nThis code is intended mainly as proof of concept of action-value learning by\nartificial neural networks, and was inspired by [1, 2]. \n\nThe implementations are not particularly clear, efficient, well tested \nor numerically stable. We advise against using this software for nondidactic \npurposes.\n\nThis software is licensed under the MIT License. \n\nAlgorithms\n----------\nQ-learning feedforward neural networks (cf. [1])\nQ-learning long short-term memory networks (cf. [2])\n\nExamples\n--------\nSee the examples directory.\n\nReferences\n----------\n\n[1] Mnih, Volodymyr, Koray Kavukcuoglu, David Silver, Alex Graves, \nIoannis Antonoglou, Daan Wierstra, and Martin Riedmiller. Playing atari with \ndeep reinforcement learning. arXiv preprint arXiv:1312.5602 (2013).\n\n[2] Bakker, Pieter Bram. The State of Mind: Reinforcement Learning with \nRecurrent Neural Networks. PhD Thesis, Leiden University, 2004.", 
-  "id": 47281563
-}

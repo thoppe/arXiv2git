@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548156, 
-  "description": "", 
-  "README.md": "# 2048-AI-Player\n\n2048 game code\nhttp://pastebin.com/57JnQM69\n\nuseful library\nNEAT\n  https://github.com/noio/peas\n  http://neat-python.readthedocs.org/en/latest/\n\nUseful reading\n\nOther solutions\nhttp://www.randalolson.com/2015/04/27/artificial-intelligence-has-crushed-all-human-records-in-2048-heres-how-the-ai-pulled-it-off/\nhttps://github.com/nneonneo/2048-ai\n\nDeep learning / Q network\nhttp://www.davidqiu.com:8888/research/nature14236.pdf\nhttps://www.cs.toronto.edu/~vmnih/docs/dqn.pdf\nhttp://arxiv.org/pdf/1312.5602v1.pdf\n DEMO \n https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html\n", 
-  "id": 55740144
-}

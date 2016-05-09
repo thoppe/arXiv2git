@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556154, 
-  "description": "Python Wrapper for OptSpace Matrix Factorization Algorithm", 
-  "README.md": "# pyOptSpace\nPython Wrapper for OptSpace Matrix Factorization Algorithm\n\nBased on the paper:\n\n> OptSpace : A Gradient Descent Algorithm on the Grassman Manifold for Matrix Completion [[Arxiv]](http://arxiv.org/pdf/0910.5260.pdf)\n\n## Build\n\n```\npython setup.py build_ext --inplace\n```\n\n## Test\n\n```\npython setup.py test\n```", 
-  "id": 43867433
-}

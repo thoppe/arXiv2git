@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551424, 
-  "description": "Find communities in a graph.", 
-  "README.md": "findMeAGroup\n============\n\nFinding and evaluating community structure in networks using distributed computing with Akka.\n\nThis program implements the community finding algorithm described in this paper: \n\nhttp://arxiv.org/pdf/condmat/0308217.pdf\n\n", 
-  "id": 14977774
-}

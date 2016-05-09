@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553859, 
-  "description": "Hardware and Software presented at Intel Embedded Systems Competition at SBESC2014", 
-  "README.md": "# IntelSBESC2014\n\nHardware and Software presented at Intel Embedded Systems Competition at SBESC2014\n\n## How to cite\n\nDOI: [10.13140/RG.2.1.4077.7769](http://dx.doi.org/10.13140/RG.2.1.4077.7769) / [arXiv:1504.00932](http://arxiv.org/abs/1504.00932) \\[q-bio.QM\\]\n\n> LOB de Almeida, P Matias & RT Guariento - An embedded system for real-time feedback neuroscience experiments,\n> In: IV Brazilian Symposium on Computing Systems Engineering - SBESC 2014, Intel Embedded Systems Competition\n", 
-  "id": 26639927
-}

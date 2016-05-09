@@ -1,9 +1,0 @@
-{
-  "project": [
-    "jiweil/Sequence-Models-on-Stanford-Treebank", 
-    "jiweil/RST_Discourse_Parsing"
-  ], 
-  "citation": [
-    "eiso/awesome-data-science"
-  ]
-}

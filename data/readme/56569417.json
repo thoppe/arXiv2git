@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548135, 
-  "description": "DCTNet : A Simple Learning-Free Approach for Face Recognition", 
-  "README.md": "# DCTNet : A Simple Learning-Free Approach for Face Recognition\n\nPaper  : Ng, C. J., and Teoh, A. B. J. \"DCTNet : A Simple Learning-Free Approach for Face Recognition.\" In 2015 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), 761-68, 2015.\n\nhttp://arxiv.org/abs/1507.02049\n\nHow to run?<br/>\n1. Download sample FERET subset B dataset <br/>\n&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.dropbox.com/s/c8hl2ecfuc2rbs3/FERET_B_64x64_%28a%2Cc%2Ch%2Cj%2Ck%29.mat?dl=0\">FERET_B_64x64_(a,c,h,j,k).m</a>  <br/>\n2. Download PCANet MultiPIE learnt filter bank (Optional) <br/>\n&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.dropbox.com/s/lsgwh7cw9zc26a1/PCANet_2_filters_MultiPIE_FaceRecog.mat?dl=0\">PCANet_2_filters_MultiPIE_FaceRecog.mat</a> <br/>\n3. Run Main_DCTNet_Test.m <br/>\n&nbsp;&nbsp;&nbsp;&nbsp;Change Params for desired options \n", 
-  "id": 56569417
-}

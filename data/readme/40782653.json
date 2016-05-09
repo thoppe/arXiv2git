@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545811, 
-  "description": "Code to compute the halo correlation function using the Zeldovich approximation.", 
-  "README.md": "# ZeldovichRecon\nCode to compute the halo correlation function using the Zeldovich approximation.\n\nThis code closely follows the formalism described in\n``Reconstruction within the Zeldovich approximation''\nMNRAS 450(2015)3822, arxiv:1504.03677\n\nThere are several variants here.  First, a \"stand-alone\" C++ code,\nzelrecon.cpp, which computes the various contributions to the correlation\nfunction.  This should compile under g++.\n\nThere is a version, zelrecon_ctypes.cpp, which is designed to be called\nfrom Python using the ctypes library.  The wrapper \"zelr.py\" gives an\nexample [you need to edit it to set paths correctly].  When compiling\nthe code under g++ I use -O -funroll-loops -fopenmp -shared -fPIC.\n\nFinally, there is a version which implements the \"ZEFT\" formalism of\n``A Lagrangian effective field theory'' [arxiv:1506.05264]\nincluding the alpha term described in that paper.\nThis version is designed to be called from Python through the ctypes\nlibrary.  An example is given in zeftr.py and you should consider the\nsame compiler flags as above.  An example Makefile is included.\n", 
-  "id": 40782653
-}

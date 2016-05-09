@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554434, 
-  "description": "Relative Normalized Mutual Information wrappers for Matlab/Octave", 
-  "README.md": "# rnmi\nRelative Normalized Mutual Information wrappers for Matlab/Octave\n\nThis folder include c++ code to compute relatieve Normalized Mutual Information of two partitions. rNMI is Normalized Mutual Information (NMI) of given two partitions minuses the expected NMI of two random partitions, with the same number of groups as given partitions. rNMI overcomes the finite-size effect of NMI. You can find more information in this paepr: http://arxiv.org/abs/1501.03844\n\nThe usage is easy: after compiling using \"make\", there will be 2 executable files \"nmi\" and \"rnmi\", which calculate NMI and rNMI respectively. \nto calculate NMI of two configuration stored in 1.conf and 2.conf (labeling start form 0), you can use\n\"./nmi 1.conf 2.conf\"\n\nTo compute rNMI, \n\"./rnmi 1.conf 2.conf\"\n\nPan Zhang\npan@santafe.edu\nhttp://panzhang.net\n\nCarlo Nicolini\n", 
-  "id": 46340508
-}

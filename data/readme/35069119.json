@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558751, 
-  "description": null, 
-  "README.md": "# DP-SGLD\nTrying to replicate the results of Figure 2 in this paper: http://arxiv.org/pdf/1502.07645.pdf\n\nStochastic Gradient Langevin Dynamics (SGLD) and the DP version of it for logistic regression were implemented. A \ncomparison of the prediction results (loglikelihood and prediction accuracy for test data) are displayed in the two \nplots. However, what I got so far is not as expected: the prediction should be more accurate as log epsilon increases, \nand finally it should get close to the Non DP version results. But my replicate doesn't show this pattern, especially \nfor the loglikelihood results.\n", 
-  "id": 35069119
-}

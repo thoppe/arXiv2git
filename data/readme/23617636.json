@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558297, 
-  "description": "Various SVM based methods for domain adaptation", 
-  "README.md": "DA-SVMs\n=======\n\nVarious SVM based methods for domain adaptation.\n\nIf you find the code useful, please consider to cite the following paper:\n\nJ. Xu, S. Ramos, D. Vazquez, A. M. Lopez.\nCost-sensitive Structured SVM for Multi-category Domain Adaptation.\nIn International Conference on Pattern Recognition (ICPR), 2014.\n\nJ. Xu, S. Ramos, D. Vazquez, A. M. Lopez.\nHierarchical Adaptive Structural SVM for Domain Adaptation.\nIn arXiv:1408.5400, 2014\n", 
-  "id": 23617636
-}

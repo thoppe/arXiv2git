@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549342, 
-  "description": "Fluctuating Immersed Boundary Method", 
-  "README.md": "# FIB\nFluctuating Immersed Boundary Method\nby Steven Delong, Florencio Balboa\nand Aleksandar Donev (donev@courant.nyu.edu)\nCourant Institute of Mathematical Sciences\n\nThe IBBrownianBlobHierarchyIntegrator simulates Brownian Dynamics\nusing the IBAMR library (https://github.com/IBAMR)\nand the temporal integrators from the paper (see doc/OverdampedIB.pdf):\n\n\"Brownian Dynamics without Green's Functions\"\nS. Delong, F. Balboa Usabiaga, R. Delgado-Buscalioni, B. E. Griffith and A. Donev\nJ. Chem. Phys., 140, 134110, 2014.\nhttp://arxiv.org/abs/1401.4198\n\nAfter compilation, (make main2d, make main3d  as appropriate), one\nruns the code with ./main3d <input_file>.  Example input files\nare included in subfolders.\n", 
-  "id": 36742544
-}

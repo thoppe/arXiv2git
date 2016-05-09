@@ -1,6 +1,0 @@
-{
-  "read_at": 1462544624, 
-  "description": "", 
-  "README.md": "# Form factors for B->V transitions\n\nThis repository complements the paper [arXiv:1503.05534](http://arxiv.org/abs/1503.05534) by A. Bharucha, D. M. Straub, and R. Zwicky on form factors for B to vector transitions computed from light-cone sum rules (LCSR).\nPlease cite this paper when using the code.\n\nThe directory `anc` contains the data files (also available from the arXiv) with the series expansion coefficients, including uncertainties and correlations, for the different transitions, both for the LCSR predictions only (which should only be used for low to intermediate q^2) and for the combined fits to lattice and LCSR form factors.\n\nThe files `ff.py` and `ff.m` contain rudimentary code - in Python and Mathematica, respectively - showing how the central values and uncertainties of the form factors can be obtained from the data files.\n", 
-  "id": 32399137
-}

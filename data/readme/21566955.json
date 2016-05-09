@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550889, 
-  "description": "Bayesian Block program for determining change points in chi-square data. See http://arxiv.org/pdf/1207.5578v3.pdf for more info", 
-  "README.md": "Bayesian-Block\n==============\n\nBayesian Block program for determining change points in chi-square data. See http://arxiv.org/pdf/1207.5578v3.pdf for more info\n", 
-  "id": 21566955
-}

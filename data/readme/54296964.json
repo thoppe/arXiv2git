@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554985, 
-  "description": "[wp] - Recursive structure of primes reloaded. Now for mod 2 and not mod 6. - wtf", 
-  "README.md": "# wp-primesrec-mod2\nIn this working document I will make a revision of my work [1]. Now for mod 2 and not mod 6 which makes all so easy. Sometimes I'm so stupid. wtf!\n\n[1] Zobelein, C.: The recursive structure of the distribution of primes. In: ArXiv\ne-prints, 1411.2824 math.GM (2014), November\n\nSee http://arxiv.org/abs/1411.2824\n", 
-  "id": 54296964
-}

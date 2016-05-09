@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511169, 
-  "description": "Several flavors of kaczmarz method for solving linear systems", 
-  "README.md": "kaczmarzalgos\n=============\n\nSeveral flavors of kaczmarz method for solving linear systems\nFor now we have the classic kaczmarc method and the randomized version of it in order to speed up the convergence process.\n\nSome references about the algorithm implemented:\nhttp://en.wikipedia.org/wiki/Kaczmarz_method\nand will be uploaded the speedup that is based on Johnson-Lindenstrauss lemma,based on this paper:\nhttp://arxiv.org/abs/1008.4397\n", 
-  "id": 25074826
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547216, 
-  "description": "Path of one-step estimators (including the gamma lasso)", 
-  "README.md": "Path of one-step estimators\r\n===========\r\n\r\nThe POSE paper, with arXiv publication @ http://arxiv.org/abs/1308.5623.    \r\nSee https://github.com/TaddyLab/gamlr for the associated R package.\r\n", 
-  "id": 20735274
-}

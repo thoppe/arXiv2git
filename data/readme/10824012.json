@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551136, 
-  "description": "Exact functors on perverse coherent sheaves.", 
-  "README.md": "Exact functors on perverse coherent sheaves\n===========================================\n\nThis repository contains the LaTeX source code for the paper available at http://arxiv.org/abs/1305.1355.\n\nAbstract\n--------\n\nInspired by symplectic geometry and a microlocal characterizations of perverse (constructible) sheaves we consider an alternative definition of perverse coherent sheaves.\nWe show that a coherent sheaf is perverse if and only if G_Z(F) is concentrated in degree 0 for special subvarieties Z of X.\nThese subvarieties Z are analogs of Lagrangians in the symplectic case. \n", 
-  "id": 10824012
-}

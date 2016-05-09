@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552390, 
-  "description": "A Straightforward Preprocessing Approach for Accelerating 2D Convex Hull Computations on the GPU", 
-  "README.md": "# CudaPre\nA Straightforward Preprocessing Approach for Accelerating 2D Convex Hull Computations on the GPU\nhttp://arxiv.org/abs/1405.3454\n", 
-  "id": 49246800
-}

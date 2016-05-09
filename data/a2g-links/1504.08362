@@ -1,7 +1,0 @@
-{
-  "project": [
-    "mfigurnov/perforated-cnn-caffe", 
-    "mfigurnov/perforated-cnn-matconvnet"
-  ], 
-  "citation": []
-}

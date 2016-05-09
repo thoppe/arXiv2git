@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551572, 
-  "description": "Test programs for the algorithm defined in the paper \"Relative Upper Confidence Bound for the K-Armed Dueling Bandit Problem\" (http://arxiv.org/pdf/1312.3393.pdf) written in C++", 
-  "README.md": "KArmedDueling_RUCB\n==================\n[![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)\n\nTest programs for the algorithm defined in the paper \"Relative Upper Confidence Bound for the K-Armed Dueling Bandit Problem\" (http://arxiv.org/pdf/1312.3393.pdf) written in C++\n", 
-  "id": 30033996
-}

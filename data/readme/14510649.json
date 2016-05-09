@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556849, 
-  "description": "Detecting genuine multipartite entanglement", 
-  "README.md": "-Detecting genuine multipartite entanglement\n==\nThis is a set of scripts to find the optimal visibility in n-partite entangled states, such as noisy GHZ states.\n\nDependencies\n==\nThe code requires [SymPy](http://sympy.org/)>=0.7.2, [QuTip](http://qutip.org/), and [Ncpol2Sdpa](http://peterwittek.github.io/ncpol2sdpa/)>=1.10 in the Python search path. SciPy and NumPy are also required. The code works with both Python 2 and 3. You should also have at least one SDP solver in your path.\n\nUsage\n==\nTo perform the tripartite optimization, run find_best_visibility.py.\n\nMore Information\n==\nFor more information refer to the following manuscript:\n\nBancal, J.-D.; Gisin, N.; Liang, Y.-C. & Pironio, S. Device-Independent Witnesses of Genuine Multipartite Entanglement. Physics Review Letters, 2011, 106, 250404. [arxiv:1102.0197](http://arxiv.org/abs/1102.0197)\n", 
-  "id": 14510649
-}

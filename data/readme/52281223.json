@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557530, 
-  "description": "", 
-  "README.md": "Based on two papers:\n-PREDICTING DISTRIBUTIONS WITH LINEARIZING BELIEF NETWORKS by Yann N. Dauphin, David Grangier.\nhttp://arxiv.org/abs/1511.05622\n\n-TECHNIQUES FOR LEARNING BINARY STOCHASTIC FEEDFORWARD NEURAL NETWORKS\nTapani Raiko, Mathias Berglund, Guillaume Alain and Laurent Dinh\n\nhttp://arxiv.org/abs/1406.2989\n", 
-  "id": 52281223
-}

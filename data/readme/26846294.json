@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553726, 
-  "description": "Learning to Execute", 
-  "README.md": "Learning to Execute\n===================\n\nThis software allows to train a Recurrent Neural Network (RNN) with Long-Short \nTerm Memory (LSTM) units on short snippets of python code. \nThe Network is trained to predict the output of the generated programs.\n\n\n\nExecution\n=========\n\nPlease install Torch 7 http://torch.ch/ with the cunn package. Moreover, our \nsoftware requires an NVIDIA GPU.\n\nTo execute the program, call:\n\n    torch main.lua\n\nThis program starts training the LSTM and displays intermediate results. main.lua can be\nexecuted with the following options:\n\n    torch main.lua -gpuidx 1 -target_length 6 -target_nesting 3\n\n- gpuidx: chooses a GPU for the program\n- target_length: is a maximum number of digits in every number generated in test \n    programs in a test dataset.\n- target_nesting: is the depth of the nesting in the generated programs in the test dataset.\n\nMoreover, the command\n\n    torch data.lua\n\nverifies that training data is correct by evaluating 1000 samples with a python \ninterpreter (python2.7 is required).\n\n\nMore information about the scientific work is provided at \nhttp://arxiv.org/abs/1410.4615\n\nThis software is located at\nhttps://github.com/wojciechz/learning_to_execute \n", 
-  "id": 26846294
-}

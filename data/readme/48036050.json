@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550108, 
-  "description": "", 
-  "README.md": "# Stochastic-Games-with-Real-People\n\nhttps://github.com/ericschulz/contextualbandits\n\nhttps://github.com/ericschulz/control/blob/master/paper/dualcontrol.pdf\n\nhttp://people.csail.mit.edu/pkrafft/papers/krafft-et-al-2015-emergent.pdf\n\n\n# interesting theory for couzin type experiments\nMulti-Player Bandits - a Musical Chairs Approach http://arxiv.org/pdf/1512.02866.pdf\n\n#two player bandit with info spillover\nhttp://www.appstate.edu/~brunerdm/BoyceBrunerMcKee2008_Bandit%20Paper.pdf\n", 
-  "id": 48036050
-}

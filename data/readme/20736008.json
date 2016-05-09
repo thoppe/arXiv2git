@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547225, 
-  "description": "The DMR research paper", 
-  "README.md": "DMR\n==================================\n\nThe research paper Distributed Multinomial Regression, with arXiv publication @ http://arxiv.org/abs/1311.6139.    \nSee also the associated R package, https://github.com/TaddyLab/distrom, and the data application, https://github.com/TaddyLab/yelp.\n", 
-  "id": 20736008
-}

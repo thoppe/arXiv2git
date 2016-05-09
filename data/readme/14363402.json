@@ -1,6 +1,0 @@
-{
-  "README": "************************\n* CS4780 FINAL PROJECT * \n************************\n\nCITATION PREDECTION AND TOPIC MODELING\nLate 2013\n\nMichael Flashman\nAndrey Gushchin\nHyung Joo Park\n\n*********\n* SETUP *\n*********\n\nTo save space in the repository, the content of data/ and papers/ are ignroed by git.\nInstead manually download hep-th ngram and citaiton data into data/:\n$ cd data/\n$ curl \n", 
-  "read_at": 1462556770, 
-  "description": "arxiv document citation prediction and topic analysis", 
-  "id": 14363402
-}

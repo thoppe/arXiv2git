@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550216, 
-  "description": "", 
-  "README.md": "# puzzleApp\nThis is a puzzle solver app\nThis puzzle app is based on Donald Knuth's DLX algorithm(dancing link alogrithm) (see: http://arxiv.org/abs/cs/0011047 and https://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/0011047.pdf). \nIn addition, four of my modules, parser, search, link, and matrix, are derived from Alex Rudnick's Automatic Sudoku Solving with Dancing Links project. (see https://code.google.com/archive/p/narorumo/) and https://code.google.com/p/narorumo/wiki/SudokuDLX\nAll external sources that used have been referencened and are after lots of modifications. Also, thank all TA's to teach me a general idea on how to implement the project. in Monday's TA session \n\n\n##An executable app (jar file)(please click here to access my app): https://www.dropbox.com/s/0jdus5naguc2z9f/puzzle.jar?dl=0\n", 
-  "id": 47577956
-}

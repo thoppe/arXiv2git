@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547444, 
-  "description": "", 
-  "README.md": "stochastic-or-model\n===================\n\nSo far this repo contains two \nMatlab mex files for stochastic simulation based on the \nGillespie algorithm.\n\ngillespie_ssim_sparse.cpp is a generic Gillespie solver \nwhich is optimized for sparse (or small) reaction matricies.\n\ngillespie_ssim_ORexpMod.cpp is a solver for a specific olfactory receptor \nexpression model found in arxiv.org/abs/1201.2933\n\nboth compile in Matlab with: mex \\<filename\\>\n", 
-  "id": 6890208
-}

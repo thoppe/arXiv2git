@@ -1,8 +1,0 @@
-{
-  "project": [
-    "JohannesBuchner/PyMultiNest", 
-    "j-faria/MultiNest", 
-    "piero-ranalli/LFTools"
-  ], 
-  "citation": []
-}

@@ -1,6 +1,0 @@
-{
-  "README": "\nThis is the compendium of the TEA theory paper, Blecic et al. (2015) \n\"TEA: A code for calculating thermochemical equilibrium abundances\". \nThe paper is submitted to the ApJ Supplemental Series in May, 2015.\nThe arXiv version can be found on http://arxiv.org/.\n\nThe TEA version used to produce the results from this paper is located at:\nhttps://github.com/dzesmin/TEA/releases/tag/1.0-alpha\nIt is also provided in the TEA-src/ directory.\n\nThe directories in this compendium are named according to the figures \nand tables numbers from the paper. Each directory contains data, source\nfiles, and the code to reproduce the figures and tables data. The \ninstructions how to run the code are given in the directories' README files. \n\nFigure 1 and 2,  illustration of the Lagrangian  minimization approach\nand the Lambda correction algorithm, are drawn in Skechup 3D and Photoshop\nwithout using real data. Figure 3 is the layout of the TEA package and it \nis drawn using Lucid-chart online program: www.lucidchart.com.\n\nThe material needed to reproduce the rest of the figures and tables can be\nfound in the respective directories. \n\n", 
-  "read_at": 1462558782, 
-  "description": "TEA compendium for Blecic et al. (2015a) paper, \"TEA: A code for calculating thermochemical equilibrium abundances\"", 
-  "id": 35700212
-}

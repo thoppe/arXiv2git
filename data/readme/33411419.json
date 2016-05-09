@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511525, 
-  "description": "Using pagerank for rranking tennis players. Original paper: http://arxiv.org/pdf/1101.4028v2.pdf", 
-  "README.md": "# tennis_pagerank\nUsing pagerank for ranking tennis players. Original paper: http://arxiv.org/pdf/1101.4028v2.pdf\n", 
-  "id": 33411419
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558253, 
-  "description": "Ricci flow experiments on discrete surfaces", 
-  "README.md": "ricci-flow\n==========\n\nRicci flow experiments on discrete surfaces, based on arxiv.org/abs/1401.0401 and its predecessors.\n\npd_ricci_flow (which draws a pd-code planar graph) requires the python module from plCurve (svn: http://jasoncantarella.com/plCurve)\n", 
-  "id": 24648228
-}

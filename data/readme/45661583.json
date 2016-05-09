@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554119, 
-  "description": "", 
-  "README.md": "# DeepVisualization\n\nSome interesting visualization demos using Caffe and Matlab. \n\n - FaceVis\n\n  Visualize the face memorized by a face recognition model.\n\n - FilterVis\n\n  Visualize the mid-level features learned by a CNN model.\n\n - Inceptionism\n \n  Visualize the classifier neurons in a CNN model.\n\n - NNComplexity\n \n  Show how complex the neural network can achieve, w.r.t. width, depth and structure.\n\n - NeuralArt\n\n  Yet another re-implementation for paper\n> A Neural Algorthm of Artistic Style' by Leon Gatys, Alexander Ecker, and Matthias Bethge (http://arxiv.org/abs/1508.06576).\n\n - PrototxtGen\n \n  Some modules used to generate a prototxt for Caffe.\n", 
-  "id": 45661583
-}

@@ -1,7 +1,0 @@
-{
-  "project": [
-    "tnagler/kdecopula", 
-    "cran/kdecopula"
-  ], 
-  "citation": []
-}

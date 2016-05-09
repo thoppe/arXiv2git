@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552270, 
-  "description": "Political Speech Generator", 
-  "README.md": "# Political Speech Generator\n\nLink to original paper: http://arxiv.org/abs/1601.03313\n\n## Running the demo script\n\n```sh\n$ python demo.py\n$ python demo.py [class]               # Example: python demo.py RY\n$ python demo.py [class] [lambda]      # Example: python demo.py RY 0.25\n```\n", 
-  "id": 49586528
-}

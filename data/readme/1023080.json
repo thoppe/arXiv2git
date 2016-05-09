@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543099, 
-  "description": "A Variable-Length String Hashing Library in C++", 
-  "README.md": "Fast strongly universal hash functions\n--------------------------------------\n\n\n\n\nWhat is this?\n--------------\n\nAn implementation of a few very fast almost universal hash functions\nover 32-bit strings.\n\nIt is necessary to understand random hashing to use this library.\n\n Owen Kaser and Daniel Lemire, Strongly universal string hashing is fast, Computer Journal (2014) 57 (11): 1624-1638.\n http://arxiv.org/abs/1202.4961\n\nUsage \n------\n\nSee example.cpp.\n\n\n\nC equivalent\n------------\n\nSee \n\nhttps://github.com/lemire/StronglyUniversalStringHashing\n\n", 
-  "id": 1023080
-}

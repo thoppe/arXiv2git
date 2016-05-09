@@ -1,6 +1,0 @@
-{
-  "id": 7618370, 
-  "read_at": 1462551272, 
-  "README.rst": "**Note: this only works on Mac OS X.**\n\nInspired by a hack suggested at ``#hackAAS`` by `Kathy Cooksey\n<https://twitter.com/klcooksey>`_.\n\nBuilt by `Dan Foreman-Mackey <http://dan.iel.fm>`_ and distributed under\nthe BSD 2-clause license (see ``LICENSE``).\n\n**This web scraping project makes use of the** `html2text\n<http://www.aaronsw.com/2002/html2text/>`_ **module written by one of the\ngreatest scrapers that that community has known:** `Aaron Swartz\n<http://www.aaronsw.com/>`_.\n\n\nInstallation\n------------\n\nYou can install using ``pip`` with:\n\n::\n\n    pip install arxiv2speech\n\n\nUsage\n-----\n\n::\n\n    Usage: arxiv2speech [-h | --help]\n           arxiv2speech [-u URL] [-o OUTPUT] [--clobber] [--quiet] [--limit N]\n\n    -h --help  show this\n    -u URL     custom arXiv RSS [default: http://export.arxiv.org/rss/astro-ph]\n    -o OUTPUT  base directory for output [default: ./build]\n    --clobber  overwrite an existing archive\n    --quiet    don't print any status messages\n    --limit N  limit the number of abstracts analysed\n", 
-  "description": "Convert the current abstracts listed on the arxiv to a set of audio files."
-}

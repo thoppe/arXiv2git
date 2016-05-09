@@ -1,6 +1,0 @@
-{
-  "README": "Implements nested interval tree model using Moebius encoded continued fractions.\n\nBased closely on http://arxiv.org/abs/cs.DB/0402051 with a few modifications.\n\nThe MoebiusInterval internal class is (I believe) fully implemented, meaning\nall the algorithms for handling the tree are worked out and implemented in the\nabstract.\n\nProbable next step will be to write the Rails wrapper to make this work with \nActiveRecord objects.\n", 
-  "read_at": 1462510906, 
-  "description": "Implements nested continued fractions interval tree with Moebius encoding", 
-  "id": 223195
-}

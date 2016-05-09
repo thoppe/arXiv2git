@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557585, 
-  "description": "models trained to identify locations based on images", 
-  "README.md": "# LittlePlaNet-Models\nmodels trained to identify locations based on images\n\nModel training repo: https://github.com/dmakian/City-Recognition\n\nPaper this is modeled after: http://arxiv.org/abs/1602.05314\n", 
-  "id": 52681804
-}

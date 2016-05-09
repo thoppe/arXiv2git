@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545712, 
-  "description": "", 
-  "README.md": "deepBoF\n\nExperiment code used in the paper, \"A deep bag-of-features model for music auto-tagging\" by Juhan Nam, Jorge Herrera and Kyogu Lee (http://arxiv.org/abs/1508.04999)\n\nRefer to the following scripts to run the whole pipeline:\n\nstep1) process_tagatune_audio.m: preprocessing mp3 data\n\nstep2) run_tagatune_unsup.m: unsupervised learning from local feature learning to song-level pretraining for DNN  \n\nstep3) run_tagatune_dnn.m: supervised learning using DNN\n\n\n\n", 
-  "id": 41343946
-}

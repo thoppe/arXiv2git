@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552345, 
-  "description": "Seq2Seq LSTM Autoencoder", 
-  "README.md": "# LSTM-Autoencoder\n\nThis project implements the LSTM Autoencoder for sequence modeling.\nThe model reads a sequence and decodes itself. \nThe model can be easily extended for any encoder-decoder task.\n\n## Dependencies\nThis code requires [Torch7](http://torch.ch/) and [nngraph](http://github.com/torch/nngraph)\n\n## Datasets\nIn general, with proper parameter settings the model can recover 80%-90% of the words, when tested on a small subset of Toronto movie book corpus[http://www.cs.toronto.edu/~mbweb/].\n\n## Usage\nTo train a model with default setting, simply run\n    th LSTMAutoencoder.lua\nThe code generates samples at validation time, to inspect the effective of reconstruction.\nOne may consider to use the Autoencoder to obtain general purpose sentence vectors, or as a pretraining step for downstream tasks \n\n## References\n* Li, Jiwei, Minh-Thang Luong, and Dan Jurafsky,\n  \"[A hierarchical neural autoencoder for paragraphs and documents](http://arxiv.org/abs/1506.01057)\",\n  *arXiv preprint arXiv:1506.01057 (2015)*.\n\n* Dai, Andrew M., and Quoc V. Le,\n  \"[Semi-supervised sequence learning](http://papers.nips.cc/paper/5949-semi-supervised-sequence-learning.pdf)\",\n  *Advances in Neural Information Processing Systems. 2015*.\n", 
-  "id": 49269345
-}

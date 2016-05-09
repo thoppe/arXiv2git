@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550531, 
-  "description": "List Sort is a new kind of algorithm which uses multiple dynamic linked lists to sort the given data in a sequence.", 
-  "README.md": "List Sort \n==========\n\nPaper Published at Arxiv.org\n=============================\n\nLink: http://arxiv.org/abs/1310.7890\n\nAbstract: In this paper we are proposing a new sorting algorithm, List Sort algorithm, is based on the dynamic memory allocation. \nIn this research study we have also shown the comparison of various efficient sorting techniques with List sort. Due the dynamic nature of the List sort, it becomes much more fast than some conventional comparison sorting techniques and comparable to Quick Sort and Merge Sort. List sort takes the advantage of the data which is already sorted either in ascending order or in descending order. \n\nKeywords:\n=========\ncomparison sort; complexity; algorithm; list;\n\n\n\nAuthors:\n========\n\nAdarsh Kumar Verma\nhttps://www.facebook.com/adarsh.verma.5688\n\nPrashant Kumar\nhttps://www.facebook.com/pkswatch\n", 
-  "id": 13878474
-}

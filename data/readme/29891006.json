@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551534, 
-  "description": "A quick and dirty reanalysis of Tomasetti & Vogelstein 2015, in particular Point 3 of their arXiv rebuttal.", 
-  "README.md": "# tomasetti\nA quick and dirty reanalysis of Tomasetti &amp; Vogelstein 2015.\n\n# provenance\nData are taken verbatim (modulo PDF extraction and replacing *10 with e) from \nhttp://www.sciencemag.org/content/suppl/2014/12/31/347.6217.78.DC1/Tomasetti_SM.pdf\n", 
-  "id": 29891006
-}

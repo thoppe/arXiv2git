@@ -1,6 +1,0 @@
-{
-  "README": "sais-lite-LCP-0.0.1\n----------------------\n\nThis is an ad-hoc-implementation of the code described in\n\n\"Inducing the LCP-Array\" (http://arxiv.org/abs/1101.3448)\n\nby Johannes Fischer.\n\nIt is based on Yuta Mori's sais-lite 2.4.1 (http://sites.google.com/site/yuta256),\nwhich, in turn, is an implementation of the  following paper:\n\nGe Nong, Sen Zhang and Wai Hong Chan\nTwo Efficient Algorithms for Linear Suffix Array Construction\nDCC 2009.\n\nTo compile, type 'make'. Then run ./suftest <testfile>.\n\n----\n\nJohannes Fischer (johannes.fischer@kit.edu)", 
-  "read_at": 1462547129, 
-  "description": "Induced Suffix Array with LCP construction (Mirror)", 
-  "id": 3810462
-}

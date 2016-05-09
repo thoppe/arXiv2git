@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551148, 
-  "description": "To simulate species ocupancy and calculate Emergence, Self organization, Complexity and Autopoiesis", 
-  "README.md": "Comin function\n========\n\nR code to simulate species occupancy in n sampling sites, taking in to account the probability of detection. Comin calculates: Emergence, Self organization, Complexity and Autopoiesis as in: Gershenson and Fernandez (2012) \n\nBy: Diego J. Lizcano, Cristian Villate and Nelson Fenandez\n\nMore details in:\nFernandez, N., Maldonado, C., Gershenson, C.: Information measures of complexity, emergence, self-\norganization, homeostasis, and autopoiesis. In: Prokopenko, M. (ed.) Guided Self-Organization: Incep-\ntion. Springer (2013), http://arxiv.org/abs/1304.1842, in Press\n\nGershenson, C. and Fernandez, N. (2012). Complexity and information: Measuring emergence, self-organization, and homeostasis at multiple scales. Complexity 18 (2): 29-\n44. URL http://dx.doi.org/10.1002/cplx.21424. \n", 
-  "id": 10660768
-}

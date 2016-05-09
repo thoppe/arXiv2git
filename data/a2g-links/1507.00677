@@ -1,9 +1,0 @@
-{
-  "project": [
-    "takerum/vat", 
-    "takerum/vat_chainer"
-  ], 
-  "citation": [
-    "kjw0612/awesome-deep-vision"
-  ]
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543178, 
-  "description": "Scripts for covariate assisted spectral clustering paper", 
-  "README.md": "## Covariate Assisted Spectral Clustering (CASC)\n\nThis repository contains the scripts used for the simulations and the brain graph data analysis in the Covariate Assisted Spectral Clustering paper ([preprint arXiv:1411.2158](http://arxiv.org/abs/1411.2158)).\n\n- brainGraphAnalysis: contains the scripts for clustering brain graphs and analyzing the results\n- code: contains R scripts implementing CASC and other methods as well as a bunch of useful helper functions\n- simulations: contains the scripts for running the simulations and plotting the results", 
-  "id": 16971518
-}

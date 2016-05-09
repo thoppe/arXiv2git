@@ -1,6 +1,0 @@
-{
-  "README": "WilsonFlow\n\nPerforms the Wilson flow integration of gauge fields as described in\n  M.~Luscher, JHEP {\\bf 1008}, 071 (2010), JHEP {\\bf 1403}, 092 (2014), \n  [arXiv:1006.4518 [hep-lat]]. \nIn addition it calculates the Polakov loop and the plaquette and can write it\nout as a function of the flow time t.\n\nThere is still some optimizations needed and the implementation in the MILC\ncode is faster, but still it can serve as a simple example for how to\nimplement the gradient flow for SU(3) with the Wilson plaquette action.\n", 
-  "read_at": 1462548808, 
-  "description": "Wilson flow integration of gauge fields and basic observable calculation", 
-  "id": 41760523
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551323, 
-  "description": "", 
-  "README.md": "MBRW\n====================================\nMemory Biased Random Walk (MBRW) model is taking real clickstream data in sparse AML format\nand generating synthetic clickstream data that conform to statistical properties of the real\ndata, while, at the same time, adhering to the privacy protection policies.\n\nIn our work [1], we show that synthetic clickstreams can be used to learn recommender system\nmodels which achieve high recommender performance on real data and at the same time strong\nde-minimization guarantees can be provided.\n\nThis code can be run by Matlab (tested in 2011 version).\n\nCite work as:\n[1] Antulov-Fantulin, N., Bosnjak, M., Zlatic, V., Grcar, M., Smuc, T.,\nMemory biased random walk approach to synthetic clickstream generation,\nhttp://arxiv.org/abs/1201.6134\n\nLicence:\nThis program is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation. See the GNU General Public License\nfor more details: http://www.gnu.org/licenses/.\n\nContact:\nNino Antulov-Fantulin, <nino.antulov@irb.hr>,\nMatko Bosnjak, <matko.bosnjak@irb.hr>\n", 
-  "id": 7649676
-}

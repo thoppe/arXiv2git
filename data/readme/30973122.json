@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551899, 
-  "description": "Hierarchical Recurrent Encoder Decoder for Query Suggestion", 
-  "README.md": "# Hierarchical Recurrent Encoder-Decoder code (HRED) for Query Suggestion.\n\nThis code accompanies the paper:\n\n\"A Hierarchical Recurrent Encoder-Decoder For Generative Context-Aware Query Suggestion\", by Alessandro Sordoni, Yoshua Bengio, Hossein Vahabi, Christina Lioma, Jakob G. Simonsen, Jian-Yun Nie, to appear in CIKM'15.\n\nThe pre-print of the paper is available at: http://arxiv.org/abs/1507.02221.\n", 
-  "id": 30973122
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549879, 
-  "description": "machine learning testbed for fun and profit", 
-  "README.md": "MLCoalition\n===========\n\nmachine learning testbed for fun and profit!\n\nsome links:\n1. Cosma Shalizi's book: http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/. Also, his data mining notes: http://www.stat.cmu.edu/~cshalizi/350/,\n2. Brad Efron's book, many biology examples: http://www.amazon.com/Large-Scale-Inference-Estimation-Prediction-Mathematical/dp/110761967X\n3. Christian Robert: https://www.ceremade.dauphine.fr/~xian/books.html\n4. Chatterjee on justifying LASSO: http://arxiv.org/abs/1303.5817, and matrix completion: http://arxiv.org/abs/1212.1247\n5. Deep learning: http://deeplearning.net/reading-list/comment-page-1/\n6. More on DL: http://web.eecs.utk.edu/~itamar/Papers/DML_Arel_2010.pdf\n7. Another one: http://www.iro.umontreal.ca/~bengioy/papers/ftml.pdf\n\npossible competitions:\n1. http://www.kaggle.com/c/battlefin-s-big-data-combine-forecasting-challenge\n2. http://www.kaggle.com/c/expedia-personalized-sort\n3. http://www.kaggle.com/c/stumbleupon\n4. http://www.kaggle.com/c/belkin-energy-disaggregation-competition\n5. http://www.kaggle.com/c/accelerometer-biometric-competition\n", 
-  "id": 12562997
-}

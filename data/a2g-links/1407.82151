@@ -1,7 +1,0 @@
-{
-  "project": [
-    "arne-cl/rst_discourse_parser", 
-    "vrann/discourse-parser-docker"
-  ], 
-  "citation": []
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547593, 
-  "description": "Chrome extension which adds keyboard navigation keys to the arXiv, available in the Chrome Web Store:", 
-  "README.md": "arXiv-keys\n==========\n\nChrome extension which adds keyboard navigation keys to the arXiv, available [here](https://chrome.google.com/webstore/detail/arxiv-keys/fkjjdlbhliopfhgddlpoggpmpgjfaojd).\n\nLess clicking, more science! Now you can navigate the arXiv with the keyboard instead of the mouse. This extension adds several \"navkey\" navigation keys / keyboard shortcuts to arXiv pages.\n\nOn all pages:\n* `?`      Show/hide short keyboard shortcut help\n* `/`      Set focus to search bar\n* `g`      Go to category...\n* `u`      Go to user page\n\nOn list/find/author-id pages:\n* `j`/`k`    Steps down/up through the abstracts\n* `a`/`A`    Open the selected abstract in the current/new window\n* `p`/`P`    Open the selected PDF in the current/new window\n* `[`/`]`    Previous/next page of abstracts\n\nOn abstract pages:\n* `p`/`P`    Open the selected PDF in the current/new window\n* `[`/`]`    Browse previous/next abstract\n", 
-  "id": 9822346
-}

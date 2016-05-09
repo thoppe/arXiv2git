@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556075, 
-  "description": "theano, tensorflow", 
-  "README.md": "# Image Question Answering\n\nreference paper : http://arxiv.org/abs/1505.02074\n<br>\ndataset : http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/\n\n<p><p>\n<b>theano</b>\n - simple : fc7 features with RNNs\n<br>\n - attention : conv5_4 features (similar to 'show, attend and tell' http://arxiv.org/abs/1502.03044) with RNNs\n\n\n<p><p>\n<b>tensorflow</b>\n - simple : fc7 features with RNNs\n\n<p><p><br><br>\n<b>[demo]</b><br><br>\n<img src='https://github.com/seankim902/imageQA/blob/master/imageQA_demo.gif' height=400 width=400/>\n", 
-  "id": 43606291
-}

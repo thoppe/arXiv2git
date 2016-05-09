@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551762, 
-  "description": "Distributed Space-Time Coding with Imperfect Synchronization", 
-  "README.md": "# Async-DSTC\nAsysnc-DSTC\n\nMATLAB source code of the following paper:\nM. R. Avendi , S. Poorkasmaei, H. Jafarkhani, Differential Distributed Space-Time Coding with Imperfect Synchronization\", IEEE GLOBECOM 2014, Austin, USA\nThis papaer is available at arXiv.org\n\nTo see the results, run file: ADSTC_diff.m in MATLAB\n\nDepending on the number of simulated symbols, simulation could be slow or quick. Anyway, you will see that simulation is running and you can change some of the parameters for your specific tests. Please read the paper first before being able to make any changes.\n\nAll of the functions are in a folder name \"functions\", to make the code more readable.\n\nThere are two more .m files, matchfilter.m and rx_snr.m, which are used to plot two figures in the paper related to received SNR and matched filter plots.\n\n\n\n\n", 
-  "id": 29041622
-}

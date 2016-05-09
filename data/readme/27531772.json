@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557076, 
-  "description": "C++ implementation of the paper Salient Object Detection: A Discriminative Regional Feature Integration Approach", 
-  "README.md": "drfi_cpp\r\n========\r\n\r\nC++ implementation of the paper Salient Object Detection: A Discriminative Regional Feature Integration Approach\r\n\r\nThis implementation is dependent on the OpenCV library. For Windows users, a Visual Studio 2010 solution is created. For Linux users, a naive Makefile is provided. Make sure that the OpenMP switch is turned on to achieve the best performance.\r\n\r\nBefore testing, you might want to download our pre-trained Random Forest model, which is available at http://jianghz.com/drfi/files/drfiModelCpp.zip. Put it under the same folder with generated binary DRFI file.\r\n\r\nFor more details, check out our technical report http://arxiv.org/pdf/1410.5926v1.\r\n\r\nTested on Windows 7 64bit with Visual Studio 2010 and Ubuntu 12.04 64bit with GCC 4.8.3.\r\n\r\nBugs, comments are welcome to hzjiang@mail.xjtu.edu.cn.\r\n", 
-  "id": 27531772
-}

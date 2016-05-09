@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556156, 
-  "description": "Comparing measures for indirect discrimination in classification tasks", 
-  "README.md": "This repository contains the code used in experimental analysis of indirect discrimination measures for classification tasks.\n\nPlease cite the paper if using this code in research publications:\n\nI.Zliobaite. A survey on measuring indirect discrimination in machine learning. Arxiv (tbd)\n", 
-  "id": 45302437
-}

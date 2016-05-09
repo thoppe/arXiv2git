@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547809, 
-  "description": "Bitcoin trading bot", 
-  "README.md": "\n# Bitcoin trading bot\n\nTries to predict changes in the price of Bitcoin using Bayesian regression.\n\nImplementation follows _Bayesian Regression and Bitcoin_ by Shah, Zhang ([arxiv:1410.1231](http://arxiv.org/pdf/1410.1231v1.pdf))\n", 
-  "id": 55562930
-}

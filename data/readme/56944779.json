@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547796, 
-  "description": "", 
-  "README.md": "# TRPO RNN\n\nThis repo implements TRPO agent with recurrent neural network ( http://arxiv.org/abs/1502.05477 ).\n\n", 
-  "id": 56944779
-}

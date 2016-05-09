@@ -1,6 +1,0 @@
-{
-  "README.markdown": "Delayed Action Oscillator model\n================================\n\nA simple climate model described in [1].\n\nAbstract (from [1])\n> \"We study the dynamics of the El Ni~no phenomenon using the mathematical model of delayedaction oscillator (DAO). Topics such as  the influence of the annual cycle, global warming, stochastic influences due to weather conditions and even off-equatorial heat-sinks can all be discussed using only modest analytical and numerical resources. Thus the DAO allows for a pedagogical introduction\nto the science of El Ni~no and La Ni~na while at the same time avoiding the need for large-scale computing resources normally associated with much more sophisticated coupled atmosphere-ocean general circulation models. It is an approach which is ideally suited for student projects both at high school and undergraduate level\".\n\n\nNotes\n------\n\n* It requires gnuplot installed.\n* It depends on [this project](https://github.com/mstn/MultivariateODESolvers).\n* It can be opened with Eclipse.\n\n\nReferences\n-----------\n\n[1] Ian Boutle, Richard H. S. Taylor, Rudolf A. Roemer\nEl Nino and the Delayed Action Oscillator\nAmerican Journal of Physics\n2007 \n[ArXiv copy](http://arxiv.org/pdf/physics/0603083)", 
-  "read_at": 1462546873, 
-  "description": "Delayed Action Oscillator model", 
-  "id": 4636875
-}

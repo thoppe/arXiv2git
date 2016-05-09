@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511741, 
-  "description": "Multi_Aspect Graphs Algorithms", 
-  "ReadMe.txt": "DESCRIPTION\n------------\nThe files provided in this project contain the python source code\nreferent to the algorithms described in the paper \"MultiAspect Graphs:\nAlgebraic representation and algorithms\", available at http://arxiv.org/abs/1504.07893.\n\nFolder \"src\" contains the source code\nFolder \"MAG Edge Lists\" contains examples of edge lists that can be\nused to generate Multi-Aspect Graphs.\n\nIn particular, the file \"Algorithms.py\" contains the source code\nreferent to the implementation of all algorithms shown in the paper.\nFile \"SupportAlgorithms.py\" contains supplementary algorithms that are\nnot presented at the paper, but are useful for the creation and\nmanipulation of Multi-Aspect Graphs (MAGs). It includes the function\n\"EdgesToMAG\", which receives the name of a file containing a list of\nMAG edges and returns a MAG constructed from these edges.\n\n\nREQUIREMENTS\n------------\nTo run the algorithms presented, the following modules are required:\n * NumPy (http://www.numpy.org)\n * SciPy (http://www.scipy.org)", 
-  "id": 34731297
-}

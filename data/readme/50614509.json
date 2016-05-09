@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552418, 
-  "description": "Jet visualisation tools in IDL", 
-  "README.md": "**JetViz**\n\n\nSet of functions and subroutines in IDL to plot\nMHD invariants, 2D and integrated quantities, force balances, torques etc.\nCompatible with IDL 7 and up.\n\n\nUsed for this paper http://arxiv.org/abs/1003.4471\n", 
-  "id": 50614509
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549123, 
-  "description": "This implements PCA quickly using a random subspace approximate SVD", 
-  "README.md": "\nThis library contains functions for doing PCA quickly using an approximation.\n\nFastPCA() behaves like prcomp() except that instead of using svd() it uses FastSVD()\nFastSVD() does an approximation by randomly projecting your data into a subspace and then doing SVD on the orthonormal subspace of this projection. It is based on Halko et al. (http://arxiv.org/pdf/0909.4061v2.pdf). The iterative option can be used to reduce rounding errors\n\n\nTesting/Basic.R shows the basic usage.\n\nTesting/Example.R contains some example code testing the library out on the classic didgit recognition dataset, which is used in the Kaggle training competition.\nTesting/train.csv Is the didgit classification dataset.\n", 
-  "id": 9099748
-}

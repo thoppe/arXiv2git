@@ -1,6 +1,0 @@
-{
-  "README": "To run the project code, either open the IPython Notebook with\n$ ipython notebook arXiv-classification.ipynb\n\nOr run the .py file with\n$ python arXiv-classification.py\n\nThe code will load article data located in json format in the articles/ directory if available.\nIf articles are not available, the code will download articles from arXiv.org.", 
-  "read_at": 1462556055, 
-  "description": "Arxiv.org astro-ph article classifier built for the Modeling Social Data 2015 course.", 
-  "id": 44322929
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545866, 
-  "description": "Collection of FADDEEVA Implementations", 
-  "README.md": "# faddeevas\nCollection of FADDEEVA Implementations\n\nImplementations\n\n  + mit-scipy: scipy v >0.14\n  + mpmath-python: multiprecision benchmark\n  + cernlib-f90: cernlib as in madx, sixtrack, ptc, pyheadtail\n  + cernlib-c: same as cernlib-f90 but in C\n  + cernlib-cuda: same as cernlib-f90 but in CUDA\n  + cernlib-root-adapted: C library implemented in ROOT, CERN\n\n\nSources:\n  + https://github.com/PyCOMPLETE/PyHEADTAIL/tree/master/spacecharge\n  + http://www.bigdft.org/devel-doc/d0/dfa/wofz_8f90_source.html\n  + http://www.bigdft.org/devel-doc/d0/dfa/wofz_8f90.html\n  + http://dl.acm.org/citation.cfm?id=77629\n  + www.ccsenet.org/journal/index.php/jmr/article/viewFile/41877/24151-\n  + http://ab-initio.mit.edu/wiki/index.php/Faddeeva_Package\n  + arxiv.org/pdf/1407.0748 In root with source code\n", 
-  "id": 40708864
-}

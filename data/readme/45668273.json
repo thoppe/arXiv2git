@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554272, 
-  "description": "Create virtual worlds using procedural techniques! (Workshop Supporting Material)", 
-  "README.md": "# Useful Research Links\n\n## Natural Laws/Trends\n\n- \"Hypsographic demography: The distribution of human population by altitude\" http://www.pnas.org/content/95/24/14009.full\n- \"Zipf's Law for Cities: An Explanation\" http://www.jstor.org/stable/2586883?seq=1#page_scan_tab_contents\n- \"Power laws, Pareto distributions and Zipf's law\" http://arxiv.org/abs/cond-mat/0412004\n\n## Web Visualization\n\n- Mozilla Canvas Tutorial https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial\n- \"Three.js: render real world terrain from heightmap using open data\" http://www.smartjava.org/content/threejs-render-real-world-terrain-heightmap-using-open-data\n- Planetary.js http://planetaryjs.com/\n", 
-  "id": 45668273
-}

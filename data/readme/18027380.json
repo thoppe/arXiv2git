@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553628, 
-  "description": "My entry to the John Hunter Excellence in Plotting contest (SciPy 2014)", 
-  "README.md": "This repo contains everything used for my 2014 SciPy Conference entry to the John Hunter\nExcellence in Plotting Contest.  This is joint work with Manuel Quezada de Luna.  The\nentry won an honorable mention.\n\nThe data files in this repository are from data/code in https://github.com/ketch/effective_dispersion_RR.\nAfter submitting this entry, I reran some of the simulations and created nicer plots with better data.\nThe improved plots can be found in the paper, at http://arxiv.org/abs/1309.6666.  The improved data\nand scripts can be found in the reproducibility repo linked above.\n\nThe final version of the figure (used in the paper) is below.\n\n![](dispersion_io.png)\n", 
-  "id": 18027380
-}

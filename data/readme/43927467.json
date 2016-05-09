@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556065, 
-  "description": "Plugin for arxiv and ADS so you can upvote papers without going on voxcharta (the eventual goal)", 
-  "README.md": "# voxcharta\nCurrently this plugin adds the correct voxcharta search url for the arxiv abstract you are viewing. \n\n#Installation\nInstall by first downloading the 'chrome' folder.\nGo to your Google Chrome extensions and turn on developer mode. \nThen, drop 'chrome' into your extensions.\n\n/* (my plans)\nPlugin for arxiv and ADS so you can upvote papers without going on voxcharta. \nSimple star on toolbar is the upvote button. No downvotes :)\n*/\n", 
-  "id": 43927467
-}

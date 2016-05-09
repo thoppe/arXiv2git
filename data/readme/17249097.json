@@ -1,6 +1,0 @@
-{
-  "README": "This distribution contains code to used to compute the results in:\n\nEfficient Inference of Gaussian Process Modulated Renewal Processes with Application to Medical Event Data\nThomas A. Lasko. UAI 2014 (and arXiv:1402.4732 [stat.ML]).\n\nI have tested the code in Matlab R2013a, but it may run on earlier versions.\n\nThis is very much prototype code. It has not been optimized or cleaned up much, although I have made an attempt to provide reasonable documentation for the main user-relevant functions. The file syntheticEventsTestScript.m is a sample script that generates synthetic data, performs inference on it, tests the accuracy of the inference, and plots the results. This script exercises all of the functionality that I imagine most users would want to play with.\n\nDependencies:\n-------------\nFor convenience, I have included the relevant portions of other people's code that my code depends on. All of these pieces run under Matlab R2013a, and probably on versions as early as 7.x. In each of these subdirectories I have included pointers to the full codebase,  the associated papers, and copies of the required licenses and copyright notices.", 
-  "read_at": 1462543194, 
-  "description": "Efficient Gaussian-Process-Modulated Renewal Processes", 
-  "id": 17249097
-}

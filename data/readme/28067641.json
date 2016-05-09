@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557092, 
-  "description": "Nested Sampling algorithms for Julia", 
-  "README.md": "# NestedSampling\n\nNested sampling algorithm(s) in Julia.\n\nEllipsoidal algorithm based on the description in F. Feroz,\nM. P. Hobson and M. Bridges 2009, MNRAS 398, 1601\n[[arXiv](http://arxiv.org/abs/0809.3437)]\n\nThis is a work in progress.", 
-  "id": 28067641
-}

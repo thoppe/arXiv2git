@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546203, 
-  "description": "Deep Generative Model (Torch)", 
-  "README.md": "# Deep Generative Model\nThis contains the Torch Implementation of a Deep Generative Model trained using Stochastic Backpropagation. The model is trained on the GPU with binarized MNIST.\n\n# Requirements\n\nTorch installed with cunn \n\nSome miscellaneous lua packages installed from:\nhttps://raw.githubusercontent.com/rahulk90/helper-files/master/install_torch_deps.sh\n\n# Learning the Model\n\nRun th train.lua\n\nUses display (https://github.com/szym/display) to show samples and reconstruction to a browser display\n\n# References\nAuto-Encoding Variational Bayes\nhttp://arxiv.org/abs/1312.6114\n\nStochastic Backpropagation and Approximate Inference in Deep Generative Models\nhttp://arxiv.org/abs/1401.4082\n\nSee also:\nhttps://github.com/y0ast/VAE-Torch\n", 
-  "id": 39860476
-}

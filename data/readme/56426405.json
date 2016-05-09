@@ -1,7 +1,0 @@
-{
-  "id": 56426405, 
-  "read_at": 1462548340, 
-  "README.txt": "1. demo_POS\r\n2. plot_POS", 
-  "README.md": "# LearningSparseMNChange\nThe MATLAB code skeleton used in the paper \"Support Consistency of Direct Sparse-Change Learning in Markov Networks\".\n\nThere are only two steps to produce the \"probability of success\" plot used in the paper. \n\n1. demo_POS  \nIt runs the \"KLIEP algorithm\" and learns the changes between two (lattice) MNs with the difference of 4 edges.   \nThe script uses \"parfor\" to run 300 times using different random samples in parallel.   \n2. plot_POS:  \nWith the results generated from the first step, it now plots the \"probability of success\" curves shown in the paper.   \n\nReference:\nLiu, S., Suzuki, T., Relator R., Sese J., Sugiyama, M., Fukumizu, K.,  \nSupport Consistency of Direct Sparse-Change Learning in Markov Networks  \nPresented at NIPS workshop on Transfer and Multi-task learning: Theory Meets Practice  \nProceedings of Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI2015) \n, pp.2785-2791, 2015.  \nTo appear in *Annals of Statistics*, 2016, [arxiv.](https://arxiv.org/abs/1407.0581)\n\nContact: liu@ism.ac.jp\n", 
-  "description": "The MATLAB code used in the paper \"Support Consistency of Direct Sparse-Change Learning in Markov Networks\"."
-}

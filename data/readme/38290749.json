@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549344, 
-  "description": "Reproduce the results of the paper \"A Smoothed Dual Approach for Variational Wasserstein Problems\"", 
-  "readme.md": "This toolbox reproduces the numerical results of the paper:\n\nA Smoothed Dual Approach for Variational Wasserstein Problems,\nMarco Cuturi and Gabriel Peyre\nPreprint arXiv:1503.02533\n2015\n\nThese code reproduces the experiments on the TV regularization:\n* test_shapes.m: barycenters of images with regularization.\n* test_gradflow.m: same but for gradient flows instead of barycenters.\n* test_meg.m: barycenters for MEG data, i.e. defined on a graph.\n\nThese codes are \n* compute_tv_barycenters.m: main function to compute regularized barycenter using FB or BFGS.\n* compute_barycenter_grad.m: compute the gradient of the dual cost function for barycenters.\n* compute_dual_wasserstein.m: compute the gradient of the dual Wasserstein distance. ", 
-  "id": 38290749
-}

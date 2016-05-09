@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554236, 
-  "description": "Modified code to based on the LRCN code.", 
-  "README.txt": "This code should help you reimplement the experiments in:\n\nDonahue, J., Hendricks, L. A., Guadarrama, S., Rohrbach, M., Venugopalan, S., Saenko, K., & Darrell, T. (2014). Long-term recurrent convolutional networks for visual recognition and description. arXiv preprint arXiv:1411.4389.\nChicago\t\n\nPlease see http://www.eecs.berkeley.edu/~lisa_anne/LRCN_video for detailed instructions on how to reimplement experiments and download pre-trained models.\n\n", 
-  "id": 46851540
-}

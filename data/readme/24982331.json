@@ -1,6 +1,0 @@
-{
-  "README": "A simple code searches the new issues on arxiv.org for desired patterns.\nBased on lynx, sendmail and python.\n\n-Weiwei Zhu\nbefore 2005 (First written)\nuploade to git (09.10.2014)\n", 
-  "read_at": 1462511011, 
-  "description": "A simple code filters the new issues on arxiv.org for desired patterns.", 
-  "id": 24982331
-}

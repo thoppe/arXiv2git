@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543846, 
-  "description": "R and Javascript implementation of Bernoulli runs (for cricket) described here http://arxiv.org/pdf/1107.3104.pdf", 
-  "README.md": "# Bernoulli-Runs\nR and Javascript implementation of the `Bernoulli runs` metric described in:\n\nAnand Ramalingam ``Bernoulli Runs: Using 'Book Cricket' to Evaluate Cricketers'', \nResonance: Journal of Science Education, Springer Verlag,  May 2012, 17 (05)  \n\nResonance: http://www.ias.ac.in/resonance/Volumes/17/05/0441-0453.pdf\n\narXiv: http://arxiv.org/pdf/1107.3104.pdf\n\nTo run R code:\n\n`> source(file = \"R/analytical.R\")`\n\n`> bernoulli(avg = 47, sr = 90.2)`\n\n`$mean`\n\n`[1] 262.8434`\n\n`$sd`\n\n`[1] 13.75331`\n\nTo run the `js` implementation just open `js/hello.html` in your browser.\n", 
-  "id": 31976727
-}

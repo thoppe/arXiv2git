@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547759, 
-  "description": "", 
-  "README.md": "# stochastic-ladder\n\nCombine the ideas in http://arxiv.org/abs/1507.02672 and https://arxiv.org/abs/1603.09382 with an aim to reconstruct images over lossy networks.\n\n", 
-  "id": 56921121
-}

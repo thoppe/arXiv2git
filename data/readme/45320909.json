@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556026, 
-  "description": "Golang Client module for accessing astronomical publications (ADS, arxiv, etc)", 
-  "README.md": "## Astronomical Paper Publications Management\n\nTian Wen Lun Wen Ju He Zheng Li Xi Tong \n\n### Can Kao Zi Liao \n\n- [ADS Developer API](https://github.com/adsabs/adsabs-dev-api)\n- [ADS](https://api.adsabs.harvard.edu/)\n", 
-  "id": 45320909
-}

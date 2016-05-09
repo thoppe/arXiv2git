@@ -1,6 +1,0 @@
-{
-  "README": "This repository contains a series of codes for reading and analyzing Alhambra catalogues.\n\nCopyright: Loic Le Tiran, 2014\nContact: loic.le-tiran@obspm.fr\nLicence : GNU GPL v3\n\nThese catalogues are hosted on: https://cloud.iaa.csic.es/alhambra/catalogues/\nTo use the catalogues, see Molino 2013 (soon 2014): http://arxiv.org/abs/1306.4968 (pdf: http://arxiv.org/pdf/1306.4968v2)\n", 
-  "read_at": 1462553462, 
-  "description": "", 
-  "id": 18229977
-}

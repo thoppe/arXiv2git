@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555062, 
-  "description": "Simple RNN and Memory based architecture for learning algorithms", 
-  "README.md": "##Graduation Thesis -> Adrian-Mihai Iosif##\n\nAn implementation of an architecture capable of learning algorithms\n\n\n##Dependencies:##\n* torch\n* nn\n* nngraph\n* dpnn\n* rnn -> Recurrent Library for Torch. arXiv preprint arXiv:1511.07889 (2015)\n\n##File Description:##\n###main.lua###\nMain entry point of application. Should run GenerateDataset script first.\n###Dataset.lua###\nDataset specific classes and functions\n###DataUnitTests.lua###\nUnit tests referring to dataset definitions\n###GenerateDataset.lua###\nGenerates a specific dataset according to given params\n###Model.lua###\nModel definition\n###ModelUnitTests.lua###\nUnit tests referring to model definitions\n###Training.lua###\nContains training classes and functions, such as custom Criterions\n###TrainingUnitTests.lua###\nUnit tests referring to training definitions\n\n\n", 
-  "id": 53742275
-}

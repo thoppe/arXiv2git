@@ -1,6 +1,0 @@
-{
-  "README": "These functions implement the methods described in the SIAM Review paper on \"power-law distributions in empirical data\", written by Aaron Clauset, Cosma R. Shalizi and M.E.J. Newman in February 2009 (<http://arxiv.org/abs/0706.1062v2>).\r\n\r\nThey are translations to Python 2.6 of their original Matlab version (<http://www.santafe.edu/~aaronc/powerlaws/>) made in August 2009 (and slightly corrected in the following months):\r\n* The translation of randht.m is randht.py.\r\n* The translations of plfit.m are plfit.py and plfit0.py (plfit0.py is a small adaptation of plfit.py).\r\n* The translation of plpva.m is plpva.py.\r\n* The translation of plplot.m is plplot.py.\r\n* There is no translation of plvar.m.\r\n\r\nThese Python programs make use of Numpy, SciPy special Zeta function and Matplotlib Pyplot.\r\n\r\nOriginal Matlab files: by Aaron Clauset\r\nTranslated Python files: by Javier del Molino Matamala\r\n\r\nA program example.py is included to show how to call plfit0, plfit, plpva and plplot (for discrete data).\r\n", 
-  "read_at": 1462546756, 
-  "description": "Python translation of Matlab functions hosted in <http://www.santafe.edu/~aaronc/powerlaws/>", 
-  "id": 20127749
-}

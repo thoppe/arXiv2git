@@ -1,6 +1,0 @@
-{
-  "README": "CLuster And RepAir tool for introductory programming assignments\n\n\nAbout\n=====\nThis is an implementation of the clustering and repair tool for introductory\nprogramming assignments, described in the following paper:\n  http://arxiv.org/abs/1603.03165\n\n\nRequires\n========\n- Cython (tested with v0.23.4)\n- C compiler (tested with gcc 4.9.2)\n- lpsolve 5.5 (development files and library)\n- pip\n\n\nInstallation\n============\n- Run 'make install' in this directory; or\n- See docker installation below\n\n\nDocker installation\n===================\n1) Build the image with: 'docker build --rm=true -t clara .'\n2) Run the container with:\n     'docker run -ti -h clara --name clara clara /bin/bash'\n\n\nRunning\n=======\n- 'make' from above installs a binary file called 'clara'\n- Run 'clara help' or see examples below\n\n\nExamples\n========\n- Matching example:\n  'clara match examples/ex1.py examples/ex2.py --entryfnc computeDeriv --args \"[[[4.5]], [[[1.0,3.0,5.5]]]]\" --verbose 1'\n- Repair example:\n  'clara repair examples/ex1.py examples/ex3.py --entryfnc computeDeriv --args \"[[[4.5]], [[[1.0,3.0,5.5]]]]\" --verbose 1'", 
-  "read_at": 1462555456, 
-  "description": "CLuster And RepAir tool for introductory programming assignments", 
-  "id": 53632218
-}

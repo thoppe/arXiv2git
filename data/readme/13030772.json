@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549850, 
-  "description": "Sims/figs for \"Recovery guarantees for exemplar-based clustering,\" by Abhinav Nellore and Rachel Ward.", 
-  "README.md": "medoids\n=======\n\nCode for simulations and figures of the paper \"Recovery guarantees for exemplar-based clustering,\" available at http://arxiv.org/abs/1309.3256 . Simulations were done in MATLAB using the Gurobi Optimizer 5.5 API, and their results are in the mat and csv files. Figures were generated in Mathematica. randsphere.m is by Roger Stafford, and sqdistance.m is by Michael Chen.\n\nCopyright (c) 2013 Abhinav Nellore and Rachel Ward. This software is licensed under the MIT License. See LICENSE for more information.\n", 
-  "id": 13030772
-}

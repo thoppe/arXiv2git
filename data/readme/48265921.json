@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550077, 
-  "description": "", 
-  "README.md": "# Caffe\nadding real-time data augmation based on Chenlong Chen's job.\nTemporarily this project only support image augmation.\n\n\n\noriginal job refer to\n\n    @article{jia2014caffe,\n      Author = {Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},\n      Journal = {arXiv preprint arXiv:1408.5093},\n      Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},\n      Year = {2014}\n    }\n", 
-  "id": 48265921
-}

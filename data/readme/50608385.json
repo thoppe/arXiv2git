@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552383, 
-  "description": "Fusing concurrently collected MEG and EEG data into a unified representation using a multi-modal neural network architecture. Attempted to use a recurrent convolutional neural network to classify each modality. Stopped after this paper did it better than I ever could: http://arxiv.org/pdf/1511.06448v3.pdf", 
-  "README.md": "# neurofusion\nFusing concurrently collected MEG and EEG data into a unified representation using a DBM-LSTM architecture\n\nThis project is licensed under the terms of the MIT license.", 
-  "id": 50608385
-}

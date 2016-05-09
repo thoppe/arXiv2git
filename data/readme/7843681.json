@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551308, 
-  "description": "Some tools to work with ASCL", 
-  "README.md": "ascl-tools\n==========\n\nSome tools to work with ASCL (Astrophysics Source Code Library).\n\n\nSee http://ascl.net for the repository.\n\n   * **ascl**           shell script to grep through a locally cashed database\n   * **ascl.py**        helper script for ADASS proceedings\n   * **check_code.py**  check txt files (e.g. arXiv PDF's) for magic words (description vector)\n   * **make_ascl2**     shell script to scrape the ascl website to help create ascl2.txt\n   * **ascl2.txt**      just a sample, but we'll try and keep this up to date\n", 
-  "id": 7843681
-}

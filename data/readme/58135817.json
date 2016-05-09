@@ -1,7 +1,0 @@
-{
-  "Readme": "Dependencies:  \n1. GSL V1.16 (http://www.gnu.org/software/gsl/)\n2. Boost Libraries V1.58 (http://www.boost.org) for random number generation \n3. cmake V3.3.2 (https://cmake.org)\n4. The misc.dat should be available in the current working directory \n", 
-  "read_at": 1462826626, 
-  "description": "A Monte-Carlo implementation of diet production in DIS in the correlations limit, based on arXiv:1508.04438 ", 
-  "README.md": "# MC_DiJet\n# MC implementation to probe the distribution of linearly polarized gluons and elliptic azimuthal anisotropy in DIS dijet production at high energy\n", 
-  "id": 58135817
-}

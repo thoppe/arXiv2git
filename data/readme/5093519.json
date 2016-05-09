@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551173, 
-  "description": "Create static paper statistics for arxiv.org", 
-  "README.md": "arxiv_statistics\n================\n\nCreate static paper statistics for arxiv.org\n\nRequirements\n============\n\nThe following Ruby gems are needed for the scripts to work:\n\n* oai\n* ripl for interactive work with the data\n* pp for pretty-printing\n* optiflag for command line arguments\n* gnuplot to plot diagrams\n", 
-  "id": 5093519
-}

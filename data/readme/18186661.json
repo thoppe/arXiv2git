@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553426, 
-  "description": "Going to try and formalize in HOLCF the construction http://arxiv.org/abs/1403.0749 and see what breaks/doesn't break when there's non-termination", 
-  "README.md": "free-applicative\n================\n\nGoing to try and formalize in HOLCF the construction http://arxiv.org/abs/1403.0749 and see what breaks/doesn't break when there's non-termination\n", 
-  "id": 18186661
-}

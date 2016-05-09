@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552614, 
-  "description": "", 
-  "README.md": "#JakkuFirstOrder \nTask-3: \nAuthorship identification: It\ndetermines the likelihood of a piece of writing to be produced\nby a particular author by examining other writings by that\nauthor. \nApproach:\nThe approach I followed here is naive one. There are many other methods to solve this.it could have been made more accurate,\n by considering other factors, such as, using api task 1, if we knew the posting day, time, we could crossmatch it with the\n most probable times of posting by the user. \n The steps I followed here are:\n\t1. Fetched all texts from timeline of a user and counted frequency of each words.\n\t2. Now, given a tweet, first I counted probability of each word in that tweet and probability of \n\t\tthat word in whole timeline and multiplied this probabilities \n\t\tand summed that for all words in the tweet. \nN.B: The task-3 is case-sensitive. In case, u get probability 0, please check the cases of the words.\n\t\t\nReference:\nhttp://arxiv.org/ftp/arxiv/papers/1401/1401.6118.pdf", 
-  "id": 49362276
-}

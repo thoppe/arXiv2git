@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551596, 
-  "description": "Heavy spin1 boson to top partners", 
-  "README.md": "# Vp_to_VLQ\nHeavy spin1 boson to top partners\n\noriginal model from\nhttp://hepmdb.soton.ac.uk/index.php?mod=user&act=showmodel&id=1014.0179\n\narXiv: 1410.2883\n\nIn the folder we have the relevant couplings to be changed in the param_card.dat\n\ndefault total widths of heavy resonances = 1 MeV\ndefault higgs mass 125 GeV\n", 
-  "id": 30102570
-}

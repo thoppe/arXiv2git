@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556194, 
-  "description": "", 
-  "README.md": "## Sentiment-Analysis-Word2Vec\n\n## Task\nI have used Word2Vec for sentiment analysis by attempting to classify the Cornell IMDB movie review corpus and Twitter Dataset.\n\n## Dataset\n- Cornell IMDB movie review corpus (http://www.cs.cornell.edu/people/pabo/movie-review-data/)\n- Twitter Sentiment Dataset\n\n## References\n- Doc2vec: https://radimrehurek.com/gensim/models/doc2vec.html\n- Paper: http://arxiv.org/abs/1405.4053\n", 
-  "id": 45166082
-}

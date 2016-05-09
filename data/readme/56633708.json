@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547850, 
-  "description": "A C# port of the JavaFastPFOR library by Daniel Lemire", 
-  "README.md": "CSharpFastPFOR: A C# port of the simple integer compression library JavaFastPFOR\n==========================================================\n\nWhy?\n----\nWhile building a in-memory compressed datastructure, I needed a library for efficient integer compression. JavaFastPFOR was what I needed, so I ported it to C#.\n\nRequirements\n------------\n* .NET 4.6.1\n* Visual Studio 2015\n\nAPI\n-----------------\nThe API is excatly the same as JavaFastPFOR. See the documentation here: http://www.javadoc.io/doc/me.lemire.integercompression/JavaFastPFOR/\n\nReferences\n-----------------\n\n* Daniel Lemire and Leonid Boytsov, Decoding billions of integers per second through vectorization, Software Practice & Experience 45 (1), 2015.  http://arxiv.org/abs/1209.2137 http://onlinelibrary.wiley.com/doi/10.1002/spe.2203/abstract\n* Daniel Lemire, Leonid Boytsov, Nathan Kurz, SIMD Compression and the Intersection of Sorted Integers, Software Practice & Experience (to appear) http://arxiv.org/abs/1401.6399\n* Matteo Catena, Craig Macdonald, Iadh Ounis, On Inverted Index Compression for Search Engine Efficiency,  Lecture Notes in Computer Science 8416 (ECIR 2014), 2014.\nhttp://dx.doi.org/10.1007/978-3-319-06028-6_30\n", 
-  "id": 56633708
-}

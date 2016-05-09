@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547843, 
-  "description": "formalization of several theorems of Simplicial Model of Univalent Foundations ", 
-  "README.md": "The aim is to formalize some theorems from http://arxiv.org/abs/1211.2851\n\nLink to the last commit of local HoTT library which is used:\nhttps://github.com/HoTT/HoTT/commit/029805bb5e5d3e16b7a021fc3c9f871292b78e1e\n", 
-  "id": 55707678
-}

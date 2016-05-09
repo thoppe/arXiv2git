@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545787, 
-  "description": "A paper describing how to estimate fossil ages using Bayesian phylogenetic total evidence dating", 
-  "README.md": "Bayesian phylogenetic estimation of fossil ages\n===============================================\n\nThis repository contains files to produce the paper entitled \"Bayesian phylogenetic \nestimation of fossil ages\" by Alexei J. Drummond and Tanja Stadler. This paper is\npublished at http://arxiv.org/abs/1601.07447\n\nFiles for LaTeX\n---------------\n\nThe files needed to compile the LaTeX to the final PDF are:\n\n* fossilDating-revision.tex\n* fossilDating.bib\n* 1_summaryTable.tex\n* 8_summaryTable.tex\n* priors.pdf\n* Figure1.pdf\n* Figure2.pdf\n* 8_fossilDatingHist_younger.pdf\n* 8_fossilDatingHist_older.pdf\n* Figure_comparison.pdf\n* 1c_phyloAgeVsGeoAge.pdf\n* 1_canids_ranges_3_subset-1460502871266-tree10001.pdf\n* vancouver.bst\n", 
-  "id": 41144234
-}

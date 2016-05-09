@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556814, 
-  "description": "Terminal semantics for codata types in intensional Martin-L\u00f6f type theory", 
-  "README.md": "#Terminal semantics for codata types in intensional Martin-Lof type theory\n\n#### Benedikt Ahrens and Regis Spadotti\n\n\n* project web page: http://benediktahrens.github.io/coinductives/\n* Coq code: https://github.com/rs-/Triangles/\n* paper on arXiv: http://arxiv.org/abs/1401.1053\n\n\n", 
-  "id": 14361357
-}

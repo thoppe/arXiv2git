@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549881, 
-  "description": "Javascript library that creates links from work identifiers. ", 
-  "README.md": "workIdLink.js\n============================\n\nJavascript library that creates links from work identifiers.\n\n## Functions\n\n* getLink(id, type) - takes an id and an abbreviated type and if the type and id can \n   be matched returns a http url, otherwise returns a  null.\n\n* getTypes() - returns a space delimited list of abbreviated types.\n\n## Supported types\n   arxiv asin bibcode doi isbn jfm jstor lccn mr oclc ol osti pmc pmid rfc ssrn zbl\n\n\n## Using in a browser\n   Include workIdLink.js and call ``workIdLinkJs.getLink('10.1038/news070508-7', 'doi')``.\n\n\n## Using in [Node.js](http://nodejs.org/)\n   Install ```npm install work-id-link-js```, require the module \n   ``var workIdLink = require('work-id-link-js');`` and call\n   ``workIdLink.getLink('10.1038/news070508-7', 'doi')``.\n\n   \n## Contributing\n   Contributions are welcome. Please make sure the unit test(runTest.js) reflects the\n   changes and completes successfully. \n", 
-  "id": 12813567
-}

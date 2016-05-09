@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546948, 
-  "description": "Three field linear poroelasticity fem code (libmesh) with unconfined compression example, and a 2D cantilever example.", 
-  "README.md": "# linear_poroelasticity\nThree field linear poroelasticity fem code (libmesh) with unconfined compression example, and a 2D cantilever example.\n\nDraft of theory paper:\nhttp://arxiv.org/abs/1312.2607\n", 
-  "id": 15707962
-}

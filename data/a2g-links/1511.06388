@@ -1,9 +1,0 @@
-{
-  "project": [
-    "shashankg7/Deep-Learning-for-NLP-Resources"
-  ], 
-  "citation": [
-    "dennybritz/deeplearning-papernotes", 
-    "lampts/data_science"
-  ]
-}

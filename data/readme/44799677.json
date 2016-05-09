@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556227, 
-  "description": "", 
-  "README.md": "#Utility functions for working on VQA dataset and word vector embeddings\n----------\n\nVQA dataset: (http://arxiv.org/pdf/1505.00468v3.pdf, http://www.visualqa.org/)\n\nw2vutils.lua and bintot7.lua have been taken from https://github.com/rotmanmi/word2vec. Some more functionalities have been added.\n\nI'll add detailed documentation in future.\n\nPlease note that the utility functions are in continuous development. Do let me know if you have any question or feedback through email. My email id is : kundankumar2510 at gmail dot com", 
-  "id": 44799677
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555069, 
-  "description": "implementing our machine learning based compiler from the MILEPOST project in CK format", 
-  "README.md": "Reproducing MILEPOST project in CK format (machine learning based self-tuning compiler)\n=======================================================================================\n\nStatus\n======\nNot yet stable. We mainly use MILEPOST GCC now to extract \nsemantic program features for compatibility with previous models.\n\nPrerequisites\n=============\n* Collective Knowledge Framework: http://github.com/ctuning/ck\n\nPublications\n============\n* http://arxiv.org/abs/1506.06256\n* http://hal.inria.fr/hal-01054763\n* https://hal.inria.fr/inria-00436029\n* http://arxiv.org/abs/1407.4075\n* https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IwcnpkwAAAAJ&citation_for_view=IwcnpkwAAAAJ:LkGwnXOMwfcC\n\nAuthors\n=======\n\n* Grigori Fursin, cTuning foundation (France) / dividiti (UK)\n\nLicense\n=======\n* GPLv2\n\nInstallation\n============\n\n> ck pull repo:reproduce-milepost-project\n", 
-  "id": 53480904
-}

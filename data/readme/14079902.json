@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556790, 
-  "description": "Code to accompany the paper 'Corruption Drives the Emergence of Civil Society' by Abdallah et al (http://arxiv.org/abs/1307.6646)", 
-  "README.md": "This code accompanies ['Corruption Drives the Emergence of Civil Society' by Abdullah et al (2013)](http://rsif.royalsocietypublishing.org/content/11/93/20131044.abstract). \n\nThe code estimates the transition matrix between strategies (described in the paper) playing a public goods game from which the stationary distribution is calculated using the power iteration method. Finally a phase diagram is plotted as a function of B (or any other arbitrary parameter).\n\nThe method is based on 'Social Learning promotes Institutions for Governing the Commons' Sigmund et al, Nature 2010.\n\n**Dependencies**\n\nRequires NumPy, SciPy and Matplotlib\n", 
-  "id": 14079902
-}

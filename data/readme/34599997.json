@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511654, 
-  "description": "BibXpert is an open-source bibliography management tool for LaTeX BibTex files.", 
-  "README.md": "# BibXpert\n\nBibXpert is an open-source bibliography management tool for LaTeX \nBibTex files. BibXpert operates simultaneously over multiple \nBibTex files through a single command line. The tool provides \nmechanisms to automatically concatenate bib entries from different \nfiles, resolve duplicated entries, limit the number of authors \nto be displayed, and compress bibliography entries to save space\nin the text. \nAdditionally, it can verify data integrity of bib entries with\ncommonly research scholar web services such as DOI, IEEE XPlore, \nScience Direct, PubMed Central, and arXiv.\n\nDocumentation and releases are available at:\n\nhttp://www.rafaelsilva.com/tools/bibxpert\n\nBugs, new features, and questions are preferably managed through \nthe GitHub issue track.", 
-  "id": 34599997
-}

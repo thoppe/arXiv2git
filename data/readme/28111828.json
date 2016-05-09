@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557128, 
-  "description": "An effective model for entropy deposition in high-energy pp, pA, and AA collisions", 
-  "README.md": "# T<sub>R</sub>ENTo paper\n\nhttp://arxiv.org/abs/1412.4708\n\nThis is the source repository for _An effective model for entropy deposition in high-energy pp, pA, and AA collisions_, which introduces the T<sub>R</sub>ENTo initial condition model.\n\nSee the `fig` subdirectory to generate figures.\n\nRun `make` to compile the PDF using `latexmk`.\n", 
-  "id": 28111828
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548603, 
-  "description": "Code for arXiv:1507.01639", 
-  "Readme.txt": "The relevant papers are 1507.01639,\tarXiv:1601.02623, (to be published).\nNote the LICENSE file, which allows you to use/distribute this code freely if you cite me.\nCheck out the Wiki (Getting Started) if you are confused. Otherwise contact the author at bmperrea@gmail.com\n\nThe primary plots for the paper 1507.01639v2 (and v3) \nand the paper that follows (not online yet) \ncome mainly from calling the following functions:\n\nrunner14_82\nrunner14_H1_r\nrunner14_H1_pi_r\nrunner14_weights_double_8\nrunner_H1_weights_pi\nrunner_H1_weights\nrun_script_2D_3\nrunit2D_weights_4\n\nsecond paper:\nrunner_slab_max8_a1_6\nrunit14_8_ac\n\n\nThe other functions included in the folder are either \ncalled by these or are otherwise interesting. \n\nThe folder @cell defines function for the cell class\nthat mimicks matrices and thereby gives an additional\ndimension (or set of dimensions) to the effective array\nmade up of cell and array dimensions combined.\n\nThe folder Asymptote contains the asymptote code that\ncreates the 3D figures.\n\nThe folder Old contains many old versions and old codes\nthat are probably not useful (but maybe : )\n\nThe energies for the plots were found with\nGS_energies2\n", 
-  "id": 41971269
-}

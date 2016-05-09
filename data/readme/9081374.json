@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549128, 
-  "description": "Least Squares Sensitivity for ODEs using Direct Solver", 
-  "README.md": "This module contains tools for performing tangnet sensitivity analysis and\nadjoint sensitivity analysis using the Least Squares Shadowing (LSS) method.\n\nThe details are described in our paper\n\"Sensitivity computation of periodic and chaotic limit cycle oscillations\"\nat http://arxiv.org/abs/1204.0159\n\nUser should define two bi-variate functions, f and J.\n\nf(u, s) defines a dynamical system du/dt = f(u,s) parameterized by s\n\nJ(u, s) defines the objective function, whose ergodic long time average\n        is the quantity of interest.\n\n# Use:\nu0 = rand(m)      # initial condition of m-degree-of-freedom system\n\nt = linspace(T0, T1, N)    # 0-T0 is spin up time (starting from u0).\n\n# Using tangent sensitivity analysis:\ntan = Tangent(f, u0, s, t)\n\ndJds = tan.dJds(J)\n\n# Using tangent sensitivity analysis:\nadj = Adjoint(f, u0, s, t, J)\n\ndJds = adj.dJds()\n\n", 
-  "id": 9081374
-}

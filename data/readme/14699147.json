@@ -1,6 +1,0 @@
-{
-  "README": "Python scripts for harvesting metadata from arXiv.org.  Work done for the Knowledge Lab, Computation Institute at the University of Chicago.", 
-  "read_at": 1462556773, 
-  "description": "Python scripts for pulling metadata in XML format off arXiv", 
-  "id": 14699147
-}

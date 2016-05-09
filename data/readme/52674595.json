@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557526, 
-  "description": "question answering model", 
-  "README.md": "# QA\nquestion answering\nmemN2N http://arxiv.org/pdf/1503.08895v5.pdf\n\nDynamic Memory Network:http://arxiv.org/pdf/1506.07285v4.pdf\ngithub: https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano\n\nmemn2n.py is modified by https://github.com/fchollet/keras/blob/master/examples/babi_memnn.py\n", 
-  "id": 52674595
-}

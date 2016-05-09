@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557676, 
-  "description": "GAP Safe Screening Rules for Sparse-Group Lasso.", 
-  "README.md": "# GAP Safe Screening Rules for Sparse-Group-Lasso\nSee http://arxiv.org/abs/1602.06225\n\nIn this repository, we propose an efficient implementation to solve the\nSparse-Group-Lasso (with optional elastic net regularization) using a block\ncoordinate descent algorithm with safe screening rules.\n\nExamples on synthetic dataset are presented in examples.ipynb (example.py for a\npure python version).\n\nThis package has the following requirements:\n\n- Python (version 2.7)\n- Cython\n- Numpy (tested with version 0.16)\n- Scipy (at least version 0.16.1)\n\nWe recommend to install or update anaconda (at least version 0.16.1).\n\nThe compilation proceed as follows:\n\n- $ cython sgl_fast.pyx\n- $ python setup.py build_ext --inplace\n", 
-  "id": 52092124
-}

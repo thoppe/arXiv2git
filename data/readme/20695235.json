@@ -1,6 +1,0 @@
-{
-  "README": "Author: Gary Foreman\nemail: gforema2@illinois.edu\nReference: Bekki & Chiba (2005)\nhttp://arxiv.org/abs/astro-ph/0412318\n\nImplementation of the three body orbits calculation for the Milky Way, \nLarge Magellanic Cloud (LMC), and Small Magellanic Cloud. I perform integration\nover time using the KDK leapfrog algorithm. Initialization parameters are \noutlined in the paper by Bekki & Chiba referenced above, and can be found in the\nconstants.py file. accelerate.py contains functions used to compute the \naccelerations on the LMC and SMC based on both gravitational potential and\ndynamical friction. leapfrogKDK.py contains the actual implementation of the \nleapfrog algorithm. driver.py runs the orbits calculation and outputs the\norbits.dat file. plot.py generates a plot from the orbits.dat file (see Figure 2\nof Bekki & Chiba for comparison).\n\nRequired python libraries:\nmatplotlib.pyplot\nnumpy \nscipy.optimize\n", 
-  "read_at": 1462547349, 
-  "description": "orbits calculation for two of the Milky Way's satellite galaxies", 
-  "id": 20695235
-}

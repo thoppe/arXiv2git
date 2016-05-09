@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549972, 
-  "README.org": "#+TITLE: ArXiv-open [[https://aur.archlinux.org/packages/arxiv-open/][https://img.shields.io/badge/AUR-1.0.0--2-blue.svg]]\n\nA small script to open arXiv links of the form ~arxiv:xyz~ and ~arXiv:xyz~ by\nopening the appropriate page in the browser.  The desktop entry introduces the\nappropriate ~x-scheme-handler~ so that arXiv links can be handled system wide.\n\nAlthough not standard, it also supports links of the form ~arxiv://xyz~ and\n~arXiv://xyz~.\n", 
-  "description": "A simple script and desktop entry to handle arXiv links.", 
-  "id": 47314403
-}

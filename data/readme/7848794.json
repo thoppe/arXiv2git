@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551245, 
-  "description": "convert document identifiers such as DOI, ISBN, arXiv ID to bibliographic reference.", 
-  "README.md": "citation-resolve\n================\n\n[![Build Status](https://travis-ci.org/nushio3/citation-resolve.png?branch=master)](https://travis-ci.org/nushio3/citation-resolve)\n\n\nconvert document identifiers such as DOI, ISBN, arXiv ID to bibliographic reference.\n\n```\nghci> ref <- resolveDef \"arXiv:1204.4779\"\nghci> title ref\n\"Paraiso: an automated tuning framework for explicit solvers of partial differential equations\"\nghci> containerTitle ref\n\"Computational Science and Discovery\"\n```\n\n\nThis program requrires command-line tool `xsltproc` to parse XML (to resolve ISBN).\n\ncf. http://crosscite.org/cn/ for citation resolve mechanism.\n", 
-  "id": 7848794
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462510920, 
-  "description": "Affine invariant MCMC in R", 
-  "README.md": "# Affine Invariant MCMC Sampling in R\n\n(c) 2012 Brendon J. Brewer. LICENCE: GNU GPL 3 (see LICENCE file)\n\nFor a description of the algorithm, see the following papers:\n\nhttp://arxiv.org/abs/1202.3665 (Foreman-Mackey et al 2012)\n\nGoodman, J. & Weare, J., 2010, Comm. App. Math. Comp. Sci., 5, 65\n\nI'm also using this to practice R.\n\n", 
-  "id": 4231057
-}

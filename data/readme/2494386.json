@@ -1,6 +1,0 @@
-{
-  "README": "Long story made short :\n\nStarting point is an article from P Rowlands available on arxiv :\nhttp://arxiv.org/abs/quant-ph/0301071\nSome articles from Jose B. Almeida are on Arxiv and give more hints.\n\nThe CAS library is sympy.\n\nCode works on Debian Wheezy\nCode works on Mac OS X Tiger (10.4.11) with fink distribution for python (2.7.5) and latex (pdfTeX 3.1415926-2.3-1.40.12 (TeX Live 2011/Fink) )\n\ngit clone https://github.com/jdekozak/dirac5d.git\ncd dirac5d\ngit submodule init\ngit submodule update\npython ./dirac5d.py\n\nDetails :\n\n1/ Is it possible to write the Dirac equation with geometric algebra ?\n2/ Is it possible to write the Dirac equation with a geometric algebra over the reals and NOT the complex ?\n3/ Is it possible to find solutions of the Dirac equation without the classical physical assumptions (eg. mass is a positive real) ?\n\nThen,\n=> Are results from the classic Dirac equation still valid ?\n=> Are there any new results with this approach ?\n", 
-  "read_at": 1462547468, 
-  "description": "The Dirac equation with 5 dimensions.", 
-  "id": 2494386
-}

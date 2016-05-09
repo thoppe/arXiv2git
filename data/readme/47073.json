@@ -1,6 +1,0 @@
-{
-  "README": "Dohp aims to be a very efficient implementation of the hp-version of the\nfinite element method.  It exploits the tensor product structure of\nnodal bases on hexahedra to significantly reduce the memory requirements\nand computational cost compared to low-order elements.  It typically\nforms a preconditioning matrix using an embedded Q1 discretization,\nwhich is much sparser than Q2 elements. Preliminary results show that\nmemory and solver runtime for arbitrary order (2-10 or so) is half that\nrequired by a standard Q2 approximation. The methods are summarized in\n[1] and Dohp is used to solve nonlinear eigenproblems in [2].\n\nDohp currently depends on development versions of PETSc [3] and MOAB [4].\nAdditionally, some tests depend on SymPy [5] to manufacture the forcing\nterms for exact solutions.\n\nIf you are interested in Dohp, please let me know (jed at 59A2 dot org)\nand I'll fill you in on the design and how to get it installed (and\nupdate this README).\n\n[1] http://dx.doi.org/10.1007/s10915-010-9396-8\n[2] http://dx.doi.org/10.1007/s10915-011-9540-0 or http://arxiv.org/pdf/1011.3172v2\n[3] http://mcs.anl.gov/petsc\n[4] http://trac.mcs.anl.gov/projects/ITAPS\n[5] http://sympy.org\n", 
-  "read_at": 1462557293, 
-  "description": "dual order hp finite element", 
-  "id": 47073
-}

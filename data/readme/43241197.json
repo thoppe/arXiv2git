@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548734, 
-  "description": "docker_neural-style", 
-  "README.md": "This is a implementation of the paper\n\"A Neural Algorithm of Artistic Style\" by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge\n[http://arxiv.org/abs/1508.06576](http://arxiv.org/abs/1508.06576)\n\nSource code by jcjohnson\n[https://github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)\n\nDocker image by kChen\n[https://hub.docker.com/r/kchentw/neural-style/](https://hub.docker.com/r/kchentw/neural-style/)\n\n# Setup\n```bash\ndocker pull kchentw/neural-style\n```\n\n# Run\n```bash\ncd ~/neural-style\nth neural_style.lua -gpu -1 -style_image  <image.jpg> -content_image <image.jpg>\n```\n\n", 
-  "id": 43241197
-}

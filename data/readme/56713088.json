@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548133, 
-  "description": "", 
-  "README.md": "# big_deep_simple_mlp\nAttempt to use TensorFlow to reproduce the Big, Deep, Simple MLP \n\nhttp://arxiv.org/pdf/1003.0358.pdf\n\n\nUsing infinimist to generate the data\n\nhttp://leon.bottou.org/projects/infimnist\n\n<pre>\ncd infimnist\n./infimnist pat 10000 8109999 > mnist8m-patterns-idx3-ubyte\n./infimnist lab 10000 8109999 > mnist8m-labels-idx1-ubyte\n\n./infimnist pat 10000 810999 > mnist800k-patterns-idx3-ubyte\n./infimnist lab 10000 810999 > mnist800k-labels-idx1-ubyte\n\n./infimnist pat  0 9999 > mnist10k-patterns-idx3-ubyte\n./infimnist lab 0 9999 > mnist10k-labels-idx1-ubyte\n\ngzip mnist*\nmv mnist*gz ..\ncd ..\n</pre>\n\n\n\n\n\n\n", 
-  "id": 56713088
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554229, 
-  "description": "Fast thresholded correlation mattices", 
-  "README.md": "# tcor\nAn R package for fast and memory-efficient computation of thresholded correlation matrices\n\nA preprint of the companion note is available from http://arxiv.org/abs/1512.07246.\n\n\n## Installation\n\nThe package depends on the \n`irlba` (https://cran.r-project.org/web/packages/irlba/)\nand  `foreach` (https://cran.r-project.org/web/packages/foreach/)\npackages, each available on CRAN.\nYou can install `tcor` using the `devtools` package\n(https://cran.r-project.org/web/packages/devtools/) with:\n```r\ndevtools::install_github(\"bwlewis/tcor\")\n```\n\nThe algorithm can optionally make use of `foreach` parallel \"back-ends.\" Many\nare available, including `doMC`, `doParallel`, and `doRedis`. See the CRAN high\nperformance computing task view for more info\nhttps://cran.r-project.org/web/views/HighPerformanceComputing.html.\n\n## Example\n\nSee the vignette https://github.com/bwlewis/tcor/blob/master/vignettes/brca.Rmd\nfor an example that uses tcor to compute the most correlated gene expression\nvectors from TCGA RNASeq data.\n", 
-  "id": 47006731
-}

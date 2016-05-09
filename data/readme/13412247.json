@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550538, 
-  "description": "Judged dataset for NER in scientific documents", 
-  "README.md": "Scientific Named Entity Recognition (NER) Dataset\n-------------------------------------------------\n\n*Judged dataset for NER in scientific documents*\n\nDataset contains the folowing files:\n\n* `SIGIR_judged.csv` - Judged n-grams for SIGIR 2012 Collection, in the format `n-gram,paper title,IS_VALID`, where `IS_VALID` can be either 0 or 1\n* `Physics_judged.csv` - Judged n-grams for Physics (arxiv HEP-PH) Collection, in the format `n-gram,arxiv ID,IS_VALID`, where `IS_VALID` can be either 0 or 1\n* `maxent_last20.csv` - Entities extracted from SIGIR collection by Maximum Entropy classifier, without judgements. Judgements are location in `SIGIR_judged.csv`.\n\n\n", 
-  "id": 13412247
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556175, 
-  "description": "Simulation of active self-assembly using an insertion primitive.", 
-  "README.md": "# insertionsystems\nSimulation of active self-assembly using an insertion primitive.\n\nAlgorithms and models based on the following technical papers:\n\n[1] C. Malchik, A. Winslow, \"Tight bounds for active self-assembly using an insertion primitive\",\n    Proceedings of the 22nd European Symposium on Algorithms (ESA), 677-688, 2014.\n\n[2] B. Hescott, C. Malchik, A. Winslow, \"Tight bounds for active self-assembly using an insertion primitive\",\n    to appear in Algorithmica, 2015.\n\n[3] B. Hescott, C. Malchik, A. Winslow, \"Tight bounds for active self-assembly using an insertion primitive\",\navailable on arXiv at http://arxiv.org/abs/1401.0359\n\n", 
-  "id": 44929414
-}

@@ -1,7 +1,0 @@
-{
-  "project": [
-    "whym/scluster", 
-    "welcheb/s_t_graph_min_cut_with_spectral_clustering"
-  ], 
-  "citation": []
-}

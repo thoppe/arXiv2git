@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547675, 
-  "description": "Lasagne code for weight normalization", 
-  "README.md": "# weight_norm\nLasagne code for \"Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks\": http://arxiv.org/abs/1602.07868\n", 
-  "id": 55340710
-}

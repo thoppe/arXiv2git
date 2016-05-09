@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552210, 
-  "description": "A small DLX based Sudoku Solver in Ruby. Comes with a general purpose DLX implementation", 
-  "README.md": "Ruby DLX Based Sudoku Solver\n----------------------------\n\nThis is a small DLX based sudoku solver made in Ruby. DLX, or Dancing Links X is an algorithm for solving exact cover problems by brute force, taking advantage of a clever way of juggling around with the pointers in a sparse matrix of doubly linked list.\n\nThe original paper is available at [arxiv.org](http://lanl.arxiv.org/pdf/cs/0011047).\n\nThe two important files in this repository is dlx.rb - a general implementation of the DLX constraint solving algorithm, and sudoku_solver.rb - which does the setup of the sparse matrix for a given sudoku and translates from the dlx result to a sudoku solution.\n\nThe solver (extracted into a C extension) is used to generate the sudokus at my simple [sudoku challenge](http://sudoku.mathias-biilmann.net) challenge page.\n", 
-  "id": 212856
-}

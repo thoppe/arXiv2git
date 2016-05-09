@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556678, 
-  "description": "Dagger - An implementation of Dataset Aggregation", 
-  "README.md": "Dagger - Dataset Aggregation for Learning to Search\n===\n\nA learning implementation of \"A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning\" (https://arxiv.org/abs/1011.0686).\n\n", 
-  "id": 58104344
-}

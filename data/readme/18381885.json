@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550603, 
-  "description": "FML Arxiv", 
-  "README.txt": "Arxiver, A tool for learning your paper preferences.\n\nAuthors: Joseph McDonald and Steven Delong\n###################################################\n\n\nTo run this script, enter\n\npython Arxiver.py\n\nat the command line.  This will prompt you to set up Arxiver objects\nor update those that have already been created.  Each Arxiver object\ndeals with any number of specified subjects and subcategories within\nthose subjects. Each Arxiver has a separate algorithm which it\ntrains indepdentently of other Arxiver objects that may have been created.\n\n\n", 
-  "id": 18381885
-}

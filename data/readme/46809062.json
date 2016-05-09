@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554115, 
-  "description": "Convert arxiv's subset of LaTeX to UTF8", 
-  "README.md": "# arxiv-latex-to-utf8\n\nConvert arxiv's subset of LaTeX to UTF8, see [here](https://arxiv.org/help/prep).\n", 
-  "id": 46809062
-}

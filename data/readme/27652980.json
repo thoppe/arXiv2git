@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557135, 
-  "description": "Towards stability and optimality in stochastic gradient descent", 
-  "README.md": "# Stability and optimality in stochastic gradient descent\n\nThis is the accompanying code implementation of the methods and algorithms\nfor a paper in progress.\n\n## Maintainer\n* Dustin Tran \\<dtran@g.harvard.edu\\>\n\n## References\n* Francis Bach and Eric Moulines. Non-strongly-convex smooth stochastic\n  approximation with convergence rate O(1/n). *Advances in Neural Information\n  Processing Systems*, 2013.\n* Jerome Friedman, Trevor Hastie, and Robert Tibshirani. Regularization paths\n  for generalized linear models via coordinate descent. *Journal of Statistical\n  Software*, 33(1):1-22, 2010.\n* Rie Johnson and Tong Zhang. Accelerating stochastic gradient descent using\n  predictive variance reduction. *Advances in Neural Information Processing\n  Systems*, 2013.\n* David Ruppert. Efficient estimations from a slowly convergent robbins-monro\n  process. Technical report, Cornell University Operations Research and\n  Industrial Engineering, 1988.\n* Wei Xu. Towards optimal one pass large scale learning with averaged stochastic\n  gradient descent. *arXiv preprint\n  [arXiv:1107.2490](http://arxiv.org/abs/1107.2490)*, 2011.\n", 
-  "id": 27652980
-}

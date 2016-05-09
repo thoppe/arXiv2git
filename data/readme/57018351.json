@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547807, 
-  "description": "Squeeze using mxnet", 
-  "README.md": "# SqueezeNet\nSqueeze using mxnet\n\nSqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size   \nhttp://arxiv.org/abs/1602.07360\n", 
-  "id": 57018351
-}

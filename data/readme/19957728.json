@@ -1,6 +1,0 @@
-{
-  "README": "=========\noverheard         \n=========\n\nOverheard is the code that runs the @OverheardOnAph twitter feed.  It\ndownloads all of the new arxiv.org postings for the day and scrapes\ncomments from the LaTeX source files.\n\nFor more information:\nhttp://pypi.python.org/pypi/overheard\n\nFor the source code:\nhttp://github.org/overheard\n\nRequirements\n============\n\nPasses tests on 2.5, 2.6, 2.7, \nPasses tests on 3.2, 3.3, 3.4\n\nPython 2.5, 2.6 picks up dependency on unittest2 (for tests)\nPython 2.5, 2.6, 3.1 picks up dependency on argparse\n\nOn 3.1, doesn't find tests...\n\nInstallation\n============\n\nUsage\n=====\n\nLicense\n=======\n\nThe code is released under the MIT license, so you should be able to\ndo whatever you want with it.  \n\nIf you incorporate this code into a larger project, I would appreciate\nit if you send me a note at greg.novak@gmail.com\n", 
-  "read_at": 1462546745, 
-  "description": "Code to run Overheard on Astro-ph twitter feed.  ", 
-  "id": 19957728
-}

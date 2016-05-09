@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554147, 
-  "description": "Fast Computation of Empirically Tight Bounds for the Diameter of Massive Graphs in C++ based on http://arxiv.org/abs/0904.2728", 
-  "README.md": "# GraphDiameterApproximator\n", 
-  "id": 45485980
-}

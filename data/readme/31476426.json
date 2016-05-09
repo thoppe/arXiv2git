@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551902, 
-  "description": "a simple script to assist in making a clean directory to upload to arxiv", 
-  "README.md": "# clean-latex-to-arxiv\n\na simple script to assist in making a clean directory to upload to arxiv\n\nusage:\n    python parxiv.py file.tex\n\nthis will make arxiv-somelongdatestring with\n\n  - file_strip.tex (where includegraphics paths are stripped)\n  - file_strip.bbl (you should have teh .bbl file already)\n  - all figures\n", 
-  "id": 31476426
-}

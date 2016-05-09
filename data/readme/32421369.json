@@ -1,6 +1,0 @@
-{
-  "read_at": 1462544656, 
-  "description": "Ubuntu Dialog Corpus ", 
-  "README.md": "#### Description\nThis repository contains the source code to extract the dialogs used in the following paper:\n\n*The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems [arXiv:1506.08909](http://arxiv.org/abs/1506.08909).*\n\n##### Dependencies\n* Postgresql\n* Enchant\n* PyPy (pyenchant, psycopg2)\n* NodeJS (bluebird, knex, mkdirp)\n\n##### Create database\n```\npsql -d template1\n> create database ubuntu;\n```\n\n##### Process corpus (~5min)\n```\n# ln -s /path/to/ubuntu/corpus data\n# node createTable.js\n# pypy main.py\n```\nThis produces a file `ubuntu.sql`\n\n##### Load corpus into postgres (~5min)\n```\n# psql -d ubuntu\n> copy messages from '/tmp/ubuntu.sql';\n```\n\n##### Add indexes (~20min)\n```\n# node createTable.js index\n```\n\n##### Extract dialogs (~8hrs)\n```\n# node extractDialogs.js nicks.txt\n```\n", 
-  "id": 32421369
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556044, 
-  "description": "This attempts to implement [grid lstm](http://arxiv.org/abs/1507.01526).", 
-  "README.md": "# grid-lstm\nThis attempts to implement [grid lstm](http://arxiv.org/abs/1507.01526).\n\nUploading to discuss and find help.\n\nCurrently implements only the 1-D grid LSTM.\n", 
-  "id": 43667298
-}

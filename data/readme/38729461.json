@@ -1,7 +1,0 @@
-{
-  "README": "Files to LSST Overview paper, v1.0. Lower\nresolution figures for astro-ph version are\nprovided separately.   (ZI, May 15, 2008)\n\nTo compile:\n\n> latex lsst; latex lsst; \n> dvips -Ppdf -o lsst.ps lsst.dvi\n> ps2pdf14 lsst.ps overview_v1.0.pdf\n\n> latex lsst; latex lsst; dvips -Ppdf -o lsst.ps lsst.dvi; ps2pdf14 lsst.ps overview_v1.0.pdf\n\n", 
-  "read_at": 1462546198, 
-  "description": "Latex and figures for LSST overview paper ", 
-  "README.md": "LSST overview paper, available as\nhttp://arxiv.org/abs/0805.2366\n\nMaster branch gives the latest version (the same as posted to arXiv)\n\nReferences are done manually (with bibitem list at the end of lsst.tex)\n\nTo compile and make lsst.pdf:\n> pdflatex lsst\n\nPlease send questions and comments to Zeljko Ivezic (ivezic@astro.washington.edu)\n", 
-  "id": 38729461
-}

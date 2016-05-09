@@ -1,6 +1,0 @@
-{
-  "read_at": 1462544725, 
-  "description": "Notebooks for generating on-shell mediator photon spectra from PPPC4DMID. [Mathematica]", 
-  "README.txt": "README.TXT\n19 March 2015\n\nThese are Mathematica files to accompany \n\"On-Shell Mediators and Top--Charm Dark Matter Models for the FERMI Galactic Center Excess\"\nRajaraman, Smolinsky, Tanedo\narXiv:1503.xxxxx\n\nThe main file is PPPCMachine.nb\nSee the header text for information.\nThe other files organize batch runs to generate spectra for on-shell mediators.\n\nPPPCPlotter_01.nb takes the results and makes pretty plots.\nIf you only care about how to make pretty plots in Mathematica, you can look at that file.\n\nIf you use any of them, please, please, please cite that work.\nIt's good karma. It also incentivizes open science.\n\nAs always, please feel free to submit errors/suggestions either directly or through GitHub.\n\nThanks,\nFlip\nflip.tanedo@uci.edu", 
-  "id": 32540016
-}

@@ -1,6 +1,0 @@
-{
-  "id": 46953134, 
-  "read_at": 1462554185, 
-  "README.tex": "This is an implementation of the adaptive statistical methods in:\n Dwork, et al. 2015, here: http://arxiv.org/pdf/1506.02629v2.pdf\n\nand Bassily et. al. 2015, here: http://arxiv.org/pdf/1511.02513v1.pdf\n\n\n", 
-  "description": ""
-}

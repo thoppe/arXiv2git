@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554885, 
-  "description": "Implementation of UFCNN in Keras", 
-  "README.md": "# ufcnn-keras\nImplementation of UFCNN (Undecimated Fully Convolutional Neural Network) in Keras (http://keras.io).\n\nBased on the arXiv:1508.00317v1 \\[stat.ML\\] (Time-series modeling with undecimated fully convolutional neural networks) by Roni Mittelman. \n", 
-  "id": 52892791
-}

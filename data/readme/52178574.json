@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557612, 
-  "description": "experiments on nmf and sparse autoencoding", 
-  "README.md": "# dap\nexperiments on nmf and sparse convex autoencoding\n\nWe use the ionosphere dataset (https://archive.ics.uci.edu/ml/datasets/Ionosphere) to test \nthe efficacy of a new algorithm for sparse convex autoencoding described in the following paper:\nhttp://arxiv.org/abs/1507.02574\n\nWe then compare this algorithm with standard algorithms for convex NMF.\n", 
-  "id": 52178574
-}

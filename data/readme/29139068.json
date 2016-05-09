@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551732, 
-  "description": "A cloud application framework to plug-in auto-scaling logic and experimentally evaluate controllers in a feedback control loop on platform as a service environment", 
-  "README.md": "# ElasticBench\nA cloud application framework (written with Microsoft .NET 4.5 and Azure 2.5  technologies) to plug-in auto-scaling logic (or any cloud controller) and experimentally evaluate controllers in a feedback control loop on platform as a service environment. Note that this framework can be easily customized for other cloud platforms such as Amazon AWS, Google Cloud Platform or IBM Bluemix.\n\nFor more information please refer to: http://arxiv.org/abs/1507.00567\n\nFor questions or comments regarding scientific part or technical implementation, please contact pooyan.jamshidi~at~gmail.com.\n", 
-  "id": 29139068
-}

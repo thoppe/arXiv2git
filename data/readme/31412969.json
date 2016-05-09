@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551960, 
-  "description": "Scan over 4d reflexive polytopes for singularities", 
-  "README.md": "Scan over 4d reflexive polytopes for singularities\n==================================================\n\nThis code implements the ideas in\n[arXiv:1201.5379](http://arxiv.org/abs/arXiv:1201.5379) for searching\nover four dimensional reflexive polytopes, classified by Kreuzer and\nSkarke (datafiles available [here](http://hep.itp.tuwien.ac.at/~kreuzer/CY/)).", 
-  "id": 31412969
-}

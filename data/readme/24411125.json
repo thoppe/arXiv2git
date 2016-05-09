@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558220, 
-  "description": "R implementation of the algorithm for unfolding graph communities with resolution as described in http://arxiv.org/abs/0812.1770v3.", 
-  "README.md": "Communities-Detection\n=====================\n\nR implementation of (slightly modified) algorithm for unfolding graph communities with resolution as described in http://arxiv.org/abs/0812.1770v3 .\n\nTo use the algorithm prepare a matrix of (nonnegatively weighted) vertex incidence with rownames or paired data (matrix or table) consisting of 3 columns of the form (node1,node2,weight). Then run the function Communities_Resolution /see the description alongside the code/.\n", 
-  "id": 24411125
-}

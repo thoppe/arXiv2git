@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549256, 
-  "description": "Source code for the paper on inexact Krylov iterations with FMM BEM", 
-  "README.md": "fmm-bem-relaxed\n=======\nResearch code implementing a fast-multipole boundary element method (BEM), in multi-threaded C++, used for the results in the paper:\n\n*Inexact Krylov iterations and relaxation strategies with fast-multipole boundary element method*\n\nPreprint on [arXiv:1506.05957](http://arxiv.org/abs/1506.05957)\n\nManuscript source files at [https://github.com/barbagroup/inexact-gmres](https://github.com/barbagroup/inexact-gmres)\n", 
-  "id": 36938021
-}

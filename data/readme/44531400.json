@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556164, 
-  "description": "Massive MIMO", 
-  "README.md": "Massive MIMO with 1-bit ADC\n===========================\nThis is a code package is related to the follow scientific article:\n\nRisi C, Persson D, Larsson E G. \"[Massive MIMO with 1-bit ADC](http://arxiv.org/pdf/1404.7736.pdf)\". Eprint Arxiv, 2014.\n\nThe package contains a simulation environment, based on Matlab, that reproduces all the numerical results and figures in the article. *We encourage you to also perform reproducible research!*\n\n", 
-  "id": 44531400
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552323, 
-  "description": "This is the code used for both the simulations and field trials in the paper Adaptive Planning for Depth Constrained Bathymetric Mapping with an Autonomous Surface Vessel, as submitted to the Journal for Field Robotics and self archived on Arxiv (http://arxiv.org/abs/1603.06324). If you find it useful in your research please cite the arxiv article.", 
-  "README.md": "# ASV-Autonomous-Bathymetry", 
-  "id": 50460926
-}

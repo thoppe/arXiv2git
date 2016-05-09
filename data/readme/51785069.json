@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557453, 
-  "description": "", 
-  "README.md": "This repository contains the code that was used for the Sequential\nMNIST, Penn Treebank and text8 experiments in the paper Recurrent\nBatch Normalization (http://arxiv.org/abs/1603.09025).  For the\nAttentive Reader, see\nhttps://github.com/cooijmanstim/Attentive_reader/tree/bn.\n\nThe `experiments` directory contains shell scripts that demonstrate\nhow to launch the experiments with the hyperparameters from the paper.\n\nDepends on [Theano](https://github.com/Theano/Theano), [Blocks](https://github.com/mila-udem/blocks) and [Fuel](https://github.com/mila-udem/fuel).\n\nOther implementations:\n- https://github.com/fchollet/keras/pull/2183\n- https://github.com/iassael/torch-bnlstm\n", 
-  "id": 51785069
-}

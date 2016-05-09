@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549111, 
-  "description": "An heuristic solver for the game Clickomania/SameGame/...", 
-  "README.md": "Clickomania-heuristic-solver\n============================\n\nAn heuristic solver for the game Clickomania.\n\nPlayable game can be found on ClickomaniaGUI folder.\n\nFor more information about this game consult http://arxiv.org/pdf/cs/0107031.pdf\n", 
-  "id": 8524230
-}

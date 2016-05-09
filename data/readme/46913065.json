@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554196, 
-  "description": "Stochastic optimization algorithms in Julia", 
-  "README.md": "# StochasticOpt.jl\nStochastic optimization algorithms in Julia\n\n# Algorithms to implement\n\n- [ ] **Stochastic Gradient Descent**\n- [ ] **ADAM** http://arxiv.org/pdf/1412.6980v8.pdf\n", 
-  "id": 46913065
-}

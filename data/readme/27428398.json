@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557169, 
-  "description": "2D image depth management ", 
-  "README.md": "depth\n=====\n\n2D image depth management \n\n## Placeholder for one of the next projects\n\nReferences\n\n* http://depthy.me/#/\n* http://googleresearch.blogspot.it/2014/04/lens-blur-in-new-google-camera-app.html\n* http://en.wikipedia.org/wiki/Miniature_faking\n* http://android.wonderhowto.com/how-to/turn-your-google-camera-lens-blur-photos-into-parallax-images-0154548/\n* http://www.photoshopessentials.com/photo-effects/creative-focus/\n* http://en.wikipedia.org/wiki/Depth_map\n* http://www.cs.cornell.edu/~asaxena/learningdepth/\n* http://ai.stanford.edu/~ang/papers/ijcv07-monocular3dreconstruction.pdf\n* http://cs.brown.edu/courses/cs129/lectures/29.pdf\n* http://papers.nips.cc/paper/2921-learning-depth-from-single-monocular-images.pdf\n* http://www.sjzhuo.net/defocusEstimation/\n* http://arxiv.org/abs/1406.2283\n* http://graphics.cs.msu.ru/en/node/639\n\n\n\n\n", 
-  "id": 27428398
-}

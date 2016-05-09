@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551400, 
-  "description": "Contain some source code for GAMESS with modifications to carry out FMO-MP2:RHF calculations as described in Christensen et al. (2013) arXiv:1305.0676.", 
-  "README.md": "This repository contains the necessary modification for a standard GAMESS download to carry out FMO-MP2:RHF calculations. \n\nSee Christensen et al. (2013) arXiv:1305.0676.\n\nCopy the file from the source/ directory in this github page into the gamess/source directory for the GAMESS version you've downloaded from: http://www.msg.ameslab.gov/gamess/ Then compile as you would normally do.\n", 
-  "id": 15335396
-}

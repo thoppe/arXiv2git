@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555170, 
-  "description": "", 
-  "README.md": "# Single Image Haze Removal \nby Yilin Yang & Shiyu Dong\n\n## DarkChannel\n> He K, Sun J, Tang X. Single image haze removal using dark channel prior[J]. Pattern Analysis and Machine Intelligence, IEEE Transactions on, 2011, 33(12): 2341-2353.\n\nRun \"run.m\" to remove haze on example images  \nUse function dehaze(I) in \"dehaze.m\" for any input image  \nThe parameters are defined in \"dehaze.m\"  \n\n## DehazeNet\n> Cai B, Xu X, Jia K, et al. DehazeNet: An End-to-End System for Single Image Haze Removal[J]. arXiv preprint arXiv:1601.07661, 2016.\n\nRun \"Dehaze.sh\" or \"dehaze.py\", \"dehaze.m\" to remove haze on example images  \nThe training and test patches are in folder \"patches\"  \nThe training and test labels are in \"TrainLabels.txt\" and \"TestLabels.txt\"  \nRun \"train.sh\" to train DehazeNet  \nRun \"test.py\" to calculate MSE on synthesized test data\n\n## Data\nSome images for haze removal\n\n## Results\nThe results of example images using Dark Channel and DehazeNet\n", 
-  "id": 54338255
-}

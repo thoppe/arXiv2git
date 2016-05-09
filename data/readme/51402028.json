@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557728, 
-  "description": "Page-view downloader and analyser", 
-  "README.md": "# Wikipedia page view scraper\n\npageview is a library for extracting and processing page view data from the wikimedia dumps[1].\n\nThe current version includes a downloader and an analyser for page-view information, based on [2].\n\n### Language\nPython 2.7\n\n### Dependencies\nFor downloading page view data: dateutils, dateparser, pycountry\nFor analysis of page view data: numpy, scipy, matplotlib, pycountry\n\n### Author\nMarijn ten Thij\n\n### References\n[1] dumps.wikimedia.org/other/pagecounts-raw/\n\n[2] Modelling page-view dynamics on Wikipedia, ten Thij et al. (ECCS 2013), http://arxiv.org/abs/1212.5943", 
-  "id": 51402028
-}

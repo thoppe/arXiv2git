@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551618, 
-  "description": "Gaussian process active optimization", 
-  "README.txt": "GPAO: Gaussian process-based active optimization\n\nCode extracted from Memming's active optimization project:\n\n    Il Memming Park, Marcel Nassar, Mijung Park. Active Bayesian Optimization: Minimizing Minimizer Entropy. arXiv:1202.2143v1 (2012)\n\nRequires GPML:\nhttp://www.gaussianprocess.org/gpml/code/\n", 
-  "id": 29892711
-}

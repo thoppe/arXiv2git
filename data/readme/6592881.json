@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547437, 
-  "description": "Some explorations into lattice qcd ", 
-  "README.md": "qcd\n===\n\nSome explorations into lattice qcd. And a chance to learn more about Monte Carlo simulations.\n\nSource for QCD stuff:\nG. Lepage, \"Lattice QCD For Novices\", [arXiv:hep-lat/0506036]\n\nSource for Monte Carlo stuff:\nI. Sobol, \"A Primer for the Monte Carlo Method\"\nH. Katzgraber, \"Introduction to Monte Carlo Methods\", [arXiv:0905.1629]\nS. Weinzierl, \"Introduction to Monte Carlo methods\",[arXiv:hep-ph/0006269]\n", 
-  "id": 6592881
-}

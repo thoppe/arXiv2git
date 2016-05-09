@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558166, 
-  "description": "Linear Transformations for multilayer-perceptron neural networks", 
-  "README.md": "ltmlp-neuralnet\n===============\n\nLinear Transformations for multilayer-perceptron neural networks, described in paper\n\n*Pushing stochastic gradient towards second-order methods-backpropagation learning with transformations in nonlinearities*\nT Vatanen, T Raiko, H Valpola, Y LeCun\nNeural Information Processing, 442-449\n\navailable online at \nhttp://arxiv.org/pdf/1301.3476.pdf\n", 
-  "id": 6471682
-}

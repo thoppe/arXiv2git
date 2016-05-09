@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543070, 
-  "description": "FIESTA Feynman integrator by A. Smirnov and M. Tentyukov", 
-  "README.md": "FIESTA stands for Feynman Integral Evaluation by a Sector decomposiTion\nApproach.\n\nFIESTA originated by A. Smirnov in collobaration with M. Tentyukov.\nThe current version of FIESTA is being developed together with V. Smirnov.\n\nFIESTA is written partially in Wolfram Mathematica and partially in C\n(former version also requires some Fortran code).\n\nFIESTA is distributed under the terms of GNU GPLv2.\n\nFIESTA is based on the sector decomposition approach to the numerical\nevaluation of Feynman integrals originally applied by G.Heinrich and T.Binoth\n(there is a public algorithm performing a similar task by C.Bogner and\nS.Weinzierl).\n\nA paper with FIESTA_1.0.0 is available from the Computer Physics\nCommunications site or arXiv:0807.4129.\n\nThe Speer sectors strategy is applicable only for a subclass of diagrams and\nto use it one requires to provide also the diagram structure; for details see\narXiv:0812.4700.\n\n", 
-  "id": 9731370
-}

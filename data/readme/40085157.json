@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545654, 
-  "description": "FitzHugh-Nagumo spatial model with nonlocal coupling", 
-  "README.md": "# FHN_nonlocal_coupling\nFitzHugh-Nagumo spatial model with nonlocal coupling [http://arxiv.org/abs/1311.6508] .\n\nToDo: \n- \n- [8th Sep 2015]: write in/out arrays to have a possibility to plot them later", 
-  "id": 40085157
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511181, 
-  "description": "The python code for PPS+", 
-  "readme.txt": "The Plus Component of PhyloPythiaS+ (the algbioi package)\n\nREQUIREMENTS\nTo run the python scripts, we require: \npython 2.7.3\nbiopython 1.64\nThe package is dependent on the tools and other files provided in the PPS+ distribution.\n\n\nPPS+ INTEGRATION\nThe package is used in the PPS+ distribution and located in:\n/apps/pps/tools/ppsplus/algbioi\n\n\nHOW TO RUN THE PIPELINE\nPlease consult the tutorial contained in the PPS+ distribution.\n\n\nDOCUMENTATION:\nGregor et al. (2014) PhyloPythiaS+: A self-training method for the rapid reconstruction of low-ranking taxonomic bins from metagenomes. Preprint. Available: arXiv:1406.7123v1.\n\n", 
-  "id": 24675970
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556178, 
-  "description": "EUV + IR electron spectroscopy in multi-level autoionizing systems", 
-  "README.md": "# EUV + IR electron spectroscopy in multi-level autoionizing systems\n\nThe codes calculates the atomic wave function in the frequency domain\nand the photoelectron spectrum of a multi-level autoionizing system with\nL = 0 and 1, driven by time-delayed EUV and IR pulses. The description\nof the scientific background, physical system, theory, example\ncalculation, analysis, and conclusion can be found in the paper:\n\nWei-Chun Chu, Toru Morishita, and C. D. Lin, \"Probing dipole-forbidden\nautoionizing states by isolated attosecond pulses\", Phys. Rev. A 89,\n033427 (2014). DOI:10.1103/PhysRevA.89.033427\n\nand a copy of the arXiv version (arXiv:1402.3128) can be found in this\nfolder.\n\n", 
-  "id": 45244469
-}

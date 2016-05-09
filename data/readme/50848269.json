@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557597, 
-  "description": "implementing / tinkering with method of moments estimators for multi-view models", 
-  "README.md": "# method-of-moments-tinker\nimplementing / tinkering with method of moments estimators for multi-view models\n\nCurrently incomplete!\n\nImplementing the algorithms described in: \"A Method of Moments for Mixture Models and Hidden Markov Models\" by A. Anandkumar, D. Hsu, and S.M. Kakade\nhttp://arxiv.org/abs/1203.0683\n", 
-  "id": 50848269
-}

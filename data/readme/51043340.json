@@ -1,6 +1,0 @@
-{
-  "id": 51043340, 
-  "read_at": 1462557361, 
-  "README.rst": "The first time you run, you should execute something like the following:\n\n.. code-block:: bash\n\n    python run.py -u 'http://export.arxiv.org/api/query?search_query=cat:astro-ph&max_results=2000&sortBy=lastUpdatedDate&sortOrder=descending'\n\nAfter that, you can just do the following every day:\n\n.. code-block:: bash\n\n    python run.py\n", 
-  "description": "What kind of day is it on the arxiv?"
-}

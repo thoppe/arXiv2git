@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552272, 
-  "description": "Call arXiv api. http://arxiv.org/help/api/user-manual", 
-  "README.md": "# arxiv-api\nCall arXiv api. http://arxiv.org/help/api/user-manual\n\n# Install & Try it\n\nAssume that `$GOPATH` is set and `$PATH` includes `$GOPATH/bin`.\n\n```\n$ go get github.com/sotetsuk/arxiv-api\n$ arxiv-api all:electron\n```\n\n# Usage\n\n```\n$ arxiv-api --help\nCall arXiv api. http://arxiv.org/help/api/user-manual\n\nUsage:\n  arxiv-api <query> [--id_list=<id_list>] [--start=<s>] [--max_results=<n>]\n  arxiv-api -h | --help\n  arxiv-api --version\n\nOptions:\n  --id_list=<id_list>    Id list (comma-delimited)\n  --start=<s>            Index of start [default: 0]\n  --max_results=<n>      Number of results [default: 10]\n  -h --help              Show this screen.\n  --version              Show version.\n```\n", 
-  "id": 50788537
-}

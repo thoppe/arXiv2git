@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553713, 
-  "description": "This is a c package for calculating the Luescher zeta function,the formula is refered to arXiv.org/1107.5023v2.", 
-  "README.md": "zetaFuncCal\n===========\n\nThis a c package for calculating the Luescher zeta function, formula refered to arXiv.org/1107.5023v2.\n\n20141111\n\nRunnig examples:\n\nwangzhanlin@InspironN4010:~/Workshop/test/gslTest/zetaFuncCal> time ./zetaFunc < input.para\n\nN                                       10\n\nl                                       0\n\nm                                       0\n\ndVec                                    0 0 0 \n\ngamma                                    1.000000\n\nLamda                                    1.000000\n\nqSqur                                    0.500000\n\nThe result of the zeta function:\n\nfirstPart  = 1.737523737145777680268566 +0.000000000000000000000000I,\n\nsecondPart = -1.425540419840700678832945 +0.000000000000000000000000I,\n\nthirdPart  = 0.000074730147082774763196 +0.000000000000000000000000I,\n\nzetaFunc   = 0.312058047452159759149737 +0.000000000000000000000000I.\n\nreal\t0m19.174s\n\nuser\t0m19.149s\n\nsys\t0m0.002s\n\n", 
-  "id": 26098382
-}

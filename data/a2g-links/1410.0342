@@ -1,7 +1,0 @@
-{
-  "project": [
-    "madeleineudell/LowRankModels.jl", 
-    "JuliaPackageMirrors/LowRankModels.jl"
-  ], 
-  "citation": []
-}

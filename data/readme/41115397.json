@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545628, 
-  "description": "RNN on MNIST (one pixel at a time) with Identity initialization", 
-  "README.md": "# Identity_RNN\nRNN on MNIST (one pixel at a time) with Identity initialization\n\n\nReference: \n\n\"A Simple Way to Initialize Recurrent Networks of Rectified Linear Units \"\n\nby Quoc V. Le, Navdeep Jaitly, Geoffrey E. Hinton\n\narXiv:1504.00941v2 [cs.NE] 7 Apr 201\n\nhttp://arxiv.org/pdf/1504.00941v2.pdf\n", 
-  "id": 41115397
-}

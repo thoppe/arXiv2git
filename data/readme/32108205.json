@@ -1,6 +1,0 @@
-{
-  "read_at": 1462544782, 
-  "description": "Tag-cloud drawing code", 
-  "README.md": "# Tag Cloud Drawing code \n\n\n\nThis is the code used for the following paper :\n\nOwen Kaser and Daniel Lemire, Tag-Cloud Drawing: Algorithms for Cloud Visualization. In proceedings of Tagging and Metadata for Social Information Organization (WWW 2007), 2007. http://arxiv.org/abs/cs.DS/0703109\n\n\nHave a look at our slides:\n\nhttp://www.slideshare.net/lemire/tagcloud-drawing-algorithms-for-cloud-visualization-presentation\n\n\n# Usage\n\nAt the same level of this README-TAGPLACMENT, there are\ndirectories \"floorplan-code\" and \"flat-tables\".\n\nMost items are in floorplan-code.  It has a README and\nsubdirectories for src, data and bin.\n\nIn src, the Makefile can also do some things involving flat-tables.\n\nIn floorplan-code/src, try\n     make\n     make placetest\n     make guttest\n     make classictest\n\nThe latter two require that your setup have Firefox and other things similar\nto ours...  The first two might work okay on any platform,\n\n\nAlso, there are  scripts that superficially extract \"keywords\" and their collocation information, determine bounding box sizes,   floorplan and then show the html\n", 
-  "id": 32108205
-}

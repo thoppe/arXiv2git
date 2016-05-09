@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547903, 
-  "description": "Difference Target Propagation ", 
-  "README.md": "# TargetProp\nDifference Target Propagation \n\nIndependent reimplementation according to http://arxiv.org/abs/1412.7525\n\nUsing MNIST loading routines from https://github.com/oxford-cs-ml-2015/practical3\n\n## Autoencoder with TargetProp\ndenoising_mnist.lua : BackProp training implementation for reference\n\ndenoising_mnist_targetprop.lua : TargetProp training implementation\n\nTo run use: `th <script-name>`\n", 
-  "id": 57378126
-}

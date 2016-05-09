@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555203, 
-  "description": "Exact algorithm for sampling from high dimensional Gaussian distributions with certain structure. The code is also available.", 
-  "README.md": "# Fast-Sampling-of-Gaussian-Posteriors\nWe propose an exact algorithm for sampling from high dimensional Gaussian distributions with certain structure. These structures routinely come up in many areas of Bayesian Statistical Inference. The algorithm is implemented with the Horseshoe prior in linear regression settings for the purpose of demonstration. The MATLAB code is available for public use. The paper is available at http://arxiv.org/abs/1506.04778.\n", 
-  "id": 53883059
-}

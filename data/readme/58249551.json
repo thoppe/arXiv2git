@@ -1,6 +1,0 @@
-{
-  "read_at": 1462826670, 
-  "description": "Generate results for the paper ", 
-  "README.md": "# SparseKmeans\nGenerate results for the paper Sparse K-Means with [?]/0 Penalty for High-Dimensional Data Clustering, written by Xiangyu Chang et al.\n  available here http://arxiv.org/abs/1403.7890\nAlso included codes of other algorithms for comparison\n\nFile description:\n  ALgorithm\\...\n    EM_estimate_mixture_Gaussian.R            -  EM algorithm \n    EM_estimate_mixture_Gaussian_UnitTest.R   -  EM algorithm Unit Test\n    L0_original.R                             -  L0 Sparse KMeans\n    L1_correction.R                           -  L1 Sparse KMeans\n    PCA_kmeans.R                              -  PCA KMeans\n  Experiments\\\n    Exp1_local.R      - Run experiment 1 locally (using 1 cpu)\n    Exp1_parallel.R   - Run experiment 1 parallelly (using many cpus)\n   \n", 
-  "id": 58249551
-}

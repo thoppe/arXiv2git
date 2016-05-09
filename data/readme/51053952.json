@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557424, 
-  "description": "Research code for \"Scalable Matting: A Sub-linear Approach\" arXiv:1404.3933 [cs.CV]", 
-  "README.md": "# Scalable Matting\n\nI don't remember how any of this works, but `loadProblem.m` and `getLevinLap.m`\nare a good place to start looking.\n", 
-  "id": 51053952
-}

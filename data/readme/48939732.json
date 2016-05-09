@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552410, 
-  "description": "LTE RACH realistic model", 
-  "README.md": "# LENA+\nThis is a version of the LTE-EPC Network simulAtor extended with a realistic RACH model. It is based on the ns-3 LTE module and backward compatible with it. \n\n## Install\nIn order to use the realistic RACH model replace the content of src/lte folder of ns-3 with this repository.\nThe realistic RACH model must be activated by adding \n\n\tConfig::SetDefault (\"ns3::LteHelper::UseIdealRrc\", BooleanValue (false));\n\tConfig::SetDefault (\"ns3::LteHelper::UseIdealPrach\", BooleanValue (false));  \n\nto your scenario script. \nMoreover up to now only PfFfMacScheduler is supported, therefore add also \n\n\tlteHelper->SetSchedulerType (\"ns3::PfFfMacScheduler\");\n\n## Results\nA paper with some experimental results obtained using the realistic RACH model was accepted for presentation at the IEEE ICC 2016 conference, May 23 -27, 2016, Kuala Lumpur, Malaysia, and can be found on arXiv: http://arxiv.org/abs/1601.05098\n", 
-  "id": 48939732
-}

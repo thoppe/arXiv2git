@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556081, 
-  "description": "Provides an easy to use wrapper for the Levenberg\u2013Markwardt fit algorithm provided by mpfit, see http://arxiv.org/abs/0902.2850", 
-  "README.md": "# ezfit\n", 
-  "id": 44129298
-}

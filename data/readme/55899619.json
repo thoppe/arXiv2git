@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547652, 
-  "description": "LSTM with associative memory cells (http://arxiv.org/abs/1602.03032)", 
-  "README.md": "![MILA Logo](/doc/MILA.png)\n\n# Associative Long Short-Term Memory (LSTM)\n\nA Blocks and Theano implementation of Associative LSTM ([arXiv](http://arxiv.org/abs/1602.03032)).\n\n\n## How to run\n\nTo test the Holographic Reduced Representations (HRR), run ```holographic_memory.py```.\n![HRR](/doc/hrr.png)\n\n\nTo get the results on eposodic copy task, run ```main.py```.\n![copy](/doc/copy.png)\n\n\n", 
-  "id": 55899619
-}

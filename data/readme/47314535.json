@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550093, 
-  "description": "Intermediate computations for the paper \"Optimal monotonicity--preserving perturbations of a given Runge-Kutta method\" by Inmaculada HIgueras and David I. Ketcheson", 
-  "README.md": "# Reproducibility repository for computations of optimal perturbations to Runge-Kutta methods\n\nIntermediate computations for the paper \"Optimal monotonicity--preserving perturbations of a given Runge-Kutta method\" by Inmaculada Higueras, David I. Ketcheson, and Tihamer A. Kocsis.\n\nSee manuscript at http://arxiv.org/abs/1505.04024.\n", 
-  "id": 47314535
-}

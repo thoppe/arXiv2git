@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554281, 
-  "description": "", 
-  "README.md": "# NeuralWalker\n\nThe code implements the neural encoder-aligner-decoder model for direction following task, described in paper \"Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences\" (Press the link http://arxiv.org/abs/1506.04089).\nThe paper will appear at AAAI-2016 (Oral) and also at NIPS-2015 Multimodal Machine Learning workshop (Oral).\n\nThe code is under final-testing and will show up soon...\n", 
-  "id": 47152844
-}

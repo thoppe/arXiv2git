@@ -1,7 +1,0 @@
-{
-  "project": [
-    "diogo149/theano_fractional_max_pooling", 
-    "AndrewDotson/StochasticPoolingRegionSelection"
-  ], 
-  "citation": []
-}

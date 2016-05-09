@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552573, 
-  "description": "Code for implementing DMD in an autoregressive setting", 
-  "README.md": "# Code for Dynamic Mirror Descent in an Autoregressive Setting\nThis repository contains code for implementing the DMD algorithm in an autoregressive setting. The repository contains the main code DMD_Autoregressive.m which takes as input the data, and autoregressive parameters, and outputs estimates of the state and loss profile of DMD. See comments in .m file for instructions on usage.\n\nAdditional files implement an example of this algorithm in action for dynamic textures. For details see our paper [arXiv 1307.5944](http://arxiv.org/abs/1307.5944). \n\n\n", 
-  "id": 49838202
-}

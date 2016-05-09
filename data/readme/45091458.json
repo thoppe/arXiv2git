@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556092, 
-  "description": "", 
-  "README.md": "# ArXiv-Paper-Extraction\n\nThis script extract the research papers for a given topic from the ArXiv Repository and saves them in the PDF format.\n", 
-  "id": 45091458
-}

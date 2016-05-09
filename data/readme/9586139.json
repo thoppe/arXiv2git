@@ -1,6 +1,0 @@
-{
-  "readme": "I am using cmake for compiling the requested binaries.\r\nYou can find already compiled binaries in /bin, or you can build them yourself.\r\nWhen running the binaries, please make sure you have enough memory space (some test cases require main+swap>=8G).\r\n\r\nStructure of current dir:\r\n.git/: contains version control informations.\r\nbin/: contains binary files, intermediate files for compiling, also a script and some cases for testing.\r\ninclude/: contains header files.\r\nsrc/: contains source files corresponding to header files.\r\n\r\nleapfrog.cpp: source file for compiling binary leapfrog.\r\nsortmerge.cpp: source file for compiling binary sortmerge.\r\nCMakeLists.txt: cmake config file.\r\nreadme: this file.\r\n\r\nHow to use the test_script:\r\n./test_script [num], to repeatly run the test for [num] times\r\nfor example, ./test_script 10\r\n", 
-  "read_at": 1462543051, 
-  "description": "Oxford Database System Implementation Assignment, 2013. The leapfrog triejoin algorithms is based on: http://arxiv.org/abs/1210.0481 ", 
-  "id": 9586139
-}

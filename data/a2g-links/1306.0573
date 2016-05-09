@@ -1,9 +1,0 @@
-{
-  "project": [
-    "navtejsingh/pix2sky", 
-    "navtejsingh/mccomplete", 
-    "navtejsingh/sky2pix", 
-    "navtejsingh/paralleldeconv"
-  ], 
-  "citation": []
-}

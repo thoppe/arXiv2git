@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550640, 
-  "description": "CUDA version of the SVT (Silicon Vertex Trigger) C source code, from CDF experiment (http://arxiv.org/abs/physics/0306169). Base C/CUDA code was provided by University of Padova, IT.", 
-  "README.md": "cuda-svt\n========\n\nCUDA version of the SVT (Silicon Vertex Trigger) C source code, from CDF experiment (http://arxiv.org/abs/physics/0306169). Base C/CUDA code was provided by University of Padova, IT.\n", 
-  "id": 18592148
-}

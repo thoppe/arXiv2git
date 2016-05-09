@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550693, 
-  "description": "[2.3.2] UNOFFICIAL repo of FeynRules written by Christensen, Duhr, Fuks, et al.", 
-  "readme.md": "[FeynRules](https://feynrules.irmp.ucl.ac.be/) \n=========\n\n### Authors\n\nAdam Alloul, Neil D. Christensen, Celine Degrande, Claude Duhr, Benjamin Fuks\n\n### References\n\n * [arXiv:1310.1921](http://arxiv.org/abs/1310.1921).\n * [Comput. Phys. Commun. **180** (2009) 1614-1641](http://dx.doi.org/10.1016/j.cpc.2009.02.018) [[0806.4194](http://arxiv.org/abs/0806.4194)].\n * https://feynrules.irmp.ucl.ac.be/\n\n", 
-  "id": 18512127
-}

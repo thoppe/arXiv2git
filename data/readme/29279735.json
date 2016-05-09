@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551591, 
-  "description": "", 
-  "README.md": "arxiv_scraper\n==============\n\nThis is a modification of the arXiv parser here:\nhttp://arxiv.org/help/api/examples/python_arXiv_parsing_example.txt\n\nI changed it to query the server to retrieve all abstracts from articles\nof a given category. This does not retrieve the pdf's of the articles \n(arXiv does not like that, see: http://arxiv.org/help/robots).\n\nI used it to create the dataset for our machine learning class's Kaggle competition: \nhttp://inclass.kaggle.com/c/abstract-classification\n\nThis is free software.  Feel free to do what you want\nwith it, but please play nice with the arXiv API!\n\n# Usage:\n- python arXiv.py [category] [max_results]\n\n# Example:\n- python arXiv.py stat 5000\n\n", 
-  "id": 29279735
-}

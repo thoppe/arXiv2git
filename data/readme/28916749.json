@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551631, 
-  "description": "Optimal Two Step Prediction: Adaptive Validation ", 
-  "README.md": "# AVp\n\n##Optimal Two Step Prediction: Adaptive Validation \n\nThis code is associated with the article:\n\n**\"Optimal two-step prediction in regression\"**\nby Didier Chetelat, Johannes Lederer, Joseph Salmon\n\nThe correpsonding paper is available on ArXiV at [http://arxiv.org/abs/1410.5014](http://arxiv.org/abs/1410.5014)\n\n\nThe Demo_AVP.py provides an exemple of the Adaptive Validation on two cases:\n\n- the Lasso\n\n- the Thresholded Ridge Regression\n\n\n\n\n##Dependencies\nAVp is tested to work under Python 2.7.\n\nThe required dependencies to build the software are NumPy >= 1.6.2, SciPy >= 0.9 and a working C/C++ compiler,\nand of course  scikit-learn > 0.15\n\nFor running the examples Seaborn>= 0.4.0 is required.\n\n", 
-  "id": 28916749
-}

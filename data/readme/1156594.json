@@ -1,6 +1,0 @@
-{
-  "README": "This project is the implementation of a system based on the paper published on arXiv \"De retibus socialibus et legibus momenti\" (http://arxiv4.library.cornell.edu/abs/1012.2057v1) by Daniel Gayo-Avello, David J. Brenes, Diego Fernandez-Fernandez, Maria E. Fernandez-Menendez and Rodrigo Garcia-Suarez.\n\nThe paper describes an algorithm to calculate influence (a proxy for influence really) of a user on Twitter based on the mentions he receives.\n\nWarning: This paper is NOT the implementation of the experiments described on the paper, but of the use case briefly explained at the end of it.\n", 
-  "read_at": 1462552203, 
-  "description": "The core of the project is the one involved with retrieving tweets from Twitter Streaming API and the implementation of the influence algorithm", 
-  "id": 1156594
-}

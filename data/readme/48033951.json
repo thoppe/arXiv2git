@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550061, 
-  "description": "", 
-  "README.md": "# arXiv Benchmark\n\nThis is the source code that was used to generate a benchmark that consists of \nmore than X groundtruth files describing the basic internal document layouts of \nscientific research papers. The benchmark was created from tex files provided \nby the online repository [_arXiv_](http://arxiv.org/).\n", 
-  "id": 48033951
-}

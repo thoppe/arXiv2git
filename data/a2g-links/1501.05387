@@ -1,8 +1,0 @@
-{
-  "project": [
-    "gunrock/gunrock", 
-    "anshumang/gunrock-swched-swmm", 
-    "anshumang/gunrockINST"
-  ], 
-  "citation": []
-}

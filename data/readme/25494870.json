@@ -1,6 +1,0 @@
-{
-  "README": "Hi,\n\nThis is the XML::Tape module. It is a class to manipulate\nXMLtape archives. These archives are well suited to store\nmany XML documents. XMLtapes can be easy transported and \nparsed and validated with off-the-shelf XML tools. A \ndescription of XMLtape in digital libraries is found in\nthis publication:\n\n'File-based storage of Digital Objects and constituent \ndatastreams: XMLtapes and Internet Archive ARC files'\n http://arxiv.org/abs/cs.DL/0503016\n\nTo install the module:\n\n    perl Makefile.PL\n    make\n    make test\n    make install\n\n-Patrick Hochstenbach <Patrick.Hochstenbach@UGent.be>\n", 
-  "read_at": 1462511186, 
-  "description": "Read-only release history for XML-Tape", 
-  "id": 25494870
-}

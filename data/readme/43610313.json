@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556213, 
-  "description": "Boolean matrix factorization and noisy completion by message passing", 
-  "README.md": "# Boolean Matrix Factorization & Boolean Matrix Completion\n\nThis is a python/Numpy implementation for Boolean matrix factorization and noisy matrix completion.  To use the code, see demo.py.\n\nReference: Ravanbakhsh S, Greiner R (2015) Boolean Matrix Factorization and Completion via Message Passing, arXiv:1509.08535.\n", 
-  "id": 43610313
-}

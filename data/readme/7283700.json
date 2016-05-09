@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546496, 
-  "description": "", 
-  "README.md": "ARXIV API\n=========\n\nSimple www.arxiv.org tool with PHP. It's based off of their [user manual][1]. Use the simple SearchQueryBuilder to pass into ArxivAPI, or pass in your own array of parameters. Valid parameters are\n\n       title\n       abstract\n       author\n       authors\n       category\n       categories\n\n[1]: http://arxiv.org/help/api/user-manual", 
-  "id": 7283700
-}

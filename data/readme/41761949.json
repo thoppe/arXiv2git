@@ -1,6 +1,0 @@
-{
-  "README": "Implementation of dressing function calculation for a quark propagator DSE. \nThe implementation is once done for CPU and also for GPU using OpenCL. This \nproject was part of a lecture about numerical methods in particle physics. \n\nWhat the code does is, it solves a system of coupled integral equations using \nGauss-Legendre and Gauss-Tschebyshev integration.\n\nSee for example\nR.~Alkofer, P.~Watson and H.~Weigel, Phys. Rev. D 65, 094026 (2002),\n[arXiv:hep-ph/0202053]; \nand the file Project_Instructions.pdf\n", 
-  "read_at": 1462548782, 
-  "description": "It demonstrates the integration of a system of couples integral equations using Gauss-Legendre and Gauss-Tschebyshev integration", 
-  "id": 41761949
-}

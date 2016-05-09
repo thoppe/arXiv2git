@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546974, 
-  "description": "another machine learning library", 
-  "README.md": "## SqPUG\nMy own simple large-scale ML lib to play with D.\n\nFor now, implements http://arxiv.org/pdf/1309.2375v2.pdf.\n\n```\nbenoit sqpug (master):$ dmd -release -inline -O src/sqpug.d src/Common.d src/Hasher.d src/IO.d src/Learner.d src/PredictionServer.d src/Serializer.d\nbenoit sqpug (master):$ time ./sqpug --data test_data/rcv1/train.txt --lambda 0.0001 --bits 18 --loss logistic --passes 5 --test test_data/rcv1/test.txt\nLearn model on test_data/rcv1/train.txt\nStarting learning on 781265 datapoints.\nDuality gap: 0.0890009\nDuality gap: 0.0616458\nDuality gap: 0.0430221\nDuality gap: 0.0304152\nDuality gap: 0.0212375\nDuality gap: 0.0146649\nDuality gap: 0.0102986\nDuality gap: 0.00707041\nDuality gap: 0.00476217\nDuality gap: 0.00325878\nDuality gap: 0.00222923\nStopped SDCA after 3906325 sampled points.\nEvaluate model on test_data/rcv1/test.txt\nAverage pred: 0.465213\nAverage label: 0.465938\n10786 positives, 12363 negatives.\nTotal error: 0.0713638\nBaseline error: 0.501793\n\nreal\t0m22.975s\nuser\t0m29.828s\nsys\t0m0.625s\n```\n", 
-  "id": 16132423
-}

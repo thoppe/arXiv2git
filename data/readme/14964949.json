@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551367, 
-  "description": "Tools to prepare a paper for Arxiv publication", 
-  "README.md": "# Arxiv tools\n\nThese helper scripts produce a ``tar.gz`` file suitable for uploading to\nArxiv.\n\n## Notes\n\nPaper preamble should include\n\n```\n\\pdfoutput=1\n```\n\n", 
-  "id": 14964949
-}

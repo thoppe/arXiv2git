@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552222, 
-  "description": "manage parameters, models and plots for emcee", 
-  "README.md": "`mcmc_tools`\n============\n\nSeveral tools to help with MCMC outputs.\n* `wrap_emcee`: bookkeeping for fixed vs. chain parameters in a model\n* `plot_joint_dist.py`: tools to plot joint distributions\n* `plot_model_bands.py`: evaluate the model over the chain; plot mean and band of fluctuations\n* `relativistic_sz_fit.py`: example estimation problem\n* `chain_entropy.py`: tools to measure the entropy of outputs\n\n`emcee` and `h5py` need to be installed.\n\nTODO:\n* smoothed posterior dists (2d, 1d)\n* log axes\n* plotting lines at fixed parameter values\n\nUsed by (at least):\n* `http://arxiv.org/abs/1211.3206` Sunyaev-Zeldovich signal processing and temperature-velocity moment method for individual clusters\n* `http://arxiv.org/abs/1304.6121` Distinguishing different scenarios of early energy release with spectral distortions of the cosmic microwave background\n", 
-  "id": 5526712
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558320, 
-  "description": "Train Benchmark graph format", 
-  "README.md": "# Train Benchmark graph format\n\n[![Build Status](https://travis-ci.org/FTSRG/trainbenchmark-graph.svg?branch=master)](https://travis-ci.org/FTSRG/trainbenchmark-graph)\n\nThe Train Benchmark supports the property graph data model [1][2] and generates files in GraphML format [3].\n\n- [1] http://arxiv.org/abs/1006.2361\n- [2] https://github.com/tinkerpop/blueprints/wiki/Property-Graph-Model\n- [3] http://graphml.graphdrawing.org/\n", 
-  "id": 24074984
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543158, 
-  "description": "Paper reviewing platform", 
-  "README.md": "More and more \"analog\" processes are being replaced by their digital equivalents. Altough the scientific community is known to operate at the frontier of what is known, reviewing papers continues to be a relative primitive, slow and closed process. **OpenReview aims to modernise peer reviewing by providing a platform in which users may review any (scientific) content.**\n\nIt is still under heavy development, and only integrated with arXiv.\n\n------------------------------------\n\nMaster: [![Build Status](https://travis-ci.org/open-review/open-review.png?branch=master)](https://travis-ci.org/open-review/open-review)\n[![Coverage Status](https://coveralls.io/repos/open-review/open-review/badge.png)](https://coveralls.io/r/open-review/open-review)\n\n\nIssues: [github/issues](https://github.com/open-review/open-review/issues)\n\nWiki: [github/wiki](https://github.com/open-review/open-review/wiki)\n", 
-  "id": 16863534
-}

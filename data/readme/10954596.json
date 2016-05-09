@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551065, 
-  "description": "View PDFs next to metadata/discussion on PeerJ and arXiv.", 
-  "README.md": "Preprintologist\n===============\n\nBrowser extension for in-page PDF viewing for PeerJ and arXiv. Currently only set up for Chrome; Safari and Firefox support will hopefully come without too much difficulty.\n\nTo try it out:\n- Clone or download this repository to a folder.\n- In Chrome, go to chrome://extensions and click \"Load unpacked extension...\".\n- Choose the folder you downloaded and make sure the extension is enabled.\n- Go to a PeerJ or arXiv preprint, for example https://peerj.com/preprints/11, and wish for a side-by-side PDF view.\n- Click Show PDF in the navigation controls to grant your wish. Click Hide PDF to take things back to normal.\n", 
-  "id": 10954596
-}

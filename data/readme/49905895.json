@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552723, 
-  "description": "", 
-  "README.txt": "fdasrsf\n=======\n\nA python package for functional data analysis using the square root\nslope framework and curves using the square root velocity framework\nwhich performs pair-wise and group-wise alignment as well as modeling\nusing functional component analysis and regression.\n\nInstallation\n------------------------------------------------------------------------------\npython setup.py install\n\nReferences\n------------------------------------------------------------------------------\nSrivastava, A., Wu, W., Kurtek, S., Klassen, E. and Marron, J. S. (2011).\nRegistration of Functional Data Using Fisher-Rao Metric.\narXiv:1103.3817v2 [math.ST].\n\nTucker, J. D., Wu, W. and Srivastava, A. (2013). Generative models for\nfunctional data using phase and amplitude separation. Computational Statistics\nand Data Analysis 61, 50-66.\n\nJoshi, S.H., Srivastava, A., Klassen, E. and Jermyn, I. (2007).\nA Novel Representation for Computing Geodesics Between n-Dimensional Elastic\nCurves. IEEE Conference on computer Vision and Pattern Recognition (CVPR), Minneapolis, MN.\n\nSrivastava, A., Klassen, E., Joshi, S., Jermyn, I., (2011). Shape analysis\nof elastic curves in euclidean spaces. Pattern Analysis and Machine\nIntelligence, IEEE Transactions on 33 (7), 1415 -1428.\n", 
-  "id": 49905895
-}

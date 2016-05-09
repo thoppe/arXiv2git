@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556700, 
-  "description": "", 
-  "README.md": "# Orchestra\nThis repository provides images, data and code for organizing images into clusters using the crowd - see our arXiv report [here](http://arxiv.org/abs/1601.02034). \n\n### Running the Code\n```\n$ cd src\n$ python run_orchestra.py scenes/intelligent_samples --categorization\n```\nThis will output precision, recall, accuracy and number of unclustered items for the scenes dataset. In addition, you'll also see visualization of confusion matrix in data/scenes/intelligent_samples/categorization. \n\nSee `python run_orchestra.py -h` for an explanation of the command line options.", 
-  "id": 57905775
-}

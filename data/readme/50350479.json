@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552524, 
-  "description": "Numerical experiments for continuous-time quantum search on balanced binary trees", 
-  "README.md": "# qSearch-bbTrees\nNumerical experiments for continuous-time quantum search on balanced binary trees\n\n\nThe code in this repository is for Matlab and Mathematica, and it allows to retrace the numerical experiments of the paper\n\n\"Continuous-Time Quantum Search on Balanced Trees\"\n\nby\n\nPascal Philipp, Luis Tarrataca, and Stefan Boettcher.\n\nhttp://arxiv.org/abs/1601.01154\n\n\n(The code was written by PP and LT)\n", 
-  "id": 50350479
-}

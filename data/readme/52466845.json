@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557810, 
-  "description": "Numerical Simulation of Sound Propagation", 
-  "README.md": "# Acoustic Simulator\n\nThis project simulates sound propagation in a 3D scene, based on the techniques described in the paper:\n\n    Efficient and Accurate Sound Propagation using Adaptive Rectangular Decomposition\n    Nikunj Raghuvanshi, Rahul Narain and Ming C. Lin\n    IEEE Transactions on Visualization and Computer Graphics(TVCG), 15(5), 2009.\n\nFor PML boundary conditions, the formulation from the paper:\n\n    Marcus G., S., Imbo.\n    Efficient PML for the wave equation.\n    arXiv:1001.0319, 2010.\n\nwas used, though we developed our own discretizations to the equations as the ones in the paper caused numerical issues for us.\n\nAn example of what the simulation accomplishes can be seen on YouTube by clicking the image below:\n\n[![YouTube video of sound simulation](https://img.youtube.com/vi/FU0mSVFfBe0/0.jpg)](https://www.youtube.com/watch?v=FU0mSVFfBe0)\n\n# Building and Running\n\nTo build, Visual Studio 2015 or later is required. The solution itself is self-contained, so simply building and running in Visual Studio should work.\n", 
-  "id": 52466845
-}

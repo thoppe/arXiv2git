@@ -1,6 +1,0 @@
-{
-  "README": "This project is a website connected to the stream of data gathered and processed by the project momentum-core (https://github.com/brenes/momentum-core) and shows which users have been the most influential ones in the last hour.\n\nRanking algorithm has been described in the paper \"De retibus socialibus et legibus momenti\" by Daniel Gayo-Avello, David J. Brenes, Diego Fernandez-Fernandez, Maria E. Fernandez-Menendez and Rodrigo Garcia-Suarez. This paper is published as a preprint on arXiv (http://arxiv4.library.cornell.edu/abs/1012.2057v1).\n\nWARNING: This projects does not implement the ranking algorithm described on the paper, it's just a read-only website which shows the results produced and stored by the momentum-core project.\n", 
-  "read_at": 1462546892, 
-  "description": "Website connected to the stream of data gathered by momentum-core project", 
-  "id": 1233164
-}

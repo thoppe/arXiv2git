@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551947, 
-  "description": "Optical phase-locked loop circuit, for laser beatnote locking.", 
-  "README.md": "# Beatnote PLL\n\nOptical phase-locked loop circuit, for implementing laser beatnote locks.\n\nBased off of the paper: [arxiv:0809.3607](http://arxiv.org/abs/0809.3607)\n", 
-  "id": 31286046
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543963, 
-  "description": "Code for ROCKET procedure", 
-  "README.md": "# ROCKET\n\nROCKET is a method for computing asymptotically normal estimates of each\nentry of $\\Omega$, which is designed for the transelliptical model.\n\n* Preprint: Barber & Kolar 2015, \"ROCKET: Robust Confidence Intervals \n  via Kendall's Tau for Transelliptical Graphical Models\",\n  http://arxiv.org/abs/1502.07641\n\n\n", 
-  "id": 32937222
-}

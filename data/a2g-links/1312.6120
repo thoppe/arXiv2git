@@ -1,9 +1,0 @@
-{
-  "project": [
-    "Kaixhin/nninit", 
-    "ducha-aiki/LSUVinit", 
-    "iassael/torch-linearo", 
-    "yobibyte/torch-lsuv"
-  ], 
-  "citation": []
-}

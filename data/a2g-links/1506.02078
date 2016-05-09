@@ -1,9 +1,0 @@
-{
-  "project": [], 
-  "citation": [
-    "kjw0612/awesome-rnn", 
-    "carpedm20/awesome-torch", 
-    "coreylynch/grid-lstm", 
-    "kristjankorjus/applied-deep-learning-resources"
-  ]
-}

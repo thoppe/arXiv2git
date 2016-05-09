@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556686, 
-  "description": "", 
-  "README.md": "# corner_transfer_renormalization_group\n\nPerforms corner transfer renormalization group for the two-d Ising model in the thermodynamic limit\n\nMy code is related to this paper but uses a different constrcution of the tensors\n\nCorner Transfer Matrix Renormalization Group Method\n\nT. Nishino, K. Okunishi\nDOI:\t10.1143/JPSJ.65.891\n\tarXiv:cond-mat/9507087\n\n", 
-  "id": 57967551
-}

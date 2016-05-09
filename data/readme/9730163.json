@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543072, 
-  "description": "Atomic Weights for Desktop", 
-  "README.md": "Atomic Weights for Desktop\n======================\n\nAtomic Weights for Desktop is a program written in C++ intended for investigation of atoms nuclei structure and chemical compounds structure (for more information, read the [arXiv paper](http://arxiv.org/abs/1207.4671) about it).\n\nWhere to get\n------------\n\nYou can always download the latest version of Atomic Weights for Desktop from \n[skyproject.org website](http://skyproject.org/programs/atoms/atomic-weights-setup.exe).\n\nHow to contribute\n-----------------\n\nYou can report bugs and suggest enhancements via [Issue Tracker](https://github.com/skyproject/atomic-weights/issues).            \n\nLicense\n-------\n\nAtomic Weights for Desktop is licensed under the GNU General Public License, version 3. For full license terms see LICENSE file.", 
-  "id": 9730163
-}

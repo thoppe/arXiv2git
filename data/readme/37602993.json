@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549339, 
-  "description": "Files for Just Intonation music sequencer", 
-  "README.md": "# Music-Sequencer\nFiles for Just Intonation music sequencer\n\nComponents of current Just Intonation music sequencer used by David Ryan:\n\n1) JI notation system using ASCII text\n2) Excel spreadsheet\n3) CSV sequence file\n4) Octave (or MATLAB) code to turn CSV into audio output\n5) Audio output in terms of .mp3 or .wav files\n\n\nNOTE 17th JUNE 2015:\n\nThis GitHub repository is intended to allow public shared work and collaboration on my Just Intonation music sequencer. The files will uploaded soon... Soon means in the next few months, since with full time work I don't have a lot of time to devote to writing chip-tune music... But it will happen! DR\n\n\nNOTE 3rd Sept 2015\n\nJI notation paper available now at: http://arxiv.org/pdf/1508.07739.pdf\n\nSome example notation text files have been uploaded here.\n\nSome example sequenced files (for input to sequencer_v08) uploaded here\n\nThe music sequencer (MATLAB/Octave code) uploaded.\n\nNote - this sequencer requires a whole bunch of function files to be uploaded too, and I haven't yet succeeded in uploading a whole directory at once! DR\n", 
-  "id": 37602993
-}

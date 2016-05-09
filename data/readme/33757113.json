@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511637, 
-  "description": "Looking for sets of non-isomorphic graphs for the lower bound of R(7,7)", 
-  "README.md": "# Ramsey Number\n\n\nThe purpose of this project project is to find the largest set of non-isomorphic counter example graphs and each graph should have the largest node count.\nWe are looking for the lower bound of R(7,7).\n\nexperiments of intelligent algorithms on ramsay graphs - http://ccis2k.org/iajit/PDF/vol.4,no.2/11-Jihad.pdf\n\nCounting small cliques in large graphs using MapReduce. - https://github.com/CliqueCounter/QkCount , http://arxiv.org/pdf/1403.0734v2.pdf\n", 
-  "id": 33757113
-}

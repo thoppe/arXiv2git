@@ -1,8 +1,0 @@
-{
-  "project": [
-    "rsnemmen/BCES", 
-    "astrolitterbox/FittingAStraightLine", 
-    "bd-j/linefit"
-  ], 
-  "citation": []
-}

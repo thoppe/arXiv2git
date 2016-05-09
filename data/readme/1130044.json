@@ -1,6 +1,0 @@
-{
-  "README.markdown": "\"YID\" stands for \"YACC is dead\", which is the name of the paper that originally presented this approach to parsing. This is a derivitive parser, which (while having exponential time complexity in the worst case) generally performs well, can handle any context-free grammar, returns parse trees (so that abiguity can be handled after the fact), and is easy to implement and understand.\n\nAt the highest level, there is DEFSYNTAX and PARSE-RULE, which make writing a parser for your object model very simple.\n\nTo specify a parse rule, you use characters, CHOICE, ~ (concatenation), and *+ (repetition).\n", 
-  "read_at": 1462552196, 
-  "description": "YACC is dead for Common Lisp (based on http://arxiv.org/abs/1010.5023)", 
-  "id": 1130044
-}

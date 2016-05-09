@@ -1,6 +1,0 @@
-{
-  "id": 16118354, 
-  "read_at": 1462546976, 
-  "README.rst": "=========\nSkyoffset\n=========\n\nSkyoffset is a python package for making wide-field astronomical mosaics when there are significant field-to-field sky background uncertainties.\nThis code is spun off from the ANDROIDS project.\n\nPlease cite `Sick et al 2013 (arxiv:1303.6290) <http://arxiv.org/abs/1303.6290>`_ if you make use of this code (or derivatives).\n\nCopyright 2014 Jonathan Sick (@jonathansick)\n\nBSD Licensed.\n", 
-  "description": "Sky offset optimization and mosaicing toolkit used by ANDROIDS"
-}

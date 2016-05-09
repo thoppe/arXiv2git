@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557487, 
-  "description": "The implementation of Word2Vec (SkipGram - and CBOW) models using theano and numpy", 
-  "README.md": "# word2vec_theano\n\nWord2Vecs using theano.\n\n\n\nTomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean. Distributed Representations of Words and Phrases and their Compositionality. In Proceedings of NIPS, 2013. http://arxiv.org/pdf/1310.4546.pdf<br/><br/>\nTomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. Efficient Estimation of Word Representations in Vector Space. In Proceedings of Workshop at ICLR, 2013. http://arxiv.org/pdf/1301.3781.pdf<br/>\n\n", 
-  "id": 51936506
-}

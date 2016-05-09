@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556215, 
-  "description": "Training recurrent neural networks with sparse, delayed rewards using a (mostly) biologically plausible method.", 
-  "README.md": "This code trains recurrent neural networks for arbitrary tasks with *sparse*, *delayed* rewards using a node-perturbation method (Fiete & Seung, Phys Rev Lett 2006). \n\nFor more information, see the following paper:\n\"Training recurrent neural networks with sparse, delayed rewards for flexible decision tasks\" http://arxiv.org/abs/1507.08973\n", 
-  "id": 43659950
-}

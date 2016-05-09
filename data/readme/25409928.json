@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511082, 
-  "description": "Monte Carlo simulation of scintillator detector time resolution based on LongScintillator library (Qt, ROOT)", 
-  "README.md": "J-PET Monte Carlo simulations\n===========\npublication link: http://arxiv.org/pdf/1602.02058v1\n\nrequired packages:\nlibqt4, libqt4-dev, cmake, make, ROOT\n\nRun script \"autoconf.sh\" for creating all needed files.\nEdit file qt_build.pri if needed (View it to see if it's needed!!!!)\nThen run \"buildme.sh\" for building. \nScripts \"run_sync.sh\" and \"run_async.sh\" run the calculation.\n", 
-  "id": 25409928
-}

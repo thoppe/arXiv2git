@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547789, 
-  "description": "", 
-  "README.md": "# ArXiv-connections\n\nProject to find the path that connects a researcher with another through their collaborators. \nIt makes use of the information made available by arXiv (a widely used repository of electronic \npreprints of scientific papers) through its API.\n", 
-  "id": 55560856
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511609, 
-  "description": "website celebrating the 25th anniversary of Hubble Telescope deployment", 
-  "README.md": "# Thanks, Hubble!\n#### A website celebrating the 25th anniversary of Hubble Telescope deployment.\n\nThe site will display the latest scientific results achieved thanks to Hubble instruments and data gathered in the latest years.\n\nThe papers will be retrieved from the *Microsoft Academic Search API*. While waiting for the API key, it's using arXiv API altough it's much poorer in terms of results.\n", 
-  "id": 34389530
-}

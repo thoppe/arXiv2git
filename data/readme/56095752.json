@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547798, 
-  "description": "Source code for the paper \"Statistical Inference using the Morse-Smale Complex\"", 
-  "README.md": "# Morse_Smale  \nSource code for the paper \"Statistical Inference using the Morse-Smale Complex\" http://arxiv.org/abs/1506.08826  \n\nMain source code: MSHD.R  \nExample: exmaple.R\n\nReference:  \nChen, Yen-Chi, Christopher R. Genovese, and Larry Wasserman. \"Statistical Inference using the Morse-Smale Complex.\" arXiv preprint arXiv:1506.08826 (2015).\n", 
-  "id": 56095752
-}

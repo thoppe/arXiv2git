@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511026, 
-  "description": "Implementation of the EM algorithm for the detection of shifts in a phylogeny.", 
-  "README.md": "Phylogenetic-EM\n===============\n\nImplementation of the EM algorithm for the detection of shifts in a phylogeny.\n\nArxiv preprint: http://arxiv.org/abs/1508.00225\n", 
-  "id": 25305011
-}

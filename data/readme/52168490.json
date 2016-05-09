@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557813, 
-  "description": "Program for determining frame of minimum Hubble variance", 
-  "README.txt": "# hvar\nProgram for determining frame of minimum Hubble variance\nNov 2014 - Feb 2016\nJ. H. McKay\n\nThe analysis in this program is associated with the work http://arxiv.org/abs/1503.04192 for determining the frame\nof minimum Hubble expansion variation.\n\nQuick start:\n\n1) from the base directory run:\n$ cd build\n$ cmake ..\nThis may need to more flags to the cmake command if gcc is not the default compiler,\nsee more detailed instructions in the documentation folder.\n\n2) run\n$ make\nThis will compile the code.\n\n3) Now run either ./main.x or ./Figures.x to see the main results or generate an example of some figures.  If you want to \nchoose more figures then open up src/figures.cpp and uncomment the figures you want.  Uncomment all figures to compile all\nfigures that are possible.  Figure numbers corrspond (roughly) with the numbers in the paper (may need updating +1 to all).\n\n\n", 
-  "id": 52168490
-}

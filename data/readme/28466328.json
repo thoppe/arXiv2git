@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557080, 
-  "description": "A Jump Consistent Hash Implementation", 
-  "README.md": "Description\n===========\nAn implementation of the Jump Consistent Hash algorithm:\nhttp://arxiv.org/ftp/arxiv/papers/1406/1406.2294.pdf\n\nExample\n=======\n\n    package main\n\n    import (\n      \"fmt\"\n      \"github.com/lazybeaver/jmpconsistenthash\"\n    )\n\n    func main() {\n      var key uint64 = 0xdeadbeef\n      var shards uint64 = 5\n\n      hash := jmpconsistenthash.Hash(key, shards)\n      fmt.Println(hash)\n    }\n", 
-  "id": 28466328
-}

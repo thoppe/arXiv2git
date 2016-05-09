@@ -1,6 +1,0 @@
-{
-  "readme": "Code for Evaluating software-based fingerprint liveness detection using Convolutional Networks and Local Binary Patterns\n\nUse run_convnet.py to train and test using the convolutional neural net pipeline.\nUse run_lbp.py to train and test using the LBP pipeline.\n\n\nFor more information about this work, check:\n\nhttp://arxiv.org/abs/1508.00537\nor\nhttp://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6951531&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6951531\n\n", 
-  "read_at": 1462556231, 
-  "description": "", 
-  "id": 43916221
-}

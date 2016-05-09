@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556113, 
-  "description": "Toy implementation of generative adversarial networks for gaussian mixtures", 
-  "Readme.md": "# Adversarial networks\n\nToy implementation of adversarial networks. Currently only for normal mixtures.\n\ncf http://arxiv.org/abs/1406.2661\n", 
-  "id": 44068020
-}

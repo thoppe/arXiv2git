@@ -1,6 +1,0 @@
-{
-  "readme.markdown": "Markdown-Scholar\n================\n\n###License\n>**This code is released under [the MIT license](http://opensource.org/licenses/MIT). No guarantees are meant or implied. Use at your own risk.**\n\n###Installation\n\nThis is the setup I'm using to host Markdown-Scholar (previously known as Pencil++). It might or might not work well for you.\n\n* Nginx serves the static client side files (everything in the client directory).\n* Requests to the server API are proxied via Nginx to nodejs(as upstream), dblp, and arXiv\n* The node app requires the 'pg' package and some external packages, see server/package.json. \n* Create a postgres table with schema:\n\t* id SERIAL PKEY\n\t* note VARCHAR(3000)\n\t* hash VARCHAR UNIQUE\n* Run appexpress.js using node.\n\n", 
-  "read_at": 1462550638, 
-  "description": "A minimal, distraction-free Markdown editor for scholar. It currently support dynamically loading citations from DBLP and arXiv. It keeps notes for (manually) registered users. I personally use it for taking private notes. ", 
-  "id": 18648711
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553848, 
-  "description": "Description of the HDSv5 library", 
-  "README.md": "## Reimplementing the Hierarchical Data System using HDF5\n\nThis is a paper describing the new version HDS library and format\nthat is based on HDF5. It has been accepted in Astronomy & Computing.\n\nAvailable at [doi:10.1016/j.ascom.2015.02.003](http://dx.doi.org/10.1016/j.ascom.2015.02.003)\nor at [arXiv:1502.04029](http://arxiv.org/abs/1502.04029).\n\n\nThe library can be found at https://github.com/Starlink/hds-v5\n", 
-  "id": 27050972
-}

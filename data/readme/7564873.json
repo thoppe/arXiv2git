@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551283, 
-  "description": "", 
-  "README.md": "arXiv-cucumber\n==============\n\nBarebones project to get cucumber testing working for arxiv.org\n\nInstallation\n============\n\n0) Prerequisites \n\n    firefox\n\n1) install rvm\n\n    $ \\curl -L https://get.rvm.io | bash -s stable --ruby\n\n2) install bundler\n\n    $ gem install bundler\n    \n3) run bunlder to install required gems\n\n    $ cd arXiv-cucumber\n    bundle\n    \nRunning Tests\n=============\n\nThe simplest way to run a tests is with rake:\n\n    rake\n   \nyou can change the host the test are run against with\n\n    rake host=http://arxiv.org\n    \nYou can run different profiles, for instance to run the wip profile\n\n    rake cucumber:wip\n   \n", 
-  "id": 7564873
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511087, 
-  "description": "Project to explore the effect of phi on rate of adaptation", 
-  "README.md": "# Entropy 2015 Neuro Correlates\nThis repository includes source code for the simulation used in the paper \"Information-Theoretic Neuro-Correlates Boost Evolution of Cognitive Systems\" [http://arxiv.org/abs/1511.07962].\n\n## Usage\n1. Download using git: `git clone --recursive https://gitlab.msu.edu/jory/entropy-2015-neuro-correlates.git`\n2. `cd entropy-2015-neuro-correlates`\n3. Compile (c++11): `make`\n4. For help: `./sim --help`\n", 
-  "id": 24909719
-}

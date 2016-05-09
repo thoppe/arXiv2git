@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549995, 
-  "description": "Experimentation with Highway Networks & GradNets", 
-  "README.md": "# Highway Networks and GradNets\nExperimentation with Highway Networks and GradNets\n\nTensorflow Implementation based of Jim Fleming's [blog](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.rix10kxhx)\n\nHighway Networks paper (here)[http://arxiv.org/pdf/1505.00387v2.pdf]\n\nGradNets paper (here)[http://arxiv.org/pdf/1511.06827v1.pdf]\n\n", 
-  "id": 48795899
-}

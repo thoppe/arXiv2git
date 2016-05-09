@@ -1,9 +1,0 @@
-{
-  "project": [
-    "ducha-aiki/LSUVinit", 
-    "yobibyte/torch-lsuv"
-  ], 
-  "citation": [
-    "styleNie/notes"
-  ]
-}

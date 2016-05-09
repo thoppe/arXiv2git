@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549073, 
-  "description": "Accompanying code for the paper \"Metric-Free Natural Gradient for Joint-Training of Boltzmann Machines\" (http://arxiv.org/abs/1301.3545)", 
-  "README.md": "MFNG\n====\n\nAccompanying code for the paper \"Metric-Free Natural Gradient for Joint-Training of Boltzmann Machines\" (http://arxiv.org/abs/1301.3545)", 
-  "id": 8808089
-}

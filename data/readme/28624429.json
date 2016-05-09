@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557133, 
-  "description": "Modified MadGraph with GPU plugin", 
-  "README.txt": "MG5_mod_15_06_22.zip contains the MadGraph 5 v. 1.5.14 with the OpenCL/CUDA extension.\n\nPlease read the HowTo document in order to start using the extension for GPU Matrix Element Method calculations.\n\nIf used please reference our original paper, http://arxiv.org/abs/1407.7595 \n", 
-  "id": 28624429
-}

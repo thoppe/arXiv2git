@@ -1,6 +1,0 @@
-{
-  "read_at": 1462544776, 
-  "description": "Python version of zeroSR1", 
-  "README.md": "# pyzeroSR1\nThe zeroSR1 toolbox implements the algorithm from 'A quasi-Newton proximal \nsplitting method' by Stephen Becker and Jalal Fadili, which appeared in NIPS 2012. The paper is available at arXiv 1206.1156.\n\nThis is a translation to Python of the toolbox found in https://github.com/stephenbeckr/zeroSR1\n\n## Dependencies\nThis code only depends on `numpy`\n\n## Main usage\nExample of usage\n\n\timport pyzeroSR1\n\timport scipy.linalg\n\timport numpy as np\n\n\tN = 12\n\ttmp = scipy.linalg.hilbert(N)\n\tA = lambda x : tmp.dot(x)\n\tAt = lambda x : tmp.T.dot(x)\n\tb = np.ones((N,1))\n\tl = 1e-1\n\t\t\t\n\tQ   = At(A(np.identity(N)))    \n\tc   = At(b)\n\tnormQ = np.linalg.norm(Q)    # Lipschitz constant\n\n\tprox = lambda x0, d, u, varargin = None : pyzeroSR1.proxes.prox_rank1_l1(x0, d, u, l)\n\th = lambda x : l * np.linalg.norm(x,1)\n\tfcnGrad = lambda x : pyzeroSR1.smoothFunctions.normSquared(x, A, At, b)\n\n\topts = {'tol': 1e-6, 'grad_tol' : 1e-6, 'nmax' : 1000, 'verbose' : False, 'N' : N, 'L': normQ, 'verbose': 25}\n\n\txk, nIteration, stepSizes = pyzeroSR1.zeroSR1(fcnGrad, h,prox, opts)\n", 
-  "id": 32068902
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462510969, 
-  "description": "Attempt at implementing system described in \"Neural Turing Machines.\" by Graves, Alex, Greg Wayne, and Ivo Danihelka. (http://arxiv.org/abs/1410.5401)", 
-  "README.md": "Neural Turing Machines\n======================\n\nAttempt at implementing system described in [\"Neural Turing Machines.\" by Alex Graves, Greg Wayne, and Ivo Danihelka](http://arxiv.org/abs/1410.5401).\n\nThis is still very much a work in progress:\n- Only the copy task has been implemented.\n- Cost does not consistently converge.\n- The structure of the controller is merely speculation on my part,\n  the paper does not provide the details.\n\nI've documented some of my adventures on my blog, you can check out the articles\non this particular project [here](https://blog.wtf.sg/category/neural-turing-machines/).\n\nThere's been some discussion going on in the Reddit thread on /r/machinelearning.\nYou can check that out [here](https://www.reddit.com/r/MachineLearning/comments/2m9mga/implementation_of_neural_turing_machines/).\n\n## Usage\n```\npython train_copy.py [output_model_file]\n```\n", 
-  "id": 25770045
-}

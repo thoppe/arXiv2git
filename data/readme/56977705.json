@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548296, 
-  "description": "", 
-  "README.md": "# Attention-CNN-work\n\n## Attention \n- http://yanran.li/peppypapers/2015/10/07/survey-attention-model-1.html\n- http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/\n- http://arxiv.org/abs/1602.03609\n\n## CNN and LSTM implements\n- https://github.com/yinwenpeng?tab=activity\n- https://github.com/dennybritz/nn-from-scratch/blob/master/nn-from-scratch.ipynb\n- https://github.com/dennybritz/cnn-text-classification-tf\n- https://github.com/yoonkim/CNN_sentence\n- http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow\n- http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/\n- http://deeplearning.net/software/theano/library/tensor/basic.html#all-fully-typed-constructors\n- https://github.com/brmson/dataset-sts\n\n## CNN and LSTM understanding\n- http://colah.github.io/posts/2015-08-Understanding-LSTMs/\n- http://www.deeplearningbook.org/contents/convnets.html\n- ABCNN ...\n\n## Goal\n", 
-  "id": 56977705
-}

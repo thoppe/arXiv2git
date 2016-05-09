@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545838, 
-  "description": "", 
-  "README.md": "# DataboxInc\n\nDataboxInc\nThe Databox project consists in a privacy preserving mobile app for personal data collection and management. The objective of my Databox is to generate user awareness and control over its own online generated data.\n\nThe app is integrated with Facebook, Twitter and Instagram data sources to gather your daily online interactions and present them to you.\n\n<b>Main features:</b>\n\nTrend analysis of your Twitter and Instagram feed. <br/>\nSentiment analysis of your Twitter posts. <br/>\nDaily steps monitoring. <br/>\nLocation history using the device GPS. <br/>\nProfile information from Facebook. <br/>\n\nThis project is based on a paper created by Hamed Haddadi et al (2015) available at http://arxiv.org/abs/1501.04737\n\n<b>To use the project, configure the following files:</b>\n\nstrings.xml - Add your own Facebook app Id <br/>\nAndroidManifest.xml - Add your own Fabric API key and Google maps Key <br/>\nMyApplication.java - Add your own Twitter and Instagram credentials <br/>\nRetrofitInterface.java - Add your own Mashape Key <br/>\n", 
-  "id": 40502739
-}

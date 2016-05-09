@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543047, 
-  "description": "Compile papers from arxiv.org to the size of your e-reader's viewport", 
-  "README.md": "arxiv2ebook\n===========\n\nCompiles papers from arxiv.org to the size of your e-reader's viewport.\n\nConfigure it to fit your gadget best (at least you should wish to change RATIO) and run like\n\n./arxiv2ebook 0807.1736\n\nArxiv2ebook will create a PDF-file in the curent drectory.\n", 
-  "id": 9263413
-}

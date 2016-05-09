@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545652, 
-  "description": "", 
-  "README.md": "# PPPC_DM_ID\n\nThis code calculates the J factor which goes in to the calculation of dark\nmatter decay and annihilation rates. The code is based on Equations 34, 35 in\narXiv:1012.4515.\n", 
-  "id": 41406782
-}

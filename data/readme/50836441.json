@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557641, 
-  "description": "A telegram bot for the office", 
-  "README.md": "# west313-bot\nA telegram bot for the office\n\n## Rules\n - New feature: new module\n - If you're a member of the office, your pull request will be accepted\n\n\n## Weather Bot\nTo use the included weather bot you will require a free API key from [OpenWeather.org](http://openweathermap.org/). Once this has been obtained, add it to `config.py` as:\n\n    WEATHER_KEY = \"myspecialapikey\"\n\n## Network Rail Bot\nTo use the included Network Rail Train Movement Feed bot, you will require a username and password from [Network Rail Data Feeds](https://datafeeds.networkrail.co.uk/ntrod/login). The information must then also be added to `config.py` as:\n\n\tNR_USER = \"myusername\"\n\tNR_PASSWORD = \"password\"\n\tNR_TMVT_FEED_ID = \"ID of Subscribed Train Feed\"\n\n## Installation\n\n    pip install -r requirements.txt\n    pip install git+ssh://git@github.com/nasfarley88/arxiv.py # for the modified arxiv library\n\n\n", 
-  "id": 50836441
-}

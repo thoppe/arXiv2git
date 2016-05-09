@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548670, 
-  "description": "Implementation of graph polishing in Python", 
-  "README.md": "# pypolish\n## Reference\n- Uno, Takeaki, et al. \"Micro-Clustering: Finding Small Clusters in Large Diversity.\" arXiv preprint arXiv:1507.03067 (2015).\n", 
-  "id": 43244930
-}

@@ -1,6 +1,0 @@
-{
-  "id": 44274263, 
-  "read_at": 1462556252, 
-  "README.rst": "===========================\nMCF Algorithms Cheat Sheets\n===========================\n\nThis is the source code for the preprint:\n\n    Sebastien Labbe, 3-dimensional Continued Fraction Algorithms Cheat Sheets,\n    November 2015, 9 p. `arXiv:1511.08399v1`__ [math.DS]\n\n__ http://arxiv.org/abs/1511.08399\n\nRequirements\n------------\n\nThe image and experimental results in these cheat sheets were created with the\nfollowing version of Sage__::\n\n    SageMath Version 6.10.beta3, Release Date: 2015-11-05\n\nand my optional Sage package `slabbe-0.2.spkg`__ which can be installed with::\n\n    sage -p http://www.slabbe.org/Sage/slabbe-0.2.spkg\n\n__ http://www.sagemath.org\n__ http://www.slabbe.org/Sage\n\nUsage\n-----\n\nTo make a quick draft::\n\n    make draft\n    make bib\n\n", 
-  "description": ""
-}

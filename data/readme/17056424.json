@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543122, 
-  "description": "adatoms on graphene, companion to arXiv:1112.4096 ", 
-  "README.md": "adatoms\n=======\n\nSimulates a high-temperature expansion series for the thermodynamics of magnetic adatoms on graphene or a topological insulator. See Phys. Rev. B 86, 054424 (2012) for details (preprint: http://arxiv.org/abs/1112.4096).\n\nRequires ALPS libraries (http://alps.comp-phys.org) ver 1.3 (2.0 should probably work as well) and LAPACK.  \n \nPublic domain.\nA citation of the PRB original paper would be appreciated.\n\n", 
-  "id": 17056424
-}

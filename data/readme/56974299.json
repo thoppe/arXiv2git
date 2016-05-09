@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547667, 
-  "description": "An attempt to reimplement Neural GPUs Learn Algorithms (http://arxiv.org/abs/1511.08228)", 
-  "README.md": "# torch-neural-gpu\nAn attempt to reimplement Neural GPUs Learn Algorithms (http://arxiv.org/abs/1511.08228)\n\n## Run\n\n```bash\nth main.lua\n```\n", 
-  "id": 56974299
-}

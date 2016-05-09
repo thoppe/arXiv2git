@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511616, 
-  "description": "", 
-  "README.md": "RNN demonstrations\n============================\n\n\n### Tutorial\n`tutoria.lua` is a demonstration of RNN with LSTM module to learn simple sentences.\n\n#### Main/Run\n`run.lua` is an example of learning CamFind dataset captions. \n\n\n\nThis code is derived from https://github.com/wojzaremba/lstm.\nMore information: http://arxiv.org/pdf/1409.2329v4.pdf\n", 
-  "id": 34016559
-}

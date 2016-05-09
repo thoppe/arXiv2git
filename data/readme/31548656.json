@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543340, 
-  "description": "http://arxiv.org/abs/1412.1133", 
-  "README.md": "# sfm-oscillation\n\nSome scripts for\n- simulation\n- and plot of trajectories\n\nfor the manuscript [Oscillating behavior within the social force model](http://arxiv.org/abs/1412.1133).\n", 
-  "id": 31548656
-}

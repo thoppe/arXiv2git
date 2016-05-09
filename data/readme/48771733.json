@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550096, 
-  "description": "Joint Color-Spatial-Directional clustering and Region Merging (JCSD-RM)", 
-  "README.md": "# JCSD_RM\nJoint Color-Spatial-Directional clustering and Region Merging (JCSD-RM)\n\nCurrently this repository contains the results of applying JCSD-RM [1,2] method on the NYU depth database (NYUD2) [3]. The file JCSD_RM_Results.zip contains the results (segmentation - labels of pixels and final scores - VoI, BDE, PRI and GTRC) for 1449 images in half scaled (down) image.\n\nReferences:\n\n[1] M Hasnat, O Alata, A Tremeau, Joint Color-Spatial-Directional clustering and Region Merging (JCSD-RM) for unsupervised RGB-D image segmentation, in TPAMI, DOI:10.1109/TPAMI.2015.2513407, 2015.\n\n[2] M Hasnat, O Alata, A Tremeau, Joint Color-Spatial-Directional clustering and Region Merging (JCSD-RM) for unsupervised RGB-D image segmentation, in arXiv preprint arXiv:1509.01788, 2015.\n\n[3] N. Silberman, D. Hoiem, P. Kohli, and R. Fergus, \"Indoor segmentation and support inference from RGBD images,\" in ECCV 2012. Springer, 2012.\n", 
-  "id": 48771733
-}

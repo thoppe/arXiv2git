@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511073, 
-  "description": "Source code for a numerical model to simulate tsunami propagation and run-up on land ", 
-  "README.md": "cliffs-src\n==========\n\nSource code for a numerical model (Cliffs) to simulate tsunami propagation and run-up on land.\n\nCliffs User Manual at <http://arxiv.org/abs/1410.0753>\n\nCliffs' home page at <http://elena.tolkov.com/Cliffs.htm>\n\n\n", 
-  "id": 25023497
-}

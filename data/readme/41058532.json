@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545683, 
-  "description": "", 
-  "README.md": "% This is a numerical program to solve a coupled linear elliptic PDE system as described in the paper http://arxiv.org/abs/1302.2605\n\n% The evolution of the chemotactic behavior of E. coli bateria over time is presented in a 3-d plot, assuming a uniform initial distribution\n", 
-  "id": 41058532
-}

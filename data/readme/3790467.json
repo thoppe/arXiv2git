@@ -1,6 +1,0 @@
-{
-  "README": "This is KURT, the Keen Utility for Rewriting Trees.\n\nImplemented by Alex Rudnick (http://www.cs.indiana.edu/~alexr) as part of a phd\nqualifiers project.\n\nKURT is a Python 3 library for experimenting with xT tree transducers, which\ntake in trees and produce other trees; they're described more fully in the\nlovely article by Graehl et al [0].\n\nKURT uses some code from NLTK (http://nltk.org), but just the minimally\nrequired parts to make Tree objects work; these parts have been ported from\nPython 2.\n\nFor usage examples, please see src/spanish.py, german.py, and pokemon.py !\n\nTo understand what this is all about, please see the associated quals article:\nhttp://arxiv.org/abs/1203.6136\n\n[0] \"Training Tree Transducers\", Jonathan Graehl, Kevin Knight and Jonathan\nMay. Computational Linguistics, 34(3), 2008.\nhttp://www.aclweb.org/anthology/J/J08/J08-3004.pdf\n", 
-  "read_at": 1462547172, 
-  "description": "Keen Utility for Rewriting Trees", 
-  "id": 3790467
-}

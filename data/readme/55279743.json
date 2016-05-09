@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547695, 
-  "description": "Get the newest paper pdfs from the arxiv (cs.CV)", 
-  "ReadMe.md": "####arxivSpider\n\n----\n\n\nAuthor: Gang Wang\n\nEmail: gwang.cv@gmail.com\n\nThe code is implemented in python 2.7. The paper pdfs are downloaded to your local folder with the paper title. \n\nNote, you need to install the lxml library first.", 
-  "id": 55279743
-}

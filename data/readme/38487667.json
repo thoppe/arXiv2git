@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546265, 
-  "description": "Monte Carlo atomic and molecular particle simulator: Simulating the relaxation of particles, one collision at a time!", 
-  "README.md": "# mc-relax\nMonte Carlo atomic and molecular particle simulator: Simulating the relaxation of particles, one collision at a time!\nhttp://arxiv.org/abs/1404.5986\n\n\n## fortran-relax\nFortran 90 version of the Monte Carlo particle simulator. \nUses openMPI for parallelization.\n\n\n## scala-relax\nScala version of the Monte Carlo particle simulator.\nUses Apache Spark for parallelization\n", 
-  "id": 38487667
-}

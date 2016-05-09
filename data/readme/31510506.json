@@ -1,6 +1,0 @@
-{
-  "id": 31510506, 
-  "read_at": 1462544633, 
-  "readme.rst": "Read Naming Format\n==================\n\nRNF specification\n-----------------\n\nTeX source code of the RNF specification is in file `RNF.tex`_. XeLaTeX is the preferred way of compilation:\n\n.. code:: bash\n\n    xelatex RNF.tex\n\nIt can be compiled also with pdfLaTeX:\n\n.. code:: bash\n\n   pdflatex RNF.tex\n\nPublication\n-----------\n\n* \\K. Brinda, V. Boeva, G. Kucherov. **RNF: a general framework to evaluate NGS read mappers**. `arXiv:1504.00556`_ [q-bio.GN], 2015.\n\n.. _`RNF.tex`: RNF.tex\n.. _`arXiv:1504.00556`: http://arxiv.org/pdf/1504.00556.pdf\n\n\nWeb of the project\n------------------\n\nAll information about the project is available on http://karel-brinda.github.io/rnftools.\n\n", 
-  "description": "Specification of RNF (Read Naming Format)."
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555207, 
-  "description": "SFT_DATA: 2d data-driven flux transport code in MATLAB.", 
-  "README.md": "# sft_data\nSFT_DATA: 2d data-driven flux transport code in MATLAB.\n\nFor more details of the method/motivation etc., see Yeates et al., 2015, Solar Phys. 290, 3189 (http://link.springer.com/article/10.1007/s11207-015-0660-9, or http://arxiv.org/abs/1502.04854).\n\nAlso requires magnetogram data (typically .fits format). For NSO data see here: http://solis.nso.edu/0/vsm/vsm_maps.php.\n\nFor queries contact Anthony Yeates, Department of Mathematical Sciences, Durham University, UK.\n\n", 
-  "id": 53523087
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551638, 
-  "description": "A library for simple sentiment analysis", 
-  "README.md": "# sse-sentiment\n\n[![Build Status](https://secure.travis-ci.org/sptz45/sse-sentiment.png)](http://travis-ci.org/sptz45/sse-sentiment)\n\nA library for simple sentiment analysis.\n\nWARNING: this is work-in-progress.\n\n## References\n\nFinn Arup Nielsen\n\"A new ANEW: Evaluation of a word list for sentiment analysis in microblogs\",\nProceedings of the ESWC2011 Workshop on 'Making Sense of Microposts':\nBig things come in small packages 718 in CEUR Workshop Proceedings : 93-98. 2011 May.\nhttp://arxiv.org/abs/1103.2903\n\nThis library was inspired by the [sentiment](https://github.com/thisandagain/sentiment)\nnode.js module.\n\n## License\n\nLicensed under the Apache License, Version 2.0. See the LICENSE and NOTICE\nfiles for more information.\n", 
-  "id": 29501900
-}

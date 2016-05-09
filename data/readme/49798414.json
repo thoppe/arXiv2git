@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552546, 
-  "description": "R package to perform Bayesian screening for genomic data", 
-  "README.md": "# BayesianScreening\n\nThis is an R package to compute posteriors from a gene-level hierarchical prior, as described in the manuscript \"Bayesian genome- and epigenome-wide association studies with gene level dependence\" [1].  Also includes functions to perform two-class testing with shared kernels for methylation array data (see [2]).  The file BinaryExample.r gives example code for simulated categorical data. The file GliomaMethylExample.r gives example code for an application to methylation screening data. \n\nThe package can be installed in R, directly from GitHub, using the devtools library:\n```\ninstall.packages(devtools)\nlibrary(devtools)\ninstall_github(\"lockEF/BayesianScreening\")\n```\n\n[1] Lock, E. F. & Dunson, D. B. (2016). Bayesian genome- and epigenome-wide association studies with gene level dependence. arXiv preprint: http://arxiv.org/abs/1604.08654 .\n\n[2] Lock, E. F. & Dunson, D. B. (2015). Shared kernel Bayesian screening. Biometrika, 102 (4): 829-842.\n", 
-  "id": 49798414
-}

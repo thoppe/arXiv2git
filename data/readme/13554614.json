@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550534, 
-  "description": "Script to launch an array job for ZOFE calculations of the FMO pump probe spectra", 
-  "README.md": "fmo-zofe-spectra\n================\n\nScript to launch an array job for ZOFE calculations of the FMO pump probe spectra\n\nIn particular, this script is intended to produce a result for this paper:\nhttp://arxiv.org/abs/1307.4807\n", 
-  "id": 13554614
-}

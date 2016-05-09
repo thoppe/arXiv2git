@@ -1,8 +1,0 @@
-{
-  "project": [
-    "dmlc/mxnet-memonger"
-  ], 
-  "citation": [
-    "dykang/neurallanguage-notes"
-  ]
-}

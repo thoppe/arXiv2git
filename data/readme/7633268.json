@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551242, 
-  "description": "code for paper: http://arxiv.org/abs/1301.2820", 
-  "README.md": "CL_paper1_code\n==============\n\ncode for paper: http://arxiv.org/abs/1301.2820\n\nUses SpatialSAD code from:\nhttps://github.com/e-lab/eex\n", 
-  "id": 7633268
-}

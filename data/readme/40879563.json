@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545840, 
-  "description": "Code for 'backShift', an algorithm to estimate the connectivity matrix of a directed (possibly cyclic) graph with hidden variables.", 
-  "README.md": "# backShift\nR Code for 'backShift', an algorithm to estimate the connectivity matrix of a directed (possibly cyclic) graph with hidden variables.\nThe underlying system is required to be linear and we assume that observations under different shift interventions are available. \n\n## Installation\n\n### From CRAN\n```r\ninstall.packages(\"backShift\")\n```\n\n#### Dependencies\n\nIf `getOptions(\"repos\")` does not contain Bioconductor (\"BioCsoft\"), the packages `graph` and `RBGL` need to be downloaded from Bioconductor with\n\n```r\nsource(\"http://bioconductor.org/biocLite.R\") \nbiocLite(c(\"graph\",\"RBGL\"))\n```\n\n### From Github with `devtools`\n```r\ndevtools::install_github(\"christinaheinze/backShift\")\n```\n\n## Code\nSee the [package vignettes](https://github.com/christinaheinze/backShift/tree/master/vignettes) for more details.\n\n## References\nD. Rothenhaeusler, C. Heinze, J. Peters and N. Meinshausen. \"backShift: Learning causal cyclic graphs from unknown shift interventions\". [arXiv](http://arxiv.org/abs/1506.02494).\n", 
-  "id": 40879563
-}

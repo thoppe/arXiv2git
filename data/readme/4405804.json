@@ -1,6 +1,0 @@
-{
-  "read_at": 1462510913, 
-  "description": "Miramare healpix analysis tools", 
-  "README.md": "<p align=\"center\" >\n  <img src=\"https://raw.github.com/samuelleach/miramare/master/img/logo.png\" alt=\"miramare\" title=\"miramare\">\n</p>\n\nAn implementation of the maximum likelihood component separation technique describe here: (http://arxiv.org/abs/0804.2645).\n\nCitations: http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:0804.2645", 
-  "id": 4405804
-}

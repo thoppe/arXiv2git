@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549299, 
-  "description": "Data cleaning and LDA processing", 
-  "README.md": "# dataprep\nData cleaning and LDA processing\n\n`./data_scrub.py -i <toplevel input directory> -o <output directory> -c <custom stopwords file> -f <list of file prefixes to be processed> -s <file suffix>`\n\n`./data_scrub.py -i ~/Desktop/temp/ -o ~/Desktop/temp_out/ -c ~/Documents/Work/CSSS/arXiv/data/custom_stopwords.txt -f ~/Desktop/test_case.txt -s \".txt.gz\"`\n", 
-  "id": 37561645
-}

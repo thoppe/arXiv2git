@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551709, 
-  "description": "4 block polyomino solver for The Talos Principle", 
-  "README.md": "# Tetrominoer\n\nThis is a simple gem for solving four block polyomino puzzles with arbitrarily sized play spaces.\nI'm writing this as a fun side project to 'The Talos Principle', which I highly recommend playing.\n\nIt uses a version of algorithm X from Knuth's dancing links paper: http://arxiv.org/abs/cs/0011047 . I'm hoping the code will generalize to solve (n)-omino puzzles if you alter block.rb, but testing that isn't in the scope of this project.\n\nThe code is currently in a working state, though it lacks a reasonable interface.\nStill, it is usable in its current state, here is how:\n\nClone this repo, and install the gem\n\n```bash\ngem install tetrominoer\n```\nNavigate to the bin directory and open the executable in a text editor.\nThere is a quick configuration section, in which you can enter the parameters of your puzzle.\nRun the executable and enjoy!\n", 
-  "id": 29416027
-}

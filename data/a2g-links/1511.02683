@@ -1,8 +1,0 @@
-{
-  "project": [
-    "AlfredXiangWu/face_verification_experiment", 
-    "tornadomeet/mxnet-face", 
-    "richardhahahaha/SpatialMaxFeatureMap"
-  ], 
-  "citation": []
-}

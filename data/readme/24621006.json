@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558350, 
-  "description": "", 
-  "README.md": "\nArcs - the downloader of preprints\n\n====\nArcs is a downloader of preprints that facilitates researchers\nto preserve scholarly papers.  It currently supports donwloading\nof preprints distributed by arXiv.org via the Amazon S3 Requester\nPays Buckets.\n\nArcs is designed to automate the process of downloading and\nuncompression of preprint data.\n\n### Usage\nTo install and setup arcs:\n\n```\n  git clone https://github.com/tyn/arcs.git\n  cd arcs\n  arcs init\n```\n\nFollow the displayed instruction to setup\n[s3cmd](http://s3tools.org/s3cmd) (on which arcs depends).\n\n#### Downloading example\nTo download the preprints of the year 2014\n(NOTE: you have to pay for the data transfer)\n\n```\n  arcs syncsrc 2014\n```\n\n\nTo grep the downloaded files:\n\n```\n  arcs walk-tex | arcs grep -H creativecommons\n```\n", 
-  "id": 24621006
-}

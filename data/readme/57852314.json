@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556674, 
-  "description": "This repo is for my degree project about community detection in networks (in graphs). It's based on Louvain algorithm (http://arxiv.org/abs/0803.0476) and its realization from https://bitbucket.org/taynaud/python-louvain/src", 
-  "README.md": "# community-detection\nThis repo is for my degree project about community detection in networks (in graphs). It's based on Louvain algorithm (http://arxiv.org/abs/0803.0476) and its realization from https://bitbucket.org/taynaud/python-louvain/src\n", 
-  "id": 57852314
-}

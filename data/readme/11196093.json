@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556907, 
-  "description": "Implementation of the Bridge Bounding algorithm for local community detection: http://arxiv.org/abs/0902.0871", 
-  "README.md": "bridge-bounding\n===============\n\nImplementation of the Bridge Bounding algorithm for local community detection. \nDetailed description of the algorithm is available on: http://arxiv.org/abs/0902.0871\nIn case you make use of this code in your research, please cite the above paper.\n\nThe implementation uses the JUNG library to handle graphs: http://jung.sourceforge.net/\nTo get quickly started with the use of the algorithm, have a look at a very simple example (using synthetic community structure) in the bbound.SimpleSyntheticTest.java class (under the test folder).\n\nThis project contains also implementations for three other well-known local community detection methods, namely:\n- Clauset, described in [Finding local community structure in networks](http://arxiv.org/abs/physics/0503036);\n- Luo, Wang and Promislow, described in [Exploring Local Community Structures in Large Networks](http://dl.acm.org/citation.cfm?id=1249100);\n- Bagrow, described in [Evaluating Local Community Methods in Networks](http://iopscience.iop.org/1742-5468/2008/05/P05001). \n\nFor more information or support, contact: papadop@iti.gr or symeon.papadopoulos@gmail.com", 
-  "id": 11196093
-}

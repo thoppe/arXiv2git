@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558457, 
-  "description": "", 
-  "README.txt": "Some information:\n\n\n   1. norm[E,index] is the total cross section. E is the energy (7, 8, or 14 TeV). Index has the following convention:\n\n         0 ... central value\n         1 ... resummation scale up        (Qup)\n         2 ... resummation scale down      (Qdown)\n         3 ... renormalization scale up    (Rup)\n         4 ... renormalization scale down  (Rdown)\n\n\n      by definition, Qup and Qdown don't change the total cross section. Rup and Rdown do. So, if you want to estimate just the acceptance uncertainty, you have to normalize with values in norm[].\n\n   2. total[E,index] has the WW pT differential distribution following the same convention as above.\n   \n         a) This has to be compared to the WW pT distribution *after* QCD showering (pythia or herwig). Otherwise you are not comparing apples to apples.\n         b) The bins are 0.25 wide... this should be more than enough for us.\n\n   3. The procedure is simple, generate events without any cut and make the same histogram. Calculate the ratio bin-by-bin. Use that to reweight your events. The Q and R variation should give your uncertainties.\n\n\nPlease! Please! Please! Cite the following paper: http://arxiv.org/abs/1407.4481\n   \n   \n   \n", 
-  "id": 23799331
-}

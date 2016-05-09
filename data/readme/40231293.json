@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545672, 
-  "description": "CK repository: large artifacts (HOG experiments) for CK-related papers", 
-  "README.md": "CK extra repository to reproduce paper\n======================================\n\nLarge, shared artifacts to reproduce and extend techniques from\nthe following papers on \"Collective Mind\" and \"Collective Knowledge\":\n\n* http://arxiv.org/abs/1506.06256\n* http://hal.inria.fr/hal-01054763\n* https://hal.inria.fr/inria-00436029\n* http://arxiv.org/abs/1407.4075\n\nHowever, HOG experiments and predictive analytics are a bit\noutdated. That's why moved it here.\n\nPrerequisites\n=============\n* Collective Knowledge Framework: http://github.com/ctuning/ck\n\n", 
-  "id": 40231293
-}

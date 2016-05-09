@@ -1,6 +1,0 @@
-{
-  "read_at": 1462826636, 
-  "description": "", 
-  "README.md": "# capshun\n\nImportant papers:\nFor semantic segmentation(required to obtain candidate image boxes): http://arxiv.org/pdf/1311.2524v5.pdf\nKarpathy's paper: http://cs.stanford.edu/people/karpathy/cvpr2015.pdf\n", 
-  "id": 58352556
-}

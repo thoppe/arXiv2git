@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557723, 
-  "description": "", 
-  "README.md": "CurveLRR\n======\n\nMATLAB implementation of the CurveLRR algorithm by Stephen Tierney.\n\nIncludes an implementation of [\"Bayesian Clustering of Shapes of Curves\"][4] by Zhang et al.\n\n## Citing\n\nThis work will be available shortly on arxiv while under review.\n\n    Tractable Clustering of Data on the Curve Manifold\n    Stephen Tierney, Junbin Gao, Yi Guo and Zhengwu Zhang\n\n\n## Acknowledgement\n\nThe research project is supported by the Australian Research Council (ARC) through the grant DP140102270. The third author is partly supported by NSFC funded project (No. 41371362) and some of the work was carried out when he was with CSIRO. The fourth author is supported by SAMSI under grant DMS-1127914.\n\n## Included Libraries\n\n- [SMTV] [1]\n- [NCut][2]\n- [DTW] [3]\n\n[1]: https://github.com/sjtrny/smtv\n[2]: http://www.cis.upenn.edu/~jshi/software/\n[3]: http://www.mathworks.com/matlabcentral/fileexchange/43156-dynamic-time-warping--dtw-\n[4]: http://arxiv.org/pdf/1504.00377.pdf\n", 
-  "id": 51966473
-}

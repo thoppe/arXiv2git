@@ -1,9 +1,0 @@
-{
-  "project": [
-    "uoguelph-mlrg/theano_alexnet", 
-    "uoguelph-mlrg/theano_multi_gpu", 
-    "strin/dropnet", 
-    "momiah/cvariants_theano"
-  ], 
-  "citation": []
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553134, 
-  "description": "Ruby on Rails Tutorial: sample application", 
-  "README.md": "# arXivTab.org development\n\nExtending the sample application from\nthe [*Ruby on Rails Tutorial*](http://railstutorial.org/)\nby [Michael Hartl](http://michaelhartl.com/) to experiment\nwith tabbing PDFs on arXiv.org.\n\n", 
-  "id": 23257087
-}

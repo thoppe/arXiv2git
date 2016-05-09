@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551921, 
-  "description": "2nd place submission to the AutoML competition - phase 1", 
-  "README.md": "# automl-phase-1\n\n2nd place submission to the AutoML competition - phase 1\n\nA reduced implementation of freeze thaw Bayesian optimization\n\nSwersky, K., Snoek, J. & Adams, R. P. Freeze-Thaw Bayesian Optimization. arXiv preprint 1406.3896 (2014). at <http://arxiv.org/abs/1406.3896>\n\nusing random forest and gradient boosting machines as the base estimators.\n\nCode was written in a hurry.\n", 
-  "id": 31201589
-}

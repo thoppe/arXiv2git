@@ -1,7 +1,0 @@
-{
-  "README.md~": "# RNN\n\nRefer to:\n\nGraham Taylor's implementation:\n\nhttps://github.com/gwtaylor/theano-rnn\n\nMohammad Pezeshki's implementation:\n\nhttps://github.com/mohammadpz/Recurrent-Neural-Networks\n\nKyunghyun Cho's implementation:\n\nhttps://github.com/kyunghyuncho/dl4mt-material\n\n\nPaper:\n\nNeural Machine Translation by Jointly Learning to Align and Translate\n\nhttp://arxiv.org/abs/1409.0473\n", 
-  "read_at": 1462546276, 
-  "description": "", 
-  "README.md": "# Attention based RNN Encoder-Decoder \n\nRefer to:\n\nGraham Taylor's implementation:\n\nhttps://github.com/gwtaylor/theano-rnn\n\nMohammad Pezeshki's implementation:\n\nhttps://github.com/mohammadpz/Recurrent-Neural-Networks\n\nKyunghyun Cho's implementation:\n\nhttps://github.com/kyunghyuncho/dl4mt-material\n\n\nPaper:\n\nNeural Machine Translation by Jointly Learning to Align and Translate\n\nhttp://arxiv.org/abs/1409.0473\n", 
-  "id": 39241324
-}

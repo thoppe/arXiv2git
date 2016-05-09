@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557142, 
-  "description": "Dense-CNN features on faces", 
-  "README.md": "fv-cnn-face\n===========\n\nThis repo is no longer maintained and I have discontinued this project (which was never properly completed). Code implementing Fisher Vector CNN will be linked here for completeness when/if the original authors make it available on their website.\n\n\n\nD-CNN [1] on LFW Faces.\n\n* train_gmm.m learns a Gaussian Mixture Model from 'conv5' features.\n* fv_lfw_encoding.m  encodes each LFW image as a Fisher Vector using GMM created by train_gmm\n* diagMetric_train.m trains a pseudo-diagonal metric similar to Fisher Vector Faces [2].\n\n* Run on MATLAB R2014b.\n\n* Part of the data is hosted on private UMass servers (\nweibull: /scratch1/arunirc/FV_CNN_Face/data/all_img_lfw_funneled.mat)\n\n* Please read the .txt files in the tools, models, cnn_models and data folders to obtain the proper data for this code to run.\n\n\n\n1. Deep convolutional filter banks for texture recognition and segmentation. Mircea Cimpoi, Subhransu Maji, Andrea Vedaldi\nArXiv (Submitted on 25 Nov 2014).\n\n2. Simonyan, Karen, et al. \"Fisher vector faces in the wild.\" Proc. BMVC. Vol. 1. No. 2. 2013.\n", 
-  "id": 27610077
-}

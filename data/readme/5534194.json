@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552217, 
-  "description": "Matlab implementation of the UPAL algorithm", 
-  "README.txt": "This is a matlab implementation of UPAL, an algorithm that was first described in the paper \n@article{ganti2011upal,\n  title={Upal: Unbiased pool based active learning},\n  author={Ganti, R. and Gray, A.},\n  journal={Arxiv preprint arXiv:1111.1784},\n  year={2011}\n}\n\n", 
-  "id": 5534194
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556436, 
-  "description": "Calculate amplitude spectra", 
-  "README.md": "# Amplitudemaker\n\n\n\nThis program calculates the amplitude spectrum of your fitness landscape\nand is able to fit a generalized LK-landscape to the experimental data\n\nPlease prepare the data in the form 1   0   0   ... 1   2.400049\nwith the binary genome  1   0   0   ... 1 and fitness 2.400049.\n\n\nIt is possible to call the program with parameters landscape-filename and\ngenome-length to simplify the work with shell scripts. Example: to calculate\nthe amplitude spectrum of landscape \"foo.dat\" with genome length \"bar\"\nyou can call ./amplitudemaker foo.dat bar\n\nFor details on amplitude spectra, see\nhttp://arxiv.org/pdf/1301.1923\n\n\nFor the calculations and fitting, the GSL libraries are used: http://www.gnu.org/software/gsl/\nFor plotting, gnuplot is used via system call: http://www.gnuplot.info/\n\nI/O is not implemented very elegantly, but it works.\n", 
-  "id": 44745527
-}

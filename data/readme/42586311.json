@@ -1,6 +1,0 @@
-{
-  "id": 42586311, 
-  "read_at": 1462548812, 
-  "README.rst": "FatGHoL is a Python library for generating and manipulating Penner Fatgraphs.\n\nThe main driver for developing FatGHoL is the computation of the\nrational cohomology of the moduli space of smooth punctured Riemann\nsurfaces Mg,n. The computations completed with FatGHoL so far are\navailable for `download from GitHub`_, FigShare_, or the `Google Code Archive`_.\n\nIf you're interested, you can start reading the documentation_ right away.\n\nThe algorithms used in FatGHoL are described in the `arXiv pre-print\n1202.1820`_. Feel free to email me_ with questions and suggestions.\n\n.. _`arxiv pre-print 1202.1820`: http://arxiv.org/abs/1202.1820\n.. _documentation: http://fatghol.readthedocs.org/en/latest/\n.. _`download from github`: https://github.com/riccardomurri/fatghol/tree/downloads\n.. _`google code archive`: https://code.google.com/archive/p/fatghol/downloads\n.. _figshare: https://figshare.com/articles/Catalog_of_Fatgraphs_in_the_Penner_Kontsevich_cellularization_of_the_Space_of_smooth_punctured_Riemann_Surfaces/2062602\n.. _me: mailto:riccardo.murri@gmail.com\n", 
-  "description": "A Python library for Fatgraph computations: enumeration, isomorphisms and homology"
-}

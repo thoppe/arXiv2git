@@ -1,6 +1,0 @@
-{
-  "read_at": 1462826603, 
-  "description": "A DC load flow simulator of cascading (separation) in power systems", 
-  "README.md": "DCSIMSEP\n========\n\nA DC load flow simulator of cascading (separation) in power systems, developed primarily by Paul Hines, at the University of Vermont, with contributions from Eduardo Cotilla-Sanchez, Pooya Rezaei, and Maggie Eppstein.\n\nThis code is free to use for research purpose, and available via the GNU Public License.  If you find this useful in your research, please cite the publication listed below. \n\nFor details on how DCSIMSEP works, see:\n* Margaret J. Eppstein and Paul D. H. Hines. A \"Random Chemistry\" Algorithm for Identifying Collections of Multiple Contingencies that Initiate Cascading Failure. IEEE Transactions on Power Systems, vol. 27, no. 3, 2012.\n* Pooya Rezaei, Paul Hines and Margaret Eppstein, Estimating Cascading Failure Risk with Random Chemistry, IEEE Transactions on Power Systems, vol. 30, no. 5, 2015. <http://arxiv.org/abs/1405.4213>\n\nTo get started with DCSIMSEP do the following:\n\n1. Navigate to the dcsimsep folder from within MATLAB\n2. Edit and run the setup.m script (this just sets up the paths)\n3. Navigate to the test/ directory: ``cd test''\n3. Edit and run test_dcsimsep.m to run some tests.  \n", 
-  "id": 14017396
-}

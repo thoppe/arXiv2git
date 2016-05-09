@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546176, 
-  "description": "", 
-  "README.md": "# GravesNet in chainer\n\n[![Build Status](https://travis-ci.org/ShigekiKarita/gravesnet.svg)](https://travis-ci.org/ShigekiKarita/gravesnet)\n[![Coverage Status](https://coveralls.io/repos/ShigekiKarita/gravesnet/badge.svg?branch=master&service=github)](https://coveralls.io/github/ShigekiKarita/gravesnet?branch=master)\n\nimpl of http://arxiv.org/abs/1308.0850 (Alex Graves, 2013)\n\nrequirements\n+ [chainer: Neural network framework](https://github.com/pfnet/chainer)\n+ [the IAM On-Line Handwriting Database](http://www.iam.unibe.ch/fki/databases/iam-on-line-handwriting-database/download-the-iam-on-line-handwriting-database)\n", 
-  "id": 39831359
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554274, 
-  "description": "Word vectors library", 
-  "README.md": "# Wordvec - word vectors library\n\n## Literature\n\n- <http://cs224d.stanford.edu/lectures/CS224d-Lecture2.pdf>\n- <http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf>\n- <http://nlp.stanford.edu/projects/glove/>\n- <http://www.cs.cmu.edu/~bmurphy/NNSE/>\n- <http://arxiv.org/pdf/1301.3781.pdf>\n- <http://metaoptimize.com/projects/wordreprs/>\n", 
-  "id": 46061065
-}

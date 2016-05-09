@@ -1,7 +1,0 @@
-{
-  "project": [
-    "garnachod/SimpleDoc2Vec", 
-    "jesege/py-cbow"
-  ], 
-  "citation": []
-}

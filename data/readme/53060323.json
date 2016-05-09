@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555004, 
-  "description": "", 
-  "README.md": "# iorigins\nVideo recognition on the UCF101 dataset.\nVideo captioning on the MSVD dataset.\nI am trying to implement ideas from this paper (http://arxiv.org/pdf/1511.06432v4.pdf) in Tensorflow.\n", 
-  "id": 53060323
-}

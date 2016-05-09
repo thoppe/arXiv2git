@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552212, 
-  "description": "", 
-  "README.mkd": "TODO make a demo and readme :)\n\nNOTE: this code currently only works with a specific version of pyhsmm. This should get things to work:\n\n```bash\ngit clone -b working-factorial https://github.com/mattjj/pyhsmm.git\ncd pyhsmm\ngit submodule update --init --recursive\ngit clone https://github.com/mattjj/pyhsmm-factorial.git ./plugins/factorial\n# the lines below run an example\ncd ..\nexport PYTHONPATH=.:$PYTHONPATH # if you use bash/zsh\npython pyhsmm/plugins/factorial/example.py\n```\n\nThe example file's synthetic data tends to result in negative sampled powers.\n\nSee http://arxiv.org/pdf/1203.1365v2.pdf.\n", 
-  "id": 5279156
-}

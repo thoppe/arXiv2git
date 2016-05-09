@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557726, 
-  "description": "", 
-  "README.md": "# face2place\n\n1. Use openface to extract features of face\n2. a. Use opencv or dlib to crop face\n3. b. using torch pre-trained to extract features\n4. Test on wiki-face dataset\n5. Wikipedia API to create \n6. a. download XML dump and setup\n7. b. image API and download\n8. Use geo\n9. a. http://arxiv.org/pdf/1602.05314.pdf\n10. b. http://cs.uky.edu/~jacobs/papers/islam2014faces.pdf\n11. c. http://graphics.cs.cmu.edu/projects/im2gps/\n12. Age regressor \n13. a. image to age\n14. b. older image of current image\n15. Siblings and parents image\n", 
-  "id": 52330166
-}

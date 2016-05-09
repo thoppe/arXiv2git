@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543942, 
-  "description": "Jump Consistent Hash implementation in Go", 
-  "README.md": "[![GoDoc](https://godoc.org/github.com/beefsack/go-jch?status.png)](http://godoc.org/github.com/beefsack/go-jch) [![Build Status](https://travis-ci.org/beefsack/go-jch.svg?branch=master)](https://travis-ci.org/beefsack/go-jch)\n\nPackage jch provides an implementation of the Jump Consistent Hash\nconsistent hashing algorithm in Go.\n\nConsistent hashing is designed to minimise hash changes when the number of\nbuckets is changed, and is particularly useful for data sharding.  More\ninformation on consistent hashing is available at\nhttp://en.wikipedia.org/wiki/Consistent_hashing.\n\nJump Consistent Hash was invented by John Lamping and Eric Veach, and is\ndescribed in the paper \"A Fast, Minimal Memory, Consistent Hash Algorithm\"\n(2014) available at http://arxiv.org/abs/1406.2294v1.\n\n```go\nimport \"github.com/beefsack/go-jch\"\n\nfunc ExampleHash() {\n\thash := jch.Hash(28, 5)\n\tfmt.Print(hash)\n\t// Output: 2\n}\n```\n", 
-  "id": 32522545
-}

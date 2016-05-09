@@ -1,6 +1,0 @@
-{
-  "README": "SUSY LATTICE is parallel code for RHMC simulations of extended-supersymmetric\nYang--Mills theories in two and four dimensions, including related measurements.\nThis package evolved from the MILC code, and supersedes the serial C++ code\npresented in arXiv:1108.1503.\n\nSee subdirectories for more detailed READMEs:\n2dSYM -- Two-dimensional N=(2,2) supersymmetric Yang--Mills theory\n4dSYM -- Four-dimensional N=4 supersymmetric Yang--Mills theory\n\nFeel free to contact David Schaich with any questions, requests for new\nfeatures, or (especially) bug reports:\nhttp://www.davidschaich.net\n\nAuthors:\nDavid Schaich (Syracuse University)\nThomas DeGrand (University of Colorado Boulder)\n\nReference:\nA summary of useful information appears in the following paper, which we ask\nthat you cite if you find SUSY LATTICE useful in your work:\n\nDavid Schaich and Thomas DeGrand, \"Parallel software for lattice N=4\nsupersymmetric Yang--Mills theory\", Comput. Phys. Commun. 190:200--212 (2015)\n[arXiv:1410.6971].\nhttp://dx.doi.org/10.1016/j.cpc.2014.12.025\n\nDevelopment was supported in part by the U.S. Department of Energy under grants\nDE-FG02-04ER41290, DE-SC0010005, DE-SC0008669 and DE-SC0009998.\n", 
-  "read_at": 1462556725, 
-  "description": "", 
-  "id": 57999669
-}

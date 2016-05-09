@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555146, 
-  "description": "The fist Chinese font that generated artificial intelligent.  ", 
-  "README.md": "# AIFont\nTeaching artificial neural network to write Chinese calligraphy and imitate any font style, to create the fist Chinese font.\nSince typographic was invented 3,000 years ago, making Chinese font is always a problem, because there are more than 20,000 characters in chinese.\nThus, our idea is to train NN by just a small subset of characters (about 100+) that is styled by designer or calligrapher and than ask NN to generate the whole set of characters (about 20,000+).\n\n#Reference\nGoogle just published a paper that has similar idea, but it is English letters.  \nhttp://arxiv.org/pdf/1603.04000v1.pdf\n\nA professor trained NN to learn hand writing\nhttp://arxiv.org/pdf/1308.0850v5.pdf\nDemo: http://www.cs.toronto.edu/~graves/handwriting.html\n\nA related small work\nhttp://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/\n\nAnother related work\nhttp://multithreaded.stitchfix.com/blog/2016/02/02/a-fontastic-voyage/\n", 
-  "id": 54849517
-}

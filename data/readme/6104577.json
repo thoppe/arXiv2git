@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558068, 
-  "description": "https://twitter.com/arXivHaiku Haiku drawn directly, and automatically, from the arXiv http://arxiv.org/ ", 
-  "README.md": "arXivHaiku\n==========\n\nhttps://twitter.com/arXivHaiku\n\nHaiku drawn directly, and automatically, from the arXiv http://arxiv.org/\n\nCopyright 2012 Simon StJohn-Green, Simon <dot> StJG <at> gmail <dot> com.\n\nDev instructions\n----------------\n\nDependancies:\n- pip install lxml feedparser oauth2 nltk\n- Run `import nltk; nltk.download();` in python, and download `cmudict`.\n\nLicence\n-------\n\nGPL, see gpl.txt\n", 
-  "id": 6104577
-}

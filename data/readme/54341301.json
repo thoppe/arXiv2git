@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554949, 
-  "description": "Levy thinning simulation experiments", 
-  "README.md": "# levythin\nSimulation experiments for L&eacute;vy thinning, as reported by Wager, Fithian, and Liang (2016).\n\n#### References\nStefan Wager, William Fithian, and Percy Liang.\n<b>Data Augmentation via L&eacute;vy Processes.</b>\n2016. [<a href=\"http://arxiv.org/abs/1603.06340\">arxiv</a>]\n", 
-  "id": 54341301
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548620, 
-  "description": "ArxivSharp is a small wrapper aroung arXiv's API.", 
-  "README.md": "# ArXivSharp\n\nArxivSharp is a small wrapper aroung arXiv's API.\n\n## Others implementations\n\n- [cl-arxiv-api](https://github.com/mabragor/cl-arxiv-api/) - Common Lisp\n- [aRxiv](https://github.com/ropensci/aRxiv) - R\n", 
-  "id": 43281883
-}

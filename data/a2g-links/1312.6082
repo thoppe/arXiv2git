@@ -1,7 +1,0 @@
-{
-  "project": [
-    "itaicaspi/SVHN-Multi-Digit-torch", 
-    "dl-lab/dnn-multidigit-recognition"
-  ], 
-  "citation": []
-}

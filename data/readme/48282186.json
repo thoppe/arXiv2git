@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550158, 
-  "description": "Jigsaw puzzle solver", 
-  "README.md": "# Jigsaw puzzle solver\nThis package contains a linear programming-based solver for jigsaw puzzle \nproblems. The solver is based on linear programming and is implemented from the \npaper by Yu et al. (2015). The current implementation only provides the 'free' \nstrategy and can only solve Type I problems (i.e. problems where the \norientation of the pieces is known).\n\n## Running the code\nTo subdivide any square image into a number of blocks (sixteen by default) \nand shuffle them, use:\n\n<pre>\n    shuffle-image input.png shuffled.png [-n <i>number of pieces</i>] [-r <i>random seed</i>]\n</pre>\n\nTo reconstruct the shuffled image with the LP-based algorithm, use:\n\n<pre>\n    solve-jigsaw-lp shuffled.png reconstructed.png [-n <i>number of pieces</i>] \n        [-r <i>random seed</i>] [-m <i>max. number of simplex iterations</i>]\n</pre>\n\n\n## Known issues\n``scikit-image`` may complain about unknown locales. \nTo resolve this issue, please make sure to have a valid locale set, e.g. in \na Bash shell enter:\n\n    $ export LC_ALL=en_US.UTF-8; export LANG=en_US\n\n## References\n1. Yu, R., Russell, C., & Agapito, L. (2015). Solving Jigsaw Puzzles with\n    Linear Programming. arXiv preprint arXiv:1511.04472.\n", 
-  "id": 48282186
-}

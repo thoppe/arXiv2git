@@ -1,6 +1,0 @@
-{
-  "read_at": 1462826648, 
-  "description": "Chainer implementation of batch-normalizing LSTM", 
-  "readme.md": "# Recurrent Batch Normalization\n\nThis package provides a Chainer implementation of Batch-normalizing LSTM described in [Recurrent Batch Normalization [arXiv:1603.09025]](http://arxiv.org/abs/1603.09025).\n\n[konoJi Shi ](http://musyoku.github.io/2016/05/08/recurrent-batch-normalization/)deShi Zhuang shitakododesu. \n\n## Requirements\n\n- Chainer 1.8+\n\n## Running\n\nBefore\n\n```\nfrom chainer import links as L\nlstm = L.LSTM(n_in, n_out)\n```\n\nAfter\n\n```\nfrom bnlstm import BNLSTM\nlstm = BNLSTM(n_in, n_out)\n```", 
-  "id": 58248455
-}

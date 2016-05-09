@@ -1,6 +1,0 @@
-{
-  "README.markdown": "# OpenPGP RFC 4880 and 6637\n\nThis is an initial (incomplete) attempt at a reasonably formal syntax and\nsemantics of PGP packets.\n\nIt is written vaguely in the style of TRX; see http://arxiv.org/abs/1105.2576\nfor details.\n\nBecause the resulting grammar is rather large, part of it is automatically\ngenerated using Jinja2; the necessary script is present in this repository.\n", 
-  "read_at": 1462550920, 
-  "description": "", 
-  "id": 21628595
-}

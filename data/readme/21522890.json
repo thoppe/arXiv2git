@@ -1,6 +1,0 @@
-{
-  "README": "This code simulates a directional direct dark matter detector and checks whether a given detector set-up is capable to distinguish for a certain dark matter mass and dark matter-nucleon cross-section a dark matter signal from the neutrino background.\n\nFor details on how to use the code, see man.pdf.\n\nThis code was used to do the analysis of http://arxiv.org/abs/1406.5047.\n\n", 
-  "read_at": 1462550951, 
-  "description": "This code simulates directional dark matter detectors", 
-  "id": 21522890
-}

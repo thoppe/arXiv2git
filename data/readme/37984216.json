@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549337, 
-  "description": "Entropy calculation for ISI trains.", 
-  "README.md": "# entisi\nEntropy calculation for ISI trains. Performs binarization of a spike train represented by ISIs\nand calculates block entropies H(n), increasing the block order n, and calculating conditional entropies\nh(n) = H(n+1) - H(n), as well.\n\nMethod for entropy estimation comes from here:\nP.Grassberger \"Entropy Estimates from Insufficient Samplings\" // arXiv:physics/0307138v2 (2008)\n\nDetails on block (joint) and conditional entropy see here:\nS.Luccioli, T.Kreuz, and A.Torcini \"Dynamical response of the Hodgkin-Huxley model\nin the high-input regime\" // PRE 73, 041902 (2006)\n", 
-  "id": 37984216
-}

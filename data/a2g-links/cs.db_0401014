@@ -1,8 +1,0 @@
-{
-  "project": [
-    "clyfe/acts_as_nested_interval", 
-    "grzlus/acts_as_nested_interval", 
-    "pythonic/acts_as_nested_interval"
-  ], 
-  "citation": []
-}

@@ -1,9 +1,0 @@
-{
-  "project": [
-    "dutra/lattice_qcd", 
-    "lbovard/qcd", 
-    "uchuutamashi/lqcd", 
-    "karlnordstrom/LatticeCode"
-  ], 
-  "citation": []
-}

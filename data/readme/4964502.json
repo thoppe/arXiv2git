@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551176, 
-  "description": "Compute (signature) Groebner bases using the fast datastructures from mathic.", 
-  "README.md": "mathicgb\n=========\n\nMathicgb is a program for computing Groebner basis and signature\nGrobner bases. Mathicgb is based on the fast data structures from\n[mathic](https://github.com/broune/mathic).\n\nThe paper \"Practical Grobner Basis Computation\" describes the\nalgorithms in Mathicgb from a high level. It was presented at ISSAC\n2012 and is available at http://arxiv.org/abs/1206.6940\n", 
-  "id": 4964502
-}

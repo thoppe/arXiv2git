@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546294, 
-  "description": "Python code for simulating the O(2) and O(4) rotor models using evoMPS.", 
-  "README.md": "# mps-rotors\nPython code for simulating the O(2) and O(4) rotor models using evoMPS (http://amilsted.github.io/evoMPS/).\nIt currently depends on the development branch of evoMPS.\nThis code was used in: http://arxiv.org/abs/1507.06624\n\n## Description\nThis is a library of functions for computing uniform matrix product state (MPS) ground states for the O(2) and O(4) quantum rotor models and processing and visualizing the results. It is also possible to compute low-lying excited states using the uniform MPS tangent space, including computation of the mass gap.\n", 
-  "id": 39568375
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543088, 
-  "description": "Least Squares Sensitivity for chaotic maps", 
-  "README.md": "This module contains tools for performing tangent sensitivity analysis\nand adjoint sensitivity analysis.\n\nThe details are described in our paper\n\"A mathematical analysis of the least squares sensitivity method\"\nat arXiv\n\nUser should define two bi-variate functions, f and J.\n\nf(u, s) defines a dynamical system u_{i+1} = f(u_i,s) parameterized by s\n\nJ(u, s) defines the objective function, whose ergodic long time average\n        is the quantity of interest.\n\nUse:\n----\n\nu0 = rand(m)       # initial condition of m-degree-of-freedom system\n\nn0, n = 1000, 1000 # spin-up time and trajectory length\n\nUsing tangent sensitivity analysis:\n-----------------------------------\n\ntan = Tangent(f, u0, s, n0, n)\n\ndJds = tan.dJds(J)\n\nUsing tangent sensitivity analysis:\n-----------------------------------\n\nadj = Adjoint(f, u0, s, n0, n, J)\n\ndJds = adj.dJds()\n\n", 
-  "id": 9418253
-}

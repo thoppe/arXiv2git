@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550700, 
-  "description": "Exact Hamiltonian Monte Carlo Sampler for Binary Distributions", 
-  "README.md": "hmc-binary\n=======\n\nMATLAB and C++ implementations of the exact HMC sampler for binary distributions using a Gaussian augmentation. The algorithm was introduced in the NIPS 2013 paper \"Auxiliary-variable exact Hamiltonian Monte Carlo samplers for binary distributions\" by Ari Pakman and Liam Paninski. \n\nPaper available at http://arxiv.org/abs/1311.2166\n\nThe script ising_1d_demo.m runs the MATLAB implementation and reproduces the 1D Ising model example in the paper.\n\nThe script mex_demo.m compiles and runs the C++ version for binary Markov Random Fields (Boltzmann machines). For other binary distributions, one can write a class derived from HMC_BinarySampler (similar to the MRF class). \n\n\n\n", 
-  "id": 18769733
-}

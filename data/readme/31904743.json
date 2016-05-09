@@ -1,6 +1,0 @@
-{
-  "read_at": 1462544722, 
-  "description": "The lower-orthant / upper-orhant VaR proposed by Cousin and Di Bernardino", 
-  "README.md": "# movar\nThe library contains a Matlab(R) implementation of the lower-orthant / upper-orhant VaR proposed by Cousin and Di Bernardino. \n\nThe current functionality allows to\n  1) Compute an approximation of the lower-orthant (upper-orthant) VaR for\n    a) any 2d random vector satisfying the regularity conditions\n    b) any random vector whose copula (survival copula) is Archimedean\n  2) Compute the exact value of the lower-orthant (upper-orthant) VaR for\n    a) 2d random vector with uniform margins whose copula (survival copula) belongs to the\n        Clayton, Gumbel, Frank or Ali-Mikhail-Haq family. \n\nThis library is a part of the master thesis \n  On Multivariate Extensions of Value-at-Risk\n  Victor Mingazov\n  Ulm University, 2015\n  \nThe text of the thesis is available at request.\n\nSee the paper by Cousin and Di Bernardino (http://arxiv.org/abs/1111.1349) for the definitions and regularity conditions. \n\n(c) Victor Mingazov, 2015\ne-mail: v.mingazov at gmail dot com\nPlease e-mail for suggestions, comments and discussion. \n", 
-  "id": 31904743
-}

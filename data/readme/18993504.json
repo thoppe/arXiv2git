@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550689, 
-  "description": "Supplementary material for Accelerated Randomized Benchmarking.", 
-  "README.md": "# Accelerated Randomized Benchmarking #\n\n[Christopher Granade](http://www.cgranade.com/), [Christopher Ferrie](http://csferrie.com/) and [D. G. Cory](http://iqc.uwaterloo.ca/iqc-directory/dcory/)\n\n > [more details](http://www.cgranade.com/research/arb/) | [arXiv](https://scirate.com/arxiv/1404.5275)\n\n## Supplemental Material ##\n\n > [view online](http://nbviewer.ipython.org/github/cgranade/accelerated-randomized-benchmarking/blob/master/src/model_testing.ipynb)\n\nThis repository contains the supplementary material for *Accelerated Randomized Benchmarking*,\nincluding a [gateset-based simulator](blob/master/src/benchmarking_models.py),\nthe [gates used](blob/master/gates), and an [IPython notebook](blob/master/src/model_testing.ipynb)\ncontaining all of the calculations performed in the paper.\n\n", 
-  "id": 18993504
-}

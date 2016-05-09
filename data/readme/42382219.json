@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548592, 
-  "description": null, 
-  "README.md": "# Multibox Object Detector\n\nThis repository contains a reference pre-trained network for the multibox\nobject detector, complementing the Google publications\n\nDumitru Erhan, Christian Szegedy, Alexander Toshev, Dragomir Anguelov.\nScalable Object Detection using Deep Neural Networks.\narXiv:1312.2249.\n\nChristian Szegedy, Scott Reed, Dumitru Erhan, Dragomir Anguelov.\nScalable, High-Quality Object Detection.\narXiv:1412.1441.\n\n\nYou can view \"multibox.ipynb\" directly on github, or clone the\nrepository, install dependencies listed in the notebook and play with code\nlocally.\n\nDisclaimer: this is not an official Google product (experimental or otherwise).\n", 
-  "id": 42382219
-}

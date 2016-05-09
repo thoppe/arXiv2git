@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548098, 
-  "description": "COS 424 Final Project ", 
-  "README.md": "# 424Final\nCOS 424 Final Project\n\nCode sharing for final project--- draft of paper maintained on sharelatex\n\nWorking Topic: Comparison of dimensionality reduction techniques across a particular data type\n\nLITERATURE:\n\nhttp://arxiv.org/pdf/1512.05830v2.pdf --> using Places2 dataset to train scene recognition/identification model; we note that this is based on convolutional neural networks + relay backpropagation, which (from a cursory analysis/web search) seems to be the prevailing method in CV for this problem.\n\nhttp://arxiv.org/pdf/1409.0575.pdf --> creating of ImageNet dataset-- deals with object recognition/identification rather than scene identification (like with Places/Places2), but still computer vision/image recognition. Image classification: Each image has one class and classifier can return multiple classes --- if any match the single image class then it's a match (due to multiple objects in one photo). \n\nhttp://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf --> re: convolutional neural networks + dimensionality reduction\n\n\n\n\n\n", 
-  "id": 56718312
-}

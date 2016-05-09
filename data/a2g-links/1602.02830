@@ -1,9 +1,0 @@
-{
-  "project": [
-    "hillbig/binary_net"
-  ], 
-  "citation": [
-    "dennybritz/deeplearning-papernotes", 
-    "lipiji/app-dl"
-  ]
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555459, 
-  "description": "", 
-  "README.md": "# FAST-PT\n\nFASTPT is a code to calculate 1-loop corrections to the matter power spectrum in cosmology. \nThe code utilizes Fourier methods combined with analytic expressions to reduce the computation time down \nto scale as N log N, where N is the number of grid point in the input linear power spectrum. \n\nFAST-PT way to get started: \n\n* Make sure you have current numpy, scipy, and matplotlib\n* download\n* in terminal type the following \n* python FASTPT.py\n* (hopefully you get a plot)\n\nSee the user_manual.pdf for more details. \n\nOur paper (arXiv:1603.04826 ) describes the FAST-PT algorithm and implementation. This paper should be cited when using FAST-PT in your research.\n\n", 
-  "id": 53880322
-}

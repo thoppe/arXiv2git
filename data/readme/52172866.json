@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557619, 
-  "description": "rmarkdown template for IMS journal articles", 
-  "README.md": "# imsart\nrmarkdown template for IMS journal articles\n\n## Todo\n\n- [x] create a new YAML field to accommodate Arxiv imprinting\n  - [x] this will require a slight modification to template.tex, I think\n- [ ] formatting for bibliography needed!\n- [ ] make yaml fields to match required & suggested fields in ims-template.tex\n", 
-  "id": 52172866
-}

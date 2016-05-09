@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547765, 
-  "description": "WIP: tensorflow implementation of U-Net", 
-  "README.md": "# unet_tensorflow\nWIP: tensorflow implementation of U-Net\n\nI will add here my updates on the implementation of a U-Net:\nhttp://arxiv.org/abs/1505.04597\n\n\n", 
-  "id": 57125362
-}

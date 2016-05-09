@@ -1,9 +1,0 @@
-{
-  "project": [
-    "mrtzh/Ladder.jl", 
-    "nerdcha/escalator"
-  ], 
-  "citation": [
-    "KirkHadley/icml2015_papers"
-  ]
-}

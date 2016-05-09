@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543977, 
-  "description": "", 
-  "README.txt": "# Nov. 2014\n# This code implements the Fixed-Rank Alternated Direction Method with Augmented\n# Lagrange Multiplier \n# algorithm for Robust Fixed-Rank Sparse Decompositions.\n#\n# D - m x n matrix of probably corrupted data\n#\n# lambda - weight on sparse error term in the cost function\n#\n# tol - tolerance for stopping criterion.\n#\n# maxIter - maximum number of iterations\n#\n# This code has been developed by:\n#\n#\t* German Ros \t(gros@cvc.uab.es)\n#\tComputer Vision Center and Universitat Autonoma de Barcelona (Spain)\n#\n#\t* Julio Guerrero\t(juguerre@um.es)\n#\tDept. of Applied Mathematics, Universidad de Murcia (Spain)\n#\n# To know more details, please check our arXiv submission\n# \"Fast and Robust Fixed-Rank Matrix Recovery\"\n# at http://arxiv.org/abs/1503.03004\n#\n# \n# This implementation is based on the implementation of the iALM method by\n# Minming Chen & Arvind Ganesh and LMAFIT by Yin Zhang. Thank you very much!\n#\n################\n", 
-  "id": 31768120
-}

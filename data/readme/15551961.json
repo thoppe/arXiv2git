@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551475, 
-  "description": "Lean Algebraic Multigrid solver C++ port inside MCFUniPi framework.", 
-  "README.md": "lamg_cpp\n========\n\nThe following is a C++ porting of the Lean Algebraic Multigrid solver by O.E.Livne and A.Brandt, which was written in Matlab and available for download [here](https://code.google.com/p/lamg/), written using the new Smart Expression Templates library [Blaze-lib](https://code.google.com/p/blaze-lib/). The main purposes of this porting was to test this solution as an internal solver for the Interior Point algorithm's problem developed by \"The Operation Research Group\" of University of Pisa, exploiting the main ideas introduced by the authors in this [arxiv article](http://arxiv.org/abs/1108.1310).\n\n__The code is still in a beta version and the results are very preliminary so don't expect it to work correctly__.\n\nIn particular you'll have to manually download all the required headers (MCFClass.h, IPClass.h, MCFLSSolver.h, etc.)  from the [ORGroup website](http://www.di.unipi.it/optimize/Software/MCF.html) in order to correctly compile the code.\n\nThe docs folder contains the source code of my thesis (written in Italian). To compile it all you need to do is install a basic LaTeX distribution and type\n```\n$ pdflatex Tesi.tex\n```\nin a command prompt.\n", 
-  "id": 15551961
-}

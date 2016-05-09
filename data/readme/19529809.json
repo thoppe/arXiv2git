@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546680, 
-  "description": "C++ Library for Dual Complex Numbers", 
-  "README.md": "A C++ library for Dual Complex Numbers\n=============\nDual complex numbers gives an efficient alternative to matrices\nfor manipulating \nthe rigid motions in 2D ( i.e., the group of 2D Euclidean transformations ).\n\n* G. Matsuda, S. Kaji, and H. Ochiai, \n\"Anti-commutative Dual Complex Numbers and 2D Rigid Transformation\" \nin Mathematical Progress in Expressive Image Synthesis I, Springer-Japan, 2014.\nhttp://arxiv.org/abs/1601.01754\n", 
-  "id": 19529809
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557607, 
-  "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  murphydiagram\u00a0\u2014\u00a0Murphy\u00a0Diagrams\u00a0for\u00a0Forecast\u00a0Comparisons.\u00a0Homepage:\u00a0https://sites.google.com/site/fk83research/code  ", 
-  "README.md": "# murphydiagram\r\n\r\nR package with data and programs for the paper by Ehm, Gneiting, Jordan and Kruger (`Of Quantiles and Expectiles: Consistent Scoring Functions, Choquet Representations, and Forecast Rankings', 2015,\r\npreprint available at <http://arxiv.org/abs/1503.08195>). \r\n\r\nThe package source file and supporting documents can be found at <https://sites.google.com/site/fk83research/code>. \r\n", 
-  "id": 50840446
-}

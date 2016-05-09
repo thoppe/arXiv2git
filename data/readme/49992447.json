@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552731, 
-  "description": "Supplementary software for implementing the one-shot QSNC assisted zero-error simulation cost is not multiplicative", 
-  "README.md": "# QSNC-simulation-cost\n\nThis project contains MATLAB scripts that supplement the results of the article [1].\n\n\n\n## Description :\n\nSupplementary software for implementing the one-shot QSNC assisted zero-error simulation cost is not multiplicative.\n\n\n\n\n## Dependencies:\n\nIn order to run these scripts in MATLAB, you must also have CVX [3] and QETLAB [4] downloaded and added to your path.\n\n\n## References:\n[1] \"On the quantum no-signalling assisted zero-error simulation cost of non-commutative bipartite graphs\" - X. Wang, R. Duan. (In preparation)\n\n[2] \"Non-Signalling Assisted Zero-Error Capacity of Quantum Channels and an Information Theoretic Interpretation of the Lov\\'{a}sz Number\" - R. Duan, A. Winter, arXiv:1409.3426\n\n[3] CVX - (http://cvxr.com/cvx/)\n\n[4] QETLAB v0.8 - (http://qetlab.com)\n", 
-  "id": 49992447
-}

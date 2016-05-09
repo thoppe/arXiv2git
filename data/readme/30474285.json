@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551998, 
-  "description": "Tail index estimation with random block maxima", 
-  "README.md": "#rbm\nTail index estimation with random block maxima. This package implements the random block maxima method proposed by Wager (2014).\n\nTo install this package in R, run the following commands:\n\n```R\nlibrary(devtools) \ninstall_github(\"swager/rbm\")\n```\n\nExample usage:\n\n```R\nlibrary(rbm)\nrbm.point_estimate(abs(rt(2000, df = 3)))\n```\n\n####References\nStefan Wager. <b>Subsampling Extremes: From Block Maxima to Smooth Tail Estimation</b>. <i>Journal of Multivariate Analysis</i>, 130, 2014. [<a href=\"http://arxiv.org/pdf/1204.0316v5.pdf\">arxiv</a>]\n", 
-  "id": 30474285
-}

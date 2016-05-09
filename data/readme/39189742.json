@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546304, 
-  "description": "", 
-  "README.md": "# entropy-markov-trajectory-\n\nThis code allows for computing the matrix of trajectory entropies associated with an irreducible finite state Markov chain.\n\nDefinitions and computations can be found\n\n  [1] The entropy of Markov trajectories \n  http://www-isl.stanford.edu/~cover/papers/paper101.pdf\n\nThe example of the MC presented in this script is from the paper\n\n  [2] The entropy of conditional Markov trajectories \n  http://arxiv.org/abs/1212.2831\n\n\nTo run the code with the example of Markov chain given in [2]\n\n```python\n  python trajectory_entropy.py\n```\n", 
-  "id": 39189742
-}

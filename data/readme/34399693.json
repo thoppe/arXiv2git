@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511623, 
-  "description": "Weighted Data EM", 
-  "README.md": "# EM algorithms for weighted-data clustering\n\nThis reposotory contains Matlab code for EM algorithms proposed in the following paper:\n> I. D. Gebru, X. Alameda-Pineda, F. Forbes, and R. Horaud.\n> EM algorithms for weighted-data clustering with application to audio-visual scene analysis. \n> arXiv:1509.01509, Sept.2015\n", 
-  "id": 34399693
-}

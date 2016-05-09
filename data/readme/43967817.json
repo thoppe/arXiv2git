@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556262, 
-  "description": "Full 3D-HST grism pipeline", 
-  "README.md": "October 9, 2015\n---------------\n\nThis is the full 3D-HST grism pipeline used to produce the products described in\nMomcheva et al. (http://arxiv.org/abs/1510.02106v1).  Note that it has many relative imports that\nexpect the module to be called \"unicorn\" (don't ask), so for now the easiest installation is to clone\nthe repository with that name.\n\nMany additional utilities are needed from the legacy code at https://github.com/gbrammer/threedhst.\n\nWe will be working to clean up the two modules stripping out only the most useful utilities for a \nmore portable pipeline distribution.\n\n", 
-  "id": 43967817
-}

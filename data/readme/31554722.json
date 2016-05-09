@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543363, 
-  "description": "Replicate the likelihood ratios, accuracy and completeness in arxiv:1312.0552 ", 
-  "README.md": "# accuracy-completeness\nReplicate the likelihood ratios, accuracy and completeness in arxiv:1312.0552 \n\nTHESE CODES WILL CHANGE INCLUDING THE OUTPUTS/RESULTS AS IT'S A WORK IN PROGRESS\n\nTo run:\nChange the filenames in LRfiles.py\nRun in this order and update the file LRfiles.py with the relevant outputted values:\n\nfindingsigmar.py\n\nfindingpds.py\n\nfindingqds.py\n\nfindingLRthresh.py\n\nfindingLR.py\n\n--from here the codes haven't been tested on a working dataset so there might be issues.\n\nfindingacc.py\n\nfindingcompl.py\n\n--codes for other uses \n\nradialflux2Dhist.py: plots fig 3 in arxiv:1312.0552, showing r and dS are independent.\n\ncomparepdsqds.py: plots qds/pds so you can see if there's any weird behaviour there \n\nkdTreecheck.py: checks that the number of sources per leaf in the kdTree isn't affecting the output of the results (everything's fine but kept it in the upload as might as well)\n\n\nThe output of findingLR.py are the indices of the input catalogue that are matched and the associated dS and r's, acting as diagnostic tools. Not quite sure if everything works correctly yet (getting weird matches and negatives in qds).\n", 
-  "id": 31554722
-}

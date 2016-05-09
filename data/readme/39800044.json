@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546242, 
-  "description": "", 
-  "README.md": "# pyarxiv\n\nImplementation of Arxiv [http://arxiv.org/help/api/index](API)\n\n## Usage\n\nOutput three papers where in the title contains words \"dark matter\"\n```python\nimport pyarxiv\n\ndata = pyarxiv.PyArxiv()\nprint(data.parse(data.query('dark matter', max_items=3))['entries'])\n```\n\nIf you want search by authors.\n```python\nimport pyarxiv\n\ndata = pyarxiv.PyArxiv()\nprint(data.parse(data.queryByAuthor(['bengio'])))\n```\n\n\n```python\nimport pyarxiv\ndata = pyarxiv = PyArxiv()\nprint(data.parse(data.query('lstm', start=1, sync=False)))\n```\n\n", 
-  "id": 39800044
-}

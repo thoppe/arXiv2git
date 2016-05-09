@@ -1,9 +1,0 @@
-{
-  "project": [
-    "ebagli/ChannelingSpectrometer", 
-    "ebagli/ExExChSLAC", 
-    "ebagli/ExExChC12", 
-    "ebagli/ExExChH42010"
-  ], 
-  "citation": []
-}

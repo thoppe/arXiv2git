@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556118, 
-  "description": "Paper that studies the impact of non-standard limb-darkening laws in transit fitting. Published in MNRAS (Espinoza & Jord\u00e1n, 2016, in press).", 
-  "README.md": "# Limb-darkening: which law to use?\n\nThis repository stores the code used to generate the figures and text in \nEspinoza & Jordan (2016, MNRAS, in press). \n\nLink to the paper on arXiv: http://arxiv.org/abs/1601.05485\n\n", 
-  "id": 43507841
-}

@@ -1,6 +1,0 @@
-{
-  "Readme": "\n                              Proquints:\n                    Identifiers that are Readable,\n                     Spellable, and Pronounceable\n\n                         Daniel S. Wilkerson\n\n9 January 2009: initial release\n8 April 2012: Java implementation\n\nWelcome!\n\nPlease see the article on proquints: http://arXiv.org/html/0901.4016;\nA local copy is in proquint-proposal.txt and this can be converted to\nproquint-proposal.gen.html by typing \"make\".\n\nC implementation: proquint.c converts between proquint, hex, and\ndecimal strings.\n\nJava implementation: Proquint.java converts between proquint, hex, and\ndecimal strings.\n\nRun \"make clean all check\" to build and check everything.  After that\nyou can run \"make demo\" for a simple demo and \"make examples\" for more\nexamples.\n\nSee License.txt for copyright and terms of use.\n\nThe proquint home is http://github.com/dsw/proquint .\n\nEnjoy.\n\n  -- Daniel\n", 
-  "read_at": 1462557290, 
-  "description": "Proquints: Identifiers that are Readable, Spellable, and Pronounceable", 
-  "id": 113897
-}

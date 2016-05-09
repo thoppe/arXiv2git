@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552454, 
-  "description": "sp2016", 
-  "README.md": "# CS766 Project\n\nThis project involves two parts of implementation: \n\n1. A Neural Algorithm of Artistic Style (http://arxiv.org/abs/1508.06576)\n\n2. blabla\n\nFor full information, please visit: http://eyeccc.github.io/CS766_Project/\n\n## Part1. Generating stylish images \n\nImplementation for \"A Neural Algorithm of Artistic Style\"\n\n### Dependency\n\nChainer v1.8.0 (http://chainer.org/), Numpy, Scipy.misc\n\n### Convolutional Neural Network Model\n\nVGG19 caffe-model (https://gist.github.com/ksimonyan/3785162f95cd2d5fee77#file-readme-md)\n\n### Usage\n\n```\npython nn_art.py -s PATH_TO_STYLE_IMG -c PATH_TO_CONTENT_IMG\n```\n\n## Part2. Blablabla\n\n### Dependency\n\n### Usage\n", 
-  "id": 50134955
-}

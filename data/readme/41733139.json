@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548656, 
-  "description": "Subword Neural Machine Translation", 
-  "README.md": "Subword Neural Machine Translation\n==================================\n\nThis repository contains preprocessing scripts to segment text into subword\nunits. The primary purpose is to facilitate the reproduction of our experiments\non Neural Machine Translation with subword units (see below for reference).\n\nUSAGE INSTRUCTIONS\n------------------\n\nCheck the individual files for usage instructions.\n\nTo apply byte pair encoding to word segmentation, invoke these commands:\n\n    ./learn_bpe.py -s {num_operations} < {train_file} > {codes_file}\n    ./apply_bpe.py -c {codes_file} < {test_file}\n\nTo segment rare words into character n-grams, do the following:\n\n    ./get_vocab.py < {train_file} > {vocab_file}\n    ./segment-char-ngrams.py --vocab {vocab_file} -n {order} --shortlist {size} < {test_file}\n\nThe original segmentation can be restored with a simple replacement:\n\n    sed \"s/@@ //g\"\n\nPUBLICATIONS\n------------\n\nThe segmentation methods are described in:\n\nRico Sennrich, Barry Haddow and Alexandra Birch (2015):\n    Neural Machine Translation of Rare Words with Subword Units\n    http://arxiv.org/abs/1508.07909", 
-  "id": 41733139
-}

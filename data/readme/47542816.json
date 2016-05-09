@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549946, 
-  "description": "Abstractive text summarization http://arxiv.org/abs/1509.00685", 
-  "README.md": "# Abstractive Sentence Summarization\n\n## The Algorithm\nAn implementation of the Rush, Chopra, Weston work\n<http://arxiv.org/abs/1509.00685>\n\nOur implementation differs in that we fix the context and summary token\nembedding matrix. Two scenarios are possible:\n\n1. Both embedding matrices are initialised from GloVe\n2. Context embedding matrix are initialised from Skip-Thought Vectors <http://arxiv.org/abs/1506.06726>, summary from GloVe\n\n## The Code\nHelptext is available for running our code by doing:\n\n```bash\npython3 ass_train.py -h\n```\n\nThe training corpuses are under `data/`. Each JSON file contains three fields `title`, `full_text`, `summary`. They're downloaded with scripts in `download_data/`.\n\nGloVe data needs to be downloaded and unzipped under `glove/`. The code uses the first 10k most frequent tokens by default. To generate the embeddings for them, \n\n```bash\ncd glove\nhead -n 10000 glove.6B.300d.txt >glove.10k.300d.txt\n``` \n\nSkipThoughts data needs to be downloaded to access the SkipThoughts embeddings (to be done).\n\n\n", 
-  "id": 47542816
-}

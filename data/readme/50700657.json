@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552494, 
-  "description": "", 
-  "README.md": "# PolarizationControl\n\nCode for the simulation described in the paper: \"An Optimal Polarization Tracking Algorithm for Lithium-Niobate-based Polarization Controllers\", which can be found at: [arXiv:1603.06751](http://arxiv.org/pdf/1603.06751v1.pdf)\n\nAlso a video resulting from such simulation is at [Optoelectronics Laboratory - PUC-Rio](https://www.youtube.com/watch?v=TmB0Fkgg9_M) channel in youtube.\n", 
-  "id": 50700657
-}

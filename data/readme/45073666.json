@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556090, 
-  "description": "", 
-  "README.md": "# atgc-macajo\naTGC analyses->\n\nWZ -> lvl+l-, 7 TeV, ATLAS \nObservables: Number of events after selection by channel (eee, emumu, muee, mumumu), M(WZ), pT(Z)\nhttp://arxiv.org/pdf/1208.1390.pdf\n\nWW+WZ with W->lv and W or Z -> jj, 7 TeV, ATLAS\nObservables: Number of events after selection by channel (e, mu), M(jj), pT(jj)\nhttp://arxiv.org/pdf/1410.7238.pdf\n\nWW+WZ with W->lv and W or Z -> jj, 7 TeV, CMS\nObservables: Number of events after selection by channel (e, mu), M(jj), pT(jj)\nhttp://arxiv.org/pdf/1210.7544.pdf\n\nWZ+ZZ with Z->bb and W->lv or Z->ll,vv\nObservables: Signal strength for WZ and ZZ separately, M(bb)\n\nWW -> lvlv, 8 TeV, CMS\nObservables: Number of events per category (0-jet, 1-jet), pT(l,max), pT(ll), m(ll), DeltaPhi(ll)\nhttp://arxiv.org/pdf/1507.03268.pdf\n\nWgamma, Zgamma -> l v gamma,ll v gamma, 7 TeV, CMS\nObservables: pT(gamma) \nhttp://arxiv.org/pdf/1308.6832.pdf\n\nWgamma, Zgamma -> l v gamma,ll v gamma, 7 TeV, ATLAS\nObservables: ET(gamma), MET, M(lvgamma), jet multiplicity\nhttp://arxiv.org/pdf/1302.1283.pdf\n\nMadGraph model-> \nhttps://cp3.irmp.ucl.ac.be/projects/madgraph/wiki/Models/EWdim6\n", 
-  "id": 45073666
-}

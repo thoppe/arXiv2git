@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551270, 
-  "description": "Quantify how special is the observed Local Group kinematics in the LCDM framework", 
-  "README.md": "LG_Kinematics\n=============\n\nQuantify how special is the observed Local Group (Andromeda & Milky Way) kinematics in the LCDM framework\n\nReplicating the results\n=======================\n\n* Clone the repository\n* Enter code/ and open the IPython notebook main_analysis.ipynb\n* Execute all the cells in the notebook.\n\nPaper \n======\n[ The kinematics of the Local Group in a cosmological context - ArXiv link](http://arxiv.org/abs/1303.2690)\n", 
-  "id": 7462997
-}

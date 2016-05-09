@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547917, 
-  "description": "Implementation of algorithms for incremental computation of entropy and Gini index from time-changing data streams.", 
-  "README.md": "# incremental\nAn open-source package implementing incremental formulas and algorithms for computing entropy and Gini index from time-changing data streams.\n\n### References\n- Blaz Sovdat. [Updating Formulas and Algorithms for Computing Entropy and Gini Index from Time-Changing Data Streams](http://arxiv.org/abs/1403.6348), arXiv:1403.6348.\n", 
-  "id": 56301765
-}

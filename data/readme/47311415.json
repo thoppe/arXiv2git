@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549948, 
-  "description": "Simple Baseline for Visual Question Answering", 
-  "README.md": "# Simple Baseline for Visual Question Answering\n\nWe descrive a very simple bag-of-words baseline for visual question answering. The description of the baseline is in the arXiv paper http://arxiv.org/pdf/1512.02167.pdf. The code is developed by [Bolei Zhou](http://people.csail.mit.edu/bzhou/) and [Yuandong Tian](http://yuandong-tian.com/).\n\n![results](http://visualqa.csail.mit.edu/example.jpg)\n\n\nDemo is available at http://visualqa.csail.mit.edu/\n\nTo train the model using the code, the following data of the VQA dataset are needed:\n- The pre-processed data of text is at http://visualqa.csail.mit.edu/data_vqa_txt.zip\n- The googlenet feature of all the COCO images is at http://visualqa.csail.mit.edu/data_vqa_feat.zip\n\nContact Bolei Zhou (zhoubolei@gmail.com) if you have any questions.\n\nPlease cite our arXiv note if you use our code:\n\n  B. Zhou, Y. Tian, S. Suhkbaatar, A. Szlam, R. Fergus.\n  Simple Baseline for Visual Question Answering.\n  arXiv:1512.02167\n", 
-  "id": 47311415
-}

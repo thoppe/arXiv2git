@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552578, 
-  "description": "Data analyses from \"Co-clustering directed graphs to discover asymmetries and directional communities\" by Rohe, Qin, and Yu", 
-  "README.md": "# disim\n\ndata/ \t\t\tcontains the data.  Please see the paper http://arxiv.org/abs/1204.2296 for citations.       \nfigures/\t\tcontains the figures in the paper.      \n\n\n      \n1)   MakeEnron.R \tcreates the Enron figure in the paper.      \n2)   makeBlog.R\tcreates Table 1 in the SI      \n3)   makeBplot.R\tcreates the estimate of the matrix B for the c Elegans data      \n4)   makeC-ElegansPermutationTest.R      \n\t\t\tperforms the permutation test the gets the p-value for the feedforward structure in the c Elegans analysis      \n5)   makeC-ElegansXfigure.R      \n\t\t\tcreates figure 1 in the SI      \n6)   makeCElegans\tloads the c Elegans data and performs di-sim.      ", 
-  "id": 50619342
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551118, 
-  "description": "A Monte Carlo implementation of the Ising Hamiltonian on a hypercube of arbitrary dimension", 
-  "README.md": "Ising_Hypercube\n===============\n\nA Monte Carlo implementation of the Ising Hamiltonian on a hypercube of arbitrary dimension\n\n| D | Tc |\n|----|----|\n|2 | 2.27|\n|3 | 4.51|\n|6 | 10.83|\n|7 | 12.87|\n\nAn explanation of the cell-counting:\nhttps://en.wikipedia.org/wiki/Hypercube\n\n\nPercolation\n-----------\nhttp://arxiv.org/abs/cond-mat/0101295\n\nNumber of cells in general D\n-----------\n\n| D | N_1 | N_2 |  N_3 |\n|----|----|---|---|\n|1 | 1 | 0 | 0 |\n|2 | 2 | 1 | 0 |\n|3 | 3 | 3 | 1 |\n|4 | 4 | 6 | 4 |\n|D | Dc1 | Dc2 | Dc3 |\n", 
-  "id": 10572884
-}

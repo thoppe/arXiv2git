@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548736, 
-  "description": "", 
-  "README.md": "# Fast-algorithms-of-Reed-Solomon-erasure-codes\nThis program is the implementation of\nLin, Han and Chung, \"Novel Polynomial Basis and Its Application to Reed-Solomon Erasure Codes,\" FOCS14.\n(http://arxiv.org/abs/1404.3458)\n", 
-  "id": 42243729
-}

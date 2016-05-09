@@ -1,6 +1,0 @@
-{
-  "README": "This model uses PyGene (http://www.freenet.org.nz/python/pygene/)\nor PyBrain (http://www.pybrain.org/) library.\n\nsee http://arxiv.org/abs/0906.5127 for details\n\nusage:\n\nmake\n\n./optimizer.py or ./PBoptimizer.py\n\n#This script will produce output in file \"curres\"\n#You can use this result for plotting\n#For example:\n\n./plot $RANDOM 10 5 0.19 0.16 2.22 27.53 -0.28 17.90 0.20 0.28 0.25\n\n#This produces data file in ./plot/data\n#Then you can plot this data with script ./plots/plot.sh\n\n./plots/plot.sh\n#or\ngnuplot ./plots/all.gpl\n", 
-  "read_at": 1462547094, 
-  "description": "", 
-  "id": 3538323
-}

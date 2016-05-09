@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550858, 
-  "description": "Thin synchrotron filaments in Tycho's SNR (arXiv:1509.00877, following arXiv:1406.3630)", 
-  "README.md": "README\n======\n\nAaron Tran (supervisors: Rob Petre, Brian J. Williams)<br>\nCRESST, NASA GSFC<br>\n\nAnalysis of thin synchrotron emitting filaments in historical supernova\nremnants.  Pipeline to generate and fit radial intensity profiles from Chandra\nobservations of Tycho's SNR.  Model code (Sean Ressler and Steve Reynolds) to\ncompute magnetic fields and diffusion coefficients/scaling consistent with\nobserved rim width - energy relationships.\n\nWork largely follows Ressler, Katsuda, Reynolds et al., ApJ, 2014\n\nRepository\n----------\nMany necessary files (image files, raw Chandra data, energy spectra) are not\nunder version control and need to be redownloaded / regenerated to retrace or\nextend this work.\n\nContact: forename.surname@berkeley.edu (substitute appropriately).\n\nMost important folders are:\n\n    code\\\n    code-profiles\\\n    code-models\\\n    data\\\n\nThe file `pipeline.md` sketches out how to use the code pipeline to create\nderived measurement products and run models for filament synchrotron emission.\n", 
-  "id": 21453461
-}

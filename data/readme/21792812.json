@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550944, 
-  "description": "", 
-  "README.md": "abcpmcmc\n========\n[![Build Status](https://travis-ci.org/csgillespie/abcpmcmc.png?branch=master)](https://travis-ci.org/csgillespie/abcpmcmc)\n\nThis package illustrates example one of the [paper](http://dx.doi.org/10.1007/s11222-014-9524-7)\n\n> Owen, JR, Gillespie, CS, Wilkinson, DJ. \n> Scalable inference for Markov processes with intractable likelihoods\n> Statistics and Computing, 2015 ([paper](http://dx.doi.org/10.1007/s11222-014-9524-7), [arXiv](http://arxiv.org/abs/1403.6886)).\n\nSource code for the other examples can be obtained by contacting Jamie Owen <j.r.owen@newcastle.ac.uk)>\n\nInstallation\n------------\n\nThis package is only hosted on github. To install the package, \n```r\ninstall.packages(\"devtools\")\ninstall.packages(c(\"smfsb\", \"mvtnorm\"))\ndevtools::install_github(\"abcpmcmc\", \"csgillespie\")\n```\n\nNote Windows users have to first install [Rtools](http://cran.rstudio.com/bin/windows/Rtools/).\n\n\n", 
-  "id": 21792812
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548109, 
-  "description": "Object Boundary Guided Semantic Segmentation", 
-  "README.md": "# OBG-FCN\nThis repository contains the codes and implementation details of the paper 'Object Boundary Guided Semantic Segmentation' in\nhttp://arxiv.org/abs/1603.09742\n\nThe two-branch network has achieved 87.5% mean IU in PASCAL VOC 2011 validation set with only the training images of VOC 2011 training set.\n\n#LICENSE\nThe OBG-FCN network is built upon Caffe. Thanks to the contributors of Caffe. \nThanks @shelhamer, @longjon and @martinkersner for providing the network structure of FCN and CRF as RNN, as well as the evalutaion tools in Caffe and python.\n\nPlease cite the paper kindly if you find it helpful in your work (arXiv:1603.09742[cs.CV]).\n\n@misc{Jia13caffe,\n  Author = {Yangqing Jia},\n  Title = { {Caffe}: An Open Source Convolutional Architecture for Fast Feature Embedding},\n  Year  = {2013},\n  Howpublished = {\\url{http://caffe.berkeleyvision.org/}}\n}\n\n\n", 
-  "id": 55220723
-}

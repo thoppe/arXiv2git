@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555006, 
-  "description": "", 
-  "README.md": "# privacy_preserving_data_publishing\n\nPublication:\n\nBaichuan Zhang, Vachik Dave, Noman Mohammed, and Mohammad Al Hasan: Feature Selection for Classification under Anonymity Constraint, Manuscript, arXiv:1512.07158, communicated 22 Dec 2015.\n\nDefault Run:\n\nscalac HamGreedy.scala\n\nscala HamGreedy filename privacy_threshold\n", 
-  "id": 55110035
-}

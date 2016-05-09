@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555198, 
-  "description": "Kernel density estimation based on vine copulas", 
-  "README.md": "kdevine\n=========\n\n> Multivariate kernel density estimation with vine copulas\n\n[![Build status Linux](https://travis-ci.org/tnagler/kdevine.svg?branch=master)](https://travis-ci.org/tnagler/kdevine) \n\nThis package implements a vine copula based kernel density estimator. The \nestimator does not suffer from the curse of dimensionality and is therefore well \nsuited for high-dimensional applications (see, Nagler and Czado, 2015). \n\nYou can install the latest development version as follows:\n\n``` r\ndevtools::install_github(\"tnagler/kdevine\")\n```\n\n\nReferences\n----------\n\nNagler, T., Czado, C. (2015) \nEvading the curse of dimensionality in nonparametric density estimation. \n[*arXiv:1503.03305 [stat.ME]*](http://arxiv.org/abs/1503.03305)\n\n", 
-  "id": 54916662
-}

@@ -1,6 +1,0 @@
-{
-  "id": 18668522, 
-  "read_at": 1462550698, 
-  "README.rst": "PyOptimumInterval\n=================\n\nPython implementation of Yellin's Optimum Interval algorithm.  Created by Jelle Aalbers and Christopher Tunnell at Nikhef (NL).  \n\nFor elaboration on the algorithm, please consult Yellin's paper:\n\n\"Finding an Upper Limit in the Presence of Unknown Background\" by S. Yellin\n\nJournal reference:\tPhys.Rev. D66 (2002) 032005\n\nDOI:\t10.1103/PhysRevD.66.032005\n\nReport number:\tUCSB-HEP-2002-01\n\narXiv:physics/0203002 [physics.data-an]\n\nhttp://arxiv.org/pdf/physics/0203002v2.pdf\n", 
-  "description": "Python implementation of Yellin's Optimum Interval algorithm"
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547213, 
-  "description": "A Go implementation of the jump consistent hash from Lamping and Veach.", 
-  "README.md": "# Jump Consistent Hash\n\n[![GoDoc](https://godoc.org/github.com/anachronistic/jump-consistent-hash?status.png)](https://godoc.org/github.com/anachronistic/jump-consistent-hash)\n\nA Go implementation of the jump consistent hash from Lamping and Veach.\n\nPaper: [http://arxiv.org/ftp/arxiv/papers/1406/1406.2294.pdf](http://arxiv.org/ftp/arxiv/papers/1406/1406.2294.pdf)\n\n## Usage\n\nTo use, import the package and call `Hash`, passing a `uint64` key and an `int32` number of buckets; the function will return an `int32`, as shown below.\n\n```go\npackage main\n\nimport (\n    jump \"github.com/anachronistic/jump-consistent-hash\"\n)\n\nfunc main() {\n    jump.Hash(1, 1)      // 0\n    jump.Hash(256, 1024) // 520\n    jump.Hash(42, 57)    // 43\n}\n```\n\nNote that if you pass a number of buckets <= 0 a default value of 1 will be used instead.\n\n```go\njump.Hash(0xDEAD10CC, -666) // 0\njump.Hash(0xDEAD10CC, 1)    // 0\njump.Hash(0xDEAD10CC, 666)  // 361\n```", 
-  "id": 21259544
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557600, 
-  "description": "VLAD pooling layer(developing)", 
-  "README.md": "#VLAD layer in Theano\n\nThe idea of VLAD layer is proposed in this paper: [http://arxiv.org/abs/1511.07247]()\n\nAnd their presentation: [http://www.di.ens.fr/willow/research/netvlad/NetVLAD.pdf]()\n\nOriginal MATLAB implementation: [https://github.com/Relja/netvlad]()\n\n\nTODO.\n1. test VLAD Layer on bigger datasets\n", 
-  "id": 52364538
-}

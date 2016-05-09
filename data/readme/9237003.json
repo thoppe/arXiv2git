@@ -1,6 +1,0 @@
-{
-  "README": "This library uses Hopcroft algorithm to minimize Coq file objects.\nIt is adaptable to any OCaml structure easily.\n\nArticle describing the algorithm and its justification (in French):\nhttp://hal.archives-ouvertes.fr/hal-00779752/\n\nHopcroft implementation is taken from:\nhttp://arxiv.org/abs/0802.2826\n", 
-  "read_at": 1462543062, 
-  "description": "Small library to compute maximal sharing of OCaml datastructures.", 
-  "id": 9237003
-}

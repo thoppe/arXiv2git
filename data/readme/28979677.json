@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551601, 
-  "description": "Data and analysis for the AAS 225 gender in science talks study", 
-  "README.md": "# aas225-gender\nData and analysis for the AAS 225 gender in science talks study.\n\n[View the very preliminary results here](http://nbviewer.ipython.org/github/jradavenport/aas225-gender/blob/master/analysis.ipynb).\n\n\nIn file [aas225-all-talks.txt](aas225-all-talks.txt) the session catagory is a number [1,6] that corresponds roughly to the topics listed by the [arXiv.](http://arxiv.org/archive/astro-ph):\n\n    1 - Astrophysics of Galaxies\n    2 - Cosmology and Nongalactic Astrophysics\n    3 - Earth and Planetary Astrophysics\n    4 - High Energy Astrophysical Phenomena\n    5 - Instrumentation and Methods for Astrophysics\n    6 - Solar and Stellar Astrophysics", 
-  "id": 28979677
-}

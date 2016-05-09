@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558749, 
-  "description": "Scripts for OAI PMH", 
-  "README.md": "# OAI-PMH\nScripts for OAI-PMH (http://www.openarchives.org/)\n\n## Requirements\n- Perl 5.x\n- Net::OAI::Harvester (http://search.cpan.org/perldoc?Net::OAI::Harvester)\n\n## Usage\n     ./harvest.pl [options]\n\n## Options\n     -baseurl=[URL] \tBaseURL of the OAI-PMH Data Provider\n     -dir=[PATH]\tOutput directory (must exist) (default: CWD)\n     -schema=[schema]\tMetadata schema (default 'oai_dc')\n     -set=[setSpec]\tSetSpec (for selective harvesting)\n     -from=[Date]\tDate-based selective harvesting (YYYY-MM-DD)\n     -until=[Date]\tDate-based selective harvesting (YYYY-MM-DD)\n     -noauto\t\tDisable automatic flow control (resubmission of ResumptionTokens)\n     -h\t\t\tPrint this help\n\n## Example\n     ./harvest.pl -baseurl=http://export.arxiv.org/oai2 -dir=oaidump/physics -set=physics\n     \n", 
-  "id": 35966083
-}

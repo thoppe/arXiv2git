@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546270, 
-  "description": "source separation", 
-  "README.md": "The code implements a method (constrained non-negative matrix factorization, CNMF) for simultaneous source extraction from large scale calcium imaging movies. The algorithm is presented in more detail here: http://arxiv.org/abs/1409.2903 \n\nThe CNMF code is written by Eftychios A. Pnevmatikakis and Liam Paninski, with inputs from Weijian Yang and Darcy S. Peterka. They are also stored in https://github.com/epnev/ca_source_extraction. \n\nThe demo script are written by Eftychios A. Pnevmatikakis, Liam Paninski, Weijian Yang and Darcy S. Peterka, 2015.\n\nPlease first download and install cvx matlab package from http://cvxr.com/cvx/\n\nUse \"demo_script2.m\" to run the CNMF algorithm. \"demoMovie.tif\" is a calcium image movie for code demo.  \n\nUse \"dataProcessing.m\" to extract results after \"demo_script2.m\" is ran. \n\n\"dataProcessing.m\" can save a .mat file which contains the CNMF parameters and the results.\nUse \"file_dataProcessing.m\" to reload the results from the saved .mat file.\n", 
-  "id": 38385564
-}

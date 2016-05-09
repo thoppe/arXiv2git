@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547297, 
-  "description": "contributed bindings to the LaTeXML project", 
-  "README.md": "LaTeXML-bindings\n================\n\nContributed bindings to the LaTeXML project relevant to a segment of the arXiv.org repository,\nspecifically files relating to publications on the topic of Dark Matter or Modified Newtonian Dynamics.\nThe LaTeXML project can be found at http://dlmf.nist.gov/LaTeXML/ or https://github.com/brucemiller/LaTeXML\n\nBindings are written in Perl and used to render the LaTeX/TeX stored in stylefiles and class files into XML. \n", 
-  "id": 20497045
-}

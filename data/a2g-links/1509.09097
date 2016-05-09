@@ -1,8 +1,0 @@
-{
-  "project": [
-    "krzwolk/Glosbe-Translation-Memory-Crawler", 
-    "krzwolk/Parallel-Corpora-Cleaning-Tool", 
-    "krzwolk/MyMemory-Crawler"
-  ], 
-  "citation": []
-}

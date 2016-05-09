@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553465, 
-  "description": "", 
-  "README.md": "RoaringBitmapReal\n=================\n\nCode for real-data experiments on roaring bitmaps as prepared by O. Kaser\nfor the paper:\n\nSamy Chambi, Daniel Lemire, Owen Kaser, Robert Godin,\nBetter bitmap performance with Roaring bitmaps,\nhttp://arxiv.org/abs/1402.6407\n\n\nUsage \n-------\n\n* install java\n* install maven 2\n\nsee scripts for further details. (This package requires access to data which is\nnot provided by default.)\n", 
-  "id": 17371113
-}

@@ -1,7 +1,0 @@
-{
-  "project": [
-    "algbioi/ppsplus", 
-    "algbioi/kmer_counting"
-  ], 
-  "citation": []
-}

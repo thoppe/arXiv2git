@@ -1,6 +1,0 @@
-{
-  "id": 23362173, 
-  "read_at": 1462553121, 
-  "README.rst": "BIRD\n====\n\nPure Python implementation of the BIRD algorithm. BIRD is a denoising\nalgorithm using randomized greedy pursuits. It works for single\nsignal and supports (structured)-sparsity for multivariate signals, e.g.\nmultichannel array data.\n\nReference\n---------\nAlgorithm presented here are described in:\n\nBlind Denoising with Random Greedy Pursuits. Moussallam, M., Gramfort, A., Daudet, L., & Richard, G. (2014). IEEE Signal Processing Letters, 21(11), 1341-1345\nPreprint available at: http://arxiv.org/abs/1312.5444\n\n|Travis|_\n\n.. |Travis| image:: https://api.travis-ci.org/mmoussallam/bird.png?branch=master\n.. _Travis: https://travis-ci.org/mmoussallam/bird\n", 
-  "description": "Pure Python implementation of the BIRD algorithm for (structured)-sparsity based denoising of multichannel array"
-}

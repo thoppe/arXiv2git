@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549843, 
-  "description": "paper and Matlab code describing the CGMN method applied to the Helmholtz equation", 
-  "README.md": "CGMN\n====\n\nThis contains the latex files and source code for the paper:\n\nT. van Leeuwen - Fourier analysis of the CGMN method for solving the Helmholtz equation, ArXiv:1210:2644, 2012.\n\n\n\n\n", 
-  "id": 12950568
-}

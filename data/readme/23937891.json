@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558270, 
-  "description": "Water retention model Monte Carlo simulation", 
-  "README.md": "Retention\n=========\n\nWater retention model Monte Carlo simulation.\n\nImplements the basic water retention model discussed in\nhttp://arxiv.org/abs/1110.6166,\nhttp://arxiv.org/abs/1111.0425, and\nhttp://arxiv.org/abs/1403.2082.\n\nFor visualisations, see: \nhttp://youtu.be/mLCP8pdLvao and\nhttp://youtu.be/2Fq8QqG1jL0.\n\nSetting BOOSTPATH to point to a recent boost release (http://www.boost.org) and using the CMake file should be enough to compile the program.\n\ncmake CMakeLists.txt; make; ./wr_main\n\n![](https://github.com/kjs73/retention/blob/master/images/fig1.jpg)\n", 
-  "id": 23937891
-}

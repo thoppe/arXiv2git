@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549390, 
-  "description": "Codes", 
-  "README.md": "# Codes\n\nRandom codes that might be useful for other people.\n\nSome of these codes are not properly tested and probably (definately) contain bugs...\n\n* cmb_code [C++]: Object Oriented Boltzmann code for computing scalar C_l's for LCDM and other models. Works in the Newtonian Gauge.\n\n* generate_paper_library [Python]: Python script for extracting data about your articles (and articles that cite you) from the NASA ADS / Google Scholar / INSPIRE Hep and arXiv database. Outputs html with info about your papers and lets you know when new papers cite you. \n\n* ode_solve [C++]: Simple code for solving coupled ordinary differential equations using RK4.\n\n* qubic_spline [C++]: Simple class for making and using qubic splines.\n\n* solve_poisson [C++]: Code for solving Poisson-like equations in 3D using FFTW.\n\n* bin_ahf_profiles [C++]: Reads and does binning into mass-bins of a AHF_profiles halo catalog file.\n\n* read_gagdet1 [C++]: Simple read methods for GADGET1 format.\n\n* read_param_lua [C++] : Simple code for using LUA to write input files.\n\nHans A. Winther (2015) (hans.a.winther@gmail.com)\n\n", 
-  "id": 38011406
-}

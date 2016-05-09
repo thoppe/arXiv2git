@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553487, 
-  "description": "Therapeutic target discovery using Boolean network attractors: avoiding pathological phenotypes", 
-  "readme.md": "# Therapeutic target discovery using Boolean network attractors: avoiding pathological phenotypes\n\nCopyright (C) 2013-2016 [Arnaud Poret](https://github.com/arnaudporet)\n\nThis work is licensed under the [GNU General Public License](https://www.gnu.org/licenses/gpl.html).\n\n## How to\n\n1. read my article (all is explained inside), freely available on [arXiv](https://arxiv.org/) and [HAL](https://hal.archives-ouvertes.fr/):\n    * https://arxiv.org/abs/1407.4374\n    * https://hal.archives-ouvertes.fr/hal-01024788v5\n2. clone Kali (or [download](https://github.com/arnaudporet/kali/archive/master.zip) it if you do not use [Git](https://git-scm.com/)):\n    * `git clone https://github.com/arnaudporet/kali.git`\n3. open the file `example.go`\n\nKali is tested with [Go](https://golang.org/) version 1.6 under [Arch Linux](https://www.archlinux.org/).\n\nHow to get Go: https://golang.org/doc/install\n\nMost [Linux distributions](http://distrowatch.com) provide Go in their official repositories. For example:\n* golang ([Ubuntu](http://www.ubuntu.com/))\n* go ([Arch Linux](https://www.archlinux.org/))\n\n# Forthcoming\n\n* none, for the time being\n", 
-  "id": 18263855
-}

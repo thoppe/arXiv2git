@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552696, 
-  "description": "Convolutional 3D Spiking Neural Network to classify videos  ", 
-  "README.md": "# Spiking-C3D\nConvolutional 3D Spiking Neural Network to classify videos using Leaky-Integrate-and-Fire Neurons.\n\nThe training is done using the 3D Convolutional Neural Network released by Facebook: https://research.facebook.com/blog/c3d-generic-features-for-video-analysis/.\n\nHere we use a Spiking Deep Neural Network to classify the videos: this work is an extension of this publication: http://arxiv.org/abs/1510.08829\n\nThe SNN is created using the framework Nengo: http://www.nengo.ca/\n## How to use\n1. Compile C3D (compile also Python wrapper)\n2. Download the video dataset YUPENN (http://vision.eecs.yorku.ca/research/dynamic-scenes/) and extract the frames: the C3D wants the format %06d.jpg for the file image\n3. Edit the paths into C3D/examples/c3d_train_yupenn/lst_files/test_yupenn_full_4vid_shuffle.lst\n4. Run the script 'run_nengo_3d.py'   \n", 
-  "id": 50599213
-}

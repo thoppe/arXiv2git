@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552333, 
-  "description": "", 
-  "README.md": "# residual.mnist\n\nPrereq: Install torch and nn packages. Also CUDA with GPU is required as the computations are huge.\nFor MNIST dataset, install https://github.com/andresy/mnist\n\nTraining 100+ layers neural network using residual networks attaining\n99.5% accuracy without data augmentation or dropout or ensembles\n\nUsage: th main.lua --batchSize 128 --layers 100\n\nPaper: http://arxiv.org/abs/1512.03385\n\nBlog: https://deepmlblog.wordpress.com/2016/01/05/residual-networks-in-torch-mnist/\n\n\n", 
-  "id": 49061578
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554224, 
-  "description": "widget for the critical lines of elliptical power law profile lenses", 
-  "README.md": "# EPL critical lines\n\nThis is a webpage with a small widget to generate the critical lines of the\nelliptical power law profile lens\n[ADS](http://adsabs.harvard.edu/abs/2015A%26A...580A..79T) -\n[arXiv](http://arxiv.org/abs/1507.01819) -\n[DOI](http://dx.doi.org/10.1051/0004-6361/201526773).\n\nThe page is accessible via [GitHub pages](http://ntessore.me/epl-critical-lines).\n", 
-  "id": 45686548
-}

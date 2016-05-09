@@ -1,7 +1,0 @@
-{
-  "project": [
-    "emmt/OIFITS.jl", 
-    "JuliaPackageMirrors/OIFITS.jl"
-  ], 
-  "citation": []
-}

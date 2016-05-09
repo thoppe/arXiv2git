@@ -1,6 +1,0 @@
-{
-  "README": "This is R code to find by simulation the Lyapunov exponent for a fairly general class of SDE.\n\nThe general methods follow those described in:\n Approximation of Upper Lyapunov Exponents of Bilinear Stochastic Differential Systems\n by Denis Talay SIAM Journal on Numerical Analysis 28(4):1141--1164 (1991)\n  http://www.jstor.org/stable/2157791\n\nwith the addition of an \"exponential method\", appropriate for a more restricted class.\n\nFor some details on the methods, see simulation-description.pdf.\n\nMostly this code is to support the paper:\n     Stochastic population growth in spatially heterogeneous environments\n     to appear in JMB, by Steven N. Evans, Peter L. Ralph, Sebastian J. Schreiber, Arnab Sen \n     http://arxiv.org/abs/1105.2280\n\nand is not currently being used.  Let the user beware?  If it's useful for you though, let me know.\n\nWhat is here:\n Lyapunov-approx-fns.R -- the functions that do the work\n Lyap-check.R -- provides some plots to check what we're doing is working\n Lyapunov-approx.R -- compares the three methods from Talay's paper\n exploration.R -- contains code to make the figures in the paper.\n", 
-  "read_at": 1462551240, 
-  "description": "R code to find by simulation Lyapunov exponents for linear SDE.", 
-  "id": 2419319
-}

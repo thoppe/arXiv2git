@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553110, 
-  "description": "variations of the record linkage model of Steorts et al. AISTATS 2014's \"SMERED: A Bayesian Approach to Graphical Record Linkage and De-duplication\" http://arxiv.org/abs/1403.0211", 
-  "README.md": "bayesian-record-linkage\n=======================\n\nvariations of the record linkage model of Steorts et al. AISTATS 2014's \"SMERED: A Bayesian Approach to Graphical Record Linkage and De-duplication\" http://arxiv.org/abs/1403.0211\n", 
-  "id": 22959197
-}

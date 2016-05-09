@@ -1,7 +1,0 @@
-{
-  "project": [
-    "ApproxFun/ApproxFun.jl", 
-    "JuliaPackageMirrors/ApproxFun.jl"
-  ], 
-  "citation": []
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557078, 
-  "description": "Interpolation Nodes for High-order Lagrange Finite Elements", 
-  "README.md": "nodes\n=====\n\nInterpolation Nodes for High-order Lagrange Finite Elements.\n\narXiv references: http://arxiv.org/abs/1412.4138\n\nDirectories: tet, pyramid\n\ntet: TBA\n\npyramid: run and edit \"test.m\" for routines generating nodes. Fekete and \"approximate Fekete\" nodes are also available as .mat files in /pyramid/precomputedNodes/.\n\nThe above codes are built on the MATLAB codes from \"Nodal Discontinuous Galerkin Methods: Algorithms, Analysis, and Applications\", Jan S Hesthaven and Tim Warburton.  \n\nAll codes were run with Matlab R2010a, version 7.10.0.499. \n\n", 
-  "id": 27736689
-}

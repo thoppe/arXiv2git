@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550098, 
-  "description": "Inverted index compression library", 
-  "README.md": "## varint: inverted index compression library\n\n*varint* uses the `__builtin_ia32_pshufb128` SIMD instruction to effectively compresses sorted integer arrays and performs highly efficient operations on compressed arrays:\n- Fast sequential iteration speed\n- Fast random lookup of docIds\n- Fast finding intersections. (lookup in combination of several bitmaps index)\n\nCompression needs to be data-type and data-distribution dependent. Decompresses small vector into CPU cache (not RAM):\n- Decoding loop over cache resident compressed vector\n- Avoid control dependencies within decoding loop (Prevent loop-pipelining)\n- Avoid data dependencies between loop iteration\n\n\n## Build\n**varint is currently under if first-setup refactor. Build instructions will become available as the project stabilises.**\n\n## References\n* Daniel Lemire, Leonid Boytsov, Nathan Kurz, SIMD Compression and the Intersection of Sorted Integers, arXiv: 1401.6399, 2014\nhttp://arxiv.org/abs/1401.6399\n\n## Contact\n- Maxime (maximecaron@gmail.com)\n- Stephane (stephane.poirier01@gmail.com)\n", 
-  "id": 48455528
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555694, 
-  "description": "Normalization by evaluation in the delay monad (formalized in Agda)", 
-  "README.md": "# Normalization by evaluation in the delay monad (formalized in Agda)\n\nBased on\n\n* James Chapman. 2009. **Type Checking and Normalization.**\nPh.D. thesis, School of Computer Science, University of Nottingham.\n\n* Andreas Abel and James Chapman. 2014.\n**Normalization by evaluation in the delay monad: A case study for\ncoinduction via copatterns and sized types.**\nIn MSFP'14, volume 153 of EPTCS, pages 51--67.\n<http://arxiv.org/abs/1406.2059v1>\n\nThere are 2 subprojects:\n\n* CombinatoryCalculus\n* LambdaCalculus\n\nThe Agda code in `LambdaCalculus` has been produced by refactoring\n<http://www2.tcs.ifi.lmu.de/~abel/eptcs14.lagda>.\n\nNote that the paper Abel and Chapman (2014) doesn't provide the\nproofs of soundness and completeness. Thus they have been produced\nby refactoring the code in\n <https://github.com/sergei-romanenko/chapman-big-step-normalization>\n(without using horrible annotations **{-# TERMINATING #-}**).\n\nThe Agda code in `CombinatoryCalculus` can be considered as a simplification\nof the code in `LambdaCalculus`. Again, there are given proofs of\nsoundness and completeness that don't make use of **{-# TERMINATING #-}**.\n", 
-  "id": 53256163
-}

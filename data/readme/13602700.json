@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550546, 
-  "description": "data mining codes", 
-  "README.md": "Data-Mining/Science\n===================\n\nThis repostiory deals with art of data science and its codes.\n\n###Types of analysis\n\n+ Descriptive Analysis\n+ Exploratory Analysis\n+ Inferential Analysis\n+ Causaul Analysis\n+ Predictive Analysis\n+ Machinistic Analysis\n\n\n\n\n\n\n###Useful repositories for data collection\n+ Gapminder\n+ asdfree.com\n+ infochimps.com/marketplace\n+ kaggle.com\n+ uci machine learning\n+ kdd nugets datasets\n+ cmu statlib\n+ standform large network data\n+ arxiv data\n\n", 
-  "id": 13602700
-}

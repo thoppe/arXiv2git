@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511658, 
-  "description": "Matlab/Octave code for evaluation of the Heun functions", 
-  "README.md": "# Heun_functions\nMatlab/Octave code for evaluation of the Heun functions\n\nThe basic functions to use:\n\nHeunL0:  local Heun function, equal to 1 at z=0\n\nHeunLmv:  multi-valued function, integration along an arbitrary path connecting 0 and z\n\nHeunS0:  second local solution at z=0\n\nHeunSmv:  multi-valued function, integration along an arbitrary path connecting 0 and z\n\nHeunL, HeunS: with improvement near singularities z=1, a, infinity\n\nHeunOpts: tuning of internal parameters \n\nAuxiliary functions:\nHeunGfromZ0\nHeunLS\nHeunG_near_1\nHeunG_near_a\nHeunG_near_infty\nHeunL00\nHeunL00log\nHeunS0gamma1\nHeunS00gamma1\nHeunSmvgamma1\n\ntested in the Octave numerical environment,\nintended to be Matlab compatible \n\nRef.: http://arxiv.org/abs/1506.03848\n\n\n", 
-  "id": 34216108
-}

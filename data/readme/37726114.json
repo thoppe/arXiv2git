@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549172, 
-  "description": "Attempting to build word2vec models from the arXiv corpus", 
-  "README.md": "# word2vec\nAttempting to build word2vec models from the arXiv corpus\n\n*Status* the org.sfi.csss.arxiv.ArXivWord2Vec object contains a main method which will, in theory, create word vectors with all the items configured in the iterator.\n\nThis uses the deeplearning4j.org libraries.", 
-  "id": 37726114
-}

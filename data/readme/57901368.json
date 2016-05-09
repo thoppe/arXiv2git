@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556729, 
-  "description": "Partition comparison measures modified for community detection", 
-  "README.md": "TopoMeasures\n=======\n*Partition comparison measures modified for community detection*\n\n* Copyright 2012-15 Vincent Labatut. \n\nTopoMeasures is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation. For source availability and license information see `licence.txt`\n\n* Lab site: http://lia.univ-avignon.fr/\n* GitHub repo: https://github.com/CompNet/TopoMeasures\n* Contact: Vincent Labatut <vincent.labatut@univ-avignon.fr>\n\n-----------------------------------------------------------------------\n\n# Description\nWork in progress! Do not use yet!\n\n# Organization\n\n# Installation\n\n# Use\n\n# Extension\n\n# Dependencies\n\n# References\n * **[L'15]** V. Labatut, *Generalised measures for the evaluation of community detection methods*, International Journal of Social Network Mining (IJSNM), 2(1):44-63, 2015. [Official version](http://www.inderscienceonline.com/doi/abs/10.1504/IJSNM.2015.069776) - [arXiv version](http://arxiv.org/abs/1303.5441) - [HAL version](https://hal.archives-ouvertes.fr/hal-00802923/).\n", 
-  "id": 57901368
-}

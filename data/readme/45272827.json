@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556475, 
-  "description": "A simple bare-bones implementation of a conformal predictor for use in a \"batch\" setting.", 
-  "README.md": "# cp-lite\nA simple bare-bones implementation of a conformal predictor [1] for use in a \"batch\" setting where there is a fixed set of training data (the \"bag\" in CP parlance) and we wish to compute p-values for a number of held-out test examples.  This setting does *not* match the fully online framework for which CPs were designed; hence, there are no theoretical guarantees (e.g. CP \"validity\") here.\n\nThis implementation is not suitable for large-scale problems with many examples and/or high dimensions.  In these cases, a more efficient way of computing nearest neighbors should be employed (e.g. Locality-sensitive hashing perhaps).  Also, the expensive **sort()** calls in **knn_cp.m** could be replaced by a more efficient selection algorithm.\n\n### Quick Start\n\nGet a copy of the USPS data set:\n```\n    cd Test\n    ./getUSPS.sh\n```\nThen, from within Matlab, change to the \"Test\" directory and do\n```\n    test_conformal_flowers\n    test_usps\n```\n\n### References\n1.  Schafer, Vovk \"A tutorial on conformal prediction,\" [arXiv](http://arxiv.org/abs/0706.3188)\n", 
-  "id": 45272827
-}

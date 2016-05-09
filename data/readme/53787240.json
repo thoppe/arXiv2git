@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554936, 
-  "description": "source code for IOS app (swift) to take selfies and based on location inferred from ibeacon technology generate reconstructed image of selfie in style of of original image. Leverages Network In Network model desribed in M. Lin, Q. Chen, S. Yan International Conference on Learning Representations, 2014 (arXiv:1409.1556)", 
-  "README.md": "# PMAhackathon", 
-  "id": 53787240
-}

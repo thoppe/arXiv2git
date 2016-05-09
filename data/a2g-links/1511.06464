@@ -1,9 +1,0 @@
-{
-  "project": [
-    "Avmb/lowrank-gru"
-  ], 
-  "citation": [
-    "mihaelacr/paper-notes", 
-    "pokey/deep-learning-landscape"
-  ]
-}

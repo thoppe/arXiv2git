@@ -1,5 +1,0 @@
-{
-  "read_at": 1462547522, 
-  "description": "Scrapes arxiv/astro-ph/new, adding a histogram of words to a sqlite3 db", 
-  "id": 8430065
-}

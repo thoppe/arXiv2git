@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556060, 
-  "description": "on se la joue artiste parce que la vie c'est compliqu\u00e9 gros", 
-  "README.md": "# References\n\nCSS and HTML5 templates: http://templated.co/\n\n* http://arxiv.org/pdf/1508.06576v1.pdf\n* http://arxiv.org/pdf/1505.07376v1.pdf\n* code in torch: https://github.com/jcjohnson/neural-style\n* weights and architecture of the CNN are available here: http://www.robots.ox.ac.uk/~vgg/research/very_deep/\n* Lasagne Recipes: https://github.com/Lasagne/Recipes\n\n# Download pre-trained model\nhttps://s3.amazonaws.com/lasagne/recipes/pretrained/imagenet/vgg19.pkl\n\n# La Concurrence\nhttp://mtyka.github.io/code/2015/10/02/experiments-with-style-transfer.html\n\nhttps://no2147483647.wordpress.com/2015/12/21/deep-learning-for-hackers-with-mxnet-2/\n", 
-  "id": 43752547
-}

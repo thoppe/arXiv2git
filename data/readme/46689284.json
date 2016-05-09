@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554264, 
-  "description": "Spark Implementation of ToPMine, a novel topic modeling algorithm", 
-  "README.md": "# ToPMine-Spark\nSpark Implementation of ToPMine, a topic modeling algorithm based on a bag of variable-length phrases.\n\nFrom \"Scalable Topical Phrase Mining from Text Corpora\" by Ahmed El-Kishky, Yanglei Song, Chi Wang, Clare R. Voss, Jiawei Han (http://arxiv.org/pdf/1406.6312.pdf)\n\nIncludes 3 main components:\n\n-Parallelelized Frequent Phrase Mining\n\n-Agglomerative Phrase Merging\n\n-LDA\n\n\n![alt text](https://raw.githubusercontent.com/ydj0604/ToPMine-Spark/master/Screen.Shot.2016-03-09.at.3.16.03.PM.png)\n", 
-  "id": 46689284
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549217, 
-  "description": "Implementation of PCA algorithm using Gram-Scmidt modification on NIPALS", 
-  "README.md": "# Gram-Schmidt-PCA\nImplements PCA using NIPALS algorithm. Also uses GRAM-SCMIDT method to avoid the problem of non-orthagonal PCs by NIPALS.\nUses Numpy to implement non-GPU version stated in http://arxiv.org/pdf/0811.1081.pdf .\n", 
-  "id": 37383526
-}

@@ -1,7 +1,0 @@
-{
-  "project": [
-    "mlubin/Pajarito.jl", 
-    "JuliaPackageMirrors/Pajarito.jl"
-  ], 
-  "citation": []
-}

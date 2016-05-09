@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547075, 
-  "description": "", 
-  "README.md": "ManyCLAW\n========\n\nManyClaw is a heterogeneous implementation of the CLAWPACK library. It has\nsuccessfully modeled several Hyperbolic Partial Differential Equations using\nthe Intel MIC architecture. For more details see:\n\nA.R. Terrel and K. T. Mandli, ManyClaw: Slicing and dicing Riemann\nsolvers for next generation highly parallel architectures, TACC-Intel\nSymposium on Highly Parallel Architectures. 2012. [[arxiv](http://arxiv.org/abs/1308.1464)]\n\n\nInstall\n-------\n\n* Edit the variables.inc file to specifics of your system \n  > Try just copying a variables.foo.inc in config\n* make all\n* run programs in test and benchmark\n\n\nAuthors\n-------\n\n## Main authors\n\n* Andy R. Terrel\n* Kyle T. Mandli\n\n\n## Contributors\n\n* Nathan Bell\n* Donna Calhoun\n\n\nLicense\n-------\n\nManyClaw is licensed under the FreeBSD license. See LICENSE for details. \n\n\nCopyright\n---------\n\nUniversity of Texas at Austin 2012-2013\n", 
-  "id": 3376755
-}

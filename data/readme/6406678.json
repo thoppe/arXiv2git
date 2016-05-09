@@ -1,6 +1,0 @@
-{
-  "id": 6406678, 
-  "read_at": 1462558192, 
-  "README.rst": "==================================\n Tree level improvement in the SF\n==================================\n\nThese scripts calculate tree level improvement of observables as\ndescribed by Divitiis et al. (**ALPHA** collaboration) in\n``[hep-lat/9411017]``. The observables in observables.py are named as\nin ``[arXiv:1001.4783]`` (Blossier et al. for the **ALPHA**\ncollaboration) and the references therein.\n\n**DO NOT FORGET TO CITE THE SOURCES ABOVE IN PUBLICATIONS OF ANY FORM**\n\n\nFiles\n=====\n\n``calculate_tly.py``\n    the main script\n\n``observables.py``\n    store your observables here\n\n``tli.py``\n    contains the actual tli function\n\n``propagator.py``\n    tree level SF quark propagator\n\n``dirac.py``\n    Dirac algebra\n\nUsage\n=====\n\nFurther observables should be defined in observables.py.\nTheir tli can be calculated by adding them to the arguments dict\ncontained int calculate_tli.py. Type::\n\n  python tli.py # to cross check with internal notes by M. della Morte\n  python calculate_tli.py # to calculate tli of observables\n\nUnit tests\n==========\n\nThere are unit tests included in the ``test`` directory.", 
-  "description": "Tree level improvement of SF observables"
-}

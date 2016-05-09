@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552424, 
-  "description": "", 
-  "README.md": "# SAN\n\nRequires:\n\n1. Python 3 (runs on 3.4.3)\n2. Keras\n3. Theano (haven't tested with with Tensor Flow. Go ahead and try)\n\nBasically an implementation of [http://arxiv.org/abs/1511.02274](http://arxiv.org/abs/1511.02274)\n", 
-  "id": 50754405
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550612, 
-  "description": "CNN for Offline Handwriting Chinese Character Recognition", 
-  "README.md": "cnn-zh\n======\n\nConvolutional Neural Network [1] for Offline Handwriting Chinese \nCharacter Recognition. \n\n* \tLibrary required: [Theano](http://deeplearning.net/software/theano/) \n\ton Python\n* \tData from [CASIA Online and Offline Chinese Handwriting Databases]\n\t(http://www.nlpr.ia.ac.cn/databases/handwriting/Download.html)\n\t*\t*\"HWDB1.1trn_gnt\"* for training data\n\t*\t*\"HWDB1.1tst_gnt\"* for validation data \n\t*\t*\"Offline Character Data\"* for testing data\n*\tGPU acceleration is not implemented\n\n[1]: Ciresan, Dan, and Jurgen Schmidhuber. [\"Multi-Column Deep Neural \nNetworks for Offline Handwritten Chinese Character Classification\"] \n(http://arxiv.org/pdf/1309.0261.pdf) *arXiv preprint arXiv:1309.0261* \n(2013).", 
-  "id": 18918161
-}

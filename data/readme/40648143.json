@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545686, 
-  "description": "Master thesis \"Identifier Namespaces in Mathematical Notation\"", 
-  "README.md": "# Automatic Namespace Discovery \nThis is a Master Thesis by A. Grigorev \n\nYou can look at the pdf version here:\n\n- https://github.com/alexeygrigorev/namespacediscovery/raw/master/thesis/thesis.pdf\n- http://arxiv.org/abs/1601.03354\n\n\n## Related projects:\n\n- [Mathematical Language Processing](https://github.com/alexeygrigorev/project-mlp) for extracting identifiers from wikipedia \n- [Java Language Processing](https://github.com/alexeygrigorev/JLP) for extracting variable declarations from Java\n", 
-  "id": 40648143
-}

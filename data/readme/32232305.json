@@ -1,6 +1,0 @@
-{
-  "README": "Simulation code and material for\nhttp://arxiv.org/abs/0808.3990\nAdaptive Dynamic Congestion Avoidance with Master Equation\n\n", 
-  "read_at": 1462543881, 
-  "description": "Master Equation Random Early Detection (mRED) algorithm implementation", 
-  "id": 32232305
-}

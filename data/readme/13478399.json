@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550507, 
-  "description": "Reproducibility repository for paper on diffractons: see http://arxiv.org/abs/1312.4122.", 
-  "README.md": "Reproducibility repository for paper on diffractons\n====================================================\n\nSubdirectories:\n\n - **pyclaw**: Code and data for Figures 3, 5, (9,10,11), 13, and 14,\n   which show results of PyClaw simulations.\n - **spectral**: Code and data for Figures 4 and 12, which show results of\n   pseudospectral simulations.\n - **scaling**: Code and data for Figures 7-8.  Only post-processing scripts are\n   provided; if you wish to re-generate the data, use the code for Figure 5\n   (from the *pyclaw* directory).\n - **speed**: Code and data for Figure 6.  Again if you wish to re-generate the\n   data, use the code for Figure 5.\n\nNote that the data for Figure 14 has been compressed.  You must uncompress it first\nif you wish to plot it.\n", 
-  "id": 13478399
-}

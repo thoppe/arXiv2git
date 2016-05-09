@@ -1,6 +1,0 @@
-{
-  "id": 51378551, 
-  "read_at": 1462557701, 
-  "README.rst": "About\n=====\n\nRule-based application used to clean and improve the quality of parallel corpora. It includes built-in rules for Polish and English. Nevertheless adaptation for other languages should not be a problem. Using a tool improves the quality of machine translation.\n\nFinal info\n====\n\nFeel free to use this tool if you cite:\nWolk K., Marasek K., \"Polish - English Speech Statistical Machine Translation Systems for the IWSLT 2013.\", Proceedings of the 10th International Workshop on Spoken Language Translation, Heidelberg, Germany, p. 113-119, 2013\n\nFor more information, see: http://arxiv.org/pdf/1509.09097\n\nFor any questions:\n| Krzysztof Wolk\n| krzysztof@wolk.pl\n", 
-  "description": "Rule-based application used to clean and improve the quality of parallel corpora."
-}

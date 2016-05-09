@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556680, 
-  "description": "Filmfundr Sentiment engine", 
-  "README.md": "sentiment\n=========\n\nSentiment analysis using machine learning techniques.\n\nCheck info.py for the training and testing code. A demo of the\ntool is available [here](http://sentiment.vivekn.com)\n\nRefer this paper for more information about the algorithms used.\n\nhttp://arxiv.org/abs/1305.6143\n", 
-  "id": 57940955
-}

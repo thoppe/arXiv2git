@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546257, 
-  "description": "Computing the asymmetric spectrum of doped, disordered graphene", 
-  "README.md": "Graphene-IR-Spectrum\n====================\n\nComputation of anomalous IR response of grafted graphene, within a tight-binding model \n\nThis code implements the theory presented in the paper \n\n\"Phonon-disorder valley scattering modulation of optical transparency in graphene\" ( arXiv:1407.8141 )\n\nThe goal of the project is to compute the contribution to the optical conductivity of \ndisordered graphene of the Feynman diagram presented in the paper. \n\n", 
-  "id": 38947686
-}

@@ -1,7 +1,0 @@
-{
-  "project": [
-    "qgp/ThePEG", 
-    "cms-externals/thepeg"
-  ], 
-  "citation": []
-}

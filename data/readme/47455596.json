@@ -1,7 +1,0 @@
-{
-  "00README.XXX": "art-in-machine-learning.tex toplevelfile\nnohypertex\n", 
-  "read_at": 1462550201, 
-  "description": "", 
-  "README.md": "## Not included\n\n* [Magic The Gathering card creation](http://nerdist.com/what-happens-when-artificial-intelligence-makes-magic-the-gathering-cards/):\n  I did not get an answer which technique was actually used. It might as well\n  just be somebody who made them himself and claimed it is machine learning.\n* Image captioning, especially http://arxiv.org/abs/1412.2306, should really\n  be in the image part. However, there was too little time for it and the\n  ideas are too complex for this course.\n* Latent image space due to a lack of time and as it is too complicated.\n\n\n## Multimedia\n\n* https://youtu.be/oyxSerkkP4o - DeepDream Video\n* http://psychic-vr-lab.com/deepdream/\n\n\n## Software\n\n* https://github.com/auduno/deepdraw - for Caffee\n\n\n## Papers\n\n* [Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](http://arxiv.org/pdf/1601.04589v1.pdf)\n  - http://gitxiv.com/posts/DtC4Zwz3kqCDBHFD7/combining-markov-random-fields-and-convolutional-neural\n* [Understanding deep features with computer-generated imagery ](http://gitxiv.com/posts/rCzAPjX5iCXT5E6cz/understanding-deep-features-with-computer-generated-imagery)\n\n## See also\n\n* http://mtyka.github.io/code/2015/09/07/generative-nns.html", 
-  "id": 47455596
-}

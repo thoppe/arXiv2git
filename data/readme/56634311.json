@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547742, 
-  "description": "Torch implementation of Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks (http://arxiv.org/pdf/1312.6082.pdf)", 
-  "README.md": "# SVHN-Multi-Digit-torch\nTorch implementation of Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks (http://arxiv.org/pdf/1312.6082.pdf)\n\nThe trained model can be downloaded from - \nhttp://www.terminet.xyz/datasets/model.zip\n\nThe trained model achieves 95.4% accuracy on the test set and was trained for 3 days.\n\nRun eval.lua to classify a single input image.\n\nRequirements:\n* optim\n* nn\n* cudnn, cunn, cutorch\n* dp\n* rnn\n", 
-  "id": 56634311
-}

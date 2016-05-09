@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547538, 
-  "description": "Python implementation of the R function", 
-  "README.md": "rfunction\n=========\n\nPython implementation of the R function.\n\nIt is used to create all plots presented in this paper:\n\nhttp://arxiv.org/abs/1304.6967", 
-  "id": 8017967
-}

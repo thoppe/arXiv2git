@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558251, 
-  "description": "Code for doubly stochastic gradients", 
-  "README.md": "Doubly_Stochastic_Gradients\n===========================\n\nCode for doubly stochastic gradients\n\nThis repository contains two implementations of Doubly Stochastic\nGradients for large-scale kernel methods [1].\n\nThe first one is Matlab code on MNIST 8M dataset.\n\nThe second one is a GPU implementation based on the cuda-convnet package [2].\n\n\nReference\n\n[1] Bo Dai, Bo Xie, Niao He, Yingyu Liang, Anant Raj, Maria-Florina\nBalcan, and Le Song. Scalable Kernel Methods via Doubly Stochastic Gradients.\narXiv:1407.5599: http://arxiv.org/abs/1407.5599\n\n[2] http://code.google.com/p/cuda-convnet\n", 
-  "id": 23746828
-}

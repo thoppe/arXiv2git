@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549997, 
-  "description": "", 
-  "README.md": "Learning Simple Algorithms from Examples\n========================================\n\nThis is a framework to learn simple algorithms such as\ncopying, multi-digit addition and single digit multiplication\ndirectly from examples. Our framework consists of a set of\ninterfaces, accessed by a controller. Typical\ninterfaces are 1-D tapes or 2-D grids that hold the input and output\ndata. \nThe paper can be found at: http://arxiv.org/abs/1511.07275 . <br />\nMoreover, the accompanying video https://www.youtube.com/watch?v=GVe6kfJnRAw gives a concise overview of our approach.\n\n\nThis software runs in Torch. Type <br />\n\n`th main.lua`\n\nto train the model for the addition task. \n\nThe model generates traces of the intermediate solutions while training (in\ndirectory ./movie/). They can be displayed by calling:\n\n`python play.py`\n\n", 
-  "id": 47646661
-}

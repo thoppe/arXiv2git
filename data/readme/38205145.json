@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549246, 
-  "description": "An implementation of Q algorithm and its deep variant for Reinforcement Learning purposes.", 
-  "README.md": "# Deep-Q-Learning\nAn implementation of Q algorithm and its deep variant for Reinforcement Learning purposes.\n\nThis was a part of Charles Isbell, Michael Littman and Pushkar Kolhe Udacity https://www.udacity.com/course/machine-learning-reinforcement-learning--ud820 Reinforcement Learning course.\n\nOther resources\n\n- Richard S. Sutton and Andrew G. Barto Book\n\n- http://mnemstudio.org/path-finding-q-learning-tutorial.htm\n\n- https://en.wikipedia.org/wiki/Q-learning\n\n- http://arxiv.org/pdf/1312.5602v1.pdf\n", 
-  "id": 38205145
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555454, 
-  "description": "Dataset for the \" Tag recommendation\" paper from ISWC 2012", 
-  "README.md": "\n## Data files for the paper:\n\n[Tag Recommendation for Large-Scale Ontology-Based Information Systems](http://iswc2012.semanticweb.org/sites/default/files/76500318.pdf)\n\n[Accepted at ISWC 2012, Evaluations & Experiments track]\n\n## Article and Bookmark data\n\nData used in tag recommendation experiments. The data here is represented by the set of CSV files:\n\n* [Bookmarks collection](bookmarks.csv). Contains users' choices of concepts for each paper in the collection. Fields are defined in the first line of the file.\n* [Articles collection](articles.csv). Contains concepts extracted by the system for each paper in the collection. Fields are defined in the first line of the file.\n* [Concepts collection](concepts.csv). Contains concepts from the ontology. Fields are defined in the first line of the file.\n\n\n## Disambiguation Data\n\nData used in the disambiguation experiments\n\n* [Articles collection](disambiguations/articles.tar.gz). Tarball containing collection of arXiv.org papers in the form of text files containing IDs of extracted concepts.\n* [LDA processed data](disambiguations/lda_data.tar.gz). Tarball containing the LDA post-processed data on the latter articles collection.\n", 
-  "id": 55050180
-}

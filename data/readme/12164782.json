@@ -1,6 +1,0 @@
-{
-  "read_at": 1462559079, 
-  "description": "creates a chord diagram to show rate and co-occurrence of words on the arxiv week postings (all postings within 7 days, by title only). it also creates a word cloud from the title of the arxiv.org preprints posted in the past week. requires a few packages, including urllib2, PIL and BeautifulSoup, and d3 renders the chord diagram (for the latter a local copy of BeautifulSoup.py would do) ", 
-  "README.md": "astrotrend\n==========\n\nit creates a chord diagram (and a simple word cloud too) to visualize word rate and co-occurrence in the titles of the arxiv.org preprints posted in the past 7 days. it requires a few packages, including urllib2, PIL and BeautifulSoup (for the latter a local copy of BeautifulSoup.py would do), and some d3 libraries (included)\n\nno installation is required: just grab the python codes. the font used for the word cloud is provided for convenience, but of course it can be changed by feeding the appropriate path to the got in getwords.py\n\nto run just type python getwords.py (tuple.py for the chord diagram)\n\nas always, it is work in progress\n\nit saves a png image of the cloud and an html file for the diagram. it may take a minute to create them.\n\n![alt text] (http://cosmo.nyu.edu/~fb55/vizs/videos/2014-10-31_cooccurrence.png)\n", 
-  "id": 12164782
-}

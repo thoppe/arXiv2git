@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554942, 
-  "description": "SqueezeNet Generator", 
-  "README.md": "# SqueezeNet-Generator\nThis is the generator for SqueezeNet\n\n# Related SqueezeNet repo and paper:\n[SqueezeNet](https://github.com/DeepScale/SqueezeNet)\n\n[SqueezeNet-Deep-Compression](https://github.com/songhan/SqueezeNet-Deep-Compression)\n\n[SqueezeNet-Generator](https://github.com/songhan/SqueezeNet-Generator)\n\n[SqueezeNet-DSD-Training](https://github.com/songhan/SqueezeNet-DSD-Training)\n\n[SqueezeNet-Residual](https://github.com/songhan/SqueezeNet-Residual)\n\nIf you find SqueezeNet and Deep Compression useful in your research, please consider citing the paper:\n\n    @article{SqueezeNet,\n      title={SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5MB model size},\n      author={Iandola, Forrest N and Han, Song and Moskewicz, Matthew W and Ashraf, Khalid and Dally, William J and Keutzer, Kurt},\n      journal={arXiv preprint arXiv:1602.07360},\n      year={2016}\n    }\n\n", 
-  "id": 53086223
-}

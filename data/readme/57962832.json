@@ -1,6 +1,0 @@
-{
-  "README": "Polcovar\n========\n\nThis is the Polcovar software for computing the mean and variance of\nsubgraph counts in random graphs.  Read the article on arXiv:\n\nhttps://arxiv.org/abs/1402.5835\n\nThis source code also includes the source of that article. \n\nHow to use it \n-------------\n\nPolcovar is written in Matlab. \n\nThe two main entry points are polcovar_mu.m and polcovar_sigma.m.\n\nSee polcovar_example.m for an example. \n\nThis project uses Stu instead of Make.  Get Stu at\n\nhttps://github.com/kunegis/stu\n\nLicense\n-------\n\nPolcovar is free software: you can redistribute it and/or modify it under the\nterms of the GNU General Public License as published by the Free\nSoftware Foundation, either version 3 of the License, or (at your\noption) any later version. \n\nPolcovar is distributed in the hope that it will be useful, but WITHOUT ANY\nWARRANTY; without even the implied warranty of MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License\nnfor more details. \n\nFor support, write to Jerome Kunegis <kunegis@gmail.com>.\n\n", 
-  "read_at": 1462556714, 
-  "description": "Subgraph count statistics in Erd\u0151s\u2013R\u00e9nyi graphs", 
-  "id": 57962832
-}

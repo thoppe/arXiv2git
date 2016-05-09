@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549319, 
-  "description": "C++ library and R package for handling, simulating and inferring T-tessellations", 
-  "readme.md": "<!-- Line Tessellation (LiTe) library\n     |||Development version\n     Authors: Katarzyna Adamczyk and Kien Kieu.\n     |||Copyright INRA 2006-yyyy.\n     Interdeposit Certification: IDDN.FR.001.030007.000.R.P.2015.000.31235\t\n     License: GPL v3. -->\n\nLiTe is a C++ library devoted to planar Gibbsian T-tessellations. It is a software companion of the paper \"A completely random T-tessellation model and Gibbsian extensions\" published in Spatial Statistics 2013, vol. 6 (preliminary version freely available on [HAL](http://hal.archives-ouvertes.fr/hal-00785980) and [arXiv](http://fr.arxiv.org/abs/1302.1809)). Further information can be found on [LiTe home page](http://kien-kieu.github.io/lite). Note that LiTe is also available to R users as the [RLiTe](http://kien-kieu.github.io/lite/md__home_kien_labo_lite_docfiles_rlite.html) R package.\n\n\n", 
-  "id": 38121435
-}

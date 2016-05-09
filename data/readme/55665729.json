@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547778, 
-  "description": "RNN-BN/Dropout-LSTM cell from wojzaremba https://github.com/wojzaremba/lstm", 
-  "README.md": "# BN, Dropout lstm\n# Ref.\n- [RECURRENT NEURAL NETWORK REGULARIZATION](http://arxiv.org/pdf/1409.2329v4.pdf), ICLR, 2015\n- [Recurrent BatchNormalization](http://arxiv.org/abs/1603.09025), arXiv, 2016\n", 
-  "id": 55665729
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558518, 
-  "description": "Deep GPs with GPy", 
-  "README.md": "# deepGPy\nDeep GPs with GPy\n\nhttp://arxiv.org/abs/1412.1370\n\n### Requires\n - GPy (development branch)\n", 
-  "id": 35286726
-}

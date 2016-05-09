@@ -1,7 +1,0 @@
-{
-  "README.md~": "# perseus\nUsing athena as a basis for implementation of SAC and SMAUG\n\n\nMagnetohydrodynamic code for gravitationally-stratified media : SAC\nhttp://adsabs.harvard.edu/abs/2008A%26A...486..655S\n\nA Fast MHD Code for Gravitationally Stratified Media using Graphical Processing Units: SMAUG\nhttp://eprints.whiterose.ac.uk/86864/\n\nAthena: A New Code for Astrophysical MHD\nhttp://arxiv.org/abs/0804.0402\n\n\n", 
-  "read_at": 1462555282, 
-  "description": "Using athena as a basis for implementation of SAC and SMAUG", 
-  "README.md": "# perseus\nUsing athena as a basis for implementation of SAC and SMAUG\n\n\nMagnetohydrodynamic code for gravitationally-stratified media : SAC\nhttp://adsabs.harvard.edu/abs/2008A%26A...486..655S\n\nA Fast MHD Code for Gravitationally Stratified Media using Graphical Processing Units: SMAUG\nhttp://eprints.whiterose.ac.uk/86864/\n\nAthena: A New Code for Astrophysical MHD\nhttp://arxiv.org/abs/0804.0402\n\nObjectives:\n===========\n\n1.  Improve software engineering and enhance software sustainability\n2.  Build in perturbed MHD using Athena CTU method\n3.  Implement perturbed MHD with central differencing and hyperdiffusion (i.e. SAC)\n4.  Integrate GPU code for CTU method re. [Wasiljew & Murawski] (http://kft.umcs.lublin.pl/kmur/download/papers/2013/Wasiljew_Murawski_2013.pdf)\n5.  Integrate SMAUG\n6.  Exploit SMR implementation in SAC/SMAUG\n\n\n\n\n\n", 
-  "id": 54139634
-}

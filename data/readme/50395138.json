@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552490, 
-  "description": "", 
-  "README.md": "## acdc_cpu\nDCT/IDCT layers of ACDC (C and C^{-1} in the acronym) from https://github.com/mdenil/acdc-torch for the CPU, ported to Theano and based on the original code\n(M.Moczulski, M. Denil, J. Appleyard, N. de Freitas, \"ACDC: A Structured Efficient Linear Layer\", http://arxiv.org/abs/1511.05946 ).\nlibfftw3 is required: http://www.fftw.org/ .\n", 
-  "id": 50395138
-}

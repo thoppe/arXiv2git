@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558795, 
-  "description": "Linear complexity SimRank computation", 
-  "README.md": "# SimRank-IDE\n\nA procedure based on iterative diagonal estimation method to compute [SimRank](http://en.wikipedia.org/wiki/SimRank) approximately.\n\n## Installing dependencies\n\n1. Python 2.7.9.\n\n2. NumPy (http://www.numpy.org/), SciPy (http://www.scipy.org/), scikit-learn (http://scikit-learn.org/stable/). \n\n## Running \n\n### Ubuntu\n\nTo run a test on a Simple English Wikipedia graph run the following:\n```\ngit clone https://github.com/ovgeorge/simrank-ide.git\ncd ./simrank-ide/simplewiki/\nsh main.sh\ncd ..\npython main.py\npython explain_lyap.py simplewiki/ d_simplewiki_2e-2.mat GNU\n```\n\n## License\n\nIf you use this code in your research, please cite \n\"Linear complexity SimRank computation based on the iterative diagonal estimation\" by \nI.V. Oseledets, G.V. Ovchinnikov, A. M. Katrutsa, pre-print http://arxiv.org/abs/1502.07167\n\nIf you have any questions, do not hesitate to contact authors: ovgeorge@yandex.ru, aleksandr.katrutsa@phystech.edu\n", 
-  "id": 35101954
-}

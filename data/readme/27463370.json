@@ -1,6 +1,0 @@
-{
-  "id": 27463370, 
-  "read_at": 1462557025, 
-  "README.rst": "starlit\n=======\n\nStarlit is a python package for working with astronomy literature databases interchangeably: ADS, arXiv and your bibtex file.\nStarlit will even cache your ADS requests to MongoDB.\n\nStarlit was created as part of .Astronomy 6 (Chicago, 2014).\n\n------------\n\nLicense\n-------\n\nCopyright 2015 Jonathan Sick\n\nMIT Licensed, see LICENSE.rst\n", 
-  "description": "Package for working with astronomy literature databases: ADS, arXiv and your bibtex file."
-}

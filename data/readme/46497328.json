@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554217, 
-  "description": "Latent Bayesian melding for non-intrusive load monitoring (energy disaggregation)", 
-  "Readme.md": "\nThis repository provides an easy to use working implementation of Latent Bayesian Melding for NILM (energy disaggregation).\nFor more details refer to our NIPS 2015 paper: Latent Bayesian melding for integrating individual and population models (http://papers.nips.cc/paper/5756-latent-bayesian-melding-for-integrating-individual-and-population-models;\nor http://arxiv.org/abs/1510.09130). \n\n##### Requirements\nMosek academic license (free)\n\n##### Install\n\n```\npip install LatentBayesianMelding\n```\n\nContact: You may contact the first author at:\nmingjun.zhong@gmail.com or mzhong@inf.ed.ac.uk\n\n\n", 
-  "id": 46497328
-}

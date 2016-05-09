@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546606, 
-  "description": "An implementation of Bayesian Personalised Ranking in Theano", 
-  "README.md": "theano-bpr\n==========\n\nA library implementing Bayesian Personalised Ranking (BPR) for\nMatrix Factorisation, as described by Rendle et al. in :\n\n  http://arxiv.org/abs/1205.2618\n\nThis model tries to predict a personalised ranking of items\nfrom a user's viewing history. It has been shown to be\nvery efficient for recommendation tasks. It's also used in a variety\nof other tasks, such as matrix completion, link prediction\nand tag recommendation.\n\nThis library uses [Theano](http://deeplearning.net/software/theano/) and\ncan therefore run on a [GPU through CUDA](http://deeplearning.net/software/theano/tutorial/using_gpu.html) or on the CPU,\nfor which you'll need a working BLAS. We recommend using [OpenBlas](http://www.openblas.net).\n\nInstallation\n------------\n\n    $ pip install theano-bpr\n\nUsage\n-----\n\nAn iPython Notebook demonstrating the use of theano-bpr over the\nMovielens dataset [is available in examples/](http://nbviewer.ipython.org/github/bbcrd/theano-bpr/blob/master/examples/example.ipynb).\n\nTesting\n-------\n\n    $ nosetests\n\nLicensing terms and authorship\n------------------------------\n\nSee 'COPYING' and 'AUTHORS' files\n", 
-  "id": 19575894
-}

@@ -1,6 +1,0 @@
-{
-  "README": "We have been working on developing MultiPath-TCP, which conform to RFC 6824 and closely follows MPTCP Linux kernel desgin. \n\nThe implementation is not complete yet, but the main functionalities of MPTCP can be simulated from our first released version. You are thus very wellcome to contribute to this code.\n\nA brief description of the MPTCP model can be found in our recent short paper, which was presented at the WNS3 2014, with the following link: http://arxiv.org/abs/1510.07721\n\nThe DOI of our first release can be found in the following link: http://dx.doi.org/10.5281/zenodo.32691\n", 
-  "read_at": 1462546616, 
-  "description": "MultiPath TCP (MPTCP) Implementation in ns-3", 
-  "id": 19939628
-}

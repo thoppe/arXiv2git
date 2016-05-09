@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556218, 
-  "description": "Benchmark for generic matrix-matrix multiplication (GEMM)", 
-  "README.md": "Benchmark for generic matrix-matrix multiplication (GEMM)\n=========================================================\n\nPrerequisites\n=============\n* Collective Knowledge Framework: http://github.com/ctuning/ck\n* OpenCL library\n\nInstallation\n============\n\n> ck pull repo:gemmbench --url=https://github.com/dividiti/gemmbench\n\nor\n\n> ck pull repo:gemmbench --url=git@github.com:dividiti/gemmbench.git\n\nTBD: register OpenCL with CK\n\nUsage\n=====\n\n* Compile benchmark\n\n> ck compile:gemmbench-cl-launcher-1.0\n\n* Run benchmark (select \"default\" CMD when asked)\n\n> ck run:gemmbench-cl-launcher-1.0\n\n* Run benchmark with custom CMD (for example, change matrix order, platform ID and device ID):\n\n> ck run:gemmbench-cl-launcher-1.0 --extra_run_cmd=\"-n 512 -p 0 -d 1\"\n\nPublications\n============\n* http://arxiv.org/abs/1511.03742\n", 
-  "id": 45107169
-}

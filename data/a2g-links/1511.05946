@@ -1,9 +1,0 @@
-{
-  "project": [
-    "mdenil/acdc-torch", 
-    "alancucki/theano-tools"
-  ], 
-  "citation": [
-    "styleNie/notes"
-  ]
-}

@@ -1,6 +1,0 @@
-{
-  "README": "Replicating the experiments from:\nSennrich, R., Haddow, B., & Birch, A. (2015). Improving neural machine\ntranslation models with monolingual data. arXiv preprint arXiv: 1511.06709.\nhttp://arxiv.org/pdf/1511.06709v2.pdf\n\nCurrently a prototype model can be trained to translate from German to English.\n\nFor testing purposes, the network is for now only trained with 1000 sentences of\nparallel data sampled from training-parallel-nc-v10 (first 1000 sentences). Data\nis to be found in ./data as news-*.\nexample.txt is used for trying out the translate() function which aims to\ntranslate an arbitrary German input.\n\nModel can be found in NMTmodel.jl\nOther functionalities are implemented in sampleWMT.jl, mostly adapted from\nKnet/examples/copyseq.jl. See github.com/denizyuret/Knet.jl for more information.\n\nExample call for training (within julia):\n(Knet needs to be installed)\ninclude(\"sampleWMT.jl\")\nsampleWMT.main(\"data/news-commentary-v10.de-en.de data/news-commentary-v10.de-en.en --epochs 10\")\n", 
-  "read_at": 1462547870, 
-  "description": "Class project for COMP541 (Machine Learning) at Ko\u00e7 University", 
-  "id": 56442308
-}

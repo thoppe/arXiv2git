@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556688, 
-  "description": "Predict alternative for blocked sentences", 
-  "README.md": "# Censorship-Prediction-Doc2Vec\nPredict alternatives for blocked sentences\n\n# TODO\n* Implement algorithm for collecting wiki information of blocked sentences - use web crawler/python - beautifulsoup\n* Consider lemmatization - optimize results\n* Produce fine tuned alternatives rather than complete sentences\n* Algorithm for query word retrieval \n* Implement classifiers for hypothesis such as SVM\n\n# References\n* Doc2vec: https://radimrehurek.com/gensim/models/doc2vec.html\n* Related paper: http://arxiv.org/abs/1405.4053\n", 
-  "id": 58091994
-}

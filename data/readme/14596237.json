@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556779, 
-  "description": "The code for my Honours thesis (http://arxiv.org/abs/1310.4456) on cumulative distribution networks.", 
-  "ReadMe.txt": "The code for my Honours research project.\n\nNeeds some setting up before you can compile:\n\n1. Install Boost and Eigen, and add them to the include directories. I like to install them under c:\\ProgramData.\n\n2. Compile the Boost libraries (I use the Filesystem library). Make sure to use correct options for .\\b2. E.g. compile debug versions as well.\n\n3. Build the f2c library file for your platform: mvnpack.c contains a function converted from Fortran to calculate the CDF of the multivariate normal distribution.\n\n4. Make sure this file is linked to. (In Visual Studio, add it in \"Configuration Properties->Linker->Input->Additional Dependencies\" under the project properties.)", 
-  "id": 14596237
-}

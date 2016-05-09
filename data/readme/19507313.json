@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546600, 
-  "description": "Poster and presentation to go with http://arxiv.org/abs/1107.2665", 
-  "README.md": "LLOID Poster and Presentation\n=============================\n\nPoster and presentation to go with:\n\nToward Early-Warning Detection of Gravitational Waves from Compact Binary Coalescence\n\nCannon et al. 2012 ApJ 748 136\n\narXiv: http://arxiv.org/abs/1107.2665\n\nDOI: http://dx.doi.org/10.1088/0004-637X/748/2/136\n\nTo build\n--------\n\nTo typeset on a Mac, you need the following packages:\n\n    $ sudo port install qrencode texlive-fonts-extra texlive-math-extra\n", 
-  "id": 19507313
-}

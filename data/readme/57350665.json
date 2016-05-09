@@ -1,6 +1,0 @@
-{
-  "readme": "\nFacial emotion recognition. \n########\nAuthor : Gaurav Bhaskar Gite\nDate : April 28, 2016\n########\nMax Accuracy on the test dataset - 55%\n########\n\nDataset was obtained from (1).\nNote the format of the dataset has been changed for simplicity of usage. Sample of 200 train and 100 test are provided alongside the program files.\nYou can convert the dataset using the script provided in the scripts sub-folder.\n\nAlready trained MLP and CNN models are provided in the mlp_models and convo_models. \n\n########\n\nCitations : \n1. \"Challenges in Representation Learning: A report on three machine learning\ncontests.\" I Goodfellow, D Erhan, PL Carrier, A Courville, M Mirza, B\nHamner, W Cukierski, Y Tang, DH Lee, Y Zhou, C Ramaiah, F Feng, R Li,\nX Wang, D Athanasakis, J Shawe-Taylor, M Milakov, J Park, R Ionescu,\nM Popescu, C Grozea, J Bergstra, J Xie, L Romaszko, B Xu, Z Chuang, and\nY. Bengio. arXiv 2013.\n\n\n\n", 
-  "read_at": 1462548333, 
-  "description": "", 
-  "id": 57350665
-}

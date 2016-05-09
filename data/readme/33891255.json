@@ -1,6 +1,0 @@
-{
-  "id": 33891255, 
-  "read_at": 1462511490, 
-  "README.rst": "Principal Component Pursuit in Python\n=====================================\n\nThis is a Python implementation of the `Principal Component\nPursuit <http://arxiv.org/abs/0912.3599>`_ algorithm for robust PCA.\n\nThis implementation uses the `fbpca <http://fbpca.readthedocs.org/>`_\nimplementation of approximate partial SVD for speed so you'll need to install\nthat first.\n\nUsage\n-----\n\nTODO\n\n\nDemo\n----\n\nApplied to `the 'Escalator' dataset\n<http://perception.i2r.a-star.edu.sg/bk_model/bk_index.html>`_ (using the code\nin the ``demo.py`` script, this algorithm produces a video with frames that\nlook like:\n\n.. image:: https://raw.githubusercontent.com/dfm/pcp/master/demo.png\n\n\nAuthor & License\n----------------\n\nCopyright 2015 Daniel Foreman-Mackey\n\nThis is open source software written by Dan Foreman-Mackey and released under\nthe terms of the MIT license (see LICENSE).\n", 
-  "description": "A Python implementation of the Principal Component Pursuit algorithm from arXiv:0912.3599"
-}

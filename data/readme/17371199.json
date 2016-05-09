@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553483, 
-  "description": "", 
-  "README.md": "RoaringBitmapSynth\n==================\n\nCode for synth.  experiments on roaring bitmaps as prepared \nfor the paper:\n\nSamy Chambi, Daniel Lemire, Owen Kaser, Robert Godin,\nBetter bitmap performance with Roaring bitmaps,\nhttp://arxiv.org/abs/1402.6407\n\nUsage \n-------\n\n* install java\n* install maven 2\n* type mvn package\n* cd target\n* java -cp RoaringBitmapSynth-0.0.1-SNAPSHOT.jar:lib/* org.roaringbitmap.experiments.colantonio.Benchmark\n* java -cp RoaringBitmapSynth-0.0.1-SNAPSHOT.jar:lib/* -javaagent:lib/SizeOf.jar org.roaringbitmap.experiments.colantonio.buffer.MemoryUsage\n", 
-  "id": 17371199
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546647, 
-  "description": "Implementations of Mixed Membership Stochastic Blockmodels", 
-  "README.md": "Mixed Membership Stochastic Blockmodels in C++\r\n=====\r\n\r\nImplementations of Various Mixed Membership Stochastic Blockmodels using Gibbs Sampling\r\n\r\nModels:\r\n###\r\n\t\tMMSB [1]\r\n\t\tMMSB with Logistic-Norm Prior [2]\r\n\t\tDynamic MMSB [2]\r\n\t\tInfinite MMSB [3]\r\n\t\tDynamic Infinite MMSB [4]\r\n\t\t\r\nPapers:\r\n###\r\n\t\t[1] Edoardo M. Airoldi, David M. Blei, Stephen E. Fienberg, and Eric P. Xing. 2008. Mixed Membership Stochastic Blockmodels. J. Mach. Learn. Res. 9 (June 2008), 1981-2014.\r\n\t\t[2] Wenjie Fu, Le Song, and Eric P. Xing. 2009. Dynamic mixed membership blockmodel for evolving networks. In Proceedings of the 26th Annual International Conference on Machine Learning (ICML '09). ACM, New York, NY, USA, 329-336.\r\n\t\t[3] Kim, Dae Il, Michael Hughes, and Erik Sudderth. \"The nonparametric metadata dependent relational model.\" arXiv preprint arXiv:1206.6414 (2012).\r\n\t\t[5] Fan, Xuhui, et al. \"Dynamic Infinite Mixed-Membership Stochastic Blockmodel.\" arXiv preprint arXiv:1306.2999 (2013).\r\n\r\n", 
-  "id": 19369600
-}

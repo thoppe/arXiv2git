@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548308, 
-  "description": "", 
-  "README.md": "Neural Machine Translation by Jointly Learning to Align and Translate:\n\nhttp://arxiv.org/abs/1409.0473\n\nExplanation of tensorflow seq2seq code:\n\nhttps://www.tensorflow.org/versions/r0.8/tutorials/seq2seq/index.html\n\nHow to read data (look at TFRecords):\n\nhttps://www.tensorflow.org/versions/r0.8/how_tos/reading_data/index.html#reading-from-files\n\nAlso:\n\nhttps://github.com/tensorflow/tensorflow/blob/0c3f116837b08957630eba996d83e517d47e38ac/tensorflow/g3doc/how_tos/new_data_formats/index.md\n\n\nGiven a question, a candidate answer, and a document, our model asks \"how closely \ndoes the world described by this question/answer pair match the world described \nby this document?\" The model chooses the candidate that produces the closest\nmatch. The major advantage of this approach is that \n", 
-  "id": 56647123
-}

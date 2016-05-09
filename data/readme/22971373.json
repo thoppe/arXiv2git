@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553193, 
-  "description": "Forward stepwise with truncated chi p-values", 
-  "README.md": "fstep-tchi\n==========\n\nForward stepwise with truncated chi p-values\n\n*** Deprecated version ***\n\nThis version iterates the global null test of http://arxiv.org/abs/1308.3020\n\nIt is being replaced, new version available at https://github.com/selective-inference/R", 
-  "id": 22971373
-}

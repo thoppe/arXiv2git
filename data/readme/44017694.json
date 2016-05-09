@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556201, 
-  "description": "", 
-  "README.md": "# HOMFLY polynomial calculator for rational knots\n\nThis application based on Duzhin-Shkolnikov formula for value of HOMFLY polynomial for rational knots and links (http://arxiv.org/pdf/1009.1800.pdf). \n\nRequired packages: PySide and matplotlib.\n\nTo run the program execute file \"run.bat\".", 
-  "id": 44017694
-}

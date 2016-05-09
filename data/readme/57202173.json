@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547829, 
-  "description": "", 
-  "README.md": "# TripletEmbedding\n\nA Triplet Embedding network implemented with Chainer (https://github.com/pfnet/chainer).\n\nThe network is inspired by\nHoffer and Ailon: \"Deep Metric Learning Using Triplet Network.\" arXiv:1412.6622 [cs, Stat], December 20, 2014. http://arxiv.org/abs/1412.6622.\nSee also https://github.com/eladhoffer/TripletNet.\n", 
-  "id": 57202173
-}

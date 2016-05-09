@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556690, 
-  "description": "", 
-  "README.md": "# RVL_Augmentation\n\n## What is this?\n\nThis is a sub project from the Ryerson Vision Lab to implement the augmentations layed out by http://arxiv.org/abs/1504.06852.\n\n## Convention\n\nEvery augmentation added must supply a test (with asserts, but not necessarily an testing framework), which tests the transformation in question.\n\nEvery augmentation added must supply a check (visualiztion), whichs demonstrates that the augmentation in question does indeed work.\n", 
-  "id": 58089855
-}

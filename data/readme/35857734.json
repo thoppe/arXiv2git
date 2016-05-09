@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558583, 
-  "description": "Algorithms in Sage/Python from computational number theory research", 
-  "README.md": "# NT-work\nAlgorithms in Sage/Python from computational number theory research\n\nFinal papers available here:\nhttp://arxiv.org/abs/1409.7911 (elliptic curves over cubic field of discriminant -23)\nhttp://arxiv.org/abs/1202.6612 (elliptic curves over Q(sqrt5))\n", 
-  "id": 35857734
-}

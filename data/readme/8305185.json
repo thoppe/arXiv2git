@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547557, 
-  "description": "Expanding the mathematical notion of homology to directed graphs.", 
-  "README.md": "Digraph Homology\n================\n\nComputationally determining the dimensions of the homology groups H_n of directed graphs. The notion of homology is formally\nexpanded to digraphs in [ref. 1](https://github.com/arshajii/digraph-homology#references).\n\nReferences\n----------\n 1. Alexander Grigor'yan, Yong Lin, Yuri Muranov, and Shing-Tung Yau. *Homologies of Digraphs*. Tech. N.p., n.d. Web. <<http://arxiv.org/pdf/1207.2834.pdf>>\n", 
-  "id": 8305185
-}

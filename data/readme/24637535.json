@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558342, 
-  "description": "A simple set of codes to simulate (semi-numerically) neutral fraction maps during reionization.", 
-  "README.md": "ionz_codes\n==========\n\nA simple set of codes to simulate (semi-numerically) HI maps during reionization.\n\nUse the makefile for compilation in the following manner:\n\nmake ionz_main\n\nIt will create the executable 'ionz_main'\n\nYou need to install FFTW 2.x.x with following flags: \n'--enable-float' and '--enable-type-prefix' \nto compile this set of codes.\n\nPlease acknowledge this paper (http://arxiv.org/abs/1403.0941), if you are using this code.\n\n", 
-  "id": 24637535
-}

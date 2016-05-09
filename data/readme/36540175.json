@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558717, 
-  "description": "", 
-  "Readme.txt": "Please refer to the following paper:\n\nWangmeng Zuo, Faqiang Wang, David Zhang, Liang Lin, Yuchi Huang, Deyu Meng and Lei Zhang, Iterated Support Vector Machines for Distance Metric Learning, arXiv:1502.00363\n\nThis code has been compiled on a 64-bit operating system. If you want to use this code on a 32-bit operating system, you should run make.m to compile it again in advance.\n\nContact: tshfqw@163.com\n\nIf you find any bug, please contact me. Thank you!", 
-  "id": 36540175
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556926, 
-  "description": "CRDTs in Clojure", 
-  "README.md": "# crdt\n\nCRDTs - Conflict-free Replicated Data Types:\n  - Handoff Counters - eventually consistent distributed counters, as\n    presented in http://arxiv.org/abs/1307.3207\n\n\n## Usage\n\n- Handoff Counters - eventually consistent distributed counters\n\n```Clojure\n(use crdt.handoff-counter)\n(let [c1 (init :id1 tier)\n      c2 (init :id2 tier)\n      c1 (incr c1)\n      c2 (incr c2)\n      c1 (join c1 c2)\n      c2 (join c2 c1)\n      ; ...]\n  (value c1))\n```\n\n## License\n\nCopyright (C) 2013 Paulo Sergio Almeida\n\nDistributed under the Eclipse Public License, the same as Clojure.\n\n", 
-  "id": 11289760
-}

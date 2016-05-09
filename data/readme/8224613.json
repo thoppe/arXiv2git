@@ -1,6 +1,0 @@
-{
-  "id": 8224613, 
-  "read_at": 1462547517, 
-  "README.rst": "================\nmetadata-sources\n================\nA collection of metadata source plugins for calibre. Some are based on calibre's\nown plugins, others are new.\n\n\nPlugins\n-------\n\n:Arxiv:\n   Fetches metadata from arxiv.org.\n   \n:Mathscinet:\n   Fetches metadata from Mathscinet. Requires subscription.\n   \n:Zentralblatt:\n   Fetches metadata from Zentralblatt.\n   \n\nInstallation\n------------\n\nJust go to the plugin subdirectory and type::\n  \n  make install\n\nThis makes a zip package with the code and installs it in the user's calibre\ndirectory (``~/.config/calibre`` on Arch linux)\n\n\nLinks\n-----\n- http://calibre-ebook.com/\n- http://www.arxiv.org/\n- http://www.ams.org/mathscinet/\n- http://www.zentralblatt-math.org/zmath/en/\n", 
-  "description": "A collection of metadata sources for calibre: arxiv.org, mathscinet and zentralblatt"
-}

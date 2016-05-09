@@ -1,7 +1,0 @@
-{
-  "project": [
-    "diana-hep/carl", 
-    "glouppe/talk-approximating-likelihood-ratios-with-classifiers"
-  ], 
-  "citation": []
-}

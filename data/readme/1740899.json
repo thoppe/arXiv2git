@@ -1,6 +1,0 @@
-{
-  "README": "Verification via Abstract Reduction\n\nSee also http://arxiv.org/abs/1103.1362\n\nTo install:\n\n   % git clone http://github.com/samth/var\n   % raco link var\n   % raco setup var\n\nwhich enables the #lang var language.\n", 
-  "read_at": 1462557268, 
-  "description": "Verification via Abstract Reduction", 
-  "id": 1740899
-}

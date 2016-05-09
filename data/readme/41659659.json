@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545657, 
-  "description": "Jump consistent hash (Node.js bind)", 
-  "README.md": "jumphash\n===================\n\nA Fast, Minimal Memory, Consistent Hash Algorithm\n\npage:http://arxiv.org/pdf/1406.2294v1.pdf\n\n##Usage\n\n```javascript\n  var jumphash = require('jumphash')\n  var location = jumphash(2333,16)\n  assert(location >= 0);\n  assert(location < 16);\n```\n\n## License\n\nMIT", 
-  "id": 41659659
-}

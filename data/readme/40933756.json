@@ -1,6 +1,0 @@
-{
-  "read_at": 1462544969, 
-  "description": "GPU based language modeling and machine translation toolkit", 
-  "README.md": "# Zoph_RNN\nThis is <a href=\"http://barretzoph.github.io/\">Barret Zoph's</a> neural network machine translation and language modeling toolkit.\n\n-This code allows for multi-GPU parallelization of LSTM machine translation and language models. \n\n-The multi-GPU parallelization scheme is similar to that used in the Google paper: \"Sequence to Sequence Learning with Neural Networks\" (Link: http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)\n\n\n-For usage and instructions checkout the tutorial.pdf\n\n-The code for the paper: \"Multi-Source Neural Translation\" by Zoph et al. (Link: http://arxiv.org/abs/1601.00710) is not currently available\n", 
-  "id": 40933756
-}

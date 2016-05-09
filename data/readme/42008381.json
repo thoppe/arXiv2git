@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548919, 
-  "description": "mapping cheme for arbituary hybridization function.", 
-  "README.md": "#Map a channel mixing bath to a chain\n\nThis is a versaltile mapping scheme starting from hybridization function,\nit maps a general multi-orbital non-interacting bath with channel mixing to a chain model.\n\nIt provides a solution to impurity solvers that requires a concrete physical model(chain Hamiltonian), like NRG/vMPS et. al.\n\n###To use this program\nPlease install the following numerical packages for python(pip install -r requirements.txt)\n\n* numpy\n* scipy\n* matplotlib\n* gmpy2\n* mpi4py(optional)\n\nor *Anaconda* all in one pack: https://store.continuum.io/cshop/anaconda/\n\n###To run the first example.\n    ```\n    $ cd source/\n    $ python sample_simple.py\n    ```\n\n###Documentation\n* Theoritical Fundations: **doc/1509.01461v2.pdf**, **doc/SupplMater.pdf**\n* Technical Details: **doc/technical.pdf**\n* Program documentation: **doc/program_manual.pdf**\n\n###Information\n* Author:  Jinguo Leo, NanJing University.\n* Paper:  arXiv:1509.01461\n* Date:  2015/09/07\n* Contact: dg1422033@smail.nju.edu.cn\n\n\n", 
-  "id": 42008381
-}

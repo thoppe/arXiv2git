@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553128, 
-  "description": "C# implementation of the newly released google jumphash algorithm", 
-  "README.md": "SharpJmphash\n============\n\nC# implementation of the newly released google jumphash algorithm\n\nPaper describing the algorithm: http://arxiv.org/ftp/arxiv/papers/1406/1406.2294.pdf", 
-  "id": 22671119
-}

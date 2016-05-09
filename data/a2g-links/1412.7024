@@ -1,7 +1,0 @@
-{
-  "project": [
-    "NervanaSystems/nervana-lib-gpu-performance-preview", 
-    "MatthieuCourbariaux/deep-learning-multipliers"
-  ], 
-  "citation": []
-}

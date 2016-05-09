@@ -1,6 +1,0 @@
-{
-  "read_at": 1462544668, 
-  "description": "", 
-  "README.md": "# DE_high-dimensional (Version 0.9.0)\n=========================\nAuthor: Ehsan Zahedinejad ezahedin@ucalgary.ca\n=========================\n\nTitle:\n=========================\nDifferential Evolution for high dimensional optimization problem.\nSee Publication here http://arxiv.org/abs/1501.04676\nProgram can be ran on single and mutiple processors.\n\nLibraries:\n============================================\nMPI (Message Passing Interface), MKL (Math Kernal Library)\nA single thread compilation of mkl leads to better efficiency. This is why I compiled using a single thread command.\n\nCompilation\n======================\nCompilation command: ./make\nHowever you should alway make sure that the program refers to the right location of libraries.\nEdit makefile according to the location of you libraries.\n\n", 
-  "id": 32767509
-}

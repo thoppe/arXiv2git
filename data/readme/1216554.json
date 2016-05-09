@@ -1,6 +1,0 @@
-{
-  "README": "BIBWIKI - Another bibliography managament system                          \n                                                                         \nLast change of this file: 2008-01\n\n\n\nABOUT BIBWIKI\n\nBibwiki is an extension for Mediawiki to create and manage\nscientific bibliographies. The bibliographies are stored in \nplain text files in the common BibTeX format. With Bibwiki \nit's easy to:\n\n    * import from Ex Libris Aleph, Amazon, ArXiv,\n      Proquest/CSA databases and many more;\n    * manage digital documents (PDF files, web pages, etc.);\n    * export lists of references via BibTeX; \n    * create lists of references in Mediawiki articles. \n\n\n\nHOMEPAGE\n\nhttp://www.serenethinking.com/bibwiki\n\n\n\nMAINTAINER\n\nWolfgang Plaschg, <wolfgang.plaschg@gmail.com>\n", 
-  "read_at": 1462546890, 
-  "description": "Extension for Mediawiki for manage bibliographies", 
-  "id": 1216554
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551586, 
-  "description": "parser combinator tools with support for direct/indirect left recursive grammars.", 
-  "README.md": "# paza\nparser combinator tools with support for direct/indirect left recursive grammars.\n\nbased on Medeiros' algorithm http://arxiv.org/pdf/1207.0443\n", 
-  "id": 29804771
-}

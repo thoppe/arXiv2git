@@ -1,6 +1,0 @@
-{
-  "README": "Contents:\n\nFLA.ccasa.en.tex    ..... The original FSFE Fiduciary License Agreement (FLA) - tex\nFLA.ccasa.en.pdf    ..... The original FSFE Fiduciary License Agreement (FLA) - pdf\nFLA.ccasa.en.xhtml    ..... The original FSFE Fiduciary License Agreement (FLA) - xhtml\n                            produced by latexml for easy online reading\n\n\nMizar_FLA.*    ..... The FSFE Fiduciary License Agreement modified for Mizar (AMU)\n\n\nComments:\n \nJU: I now think there should be two versions of the AMU FLA: one\n    allowing only free open source relicensing, and another one\n    allowing also parallel commercial relicensing. I think it might be\n    good to allow AMU to provide commercial licensing in special and\n    important cases, however I also think that some authors might not\n    agree with me. It would be bad to lose such authors for the (very\n    likely needed in the future) changes of the free licensing. Note\n    that for example Arxiv also allows the authors to select between\n    several licenses when submitting. We would allow them to choose\n    between two FLAs. Practically, we will now dual-license under GPL\n    and CC-BY-SA.\n\n\n", 
-  "read_at": 1462547116, 
-  "description": "Licensing for the Mizar Mathematical Library", 
-  "id": 830750
-}

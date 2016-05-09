@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553469, 
-  "description": "[1.5] UNOFFICIAL repo of SUSY-HIT by A. Djouadi et al. (Note that g77 won't work in OSX Mavericks)", 
-  "readme.md": "[SUSY-HIT](http://www.itp.kit.edu/~maggie/SUSY-HIT/) \n=========\n\n### Authors\n\n   Abdelhak Djouadi, Margarete Muhlleitner, and Michael Spira\n\n   Flavour-violating stop decays are implemented by Ramona Grober, Margarete Muhlleitner, Eva Popenda, and Alexander Wlotzka.\n\n### References\n\n * Acta Phys. Polon. **B38** (2007) 635-644 [[hep-ph/0609292](http://arxiv.org/abs/hep-ph/0609292)].\n * [arXiv:1408.4662](http://arxiv.org/abs/1408.4662) for the flavour-violating stop decays.\n * http://www.itp.kit.edu/~maggie/SUSY-HIT/\n\n", 
-  "id": 17506789
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549957, 
-  "description": "A script for generating ResNet model which is proposed by MSRA in ImageNet 2015.", 
-  "README.md": "# ResNet-Generator-for-caffe\nA script for generating ResNet model which is proposed by MSRA in ImageNet 2015.\n\nOriginal paper: http://arxiv.org/pdf/1512.03385v1.pdf\n", 
-  "id": 47976090
-}

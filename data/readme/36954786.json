@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549372, 
-  "description": "A set of CLI tools for analysing PDF text, generating histograms and comparing how similar papers are", 
-  "README.md": "# pdfAnalyse\n\nA set of CLI tools:\n  - parses the PDF to grab text\n  - processes text generate a list of unique words\n  - removes common words (taken from google's list of common US-English words)\n  - generates a histogram \n  - turns histogram into a unique hash, easy for computing euclidian distances between papers\n\n## Solves several problems:\nSpits out the list of most common (scientifically relevant) words in a journal paper, helpful for identifying keywords when submitting a paper for publication.\n\nA straight forward method for measuring how similar papers are. \n\n## Moving forward:\nNext step is to add phrase analysis and look for common sets of words within a paper to identify important key phrases.\n\nLong term goal run the hash generator over a set of papers from arXiv to identify similar papers and trends in research.\n", 
-  "id": 36954786
-}

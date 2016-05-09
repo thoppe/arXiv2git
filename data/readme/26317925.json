@@ -1,6 +1,0 @@
-{
-  "id": 26317925, 
-  "read_at": 1462553899, 
-  "README.rst": "Extract data from postscript plots\n===================================\n\nWhat does it do?\n-----------------\n* Writes out data file containing all points in the plot.\n* Recreates the plot\n\nCaveats: \n---------\n* not generally applicable, YMMV. Postscript is a programming language, not everything can be supported.\n* works on at least some IDL ps2eps plots, specifically fig7b.eps fig8b.eps from http://arxiv.org/format/1206.2642v1\n\nTechnical details:\n-------------------\n* Uses 'C' (color) lines to identify data sets and their color.\n* Uses   'a b l x y M' lines to identify data points\n* Uses   'a b l x y M' lines to identify plot area (surrounding rectangle)\n\nAuthor: Johannes Buchner (c) 2014\n\n", 
-  "description": "Extract data from postscript plots"
-}

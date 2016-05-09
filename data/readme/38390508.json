@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546255, 
-  "description": "Continuous mathematics in Agda", 
-  "README.md": "# continuous\nContinuous mathematics in Agda\n\n# Useful links on topic\n* THE REAL NUMBERS - A SURVEY OF CONSTRUCTIONS - http://arxiv.org/pdf/1506.03467.pdf\n* Incompleteness & Completeness: Formalizing Logic and Analysis in Type Theory - http://r6.ca/Thesis/\n* Extraction of Programs for Exact Real Number Computation Using Agda - http://www.cs.swan.ac.uk/~csetzer/articlesFromOthers/chiMing/chiMingChuangExtractionOfProgramsForExactRealNumberComputation.pdf\n", 
-  "id": 38390508
-}

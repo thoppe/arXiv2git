@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558402, 
-  "description": null, 
-  "README.MD": "## Installation:\n\n1. Clone the repository:<br>\n   url: https://github.com/wchapman/KlustaMat.git<br>\n   Using command line: git clone https://github.com/wchapman/KlustaMat.git<br>\n   \n2. Install [KlustaKwik](https://github.com/klusta-team/example)<br>\n   Note that if you have cluster cutting software installed that has internal integration with KlustaKwik, you still have to install this version.<br>\n   \n## Running:\nOnce in your MATLAB path, you can run KlustaMat with `KlustaMat.RunAxona()` or `KlustaMat.RunNeuralynx` (see file for arguments)\n\n## Updates:\nUpdates will be provided through the GitHub URL. <br>\nTo update using the GitHub UI, simply sync<br>\nTo update from terminal: `git pull` from the repository folder\n\n## Mailing List:\nYou may join the Google group [here](https://groups.google.com/forum/#!forum/klustamat) to receive e-mail notifications when new commits are made. \n\n## Citation:\nThe following citations should be used:\n\n**KlustaKwik:**<br>\nHigh-dimensional cluster analysis with the Masked EM Algorithm' by Shabnam N. Kadir, Dan F.M. Goodman and Kenneth D. Harris\nhttp://arxiv.org/abs/1309.2848\n", 
-  "id": 23962083
-}

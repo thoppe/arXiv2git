@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552385, 
-  "description": "apply strong heredity to Factorization Machines by adding convex penalty", 
-  "README.md": "# CIOFM\r\napply strong heredity to Factorization Machines by adding convex penalty\r\n\r\nReference:\r\n\r\n [1]Haris, Asad, Daniela Witten, and Noah Simon. \"Convex modeling of interactions with strong heredity.\" arXiv preprint arXiv:1410.3517 (2014).\r\n\r\n[2]Yamada, Makoto, Amit Goyal, and Yi Chang. \"Convex Factorization Machine for Regression.\" arXiv preprint arXiv:1507.01073 (2015).\r\n\r\n[3]Cai, Jian-Feng, Emmanuel J. Candes, and Zuowei Shen. \"A singular value thresholding algorithm for matrix completion.\" SIAM Journal on Optimization 20.4 (2010): 1956-1982.\r\n", 
-  "id": 49940440
-}

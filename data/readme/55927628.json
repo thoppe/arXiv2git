@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547886, 
-  "description": "", 
-  "README.md": "## IEF - Iterative Error Feedback\nPython code for training CNNs to detect keypoints using iterative error feedback described in  http://arxiv.org/pdf/1507.06550.pdf \n\nTODO\nSeparate the data transformation process from the img_kp_data_layer\nAdd data augmentation for pose estimations\n\n## Installation\n\n## API Reference\n\n\n", 
-  "id": 55927628
-}

@@ -1,6 +1,0 @@
-{
-  "README": "This repo contains part of the code (in MATLAB and Mathematica) used to generate results in paper http://arxiv.org/pdf/1004.4272.pdf published in Quantitative Finance.\n\nEster Pantaleo, Michele Tumminello, Fabrizio Lillo, and Rosario N. Mantegna \"When do improved covariance matrix estimators enhance\nportfolio optimization? An empirical comparative study of nine\nestimators\" Quantitative Finance, Volume 11, Issue 7, 2011 \n\nFolder data contains part of the data used in the same paper.\n\n\n ", 
-  "read_at": 1462543181, 
-  "description": "code to compare different covariance matrix estimators for portfolio optimization", 
-  "id": 17190402
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558525, 
-  "description": "simple request to arXiv", 
-  "README.md": "# ArXiv\n\nWelcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ar_xiv`. To experiment with that code, run `bin/console` for an interactive prompt.\n\nTODO: Delete this and the text above, and describe your gem\n\n## Installation\n\nAdd this line to your application's Gemfile:\n\n```ruby\ngem 'ar_xiv'\n```\n\nAnd then execute:\n\n    $ bundle\n\nOr install it yourself as:\n\n    $ gem install ar_xiv\n\n## Usage\n\n```\nrequire 'ar_xiv'\n\nArXiv.config = {\n  start: 0,\n  max_results: 10,\n  sort_by: 'lastUpdatedDate',\n  sort_order: 'descending'\n}\nputs ArXiv::get({cat: \"math.GT\"})\n```\n\n## Development\n\n## Contributing\n\n1. Fork it ( https://github.com/n-kats/ar_xiv/fork )\n2. Create your feature branch (`git checkout -b my-new-feature`)\n3. Commit your changes (`git commit -am 'Add some feature'`)\n4. Push to the branch (`git push origin my-new-feature`)\n5. Create a new Pull Request\n", 
-  "id": 35914345
-}

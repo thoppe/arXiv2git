@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554870, 
-  "description": "Keras Implementation of SqueezeNet(arXiv 1602.07360)", 
-  "README.md": "# SqueezeNet-Keras\n\n## Introduction\nKeras implementation of SqueezeNet(arXiv 1602.07360).  \nResults on CIFAR-10 just do not converge.  \n**Trying to figure it out.**\n", 
-  "id": 53189025
-}

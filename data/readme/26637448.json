@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553707, 
-  "description": "Neural turing machine implementation", 
-  "README.md": "NTM\n===\n\nNeural turing machine implementation\n\nSource http://arxiv.org/pdf/1410.5401v1\n\nRMSprop http://arxiv.org/pdf/1308.0850v5.pdf - page 23\n\n\nNew implementation is highly inspired by Fumin Wang (https://github.com/fumin/ntm).\n\n", 
-  "id": 26637448
-}

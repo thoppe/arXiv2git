@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554250, 
-  "description": "The ALPGEN event generator with edits to allow mult-threading.", 
-  "README.md": "# hpc-port-alpgen\nThis code is an edit of the ALPGEN (v2.14, http://mlm.home.cern.ch/mlm/alpgen/ ) event generator which was originally written by Michelangelo L. Mangano, Mauro Moretti, Fulvio Piccinini, Roberto Pittau and Antonello Polosa. This edited version makes no changes to the physics calculations, but has been optimized for running with parallel threads. Parallel execution was achieved using MPI.\n\nDetails of the optimizations applied can be found here: arXiv:1511.07312 (http://arxiv.org/abs/1511.07312).\n\n# Warning\nTo ensure random number seeds are correctly set, please provide iseed1, iseed2, iseed3, and iseed4 in your configuration input file.\n\n\n\n", 
-  "id": 46751321
-}

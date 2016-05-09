@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556727, 
-  "description": "Integrated path-based and distributional method for hypernymy detection", 
-  "README.md": "# Hypernymy Detection\n\nThis is the code used in the paper:\n\n<b>\"Improving Hypernymy Detection with an Integrated Path-based and Distributional Method\"</b><br/>\nVered Shwartz, Yoav Goldberg and Ido Dagan. arXiv:1603.06076, 2016.\n\nIt is used to classify hypernymy relations between term-pairs, using disributional information on each term, and path-based information, encoded using an LSTM.\n\n***\n\nThe repository contains the following directories:\n* common - the knowledge resource class, which is used by other models to save the path data from the corpus (should be copied to other directories).\n* corpus - code for parsing the corpus and extracting paths.\n* dataset - code for creating the dataset used in the paper, and the dataset itself.\n* lstm - code for training and testing both variants of our model (path-based and integrated).\n\nDetailed Instructions: TBD", 
-  "id": 57959568
-}

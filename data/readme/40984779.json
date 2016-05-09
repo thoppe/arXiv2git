@@ -1,6 +1,0 @@
-{
-  "README": "nuskybgd is code for simulating the NuSTAR background the Cosmix X-ray\nBackground (CXB). It simulates the X-rays that are focued throught the\noptic as well the \"stray light\" from the CXB that leaks in around the\noptics bench and through the aperture stop.\n\nIn /docs there is a detailed documentation and walk through. Please\nread this first before attempting to use this software.\n\nThis code was written by Dan Wik, and was originally described in the\nappendix of the paper here:\n\nhttp://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1403.2722\n\nIf you use nuskbygd, please reference this paper.\n\nThis code is offered \"as is\" for the user. Users should be warned that\nusing nuskbygd occasionally requires some tweaking of the scripts to\nwork for specific cases.\n\nPlease also note that nuskbygd relies (heavily) on the AstroLib, which\ncan be checked out here:\n\ngit clone https://github.com/wlandsman/IDLAstro.git astrolib-idl\n\n\n\n", 
-  "read_at": 1462545883, 
-  "description": "", 
-  "id": 40984779
-}

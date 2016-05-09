@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548722, 
-  "description": "", 
-  "README.md": "# Caffe \nExtra-feature: read float images.\n\n**This caffe version (https://github.com/BVLC/caffe) supports the following architectures.**\n  0. Deconvolution Network: **Learning Deconvolution Network for Semantic Segmentation** Hyeonwoo Noh, Seunghoon Hong, Bohyung Han [http://arxiv.org/abs/1505.04366]\n  0. Decoupled Network: **Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation** Seunghoon Hong, Hyeonwoo Noh, Bohyung Han [http://arxiv.org/abs/1506.04924]\n\n\n", 
-  "id": 42375333
-}

@@ -1,9 +1,0 @@
-{
-  "project": [
-    "olivierdm/ORB_SLAM", 
-    "RedwanNewaz/ModifiedSLAM", 
-    "jingpang/ORBSLAM_jpMiniPC", 
-    "ankurhanda/ORB_SLAM_Pangolin"
-  ], 
-  "citation": []
-}

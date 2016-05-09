@@ -1,7 +1,0 @@
-{
-  "project": [
-    "linqs/psl", 
-    "stephenbach/admm-speed-test"
-  ], 
-  "citation": []
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462511644, 
-  "description": "Approximates an s-t graph min cut using spectral clustering", 
-  "README.md": "s_t_graph_min_cut_with_spectral_clustering\n------------------------------------------\n\nApproximates an s-t graph min cut using spectral clustering.\n\nSee also\n\n1. von Luxburg U. A tutorial on spectral clustering. [DOI: 10.1007/s11222-007-9033-z](http://doi.org/10.1007/s11222-007-9033-z), [arXiv: 0711.0189](http://arxiv.org/abs/0711.0189), [PDF](http://arxiv.org/pdf/0711.0189.pdf)\n2. Boykov Y, Funka-Lea G. Graph Cuts and Efficient N-D Image Segmentation. [DOI: 10.1007/s11263-006-7934-5](http://doi.org/10.1007/s11263-006-7934-5), [PDF](http://www.csd.uwo.ca/~yuri/Papers/ijcv06.pdf)\n3. Shi J and Malik J. Normalized Cuts and Image Segmentation. [DOI: 10.1109/34.868688](http://doi.org/10.1109/34.868688), [PDF](http://www.cs.berkeley.edu/~malik/papers/SM-ncut.pdf)\n", 
-  "id": 34173183
-}

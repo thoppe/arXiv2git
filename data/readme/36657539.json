@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549181, 
-  "description": "This is the system to automatically check arXiv and send an email about new papers everyday.", 
-  "README.md": "# arXiv crawler\n## What is this?\nThis is a system that crawls new papers uploaded on arXiv and sends emails to subscribers if there is any new paper.\nThis can be run on GoogleAppEngine(GAE).\n\n## How to Use\nFirst, you have to rewrite the following files.\n- settings.py\n\n`APP_NAME`: The name of this app. You don't have to rewrite if not needed.\n\n`INERVAL`: The interval between accesses.\n\n`PAPER_LIMIT`: The maximum number of crawling times.\n\n`SENDER_ADDRESS`: The email address that sends emails.\n\n`TARGLIST`: The list of genres you want to crawl. Please write a genre name like 'cs.CV'.\n\n`filter_user()`: The function to filter some users. You don't have to rewrite if not needed, but I recommend rewriting here in oreder to avoid being used by too much users and increasing the burden of your app.\n- app.yaml\n\n`application`: The name of your app.\n\nThen, launch this app on GAE!", 
-  "id": 36657539
-}

@@ -1,7 +1,0 @@
-{
-  "id": 54723499, 
-  "read_at": 1462555357, 
-  "README.txt": "================\n\nvanillaEE project is a embodied evolution project. For now, follow the instruction of roborobo and launch the VanillaEE project.\n\n================\n", 
-  "README.md": "Roborobo - ver.3\n================\n\nRoborobo is a fast and simple 2D mobile robot simulator written in C++ loosely based on a khepera/epuck model. It is targeted for fast single and multi-robots simulation (primary motivation is evolutionary robotics et swarm/collective robotics).\n\nThis is version 3 of Roborobo.\n\nRoborobo only dependencies are: Boost (header-only) and SDL2. Roborobo is used on a daily basis on Linux and MacOS X. It was also tested on various systems, including RaspberryPi, Pandora, MS Windows, Linux in Virtual Box and several Linux-based clusters. \n\nInstallation\n============\n\nCheck _INSTALL.TXT for installation guide (incl. quick start).\nCheck _README.TXT for a quick introduction.\nCheck _FAQ.TXT for trouble shooting and random questions.\n\nCiting roborobo\n===============\n\nIf you use Roborobo (any version) in your work, please cite the following paper:\n\nN. Bredeche, J.-M. Montanier, B. Weel, and E. Haasdijk. Roborobo! a fast robot simulator for swarm and collective robotics. CoRR, abs/1304.2888, 2013. \n\nThe paper is available on Arxiv: http://arxiv.org/abs/1304.2888 \n", 
-  "description": "A way to have my work "
-}

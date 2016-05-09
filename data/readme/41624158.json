@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545646, 
-  "description": "", 
-  "README.md": "# ArtisticNet\n\n## How to\n\n```\nsh ./install.sh\nth artistic.lua\n```\n\n## Sources\n\nhttp://arxiv.org/abs/1508.06576\n\nhttps://github.com/jhjin/overfeat-torch\n\n", 
-  "id": 41624158
-}

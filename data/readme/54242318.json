@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554969, 
-  "description": "implementation of a recurrent attention model", 
-  "README.md": "# recurrent attention model\n## based on http://arxiv.org/pdf/1406.6247v1.pdf\n\neventual goal is to exend this beyond 2D inputs (ex: video as a 3D tensor)\n", 
-  "id": 54242318
-}

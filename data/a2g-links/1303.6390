@@ -1,8 +1,0 @@
-{
-  "project": [
-    "blaschko/ksupport", 
-    "hakimsd9/ksupLogistic", 
-    "ignaciorlando/overfeat-glaucoma"
-  ], 
-  "citation": []
-}

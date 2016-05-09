@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557614, 
-  "description": "", 
-  "README.md": "# residual-learning-for-matconvnet\n\nThis is a implementation of residual learning (http://arxiv.org/abs/1512.03385) in matconvnet.\n\nIn this implementation, we presented 20/110 layers residual nets.\n\nWe got 8.82% test error in CIFAR-10, and it was very close to 8.75% test error in original paper.\n\n![Training and Test error curve](http://i.imgur.com/xZbQAs1.png)\n\nUsage:\n\n1. Please install my modification of matconvnet\n<blockquote>\n   https://github.com/JiaRenChang/Batch_Normalized_Maxout_NIN\n</blockquote>\n\n2. Download those files and replace.\n\n3. run cnn_cifar.m\n", 
-  "id": 52506889
-}

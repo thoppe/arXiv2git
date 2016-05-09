@@ -1,8 +1,0 @@
-{
-  "project": [
-    "JuliaOpt/JuMP.jl", 
-    "IainNZ/NLTester", 
-    "JuliaPackageMirrors/JuMP.jl"
-  ], 
-  "citation": []
-}

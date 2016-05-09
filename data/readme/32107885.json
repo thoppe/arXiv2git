@@ -1,6 +1,0 @@
-{
-  "read_at": 1462544765, 
-  "description": "Hierarchical Bin Buffering C++ Library", 
-  "README.md": "#Hierarchical Bin Buffering C++ Library\n\nDaniel Lemire and Owen Kaser\n\n\nThis is the C++ source code for the paper: \n\nDaniel Lemire and Owen Kaser, Hierarchical Bin Buffering: Online Local Moments for Dynamic External Memory Arrays, ACM Transactions on Algorithms 4 (1), pages 1-31, 2008. \nhttp://arxiv.org/abs/cs.DS/0610128\n\nThis paper includes a survey as well as new methods to precompute \npolynomial range queries, as they are used in polynomial curve fitting\nand statistics.\n\nExamples of queries that can be written as polynomial range queries\ninclude: the sum of the array between index i and index j, \nthe center of mass of the array between the index i and the index j, and \nso on.\n\nTo build the software, do (gcc toolchain is required):\n\n1) Go to the dubuc directory and type \"make\", this builds some of the essential stuff;\n2) Go to lemurcore and type \"make\";\n3) Still in the dubuc director, type \"make benchmark1\";\n\nTo check the code, type \"make test\"\n\n\n", 
-  "id": 32107885
-}

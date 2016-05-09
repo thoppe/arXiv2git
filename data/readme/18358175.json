@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550684, 
-  "description": "Exact Hamiltonian Monte Carlo Sampler for Truncated Multivariate Gaussians", 
-  "README.md": "hmc-tmg\n=======\n\n\nMATLAB implementation of the algorithm introduced in \"Exact Hamiltonian Monte Carlo for Truncated Multivariate Gaussians\" by Ari Pakman and Liam Paninski. \n\nPaper available at http://arxiv.org/abs/1208.4118\n\nThe function brownian_bridge_demo reproduces one of the examples in the paper.\n\nFor an R package based on a faster C++ implementation, see:\nhttps://cran.r-project.org/web/packages/tmg/index.html\n", 
-  "id": 18358175
-}

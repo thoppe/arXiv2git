@@ -1,6 +1,0 @@
-{
-  "README": "This is a simple symplectic integrator for Hill's equation.\nIt is based on http://arxiv.org/abs/0908.2269.\n\nHanno Rein 2010\nhanno@hanno-rein.de\nUniversity of Cambridge\n", 
-  "read_at": 1462553082, 
-  "description": "Symplectic leap frog integrator for Hill's equations based on http://arxiv.org/abs/0908.2269", 
-  "id": 588214
-}

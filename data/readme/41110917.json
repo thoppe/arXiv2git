@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545899, 
-  "description": "Multi-Tissue eQTL ", 
-  "README.md": "# MT-eQTL\nMulti-Tissue eQTL \n\nThe Main.m file is the main file for carrying out MT-eQTL.  We assume users have two data sets: cormat.mat and df.mat.\nThe matrix \"cormat\" is of size N*K, where each entry is the Pearson correlation of a cis gene-SNP pair in one tissue. \nEach row corresponds to a cis gene-SNP pair (N pairs in total), and each column corresponds to a tissue (K tissues in total). The donors for different tissues may vary. \nThe date set \"df\" is a K*1 vector recording degrees of freedom in all K tissues (df=the number of samples minus the number of covariates minus 2).\n\nRunning the main file, one can get model parameter estimates and inference results such as eQTL detection based on local false discovery rates, tissue specificity assessment, and 2-dimensional scatter plots of eQTL discoveries. Please find more information in our manuscript at arXiv:1311.2948.\n\nUpdate 2014.11.3: EM1_XXX is the version with no constraints on the diagonal value of Delta (i.e., commented out the constraint step)\n", 
-  "id": 41110917
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546249, 
-  "description": "use this version to get threedhst working", 
-  "README.md": "# threedhst\nAutomatically exported from code.google.com/p/threedhst (Oct 9, 2015 / GBB)\n\nThis now takes precedence over the frozen google-code SVN repository.\n\nNote that much of the grism analysis code including the aXe wrappers is now deprecated in favor of the \"interlacing\" code described by Momcheva et al. (http://arxiv.org/abs/1510.02106).  That pipeline will be made available shortly.\n\n", 
-  "id": 39930989
-}

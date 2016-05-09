@@ -1,6 +1,0 @@
-{
-  "id": 27021712, 
-  "read_at": 1462553846, 
-  "description": "GlobalControl is a website that uses a JavaScript Data Visualization library (d3.js) to visualize the top 50 super-connected companies in the world.", 
-  "README.rdoc": "== README\n\nGlobalControl is a website that uses a JavaScript Data Visualization library (d3.js) to visualize the top 50 super-connected companies in the world. Their ranking is based on an analysis by 3 Swiss system theorists. (http://arxiv.org/PS_cache/arxiv/pdf/1107/1107.5728v2.pdf)\n\n\n* Ruby version\nRuby 2.0.0p481 (2014-05-08 revision 45883)\n\n* System dependencies\nOutside of the normal rails gems:\ngem 'foundation-rails'\ngem 'd3_rails'\n\n* Database creation\nNo database creation. Site is implementing pre-loaded json files.\n\n\n"
-}

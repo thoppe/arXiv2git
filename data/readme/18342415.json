@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550770, 
-  "description": "GFF files coming out of our reannotation efforts", 
-  "README.md": "#Intro\n\nGFF files that are the output of taking RNA-seq data through a Trinity/Augustus pipeline.\n\n#Crude method overview\nLibraries were made from tissues of adult virgin males and females collected 2-5 days post eclosion.  Carcass and germline tissue libraries were prepped and sequence separately and sequenced in 4-plex using Illumina barcodes.  Further methods are available in Rogers et al. 2014.\n\n#Pipeline\n\nWe are working on describing our methods via explicit scripts/examples [here](https://github.com/ThorntonLab/annotation_methods).  That is a work in progress.\n\nTo build the GFF files, FASTQ files from all sexes, tissues, and replicates were concatenated before running through our pipeline.\n\n#Citation\n\nUsers should cite Rogers et al. 2014 \"Sex-biased expression in the Drosophila melanogaster group\" available as a preprint in ArXiv.  ", 
-  "id": 18342415
-}

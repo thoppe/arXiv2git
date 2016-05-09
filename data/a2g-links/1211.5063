@@ -1,9 +1,0 @@
-{
-  "project": [
-    "gdb/kaggle"
-  ], 
-  "citation": [
-    "Element-Research/dpnn", 
-    "auroraxie/Kaggle-NDSB"
-  ]
-}

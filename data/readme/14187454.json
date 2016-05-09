@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556835, 
-  "description": "A small R package to compute the efficient score function and efficient information matrix for semiparametric Gaussian copula models.", 
-  "README.md": "effcopgauss\n===========\n\nThis is a small R package to compute the efficient score function and efficient information matrix for semiparametric Gaussian copula models. It serves as a complement to the paper Segers, J., van den Akker, R., Werker, B. (2013) \"Semiparametric Gaussian copula models: Geometry and efficient rank-based estimation\", [arxiv:1306.6658](http://arxiv.org/abs/1306.6658).\n\nInstallation\n------------\n\nTo install the package in R, you must first install the `devtools` package:\n\n  > install.package(\"devtools\")\n  \nThen, to install the `effcopgauss` package, simply do\n\n  > library(devtools)\n  \n  > install_github(\"effcopgauss\", \"jjjsegers\")\n\nUsage\n-----\n\nIf the package is installed, you can do for instance\n\n  > library(effcopgauss)\n  \n  > ? effcopgauss\n  \n  > ? corrMatrix\n  \n  > ? effInfMat\n  \nto see documentation and a number of examples.", 
-  "id": 14187454
-}

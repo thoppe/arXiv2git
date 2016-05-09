@@ -1,6 +1,0 @@
-{
-  "read_at": 1462544961, 
-  "description": "", 
-  "README.md": "# mergeshuffle\n\nImplementation code for the paper:\n\n\"MergeShuffle: A Very Fast, Parallel Random Permutation Algorithm\"\nby Bacher, Bodini, Hollender and Lumbroso (2015)\n\nhttp://arxiv.org/abs/1508.03167\n", 
-  "id": 40541993
-}

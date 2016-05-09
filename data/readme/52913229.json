@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554987, 
-  "description": "", 
-  "README.md": "# QuickSearchArxivSearcher\n\n## Description\n\nThis is a gem engine implementing an arXiv searcher for QuickSearch.\n\n## Usage\n\nTo use, add 'quick_search_arxiv_searcher' to your QuickSearch\nGemfile, add the searcher to quick_search_config.yml, and add a\nrender_module call into the app/views/search/index.html.erb results\npage.\n", 
-  "id": 52913229
-}

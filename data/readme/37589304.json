@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549177, 
-  "description": "Fork of lester_mt2_bisect (arXiv:1411.4312)", 
-  "README.md": "lester_mt2_bisect\n=================\n\nA fork of the code contained in Christopher G. Lester and Benjamin Nachman, _Bisection-based asymmetric MT2 computation: a higher precision calculator than existing symmetric methods_, [arXiv:1411.4312](http://arxiv.org/abs/1411.4312).\n\nFor the C wrapper, see [mt2_cwrapper](https://github.com/cbpark/mt2_cwrapper).\n\nFor an implementation in Haskell, see [hep-utilities](https://github.com/cbpark/hep-utilities/blob/master/src/HEP/Kinematics/Variable/MT2.hs).\n", 
-  "id": 37589304
-}

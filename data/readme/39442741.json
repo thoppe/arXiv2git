@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546200, 
-  "description": "Computationally Efficient Sparse Bayesian Learning via Generalized Approximate Message Passing", 
-  "README.md": "# GAMP_SBL\nComputationally Efficient Sparse Bayesian Learning via\nGeneralized Approximate Message Passing\n\nThis is a implementation of the GAMP-SBL algorithm. More details can be found in    \n\nFuwei Li, Jun Fang, Huiping Duan, Zhi Chen, Hongbin Li,'Computationally Efficient Sparse Bayesian Learning via\nGeneralized Approximate Message Passing' submitted to arXiv.    \nhttp://arxiv.org/abs/1501.04762\n", 
-  "id": 39442741
-}

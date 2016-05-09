@@ -1,6 +1,0 @@
-{
-  "read_at": 1462550891, 
-  "description": "Program for interfacing the Arxiv with a bibtex file. It takes an arxiv publication URL and gets all the relevant information out, which it then formats suitably for inserting into an existing bibtex file. It also downloads the full text pdf of the paper", 
-  "README.md": "arx_bib\n=======\n\nProgram for interfacing the Arxiv with a bibtex file. It takes an arxiv publication URL and gets all the relevant information out, which it then formats suitably for inserting into an existing bibtex file. It also downloads the full text pdf of the paper.\n\nWritten by A.F. van Loo\n", 
-  "id": 21462165
-}

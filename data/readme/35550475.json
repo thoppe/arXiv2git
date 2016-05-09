@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558628, 
-  "description": "Python implementation of softImpute", 
-  "README.md": "# py-soft-impute\nPython implementation of Mazumder and Hastie's R softImpute package.\n\nThis code provides an experimental sklearn-ish class for missing data imputation. The code is currently\nmore or less a literal translation from the original R package's simpute.als function. \nI'm planning on also implementing simpute.svd.\nHastie and Mazumder experiment with this approach on the Netflix problem.\n\nNotes:\n- Missing values are represented by nan\n- For additional detail the R vignette [here](https://web.stanford.edu/~hastie/swData/softImpute/vignette.html) is quite helpful\n- R package: https://github.com/cran/softImpute\n- paper: http://arxiv.org/abs/1410.2596\n\n\n### Toy example usage\n```python\n import numpy as np\n from soft_impute import SoftImpute\n\n X = np.arange(50).reshape(10, 5) * 1.0\n\n # Change 10 to nan aka missing\n X[2, 0] = np.nan\n clf.fit(X)\n imputed = clf.transform(X)\n\n # Should be 10\n print imputed[2, 0]\n 10.01385116\n ```\n", 
-  "id": 35550475
-}

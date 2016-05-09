@@ -1,6 +1,0 @@
-{
-  "read_at": 1462557317, 
-  "description": "Paper and talk at Metadata and Semantics Research Conference 2012", 
-  "README.md": "This repository contains paper and slides of a publication at the [Metadata and\nSemantics Research Conference 2012][mtsr2012] (MTSR2012), November 28th-30th in\nCadiz.\n\n## HOWTO\n\nPaper and slides are both written in Pandoc Markdown and converted to different\noutput formats. See `Makefile` for internals. Snapshots will be made available\nat arXiv.org and Slideshare.\n\nSee also the repository <https://github.com/nichtich/se2skos> for scripts\nmentioned in the paper.\n\n## LICENSE\n\nAll text and source code files (except `llncs.cls` and `splncs03.bst` from\n<ftp://ftp.springer.de/pub/tex/latex/llncs/latex2e/>) are made available under\nCC-BY-SA.  Image licenses are mentioned in the sourcefile `slides.md`.\n\n[mtsr2012]: http://mtsr2012.uca.es/\n", 
-  "id": 5854234
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558659, 
-  "description": "", 
-  "README.md": "# SparseInverseProblems\nThis julia package accompanies the paper \"The Alternating Descent Conditional Gradient Method for Sparse Inverse Problems\",\nwhich should be available on the arxiv.\nA [copy](paper.pdf) of the paper is included in this repository.\n\nInstall with `Pkg.clone(\"git@github.com:nboyd/SparseInverseProblems.jl.git\")`.\n\nIn the directory ~/.julia/v0.4/SparseInverseProblems/examples you will find three\nsimple [examples](examples/README.md).\n", 
-  "id": 35852529
-}

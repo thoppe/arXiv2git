@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553094, 
-  "description": "A consumer for arxiv using ResourceSync for the SHARE project", 
-  "README.md": "arxiv\n=====\n\nA consumer for arxiv using ResourceSync for the SHARE project\n\nMore information available at: https://github.com/CenterForOpenScience/SHARE/blob/master/providers/org.arxiv.md\n\n", 
-  "id": 23393513
-}

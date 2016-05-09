@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548770, 
-  "description": "Notes on Python optimization going over algorithm, implementation, and hardware concerns", 
-  "README.md": "Python optimization\n-------------------\n\nA short tutorial on certain aspects of general speed optimization in Python,\ndiscussing broad decisions about optimization including algorithms,\nimplementation, and hardware concerns.  Also, includes a short example centered\naround the dynamics of people in mosh pits (based on arXiv:1302.1886).\n", 
-  "id": 42869906
-}

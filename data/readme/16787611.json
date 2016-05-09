@@ -1,6 +1,0 @@
-{
-  "README": "Tensor Network is a program I'm developing to implement tensor\nnetworks as defined in the physics literature, particularly the\nMultiscale Entanglement Renormalization Ansatz (MERA).  A useful\nreview article from 2011 can be found at [1].  The program is in very\nearly stages, due to lack of time during the school year and my\ndecision to leave graduate school.\n\n[1] http://arxiv.org/abs/1106.1082.\n\nThis program compiles by default with clang, libc++, and libtcmalloc.\nGNU Scientific Library is *required*, and the unit tests utilize the\nGoogle Test framework and Google Mock.  C++11 constructs are used\nextensively throughout this project.  Currently GSL's internal cblas\nis used.  Ideally, this should be replaced with a more optimized\nimplementation.  (In practice, the code has not reached the stage\nwhere the blas library would be hooked in.)\n", 
-  "read_at": 1462543174, 
-  "description": "early-stage code intended to implement tensor networks", 
-  "id": 16787611
-}

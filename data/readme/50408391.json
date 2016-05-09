@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552393, 
-  "description": "R implementation of the Dirichlet Process Gaussian Mixture Model (with MCMC)", 
-  "README.md": "## DP-GMM\n\nImplementation of the Dirichlet-Process Gaussian Mixture model presented in [Infinite Gaussian Mixture Model](https://www.seas.harvard.edu/courses/cs281/papers/rasmussen-1999a.pdf)\n\n### Notes:\n\n  * DP are not perfect:\n    http://arxiv.org/pdf/1301.2708v1.pdf\n", 
-  "id": 50408391
-}

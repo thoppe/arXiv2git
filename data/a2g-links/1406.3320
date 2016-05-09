@@ -1,7 +1,0 @@
-{
-  "project": [
-    "MikaelSlevinsky/DEQuadrature.jl", 
-    "pjgaudre/DESincEig.jl"
-  ], 
-  "citation": []
-}

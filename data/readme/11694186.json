@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556909, 
-  "description": "Script: take an arXiv number and render to speech using Apple's say command.", 
-  "README.md": "arxiv_to_speech\n===============\n\nScript: take an arXiv number and render to speech using Apple's say command.\n\nThe default behavior is to split the TeX file and assign output files for each section. An optional keyword makes it easier to identify the files later.\n", 
-  "id": 11694186
-}

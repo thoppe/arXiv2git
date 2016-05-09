@@ -1,7 +1,0 @@
-{
-  "project": [
-    "travisbrady/py-soft-impute", 
-    "modularity/softImpute-ALS"
-  ], 
-  "citation": []
-}

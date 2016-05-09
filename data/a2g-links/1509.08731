@@ -1,9 +1,0 @@
-{
-  "project": [
-    "wulfebw/playing_atari"
-  ], 
-  "citation": [
-    "junhyukoh/deep-reinforcement-learning-papers", 
-    "muupan/deep-reinforcement-learning-papers"
-  ]
-}

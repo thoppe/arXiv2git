@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556257, 
-  "description": "Code to simulate leverage cycles.", 
-  "README.md": "# leverage_cycles\nThis repository contains the code to simulate leverage cycles used to produce my paper \"Taming the leverage cycle\" (http://arxiv.org/abs/1507.04136).\n\nThe code has been tested on Mac OS Yosemite.\n\nMac OSX Requirements:\n\n- R\n- Rcpp (R package for integration with c++)\n- R package ggplot2\n- C++ compiler\n\nR package installation instructions:\n\nIn the folder containing this repository, run the following in the terminal:\n\n1. R CMD INSTALL leverageCycles\n2. R CMD check leverageCycles\n3. R CMD build leverageCycles\n\nTo run the leverage cycle model run test_lev_cycles.R \n\n\n\n\n\n\n", 
-  "id": 44317532
-}

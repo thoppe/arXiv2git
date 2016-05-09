@@ -1,6 +1,0 @@
-{
-  "read_at": 1462554882, 
-  "description": "attempt at implementing \"Unsupervised Learning of Visual Representations using Videos\" (http://arxiv.org/pdf/1505.00687.pdf) in torch7", 
-  "README.md": "# unsupervised-triplet-embedding\nattempt at implementing \"Unsupervised Learning of Visual Representations using Videos\" (http://arxiv.org/pdf/1505.00687.pdf) in torch7\n", 
-  "id": 54672966
-}

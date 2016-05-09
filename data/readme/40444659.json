@@ -1,6 +1,0 @@
-{
-  "read_at": 1462545700, 
-  "description": "Gender and language Id from just the username", 
-  "README.md": "# username_analytics\nGender and language Id from just the username\n\nRun cupid.py for the gender id experiment. Run langOneVAll.py for the lang id experiment.\n\nSee the related paper \"What Your Username Says About You\" http://arxiv.org/abs/1507.02045\n", 
-  "id": 40444659
-}

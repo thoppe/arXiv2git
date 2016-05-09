@@ -1,6 +1,0 @@
-{
-  "read_at": 1462548153, 
-  "description": "Bayesian regression for latent source model and Bitcoin", 
-  "README.md": "# Bitcoin price prediction\n\nAn implementation of the 'Bayesian regression for latent source model' method for predicting price variation of [Bitcoin](https://bitcoin.org). You can read more about the method at https://arxiv.org/pdf/1410.1231.pdf.\n\n## Requirements\n\n* [Python](https://www.python.org/) 3.5\n* [MongoDB](http://www.mongodb.org/) 3.2\n* [bigfloat prerequisites](http://bigfloat.readthedocs.org/en/latest/#prerequisites)\n\n## Installation\n\n```sh\n    $ git clone https://github.com/stavros0/bitcoin-price-prediction.git\n    $ cd bitcoin-price-prediction\n    $ pip install -e .\n```\n\n## Usage\n\n- Gather market data from the [OKCoin Spot Price API](https://www.okcoin.com/about/rest_api.do) at the interval of every ten seconds:\n\n```sh\n$ python okcoin.py\n```\n\n- See [bitcoin-price-prediction/examples](https://github.com/stavros0/bitcoin-price-prediction/tree/master/examples) for how to use the `bayesian_regression.py` module.\n\n## License\n\nThis project is licensed under the terms of the MIT license. See [LICENSE](https://github.com/stavros0/bitcoin-price-prediction/blob/master/LICENSE) for more information.\n", 
-  "id": 56335680
-}

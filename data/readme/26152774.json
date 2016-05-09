@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553730, 
-  "description": "Swift implementation of \"Playing Atari with Deep Reinforcement Learning\" at: http://arxiv.org/abs/1312.5602", 
-  "README.md": "playing-atari-with-deep-reinforcement-learning\n==============================================\n\nSwift implementation of \"Playing Atari with Deep Reinforcement Learning\" at: [ http://arxiv.org/abs/1312.5602 ]\n", 
-  "id": 26152774
-}

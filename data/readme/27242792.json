@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553894, 
-  "description": "Complex Matrix Factorization  ", 
-  "README.md": "jointCMF\n========\n\nComplex Matrix Factorization  \n\nnmfStandard.m\n============\nStandard NMF Interations to minimize Eucledian distance with parameters as \n- nIter -> Number of Iterations\n- fixedX -> to keep X fixed while interating\n- X -> to initialize X with given values\n\n\nnmfWithPhase4.m\n===============\nMis-named as nmfWithPhase, it is basically performing complex matrix factorization based on the paper http://arxiv-web3.library.cornell.edu/pdf/1411.6741v1.pdf\nIt has a single dependency on nmfStandard.m which it uses to perform Complex Matrix Factorization\n\n- Outputs\n  - X -> Complex Factorized Vector Sets  (PxQ)\n  - H -> Real Factorized Weights (QxR)\n  - Xc -> Real Matrix which can be appropriatly transformed to get X (2Px2Q) \n", 
-  "id": 27242792
-}

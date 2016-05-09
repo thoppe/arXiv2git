@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549162, 
-  "description": "natural image generation using ConvNets", 
-  "README.md": "# The Eyescream Project\n\nGenerating Natural Images using Neural Networks.\n\nFor our research summary on this work, please read the Arxiv paper: [http://arxiv.org/abs/1506.05751](http://arxiv.org/abs/1506.05751)\n\nFor a high-level blog post with a live demo, please go to this website: [http://soumith.ch/eyescream](http://soumith.ch/eyescream)\n\nThis repository contains the code to train neural networks and reproduce our results from scratch.\n\n## Requirements\nEyescream requires or works with\n* Mac OS X or Linux\n* NVIDIA GPU with compute capability of 3.5 or above.\n\n## Installing Dependencies\n* Install [Torch](http://torch.ch)\n* Install the nngraph and tds packages:\n\n```\nluarocks install tds\nluarocks install nngraph\n```\n\n## Training your neural networks\n\n* If you want to train the CIFAR-10 image generators, read the README in the cifar/ folder\n* If you want to train the LSUN/Imagenet image generators, read the README in the lsun/ folder\n\n\n## Discuss the paper/code at\n* groups.google.com/forum/#!forum/torch7\n\nSee the CONTRIBUTING file for how to help out.\n\n## License\nEyescream is BSD-licensed. We also provide an additional patent grant.", 
-  "id": 37670565
-}

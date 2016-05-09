@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555195, 
-  "description": "Neural network autoencoder", 
-  "README.md": "This is my attempt at making an image autoencoder in a neural network.\n\nIt's just some personal experiments. There's not much here useful for other folks. The data isn't public.\n\nI modeled my efforts after:\nhttps://swarbrickjones.wordpress.com/2015/04/29/convolutional-autoencoders-in-pythontheanolasagne/\n\n\nhttp://arxiv.org/pdf/1506.02351v8.pdf\n\nand\n\nhttp://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf", 
-  "id": 53176414
-}

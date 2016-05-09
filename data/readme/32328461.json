@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543929, 
-  "description": "", 
-  "README.md": "# MochiMochi\nhitoKou dePu Tong nomochimochidatoJian Ba itayo\n\n# What is MochiMochi?\nMochiMochi is an Online Machine Learning Library in C++14.\n\n# Requirement\nEigen 3.2.3  \nBoost 1.58\n\n# Installation\nThis Library consists of header files.  \nYou should be able to set the environment variable as below:\n\n```\nexport CPATH=$CPATH:/path/to/MochiMochi\n```\n\n# Usage\nShow examples.\n\n# Implemented Algolithms\n### ADAM\n\nADAM: A METHOD FOR STOCHASTIC OPTIMIZATION\n\nhttp://arxiv.org/pdf/1412.6980v4.pdf\n\n### Adagarad RDA\nAdaptive Subgradient Methods for Online Learning and Stochastic Optimization\n\nAdagarad = Adaptive Gradian  \nRDA = Regularized Dual Averaging\n\nhttp://www.magicbroom.info/Papers/DuchiHaSi10.pdf\n### AROW\nAdaptive Regularization of Weight Vectors\n\nhttp://www.cs.jhu.edu/~mdredze/publications/nips09_arow.pdf\n\n### SCW\n\nExact Soft Confidence-Weighted Learning\n\nhttp://icml.cc/2012/papers/86.pdfs\n\n### NHERD\n\nNomal Herd\n\nLearning via Gaussian Herding\n\nhttp://webee.technion.ac.il/people/koby/publications/gaussian_mob_nips10.pdf\n\n### PA\n\nPassive Aggressive\n\nhttp://webee.technion.ac.il/people/koby/publications/crammer06a.pdf\n\n# License\nThe MIT License (MIT)\n", 
-  "id": 32328461
-}

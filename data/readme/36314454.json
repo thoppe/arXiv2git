@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558793, 
-  "description": "Converting fits filts to a file system hierarchy and the other way around.", 
-  "README.md": "# fsfits\n\nConverting fits filts to a file system hierarchy and the other way around.\n\nRecently it has been pointed out that HDF5 is faster than FITS format by a\nlarge margin.\n\n(http://arxiv.org/pdf/1505.06421v1.pdf)\n\nWe think going to raw binary files are even faster. (c) \n\nSince the file system is also hierarchical as HDF5, the FITS data model can\nbe easily mapped to a file system hierarchy.\n\nHence fsfits is born:\n\n    python fits2fs.py inputfits  outputfsdir\n\n    import fsfits\n\n    with fsfits.FSHR.open('outputfsdir') as ff:\n        for key in ff:\n            hdu = ff[key]\n            print hdu.metadata\n            print hdu[...]\n\n\n(c) Note that this claim still has to be backed up by benchmarks.\n\n", 
-  "id": 36314454
-}

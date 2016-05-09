@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549152, 
-  "description": "Implementation of GoogLeNet with lasagne and theano", 
-  "README.md": "# GoogLeNet\nre-implementation of googlenet with batchnormalization with Lasagne.\n\n# Settings\nUbuntu 14.04\n\nNvidia Titan Z\n\nnumpy 1.9.2\n\nscipy 0.16.0b2\n\nTheano 0.7 \n\nLasagne 9f591a5f3a192028df9947ba1e4903b3b46e8fe0\n\n# refs\n1. http://arxiv.org/abs/1502.03167\n2. http://arxiv.org/abs/1409.4842\n", 
-  "id": 38093670
-}

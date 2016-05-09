@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546610, 
-  "description": "scikit-learn friendly Implementation of Neural Nets. Will also try to reproduce results in this area", 
-  "README.md": "NeuralNets\n==========\n\nscikit-learn friendly Implementation of Neural Nets. Will also try to reproduce results in this area\n\n## MNIST results\nReproducing MNIST results in:\n\n*Hinton, Geoffrey E., et al. \"Improving neural networks by preventing co-adaptation of feature detectors.\" arXiv preprint arXiv:1207.0580 (2012).*\n\nreproduced the results with the following two networks:\n\n1. 784 X 800 X 800 X 10. 50% dropout on hidden units. No dropout on input units\n  * can be reproduced with `python testMNIST_130.py`\n2. 784 X 800 X 800 X 10. 50% dropout on hidden units. 20% droupout on input units\n  * can be reproduced with `python testMNIST_110.py`\n\n![alt text](https://raw.githubusercontent.com/keithzhou/NeuralNets/master/result_130_vs_110.png 'Result 130 vs 110')\n", 
-  "id": 19363962
-}

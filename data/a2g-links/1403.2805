@@ -1,9 +1,0 @@
-{
-  "project": [
-    "ropensci/webservices", 
-    "ropensci/pdftools", 
-    "behrica/opencpu-clj", 
-    "cran/jsonlite"
-  ], 
-  "citation": []
-}

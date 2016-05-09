@@ -1,6 +1,0 @@
-{
-  "README": "Mposterior: R package for Robust and Scalable Bayes via a Median of Subset Posterior Measures\n\nMposterior package facilitates easy estimation of a median of subset posterior measures called M-posterior. We assume that the user already has samples from the subset posterior measures. \n\nFor theoretical details and practical motivation for M-posterior, please see Minsker et al. 2014.\n\nStanislav Minsker, Sanvesh Srivastava, Lizhen Lin, and David B. Dunson (2014). Robust and Scalable Bayes via a Median of Subset Posterior Measures. http://arxiv.org/abs/1403.2660\r\n\r\n--\r\nMaintainer: Sanvesh Srivastava <sanvesh@gmail.com>\r\n", 
-  "read_at": 1462547315, 
-  "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  Mposterior\u00a0\u2014\u00a0Mposterior:\u00a0R\u00a0package\u00a0for\u00a0Robust\u00a0and\u00a0Scalable\u00a0Bayes\u00a0via\u00a0a\u00a0Median\u00a0of\u00a0Subset\u00a0Posterior\u00a0Measures.\u00a0Homepage:\u00a0http://www.stat.duke.edu/~ss602/Mposterior/Mposterior.html  ", 
-  "id": 20385973
-}

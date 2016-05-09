@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553474, 
-  "description": "An API for portable multi-threading. Deprecated: see the following for the new version:", 
-  "README.md": "# OCCA\n====\n\nYou can find our pre-print in [arXiv](http://arxiv.org/abs/1403.0968)\n\n## Building the C and Fortran Interfaces with CMake\n\nTo build this code using the defaults run\n\n    > cmake .\n    > make\n\nA debug version of the code can be built by passing an option to CMake\n\n    > cmake -DCMAKE_BUILD_TYPE=\"Debug\" .\n    > make\n\nBy default CMake tries to guess your compiler.  You can tell CMake which\ncompilers to use by passing in command line arguments\n\n    > cmake -DCMAKE_C_COMPILER=\"gcc-4.8.1\" \\\n            -DCMAKE_CXX_COMPILER=\"g++-4.8.1\" \\\n            -DCMAKE_Fortran_COMPILER=\"gfortran-4.8.1\" \\\n            .\n    > make\n\nBy default all available back-ends are built.  They can be turned off by\npassing options to CMake\n\n    > cmake -DWITH_CUDA=OFF -DWITH_CPU=OFF -DWITH_OPENCL=OFF\n    > make\n", 
-  "id": 17382242
-}

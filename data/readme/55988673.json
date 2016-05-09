@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547898, 
-  "description": "Simplified parquet equations in python", 
-  "README.md": "SPEpy\n=====\n*Description:*\n\nSPEpy (**S**implified **P**arquet **E**quations in **py**thon), is a code to solve the simgle-impurity Andreson model within the _simplified parquet equation scheme_.\n\n*References:*\n- V. Janis, A. Kauch, and V. Pokorny, arXiv: 1604.01678.\n- V. Janis and P. Augustinsky, Phys. Rev. B **77** (2008).\n- V. Janis and P. Augustinsky, Phys. Rev. B **75** (2007).\n", 
-  "id": 55988673
-}

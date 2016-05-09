@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558662, 
-  "description": "Python reimplementation of optimBench (https://github.com/IoannisAntonoglou/optimBench)", 
-  "README.md": "Minimal reimplementation of [optimBench](https://github.com/IoannisAntonoglou/optimBench), a *Benchmark testbed for assessing the performance of optimisation algorithms\n*\n\nRight now it's a direct translation of the original code. Aiming to make it more idiomatic, \nand to improve performance by relying more on Numpy.\n\n\n## Missing:\n\n- Multivariate functions\n- Non-stationarity\n- Integration\n\n## Reference\nSchaul, Tom, Ioannis Antonoglou, and David Silver. \"Unit Tests for Stochastic Optimization.\" arXiv preprint arXiv:1312.6055 (2013).", 
-  "id": 34892231
-}

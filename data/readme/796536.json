@@ -1,6 +1,0 @@
-{
-  "README": "\r\nProof of genral Tarai function termination problem.\r\n\r\nThis proof highly bases on Ishiu's proof \"http://arxiv.org/abs/1007.0467\".\r\n\r\nFiles\r\n\r\n * Tarai_Base.v: Defition of general Tarai function.\r\n * Denotation.v: Facts from denotational semantics.\r\n * Util.v: Utility lemmas.\r\n * Tarai.v: Main theorem.\r\n\r\n", 
-  "read_at": 1462548561, 
-  "description": "Proof of general Tarai function termination problem by Coq", 
-  "id": 796536
-}

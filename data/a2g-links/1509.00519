@@ -1,9 +1,0 @@
-{
-  "project": [
-    "casperkaae/parmesan", 
-    "arahuja/generative-tf"
-  ], 
-  "citation": [
-    "styleNie/notes"
-  ]
-}

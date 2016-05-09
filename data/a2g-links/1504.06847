@@ -1,7 +1,0 @@
-{
-  "project": [
-    "andferrari/muffin.jl", 
-    "maximeFl/data_psf"
-  ], 
-  "citation": []
-}

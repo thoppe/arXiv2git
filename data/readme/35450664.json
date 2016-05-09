@@ -1,6 +1,0 @@
-{
-  "read_at": 1462558703, 
-  "description": "Bayesian System IDentification ", 
-  "README.md": "# BSID\nBayesian System IDentification Toolbox\n\nA. VanillaID is for demo purposes for the following paper\n\nW.Pan, Y. Yuan, J. Goncalves, and G.-B. Stan, A Sparse Bayesian Approach to the Identification of Nonlinear State-Space Systems, IEEE Transaction on Automatic Control, 2015 (to appear). arXiv:1408.3549 http://arxiv.org/abs/1408.3549\n\nB. DistriID is a distributed implementation of the above Vanilla version.   \n\nIt's recommended that you use this toolbox, you can choose one or the other of 'solver = {'cvx','admm'}' \n\n\n", 
-  "id": 35450664
-}

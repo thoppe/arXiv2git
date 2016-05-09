@@ -1,6 +1,0 @@
-{
-  "read_at": 1462552380, 
-  "description": "GRU recurrent network in javascript. GRU is a powerful model in sequential modeling. you may stack it to do some interesting things( generate articles, musics, etc).  http://arxiv.org/pdf/1412.3555v1.pdf  http://ir.hit.edu.cn/~jguo/docs/notes/bptt.pdf  ", 
-  "README.md": "# GRU-recurrent-network\nGRU recurrent network in javascript. GRU is a powerful model in sequential modeling. you may stack it to do some interesting things( generate articles, musics, etc). \nhttp://arxiv.org/pdf/1412.3555v1.pdf  http://ir.hit.edu.cn/~jguo/docs/notes/bptt.pdf  \n", 
-  "id": 50490940
-}

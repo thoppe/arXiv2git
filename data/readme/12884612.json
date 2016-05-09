@@ -1,7 +1,0 @@
-{
-  "id": 12884612, 
-  "read_at": 1462549872, 
-  "README.txt": "Matlab interface to the faacets library\n---------------------------------------\n\nThis folder contains an implementation of the faacets library (c.f. http://www.faacets.com ) in *.jar format. \n\n* The 'example' folder contains three example files showing possible usage of this library from matlab.\n* The 'inequalities' folder contains some example of inequalities in yaml format\n* The library is contained in the file Faacets-assembly-*.jar\n\nA description of the operations performed by the library is available at http://www.arxiv.org (in preparation).\n\n", 
-  "README.md": "Faacets-matlab: a matlab interface to the faacets library\n=========================================================\n\nThis folder contains an implementation of the faacets library (c.f. http://www.faacets.com ) in *.jar format. \n\n* The 'example' folder contains three example files showing possible usage of this library from matlab.\n* The 'inequalities' folder contains some example of inequalities in yaml format\n* The library is contained in the file Faacets-assembly-*.jar\n\nA description of the operations performed by the library is available at http://www.arxiv.org (in preparation).\n\n", 
-  "description": "Matlab interface to Faacets"
-}

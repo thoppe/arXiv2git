@@ -1,6 +1,0 @@
-{
-  "read_at": 1462543188, 
-  "description": "", 
-  "README.md": "tucker3d (Ver. 0.1)\n===================\n\ntucker3d is Python implementation of the Tucker format in the three-dimensional case.\nThis implemetation includes \n- Basic linear algebra operations\n- New version of the cross approximation method (it allows to construct tucker representation \nof a tensor by using only few of its elements)\n- Element-wise functions (multifun in the cross module)\n- 3D convolutions (cross-conv algorithm, see http://arxiv.org/pdf/1402.5649.pdf for details)\n\nTucker format\n=============\n\nTucker format is a low-parametric representation of multidimensional arrays (tensors).\nThis representaion is based on the idea of separation of variables (so-called tensor format).\n\nIf a Tucker representation of some tensors is given and it has low number of parameters, then basic linear algebra operations are fast to compute.\n\n\nInstallation\n============\n\nFirst, to clone this repository run\n```\ngit clone git://github.com/rakhuba/tucker3d\n```\nThen go to 'maxvol' directory:\n```\ncd tucker3d/core/maxvol\n```\nand run\n```\npython setup.py build_ext --inplace\n```\n", 
-  "id": 17070194
-}

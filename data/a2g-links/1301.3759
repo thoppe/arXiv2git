@@ -1,8 +1,0 @@
-{
-  "project": [
-    "igollini/lvm4net", 
-    "cran/lvm4net", 
-    "igollini/igollini.github.io"
-  ], 
-  "citation": []
-}

@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547848, 
-  "description": "The Declarative Method Embed to Update Object Databases", 
-  "README.txt": "This package contains\n-The article \"A New Communication Theory on Complex Information and a Groundbreaking\nNew Declarative Method to Update Object Databases\" as pdf.\n-The demo implementation of the declarative update method embed.\n-Demo applications to test the embed method.\n\nFor more information, blog:\nhttp://hvirkkun.blogspot.fi/2016/04/a-new-communication-theory-on-complex.html\n\nIn arxiv:\nhttps://arxiv.org/abs/1604.02377\n\nHeikki Virkkunen", 
-  "id": 56336030
-}

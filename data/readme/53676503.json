@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555102, 
-  "description": "", 
-  "README.md": "# tqec geometry generator\n\nSoftware for generating a geometric description corresponding to \na TQEC circuit.\n\nPlease reference http://arxiv.org/abs/1604.08621 if you use the software.\n\nTo use it:\n\n1) make\n\n2) have a look in the visual folder (visual/localscript.sh)\n", 
-  "id": 53676503
-}

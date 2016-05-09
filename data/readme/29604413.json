@@ -1,6 +1,0 @@
-{
-  "id": 29604413, 
-  "read_at": 1462551668, 
-  "README.rst": "Estimating classifier performance with only positive and unlabeled data\n=========================================================================\n\nThis repository contains code accompanying our manuscript about estimating classifier performance with only positive and unlabeled data. \nA possibly outdated version of the manuscript is available at arXiv at http://arxiv.org/abs/1504.06837.\n\nAll logic is implemented in `semisup-metrics.py`. The accompanying notebooks (`performance-curves.ipynb` and `known-pos-vs-known-neg.ipynb`) implement\nthe use cases we reported in the manuscript and can serve as an API reference for the code. To open notebooks, make sure you have IPython\ninstalled and the following command within this project's root directory::\n\n    ipython notebook\n\nTo run all code, you will need the following Python libraries:\n\n- scipy.stats\n- numpy\n- optunity\n- matplotlib\n\nThis code was developed by Marc Claesen while at the STADIUS lab of KU Leuven, Dept. of Electrical Engineering. If this code is useful,\nplease cite the accompanying paper.\n", 
-  "description": "Performance metrics for semi-supervised classification"
-}

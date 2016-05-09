@@ -1,6 +1,0 @@
-{
-  "read_at": 1462547874, 
-  "description": "Adversarial Manipulation of Deep Representations", 
-  "README.md": "# Under Convnet\n\nImplementation of the paper [\"Adversarial Manipulation of Deep\nRepresentations\"](http://arxiv.org/abs/1511.05122).  The code can manipulate\nthe representation of an image in a deep neural network (DNN) to mimic those of\nother natural images, with only minor, imperceptible perturbations to the\noriginal image.\n\n## Dependencies\n\nThis code is written in python. To use it you will need:\n\n* [Caffe](http://caffe.berkeleyvision.org)\n\nIn `utils.py` set `caffe_root` to your installation path.\n\n## Reference\n\nIf you found this code useful, please cite the following paper:\n\n    @article{sabour2015adversarial,\n        title={Adversarial Manipulation of Deep Representations},\n        author={Sabour, Sara and Cao, Yanshuai and Faghri, Fartash and Fleet,\n            David J},\n        journal={arXiv preprint arXiv:1511.05122},\n        year={2015}\n    }\n\n## License\n\n[Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)\n", 
-  "id": 57179875
-}

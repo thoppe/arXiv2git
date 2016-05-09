@@ -1,6 +1,0 @@
-{
-  "read_at": 1462549961, 
-  "description": "Hierarchical encoder-decoder framework for sequences of words, sentences, paragraphs and documents using LSTM and GRU in Theano", 
-  "README.md": "## Hierarchical Encoder-Decoder\n### Features\n- Sequences modelling for words, sentences, paragraphs and documents\n- LSTM and GRU in Theano\n- Attention modelling (plays a role of \"copy\" in encoder-decoder framework)\n\n### References\n- Li, Jiwei, Minh-Thang Luong, and Dan Jurafsky. \"A hierarchical neural autoencoder for paragraphs and documents.\" arXiv preprint arXiv:1506.01057 (2015).\n", 
-  "id": 47376247
-}

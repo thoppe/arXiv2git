@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551442, 
-  "description": "CMB distortion calculation for a WIMP annihilation", 
-  "README.md": "mucalc\n======\n\nCMB distortion calculation for a WIMP annihilation\n\nFor the use of the codes a library named 'data' should be created, in which files from\nComplete fluxes at production, including EW corrections as computed in 1009.0224\nat http://www.marcocirelli.net/PPPC4DMID.html \nshould be extracted.\n\nThe Create_PPPC_pie_plots.py reproduces the pie plots as in Figure 4 at http://arxiv.org/abs/1012.4515\n", 
-  "id": 15306895
-}

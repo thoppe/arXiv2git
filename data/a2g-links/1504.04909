@@ -1,9 +1,0 @@
-{
-  "project": [
-    "sferes2/sferes2", 
-    "sferes2/map_elites", 
-    "wfvining/Meridian", 
-    "OptimusLime/GPU-CPPN"
-  ], 
-  "citation": []
-}

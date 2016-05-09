@@ -1,6 +1,0 @@
-{
-  "README": "Extension to a multiclass problem (iris dataset from UCI: http://archive.ics.uci.edu/ml/datasets/Iris) of the code for the machine learning methods described in: M. B. Blaschko, A Note on k-support Norm Regularized Risk Minimization. arXiv:1303.6390, 2013. http://hal.inria.fr/hal-00804592\n\nAuthors: Matthew Blaschko - matthew.blaschko@inria.fr Copyright (c) 2013\n\t Hakim Sidahmed - hakimsd@gmx.com \nThis program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.\n\nStart with experiments.m - runs each type of loss with a k-support norm regularizer\n\nIf you use this software in your research, please cite:\n\nM. B. Blaschko, A Note on k-support Norm Regularized Risk Minimization. arXiv:1303.6390, 2013.\n\nArgyriou, A., Foygel, R., Srebro, N.: Sparse prediction with the k-support norm. NIPS. pp. 1466-1474 (2012)\n", 
-  "read_at": 1462546996, 
-  "description": "", 
-  "id": 16104358
-}

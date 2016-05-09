@@ -1,6 +1,0 @@
-{
-  "read_at": 1462555287, 
-  "description": "This code computes the entropy of a Markov trajectory conditioned on visiting some intermediate states on the way  before reaching the destination state.", 
-  "README.md": "# Conditional_Markov_Trajecotry_Entropy\nThis code computes the entropy of a markov trajectory conditioned on visiting some intermediate states on the way before reaching the destination state.\n\nThe entropy of the whole markov trajectories of an irreducible, aperiodic, and finite state Markov Chain, were done before based on the following paper:\n\n  The entropy of Markov Trajectories\n  http://www-isl.stanford.edu/~cover/papers/paper101.pdf\n\nThis code implements the algorithm as described by the following paper for computing the entropy of conditional markov trajectories:\n\n  The entropy of conditional Markov trajectories\n  http://arxiv.org/abs/1212.2831\n\n", 
-  "id": 54183929
-}

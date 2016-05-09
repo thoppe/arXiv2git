@@ -1,6 +1,0 @@
-{
-  "read_at": 1462553857, 
-  "description": "Constructs a pagerank vector of the most popular moves in the game of Go.", 
-  "README.md": "Go-AI\n=====\n\nConstructs a pagerank vector of the most popular moves in the game of Go for a given data set of recorded games in sgf format.\n\nFor more information, see \"The Game of Go as a Complex Network\" by Georgeot and Giraud: http://arxiv.org/abs/1105.2470 .\n", 
-  "id": 27138602
-}

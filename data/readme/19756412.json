@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546742, 
-  "description": null, 
-  "readme.txt": "Code to compute redshift space anisotropic P(k) \n-----------------------------------------------\n\nThe Kaiser term P_kaiser(k,mu) is \n\n(1+f mu^2)^2 P_dd (k)   (Linear)\nP_dd (k) + 2 f mu^2 P_dt (k) + f^2 mu^4 P_tt (Non-linear)\n\nwhere f is the growth rate. The redshift space power spectrum is \n\nP(k,mu) = D_FoG [k mu f sigma_v] P_kaiser(k,mu)\n\nWe asume a \"finger of God\" term \n\nD_FoG[x] = exp(-x^2)\n\nIn addition we include corrections according \n\nhttp://jp.arxiv.org/pdf/1006.0699v1\n\nso that \n\nP(k,mu) = D_FoG [k mu f sigma_v] {P_dd (k) + 2 f mu^2 P_dt (k) + f^2 mu^4 P_tt + A(k,mu,f) + B(k,mu,f)}\n", 
-  "id": 19756412
-}

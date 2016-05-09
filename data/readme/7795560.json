@@ -1,6 +1,0 @@
-{
-  "README": "Implementation of the fully compressed pattern matching (FCPM) algorithm described here http://arxiv.org/abs/1111.3244\n\n\n### Grammar-Files ###\n\nThe first line must contain the index of the nonterminal for the pattern and the string, seperated by a semicolon. Each followed by the right site of the production. The nonterminals are numbered consecutively, beginning by 0.\n\n\n### Repair ###\n\nA modified version of the repair algorithm (http://www.dcc.uchile.cl/~gnavarro/software/index.html) produces a console output of the form: nonterminal -> right side. These can also be used, note that before loading such a file it need to be transformed. Only two nonterminals are allowed on the right side.", 
-  "read_at": 1462551313, 
-  "description": "fully compressed pattern matching", 
-  "id": 7795560
-}

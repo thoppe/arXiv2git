@@ -1,6 +1,0 @@
-{
-  "read_at": 1462551772, 
-  "description": "Public repository for my final year project for Integrated Computer Science in Trinity College Dublin", 
-  "README.md": "Final Year Project\n=====\n\nMy final year project for the Computer Science course in Trinity College Dublin.\n\nThe project is assessing the performance of 3 machine learning algorithms for topic-modelling and text clustering.\n\nThe algorithms being investigated are:\n* LDA (latent Dirichlet allocation)\n* KNN (K-Nearest Neighbours)\n* Word2Vec\n\nTo preprocess the the pdf files run the \"src/scripts/process_pdfs.sh\" script on the the corpus to convert to plain text. The \"src/scripts/sort_corpus.sh\" script can then be used to sort the files into directories based on their arXiv topics and genrate a log file of their distributions.\n\nRun the \"src/run_algorithm.py\" python script to generate the models. Run the src/run_similarity.py python script to query the models.\n", 
-  "id": 29965080
-}

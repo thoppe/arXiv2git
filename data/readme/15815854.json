@@ -1,6 +1,0 @@
-{
-  "read_at": 1462546981, 
-  "description": "The magic behind the @FakeArXiv bot", 
-  "README.md": "This code generates *nearly* believable titles for scientific papers based on\na smoothed trigram model of all of the titles ever published on\n[arxiv.org](http://arxiv.org).\n\nUsage\n-----\n\nFirst download and unzip the [text file containing the list of\ntitles](http://bbq.dfm.io/~dfm/data/titles.txt.gz). Then run:\n\n```\npython ngram.py --build\n```\n\nAfter this first run, you only have to run\n\n```\npython ngram.py\n```\n\nand it will use the cached N-gram dictionary.\n\nIf you want to post to Twitter, register an app on the developer site (making\nsure that it has write access) and save a file called `local.cfg` with the\nformat:\n\n```\n[twitter]\nconsumer_key: ...\nconsumer_secret: ...\nuser_key: ...\nuser_secret: ...\n```\n\nreplacing the `...` with the obvious things. Then call\n\n```\npython ngram.py --tweet\n```\n\n\nLicence\n-------\n\nLicensed under the MIT license.\n\nCopyright 2014 Dan Foreman-Mackey\n", 
-  "id": 15815854
-}

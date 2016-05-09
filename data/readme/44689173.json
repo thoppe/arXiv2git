@@ -1,6 +1,0 @@
-{
-  "read_at": 1462556438, 
-  "description": "example of quantile instrumental variables estimation using ABC of GMM", 
-  "README.md": "# QuantileIV.jl\nQuantile instrumental variables estimation using ABC of GMM\n\nThis repository contains code for the quantile instrumental variables example in \"Bayesian Indirect Inference\nand the ABC of GMM\" by Creel, Gao, Hong and Kristensen http://arxiv.org/abs/1512.07385 The MPI.jl, Distances.jl and Distributions.jl packages are used.\n\n\nFor replication:\n\n1. run \"mpirun -np 21 julia TuneBandwidthFromPrior.jl\" to generate\nthe squared errors corresponding to different bandwidths, using draws\nfrom the prior\n2. run \"octave-cli --eval Analyze\" to analyze those results, and \ncompute the optimal bandwidths\n3. do the same thing with the \"CI\" versions of both programs, to get\nbandwidths for confidence intervals.\n4. run \"mpirun -np 21 julia QIVMC.jl\" to get the results, having selected\nthe bandwidthss by editing the program\n", 
-  "id": 44689173
-}
