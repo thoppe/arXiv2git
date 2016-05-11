@@ -52,6 +52,9 @@ Sorted by github `stars`...
 - [ ] Notification for arXiv
 - [ ] Feed for discovery
 
+## Talks
+
+[DC Hack and Tell: Round 32: Himalayan four-star grandeur](http://thoppe.github.io/arXiv2git/HnT_pres.html#/)
 
 ## Attributions
   
