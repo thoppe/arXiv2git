@@ -42,7 +42,6 @@
 <section   class="vertical-slide">
 <p>
 <h1><span style="text-transform: lowercase;">ar<span style="text-transform: uppercase;">X</span>iv2git</span></h1></p>
-<br>
 <hr>
 <p>
 <h3><a href="http://thoppe.github.io/">Travis Hoppe</a></h3><a href="https://github.com/thoppe/arXiv2git">https://github.com/thoppe/arXiv2git</a></p>
@@ -50,7 +49,84 @@
 </section><section class="vertical-stack">
 <section   class="vertical-slide">
 <p>
-in progress...</p>
+<h3>What is the</h3></p>
+<figure>
+    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ArXiv_web.svg/2000px-ArXiv_web.svg.png">
+    <img class="transparent_image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ArXiv_web.svg/2000px-ArXiv_web.svg.png" height="200px">
+    </a>
+    
+    </figure>
+<br>
+<p>
+pre-print server for physicists, mathematicians, computer scientists<br>over <em>1 million</em> papers, 100 million paper downloads / year<br>full of seminal papers and 100% free worldwide, rapid-publication<br>butt-ugly and little/no meta information and linking</p>
+</section><section   class="vertical-slide">
+<p>
+<h3>What is <a href="https://github.com">github</a>?</h3></p>
+<figure>
+    <a href="https://cdn.tutsplus.com/net/uploads/2013/08/github-collab-retina-preview.gif">
+    <img class="" src="https://cdn.tutsplus.com/net/uploads/2013/08/github-collab-retina-preview.gif" height="200px">
+    </a>
+    
+    </figure>
+<br>
+<p>
+Open source storage for 35 million projects and millions of users.<br><em>de-facto</em> standard for publishing code.</p>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h2>Problem?</h2></p>
+<ul><li>paper is published to the arXiv</li>
+<li>code is pushed to github</li>
+<li>new researcher can't find code from paper?</li>
+<li>...</li>
+<li>opposite of profit</li></ul>
+<br>
+<br>
+<figure>
+    <a href="figures/anger.gif">
+    <img class="transparent_image" src="figures/anger.gif" width="500px">
+    </a>
+    
+    </figure>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+enter<h1><span style="text-transform: lowercase;">ar<span style="text-transform: uppercase;">X</span>iv2git</span></h1>links arXiv papers to github repositories!<br><a href="https://github.com/thoppe/arXiv2git">https://github.com/thoppe/arXiv2git</a></p>
+<br>
+<p>
+<div class="fragment">It's a chrome extension!<br><a href="https://chrome.google.com/webstore/detail/arxiv2git/gfhbipbocjiapodeflmklgnnnndplnpp">https://chrome.google.com/webstore/detail/arxiv2git/</a></p>
+<figure>
+    <a href="figures/screen.png">
+    <img class="" src="figures/screen.png" >
+    </a>
+    
+    </figure>
+<p>
+</div></p>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h3>Live demo goes <a href="http://arxiv.org/abs/1512.03385">here</a> ...</h3></p>
+<figure>
+    <a href="figures/example_screen.png">
+    <img class="" src="figures/example_screen.png" >
+    </a>
+    <figcaption>Screenshot since live demos always fail</figcaption>
+    </figure>
+</section>
+</section><section class="vertical-stack">
+<section   class="vertical-slide">
+<p>
+<h2>How does it work?</h2></p>
+<br>
+<p>
+Static scrape of github search API<br>Download/clone all results with <code>arXiv</code> in README<br>Parse out potential links and references<br>Build a static json for each arXiv paper</p>
+<br>
+<p>
+Build chrome extension locally (surprisingly easy!)<br>Pay $5 and register extension on chrome store<br>Have app pull saved json from github<br>Inject results into any arXiv page that matches</p>
 </section>
 </section><section class="vertical-stack">
 <section   class="vertical-slide">
