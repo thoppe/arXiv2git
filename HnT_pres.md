@@ -45,10 +45,6 @@ It's a chrome extension!
 [https://chrome.google.com/webstore/detail/arxiv2git/](https://chrome.google.com/webstore/detail/arxiv2git/gfhbipbocjiapodeflmklgnnnndplnpp)
 !(figures/screen.png) 
 
-====
-### Live demo goes [here](http://arxiv.org/abs/1512.03385) ...
-!(figures/example_screen.png) Screenshot since live demos always fail
-
 =====
 
 ## How does it work?
@@ -62,6 +58,10 @@ Build chrome extension locally (surprisingly easy!)
 Pay $5 and register extension on chrome store
 Have app pull saved json from github
 Inject results into any arXiv page that matches
+
+====
+### Live demo goes [here](http://arxiv.org/abs/1512.03385) ...
+!(figures/example_screen.png) Screenshot since live demos always fail
 
 ====
   
